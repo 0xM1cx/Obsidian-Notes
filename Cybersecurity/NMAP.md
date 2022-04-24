@@ -1,2 +1,6 @@
 ### NMAP
-Also known as <u>Network Mapper</u> 
+Also known as <u>Network Mapper</u>. When a computer runs a network service, it opens a networking construct called a *port* to receive the connection. Ports are necessary for making multiple network requests or having multiple services available. For example, when you load several webpages at once in a web browser, the program must have some way of determining which tab is loading which web page. This is done by establishing connections to the remote webservers using different ports on your local machine. Equally, if you want a server to be able to run more than one service (for example, perhaps you want your webserver to run both HTTP and HTTPS versions of the site), then you need some way to direct the traffic to the appropriate service. Once again, ports are the solution to this. Network connections are made between two ports – an open port listening on the server and a randomly selected port on your own computer. For example, when you connect to a web page, your computer may open port 49534 to connect to the server’s port 443.
+![[Pasted image 20220423172528.png]]
+The basic theory of how nmap works is that it will connect to each port of the target in turn. Depending on how the ports responds, it can be determined as being *open*, *closed*, *filtered(usually by a firewall)*.
+
+## Nmap Switches
