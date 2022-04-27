@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/NMAP.md",
+            "file": "Cybersecurity/Memory Forensics.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2f6a8f85bc3b070a",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/NMAP.md",
+                "file": "Cybersecurity/Memory Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +99,7 @@
   },
   "active": "e8f00b5a967606ce",
   "lastOpenFiles": [
+    "Cybersecurity/Memory Forensics.md",
     "Cybersecurity/NMAP.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Web Development/Cascading Stylesheet.md",
@@ -106,7 +108,6 @@
     "Programming/Inheritance.md",
     "Programming/Decorators.md",
     "Programming/Set Mutations.md",
-    "Programming/Bash.md",
-    "Cybersecurity/Bash.md"
+    "Programming/Bash.md"
   ]
 }
