@@ -4,3 +4,12 @@ Also known as <u>Network Mapper</u>. When a computer runs a network service, it 
 The basic theory of how nmap works is that it will connect to each port of the target in turn. Depending on how the ports responds, it can be determined as being *open*, *closed*, *filtered(usually by a firewall)*.
 
 ## Nmap Switches
+**-A**  to enable OS and verion detection, script scanning and traceroute. 
+**-T4** for faster execution; and then hostname.
+
+### Target Specification
+When a hostname is given as a target, it is _resolved_ via the Domain Name System (DNS) to determine the IP address to scan. If the name resolves to more than one IP address, only the first one will be scanned. To make Nmap scan all the resolved addresses instead of only the first one, use the `--resolve-all` option.
+
+**`iL <inputfilename>`** -> Read targets specification from `<inputfilename>` passing a huge list of hosts is often awkward on the command line, yet it is a common desire.
+**`iR <num hosts>`** -> (Choose random targets). For internet-wide surveys and other research, you may want to choose targets at random. The argumet `0` can be specified for a never-ending scan. *If you find yourself really bored one rainy afternoon, try command `nmap -Pn -sS -p 80 -iR 0 --open` to locate random web servers from browsing*
+**`exclude <host1>[, <host2>[,...]]`** -> (Exclude host/networkds). Specifies a comma-separated list of target to be excluded fromthe scan even if they are part of the overall network range you specify.
