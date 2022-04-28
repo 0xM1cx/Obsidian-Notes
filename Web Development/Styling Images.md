@@ -24,3 +24,14 @@ Example is the ff code, which sets the margin at top and the left and right to a
 ```
 margin 0 auto;
 ```
+## Background Images
+The `background-image` property is used to add a background image to any HTML element.
+
+We can use an image for background by providing the file path within the `url()` function as value, for the `background-image` property. By default, the background image is placed at the *top-left most corner* of the element and repeated both horizontally and vertically. *syntax: `background-image: url("path-to-image")`*
+
+## Filter propterty
+CSS allows us to add *visual effects* to the images that we use on our webpage. They are similar to filters added as a layer over any image, just like when we add filters in editing a picutre.
+*syntax: `filter: blur(spread in px) | brightness() | contrast() | drop-shadow() | grayscale() | hue-rotate() | invert() | opacity() | saturate() | sepia();`*
+
+## Making Images Responsive
+There are many different ways of making an image responsive, but we will use simple `height` and `width` CSS properties to do it. All we need to do is set the CSS height property with value auto and width property with value *100%*
