@@ -10,6 +10,10 @@
 ## Python Hacker Rank
 - [[Set Mutations]]
 
+## Python HackInScience
+- [Lamda Function](/Programming/Lamda)
+
+
 # Bourne Again Shell
 - [Bash Lesson 1](Programming/Bash Lesson 1)
 
