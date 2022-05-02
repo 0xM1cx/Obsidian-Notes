@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/SQL.md",
+            "file": "Japanese/Japanese Main.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2f6a8f85bc3b070a",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/SQL.md",
+                "file": "Japanese/Japanese Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +98,15 @@
   },
   "active": "e8f00b5a967606ce",
   "lastOpenFiles": [
+    "Japanese/Japanese Main.md",
+    "Untitled.md",
+    "Cybersecurity/Windows File System.md",
+    "Cybersecurity/Social Engineering.md",
     "Programming/SQL.md",
     "Programming/Programming Main.md",
     "Programming/Bash.md",
     "Cybersecurity/1.3 Given a scenario, analyze potential indicators associated with application attacks.md",
     "Programming/Lamda.md",
-    "Programming/Set Mutations.md",
-    "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/1.2 Given a scenario, analyze potential indicators to determine the type of attack 1.md",
-    "Web Development/Hypertext Markup Language.md",
-    "Networking/Static Routing.md"
+    "Programming/Set Mutations.md"
   ]
 }

@@ -1,5 +1,6 @@
 ## Physical vs Logical Drives
 **Disk partitioning or disk slicing** is the creation of one or more regions on secondary storage, so that each region can be managed separately. These regions are called partitions. It is typically the first step of preparing a newly installed disk, before any file system is created.
+
 #### Physical Hard drive components
 - Platters -- A hard disk
 - Spindle -- Spins the platters
@@ -8,6 +9,8 @@
 ![[Pasted image 20220427140018.png]]
 
 ![[Pasted image 20220427140248.png]]
+
+
 #### Logical Structures
 ***Low-level Format***
 - Physically lays down the tracks and sectors on the surface of the hard disks
