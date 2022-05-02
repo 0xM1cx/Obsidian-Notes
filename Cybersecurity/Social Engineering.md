@@ -1,0 +1,160 @@
+# 1.1 Compare and contrast different types of social engineering techniques
+
+-   Social Engineering → is an attack against a user, and typically involves some form of social interaction.
+
+# Phishing
+
+-   is a type of social engineering in which an attacker attempts to obtain sensitive information from users by masquerading as a trusted entity in an e-mail or instant message sent to a large group of often random users.
+
+Most of this attacks use _**Spoofing**_ techniques. Spoofing is the act of disguising a communication from an unknown source as being from a known, trusted source. Spoofing can apply to emails, phone calls, and websites, or can be more technical, such as a computer spoofing an IP address, Address Resolution Protocol (ARP), or Domain Name System (DNS) server.
+
+Some of the techniques used do disguise users are:
+
+-   **Typosquatting**: Typosquatting, also known as URL hijacking, is a form of cybersquatting (sitting on sites under someone else's brand or copyright) that misspell a website address (e.g., "[gooogle.com](http://gooogle.com)" instead of "[google.com](http://google.com)") and, usually hosts an alternative website owned by a hacker imitating the look and feel of the original one.
+-   **Prepending**: It is a type or typosquatting where an attacker attaches something as a prefix to a URL (e.g., "[ggoogle.com](http://ggoogle.com)" instead of "[google.com](http://google.com)").
+-   **Pretexting**: Pretexting is a form of social engineering in which an attacker tries to convince a user to give up valuable information or access to a service or system. The distinguishing feature of this kind of attack is that the scam artists comes up with a story - or pretext - in order to fool the user. An example would be calling up, posing as a fellow student from college, or a fellow admin to a senior executive. The pretext does not have to be true; it only needs to be believable and relevant in convincing the victim to give help. Pretexting uses deception and false motives to manipulate the victim. The main goal of the attacker is to gain the target’s trust and exploit it. A pretext attack can occur in person, by email, over the phone, or virtually any other form of communication.
+
+### Types of Phishing Attacks
+
+-   **Smishing**: A form of phishing when someone tries to trick users into giving them their private information via a text or SMS message. Smishing is an attack using Short Message Service (SMS) on victims’ cell phones. It is a version of phishing via SMS. It begins with an SMS message directing a user to a URL that can serve up a variety of attack vectors, including forms of malware. This attack works primarily due to the use of urgency and intimidation in the message, which might use a warning such as “You are subscribed to XYZ service, which will begin regular billings of $2 a month. Click here to unsubscribe before billing takes place.” When the user clicks the URL, the next phase of the attack can begin.
+-   **Vishing**: Vishing is the phone's version of email phishing and uses automated voice messages to steal confidential information. Vishing attacks use a spoofed caller ID to disguise as a legitimate number.
+-   **Pharming**: Pharming ("farming" + "phishing") is a kind of social engineering cyberattack in which criminals redirect internet users trying to reach a specific website to a different, fake site. Pharming typically works by installing malicious code on either a user's machine or a DNS server, which then misdirects users to fraudulent websites without their knowledge or consent. The first method works on an individual level. It alters the hosts file on a victim's computer, which causes internet traffic from that computer to go to a fake website instead of the desired one. The second works on a broader level by poisoning a DNS server to redirect multiple users to the fake site.
+-   **Spear phishing**: Spear phishing is an email or electronic communications scam targeted towards a specific individual, organization or business. To be effective, attackers perform some previous information gathering on the victim, known as _**Reconnaissance**_. The information can be gathered from open sources like lead generation websites, LinkedIn, Twitter, Facebook or Instagram or, corporate websites. Based on this information, attackers can build a believable pretext using information such as where you work, where you bank, recent financial transactions and family or friends. If the spear phishing attempt targets executives (e.g., CEO or CFO) is called _**whaling**_.
+
+# **Impersonation**
+
+_**Impersonation**_ (pretending to be someone else) is one of the basic social engineering techniques. The classic impersonation attack is for the social engineer to phone into a department, claim they have to adjust something on the user's system remotely, and get the user to reveal their password. For these types of attacks to succeed the approach must be convincing and persuasive. This is linked with the _pretexting_.
+
+The amount and accuracy of the information gathered during _Reconnaissance_ is key to run these types of attacks successfully. Once attackers gain the trust of the victim they proceed to extract information, _**eliciting information**_ without the victim realizing this is happening. Things like email addressed or passwords. Attackers use well-documented psychological techniques to play the victim.
+
+This extraction of information can be used for _**Identity fraud**_. Identity fraud is the use by one person of another person's personal information, without authorization, to commit a crime or to deceive or defraud that other person or a third person. Some examples are:
+
+-   Credit card fraud: Credit card fraud is the unauthorized use of a credit or debit card, or similar payment tool (ACH, EFT, recurring charge, etc.), to fraudulently obtain money or property.
+-   Bank fraud: Bank fraud is the use of potentially illegal means to obtain money, assets, or other property owned or held by a financial institution, or to obtain money from depositors by fraudulently posing as a bank or other financial institution.
+-   Loan fraud: Loan fraud is when your information is used to request a loan or a lease.
+-   Government benefits fraud: Government benefits fraud is when attacker obtain benefits on your behalf.
+
+## **Protecting against impersonation**
+
+Some basic precautions can be taking to try to prevent impersonation:
+
+-   Never volunteer information, e.g., passwords.
+-   Do not disclose personal details.
+-   Always verify before revealing information. Call back companies and verify through 3rd parties.
+-   Always encourage verification.
+
+# **Dumpster diving**
+
+Dumpster diving is a technique used to retrieve information that could be used to carry out an attack on a computer network. Dumpster diving is not limited to searching through the trash for obvious treasures like access codes or passwords written down on sticky notes. The main purpose is to collect information that can be used later for different attacks.
+
+There are some simple ways, specially , companies can use to secure their garbage:
+
+-   Secure it with a fence and a lock.
+-   Shred your documents or even burn them.
+-   Check your disposal policies making sure you are disposing properly confidential information. Use external companies if necessary.
+
+# **Shoulder surfing**
+
+Shoulder surfing is a criminal practice where thieves steal your personal data by spying over your shoulder as you use a laptop, ATM, public kiosk or other electronic device in public. Despite the funny name, it is a security risk that can cause a financial wipe out.
+
+Some ways to prevent it are:
+
+-   Be aware of your surroundings when introducing sensitive information.
+-   User privacy filters. Used on a screen, they block the view of the screen unless you are sitting directly in front of it.
+-   Keep your monitors out of sight, away from windows or hallways.
+
+# **Hoax**
+
+A hoax is a falsehood deliberately fabricated to masquerade as the truth. It seems that it could be real, but it does not exit. In the ambit of security, hoaxes are false reports about non-existent threats or situations. It is design, if credible enough, to divert resources and trigger actions, sometimes drastic such as shutting down a network.
+
+Typically, the warning arrives in an email note or is distributed through a note in a company's internal network but, it can arrive through other channels like Facebook or LinkedIn walls or tweets.
+
+Other hoaxes are just design to simply take your money, even, not through electronic means. An example will be the request of gift cards.
+
+Some advice to prevent fall for a hoax are:
+
+-   Do not believe anything on the Internet, contrast and check the information.
+-   Perform cross-references on specialized webs.
+-   Spam filters can help.
+-   In general, common sense. If it sounds too good to be true, double check.
+
+# **Watering hole attack**
+
+A watering hole attack works by identifying a website that's frequented by users within a targeted organization, or even an entire sector, such as defense, government or healthcare. That website is then compromised to enable the distribution of malware.
+
+The attacker identifies weaknesses in the main target's cyber-security, then manipulates the watering hole site to deliver malware that will exploit these weaknesses.
+
+Some basic points to try to prevent this kind of attacks are:
+
+-   Defense-in-depth. A layered defense never based on just one thing.
+-   Firewalls and IPS. To stop traffic before things get bad.
+-   anti-virus / Anti-malware signature updates/
+
+# **Spam**
+
+Spam is digital junk mail: unsolicited communications sent in bulk over the internet or through any electronic messaging system. The most common for is by email but, it can be spam over instant messaging (SPIM), forums or other sources. Spam messages has a wide variety of contents such as commercial advertising, non-commercial proselytizing or phishing attempts. Spam is a significant issue for some different reasons like security concerns, resource utilization, storage and management cost amend other.
+
+There are multiple solutions for preventing spam of getting into users' mailboxes:
+
+-   Mail gateways: A cloud-based or on-site mail gateway can prevent spam of reaching users mailboxes.
+-   Identifying spam: Various mechanisms can be used to classify the received emails.
+    -   Allowed lists: Users can only receive emails from origins that are in a list of trusted senders.
+    -   SMTP standards checking: Block anything that does not follow RFC standards.
+    -   Reverse DNS (rDNS): block emails where the sender's domain does not match the API address.
+    -   Tarpitting: Intentionally slow downs the server conversation.
+    -   Recipient filtering: Black all email not addressed to a valid recipient email address.
+
+# **Influence campaigns**
+
+Influence campaigns try to alter the public opinion in their favor. They can be done for political reasons, to support social issues or, they can cover multiple other cases where to manipulate the public opinion is necessary to achieve a determinate goal. This manipulation can have multiple goals such as divide, distract or persuade. And, unfortunately, multiple actors like nation-states not just attackers use these techniques on their advantage.
+
+## **Social media**
+
+Methods to amplify a message can vary from more traditional ones like advertisement to the use of social media to propagate an information. On social media, a common procedure is the creation of multiple fake profiles that start creating ,posting and sharing content on social media amplifying the message and flooding different platforms with content related to the information actors want to disseminate. Once the information has disseminate enough, real users start sharing the messages giving legitimacy to that content and, even mass media will pick up the story because of the amount of people talking about it.
+
+## **Hybrid warfare**
+
+One of the motivations to execute this attack is knows as _cyberwarfare_, what is to attack an entity using technology. In cyberwarfare, a nation-state actor tries to convince the people of another country of the unfairness of their government or some of its rules and, influence elections using _fake news_. It is not a new concept, countries have been doing it for a long time but, the Internet has brought us new ways of doing it.
+
+# **Other social engineering attacks**
+
+## **Tailgating**
+
+Tailgating (also known as piggybacking) is one of the most widespread security breaches affecting businesses today and often goes undetected. Tailgating can be simply described as the passage of unauthorized personnel, either forced or accidental, behind that of an authorized user. Tailgating not only puts the property, data and occupants of an organization at risk, it can also cost businesses huge losses in revenue from long term damage to their brand and reputation. For service industries such as the leisure industry, where controlled access is required, this can also result in a loss of revenue.
+
+Some methods used are:
+
+-   Bled in using same uniforms or type of clothes.
+-   Simulate to be a 3rd-party with a legitimate reason.
+-   Temporarily take up smoking to follow smokers in their way back.
+-   Bring donuts or food and have the hands full to take advantage of some helpful employee.
+
+Some mitigations can be:
+
+-   To have a visitors policy where everyone is properly identified.
+-   One scan, one person can be achieved by policies or be mechanically required.
+-   Encourage you employees to to ask unknown people who are they and why are they here.
+
+## **Invoice scams**
+
+Invoice scams typically work in one of two ways: through fake invoices with a goal of receiving money or by prompting a victim to put their credentials into a fake login screen. The latter of the two is a bit more simple and follows the typical phishing lure approach.
+
+Invoice fraud involves a fraudster notifying your company that supplier payment details have changed and providing alternative details in order to defraud you. The fraudster could be claiming to be from your company’s genuine supplier, or even be posing as a member of your own firm. Funds are often quickly transferred so recovering money from fraudulent accounts can be extremely difficult.
+
+## **Credential harvesting**
+
+Credential harvesting, account harvesting or password harvesting is the use of MITM attacks, DNS poisoning, phishing, and other vectors to amass large numbers of credentials (username / password combinations) for reuse.
+
+# **Principles of social engineering**
+
+Social engineering is a constantly evolving discipline innovating every day. Methodologies and communication channels are always changing and evolving and, they can vary on size, from just one attacker involved to multiple attackers. In addition, with the growing number of open-source intelligence sources they can be highly elaborated and focus on the target.
+
+Despite all of these, they usually follow the same principles:
+
+-   Authority: Attacker simulate to be in charge or acting on behalf of someone in charge such as a CEO or law enforcement.
+-   Intimidation: Threats ranging from physical violence directly applied to the users themselves or their environment to serious consequences for business.
+-   Consensus: Taking advantage of the expected normality, unwritten social rules or previous scenarios e.g. _John did it last time_.
+-   Scarcity: Given a concrete and not long period of time to act.
+-   Urgency: Closely related to the previous one, trying to prevent users to think properly on the actions and requests.
+-   Familiarity: Trying to achieve certain level of relation talking about common friends or acquaintances.
+-   Trust: Simulating to be a figure of someone that has an implicit trust such as someone from the IT or security departments trying to help.

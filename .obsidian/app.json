@@ -1,5 +1,11 @@
 {
   "legacyEditor": false,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 68
+  }
 }

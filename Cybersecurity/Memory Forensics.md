@@ -11,3 +11,20 @@
 	***DVD*** => Stands for Digital Video Disk. It's similar to CD but can store much more data. It has a capacity of 4.7GB to 28.5GB. This medium can store any kind of digital data and be widely used for software and other computer files as well as video programs.
 
 **Cache Memory** -> is a very high-speed semiconductor memory that can speed up the CPU. It acts as a buffer between the CPU and the Main memory. It is used to hold frequently used data and programs by the CPU. The parts of data and programs are transferred from the disk to cache memory by the OS, from where the CPU can access them.
+
+
+## Physical Organization
+The main board within this type of system, the *motherboard*, provides the connections that enable the components of the system to communicate. These communication channels are typically referred to as *computer busses*. 
+
+---
+The two most  important components on the motherboard are the processor, which executes programs, and the main memory, which temporarily stores the executed programs and their associated data.
+![[Pasted image 20220427222226.png]]
+Reading from main memory is often slower than reading from the CPU’s own memory. As a result, modern systems leverage multiple layers of fast memory, called *caches*. Each cache level(L1, L2, etc.) is relatively slower and larger than its predecessor.
+
+The CPU relies on its *memory management unit (MMU)* to help find where the data is stored. The MMU is the hardware unit that translates the address that the processor requests to its corresponding address in main memory.  
+
+Because a given translation can require multiple memory read operations, the processor uses a special cache, known as the *[translation lookaside buffer (TLB)](https://en.wikipedia.org/wiki/Translation_lookaside_buffer)*, for the MMU translation table. Prior to each memory access, the TLB is consulted before asking the MMU to perform a costly address translation operation.
+
+#### North and Sourthbridge
+The CPU relies on the *memory controller* to manage communication with main memory. The *memory controller* is responsible for mediating potentially concurrent request for system memory from the processors(s) and devices.
+#### Direct Memory Access (DMA)
