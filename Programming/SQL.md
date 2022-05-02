@@ -79,7 +79,7 @@ Here, the SQL command selects all customers from the Customers table with las
 
 ## SQL Operators
 The `WHERE` clause uses operators to construct conditions. Some of the commonly used operators are:
-**1. Equal to Operator (=)**
+**Equal to Operator (=)**
 
 ```sql
 SELECT *
@@ -89,7 +89,7 @@ WHERE first_name = 'John';
 
 This SQL command selects all customers from the Customers table having first_name **Joe**.
 
-**2. Greater than (>)**
+**Greater than (>)**
 
 ```sql
 SELECT *
@@ -99,7 +99,8 @@ WHERE age > 25;
 
 This SQL command selects all customers from the Customers table having age **greater than 25**.
 
-**3. AND Operator (AND)**
+**AND Operator (AND)**
+The SQL `AND` operator selects data if all conditions are `TRUE`
 
 ```sql
 SELECT *
@@ -108,3 +109,84 @@ WHERE last_name = 'Doe' AND country = 'USA';
 ```
 
 This SQL command selects all customers from the Customers table having last_name **Doe** and `country` **USA**.
+
+**OR Operator**
+The SQL `OR` operator selects data if any one condition is `TRUE`. For example,
+``` sql
+SELECT first_name, last_name
+FROM Customers
+WHERE country = 'USA' OR last_name = 'Doe';
+```
+
+**NOT Operator**
+The SQL `NOT` operator selects data if the given condition is `FALSE`. For example:
+```sql 
+SELECT first_name, last_name
+FROM Customers
+WHERE NOT country = 'USA';
+```
+
+---
+### Combning Multiple Operators
+It is also possible to combine multiple `AND`, `OR` and `NOT` operators in an SQL statement. For example,
+
+Let's suppose we want to select customers where the country is either **USA** or **UK**, and the age is **less than 26**.
+```sql
+SELECT *
+FROM Customers
+WHERE (country = 'USA' OR country = 'UK') AND age < 26;
+```
+![[Pasted image 20220502174620.png]]
+
+---
+**SELECT DISTINCT**
+The SQL `SELECT DISTINCT` statement selects unique rows from a database table. For example,
+```sql
+SELECT DISTINCT country
+FROM Customers;
+```
+Here, the SQL command selects unique countries from the Customers table.
+![[Pasted image 20220502174929.png]]
+
+**DISTINCT with COUNT**
+If we need to count the number of unique rows, we can use the `COUNT()` function with `DISTINCT`.
+```sql
+SELECT COUNT(DISTINCT country)
+FROM Customers;
+```
+Here, the SQL command returns the count of unique countries.
+![[Pasted image 20220502175606.png]]
+
+**SELECT AS**
+The `AS` keyword is used to give columns or tables a temporary name that can be used to identify that column or table later. For example:
+```sql
+SELECT first_name AS name
+FROM Customers;
+```
+Here, the SQL command selects the first_name of Customers. However, its column name will be name instead of first_name in the result set.
+![[Pasted image 20220502180320.png]]
+
+We can also use aliases with more than one column. For example
+```sql
+SELECT customer_id AS cid, first_name AS name
+FROM Customers;
+```
+Here, the SQL command selects customer_id as cid and first_name as name.
+
+**AS with Expressions**
+We can combine data from multiple columns and represent data in a single column using the `CONCAT()` function. For example,
+```sql
+SELECT CONTACT(first_name, ' ', last_name) AS full_name
+FROM Customers;
+```
+Here, the SQL command selects first_name and last_name. And, the name of the column will be full_name in the result set.
+![[Pasted image 20220502180756.png]]
+
+**SELECT TOP**
+The `SELECT TOP` command is used to select a fixed number of rows from a database. For example,
+```sql
+SELECT TOP 2 *
+FROM Customers;
+```
+Here, the SQL command selects the first **2** rows from the table.
+![[Pasted image 20220502181124.png]]

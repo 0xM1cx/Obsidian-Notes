@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/Japanese Main.md",
+            "file": "Programming/SQL.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2f6a8f85bc3b070a",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Japanese Main.md",
+                "file": "Programming/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,11 +99,11 @@
   },
   "active": "e8f00b5a967606ce",
   "lastOpenFiles": [
+    "Programming/SQL.md",
     "Japanese/Japanese Main.md",
     "Untitled.md",
     "Cybersecurity/Windows File System.md",
     "Cybersecurity/Social Engineering.md",
-    "Programming/SQL.md",
     "Programming/Programming Main.md",
     "Programming/Bash.md",
     "Cybersecurity/1.3 Given a scenario, analyze potential indicators associated with application attacks.md",
