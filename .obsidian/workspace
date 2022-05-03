@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "I.T. Projects/Basic Network Scanner.md",
+            "file": "Cybersecurity/Digital Forensics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I.T. Projects/Basic Network Scanner.md",
+                "file": "Cybersecurity/Digital Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "e8f00b5a967606ce",
   "lastOpenFiles": [
+    "Cybersecurity/Digital Forensics.md",
+    "Cybersecurity/Cybersecurity Main.md",
     "I.T. Projects/Basic Network Scanner.md",
     "Programming/SQL.md",
     "Japanese/Japanese Main.md",
@@ -105,8 +107,6 @@
     "Cybersecurity/Windows File System.md",
     "Cybersecurity/Social Engineering.md",
     "Programming/Programming Main.md",
-    "Programming/Bash.md",
-    "Cybersecurity/1.3 Given a scenario, analyze potential indicators associated with application attacks.md",
-    "Programming/Lamda.md"
+    "Programming/Bash.md"
   ]
 }
