@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Cybersecurity/Phishing.md",
+=======
+            "file": "Cybersecurity/Digital Forensics.md",
+>>>>>>> decbc3dd059d2303388522045a888bd6cb439ac9
             "mode": "source",
             "source": false
           }
@@ -70,7 +74,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Cybersecurity/Phishing.md",
+=======
+                "file": "Cybersecurity/Digital Forensics.md",
+>>>>>>> decbc3dd059d2303388522045a888bd6cb439ac9
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +107,11 @@
   },
   "active": "e8f00b5a967606ce",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Cybersecurity/Phishing.md",
+=======
+    "Cybersecurity/Digital Forensics.md",
+>>>>>>> decbc3dd059d2303388522045a888bd6cb439ac9
     "Cybersecurity/Cybersecurity Main.md",
     "I.T. Projects/Basic Network Scanner.md",
     "Programming/SQL.md",
