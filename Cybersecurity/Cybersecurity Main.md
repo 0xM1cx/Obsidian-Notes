@@ -8,6 +8,7 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 ## Defensive Security
 - [[ Digital Forensics]]
 - [Phishing Analysis](Cybersecurity/Phishing Analysis)
+- [Security Operation Center](Cybersecurity/SOC)
 ## Offensive Security
 ##### Tools
 + [NMAP](Cybersecurity/NMAP)
