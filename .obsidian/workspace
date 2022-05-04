@@ -1,19 +1,15 @@
 {
   "main": {
-    "id": "fa04c8e0d261fe1f",
+    "id": "1119ee88b2e9504e",
     "type": "split",
     "children": [
       {
-        "id": "e8f00b5a967606ce",
+        "id": "476f9f0e20b7ce7e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Cybersecurity/Phishing.md",
-=======
-            "file": "Cybersecurity/Digital Forensics.md",
->>>>>>> decbc3dd059d2303388522045a888bd6cb439ac9
+            "file": "Web.md",
             "mode": "source",
             "source": false
           }
@@ -23,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "35b8e5166cca77c0",
+    "id": "a53f9c54b70a42e2",
     "type": "split",
     "children": [
       {
-        "id": "5bd63f502d2fece1",
+        "id": "c68c3b35d0575554",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc69558d2e023b8",
+            "id": "1efa740343ad2133",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +35,7 @@
             }
           },
           {
-            "id": "70e905c5fe381e31",
+            "id": "5f85a9605d780f34",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,24 +57,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "2f6a8f85bc3b070a",
+    "id": "04ec6c31f603fba4",
     "type": "split",
     "children": [
       {
-        "id": "4a7bfbe52ca3ceaf",
+        "id": "d809fc401cbf5398",
         "type": "tabs",
         "children": [
           {
-            "id": "33cf54fd68ec625b",
+            "id": "c79338917e94a231",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Cybersecurity/Phishing.md",
-=======
-                "file": "Cybersecurity/Digital Forensics.md",
->>>>>>> decbc3dd059d2303388522045a888bd6cb439ac9
+                "file": "Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,38 +80,18 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "3b1f3d639c58a9bb",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 300,
     "collapsed": true
   },
-  "active": "e8f00b5a967606ce",
+  "active": "476f9f0e20b7ce7e",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Cybersecurity/Phishing.md",
-=======
-    "Cybersecurity/Digital Forensics.md",
->>>>>>> decbc3dd059d2303388522045a888bd6cb439ac9
-    "Cybersecurity/Cybersecurity Main.md",
-    "I.T. Projects/Basic Network Scanner.md",
-    "Programming/SQL.md",
-    "Japanese/Japanese Main.md",
-    "Untitled.md",
-    "Cybersecurity/Windows File System.md",
-    "Cybersecurity/Social Engineering.md",
-    "Programming/Programming Main.md",
-    "Programming/Bash.md"
+    "Web.md",
+    "Web Development/Cascading Stylesheet.md",
+    "Web Development/CSS Display Property.md"
   ]
 }
