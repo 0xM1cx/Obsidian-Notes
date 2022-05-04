@@ -6,8 +6,8 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 [[Comptia Security+]]
 
 ## Defensive Security
-[[ Digital Forensics]]
-
+- [[ Digital Forensics]]
+- [Phishing Analysis](Cybersecurity/Phishing Analysis)
 ## Offensive Security
 ##### Tools
 + [NMAP](Cybersecurity/NMAP)
