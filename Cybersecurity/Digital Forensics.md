@@ -35,5 +35,5 @@
 
 # CTF and Forensics Challenges
 - https://www.amanhardikar.com/mindmaps/ForensicChallenges.html
-- [Memlabs Memory CTFs](https://github.com/stuxnet999/MemLabs)
+- [Memlabs Memory CTFs; see this page to get the instructions about the challenge.](https://github.com/stuxnet999/MemLabs)
 - 
