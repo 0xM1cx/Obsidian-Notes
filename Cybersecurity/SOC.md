@@ -91,7 +91,7 @@ Although SIEM solutions have many features, as SOC analysts we generally only fo
 
 As we mentioned above, alerts are created by data that is passed through filters. The alerts are primarily analyzed by a SOC analyst. This is exactly where a SOC analyst’s duty in the security operations center begins. Fundamentally, he must decide whether this created alert is a real threat or a false alarm.
 
-To better understand, let’s return to the “Monitoring” page, as you see below there are various alerts on the SIEM interface. As a SOC analyst we should analyze the details related to these alerts with the help of other SOC products (such as EDR, Log Management, Threat Intelligence Feed, etc.) and lastly we should determine whether or not they are real threats.
+As a SOC analyst we should analyze the details related to these alerts with the help of other SOC products (such as EDR, Log Management, Threat Intelligence Feed, etc.) and lastly we should determine whether or not they are real threats.
 
 ---
 ## How a SOC Analyst should use his tools
