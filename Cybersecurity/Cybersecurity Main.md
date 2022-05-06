@@ -6,7 +6,7 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 [[Comptia Security+]]
 
 ## Defensive Security
-- [[ Digital Forensics]]
+- [[Digital Forensics & Incident Response]]
 - [Phishing Analysis](Cybersecurity/Phishing Analysis)
 - [Security Operation Center](Cybersecurity/SOC)
 ## Offensive Security
