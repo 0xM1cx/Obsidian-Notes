@@ -2,6 +2,8 @@
 
 
 # Python
+## Python DSA
+- [Data Structures](Programming/Data Structures)
 ## Python Advanced Topics
 - [[Decorators]]
 - [Inheritance](Programming/Inheritance)

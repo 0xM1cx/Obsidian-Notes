@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/SOC.md",
+            "file": "Programming/Data.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/SOC.md",
+                "file": "Programming/Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,8 @@
   },
   "active": "476f9f0e20b7ce7e",
   "lastOpenFiles": [
+    "Programming/Data.md",
+    "Programming/Programming Main.md",
     "Cybersecurity/SOC.md",
     "Web Development/Web.md",
     "Web Development/Cascading Stylesheet.md",
@@ -97,8 +99,6 @@
     "Web Development/Web Development Main.md",
     "Pictures/276968814_486957939793489_4587165748949037255_n.jpg",
     "Cybersecurity/NMAP.md",
-    "Cybersecurity/Phishing.md",
-    "Cybersecurity/Digital Forensics.md",
-    "Networking/Static Routing.md"
+    "Cybersecurity/Phishing.md"
   ]
 }
