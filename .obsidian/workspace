@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Programming/Data.md",
+=======
+            "file": "Cybersecurity/Digital Forensics.md",
+>>>>>>> 3c33ba512635d29d41dac5acdf6ff03f53cb9692
             "mode": "source",
             "source": false
           }
@@ -53,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04ec6c31f603fba4",
@@ -70,7 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Programming/Data.md",
+=======
+                "file": "Cybersecurity/Digital Forensics.md",
+>>>>>>> 3c33ba512635d29d41dac5acdf6ff03f53cb9692
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +97,25 @@
   },
   "active": "476f9f0e20b7ce7e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Programming/Data.md",
     "Programming/Programming Main.md",
+=======
+    "Cybersecurity/Digital Forensics.md",
+    "Cybersecurity/Cybersecurity Main.md",
+    "CTF Writups/CTF Writups Main.md",
+>>>>>>> 3c33ba512635d29d41dac5acdf6ff03f53cb9692
     "Cybersecurity/SOC.md",
     "Web Development/Web.md",
     "Web Development/Cascading Stylesheet.md",
     "Web Development/CSS Display Property.md",
     "Web Development/Web Development Main.md",
     "Pictures/276968814_486957939793489_4587165748949037255_n.jpg",
+<<<<<<< HEAD
     "Cybersecurity/NMAP.md",
     "Cybersecurity/Phishing.md"
+=======
+    "Cybersecurity/NMAP.md"
+>>>>>>> 3c33ba512635d29d41dac5acdf6ff03f53cb9692
   ]
 }
