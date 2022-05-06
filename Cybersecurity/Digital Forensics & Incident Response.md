@@ -3,7 +3,9 @@
 + [[Windows File System]]
 + [Memory Forensics](/Cybersecurity/Memory Forensics)
 
-
+#### General Resource
+This resource is about intro to DFIR, it covers what skills to learn:
+https://sroberts.io/posts/introduction-to-dfir/
 # Tools and Distros
 -  [Oracle VirtualBox](https://www.virtualbox.org/)
 -   [Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)* (Comes with several [DFIR/Malware Analysis tools](https://github.com/fireeye/flare-vm) installed)
