@@ -49,6 +49,7 @@ The four major phases of the incident response process are:
 4.  **Post-Incident Activity**: After successful recovery, a report is produced, and the learned lesson is shared to prevent similar future incidents. ![[Pasted image 20220506165905.png]]
 
 ## Malware Analysis
+*Link for resources/tools by malwareuncorn*: https://malwareunicorn.org/#/resources
 Malware stands for malicious software. _Software_ refers to programs, documents, and files that you can save on a disk or send over the network. Malware includes many types, such as:
 
 -   **Virus** is a piece of code (part of a program) that attaches itself to a program. It is designed to spread from one computer to another; moreover, it works by altering, overwriting, and deleting files once it infects a computer. The result ranges from the computer becoming slow to unusable.
