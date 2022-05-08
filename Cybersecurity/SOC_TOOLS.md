@@ -17,4 +17,4 @@
 - **Brupsuite**[Web] -> Web vulnerability scanner.
 - **Postman**[Web] -> Postman is an application used for **API testing**. It is an HTTP client that tests HTTP requests, utilizing a graphical user interface, through which we obtain different types of responses that need to be subsequently validated.
 - **Curl command**[Web] -> cURL, which stands for client URL, is a command line tool that developers use **to transfer data to and from a server**. At the most fundamental, cURL lets you talk to a server by specifying the location (in the form of a URL) and the data you want to send.
-- **Pwntools**[pwn] -> 
+- **Pwntools**[pwn] -> is a CTF framework and exploit development library. Written in Python, it is designed for rapid prototyping and development, and intended to make exploit writing as simple as possible.
