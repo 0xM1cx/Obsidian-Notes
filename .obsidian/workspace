@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/SOC_TOOLS.md",
+            "file": "Cybersecurity/Phishing.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/SOC_TOOLS.md",
+                "file": "Cybersecurity/Phishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +89,15 @@
   },
   "active": "87512bbd8cde574c",
   "lastOpenFiles": [
-    "Cybersecurity/SOC_TOOLS.md",
+    "Cybersecurity/Phishing.md",
+    "Pasted image 20220507172005.png",
+    "Pasted image 20220507182907.png",
+    "Pasted image 20220507183900.png",
+    "Cybersecurity/Social Engineering.md",
     "Cybersecurity/WF1.md",
     "Cybersecurity/Digital Forensics & Incident Response.md",
-<<<<<<< HEAD
     "CTF Writups/CTF Writups Main.md",
-=======
-    "Cybersecurity/SOC.md",
->>>>>>> d4d8aec7eb6e64d863969a5d08b976c49881d987
     "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/Phishing.md",
-    "Web Development/Web Development Main.md",
-    "Web Development/Web.md",
-    "Cybersecurity/1.3 Given a scenario, analyze potential indicators associated with application attacks.md",
-    "Digital Forensics & Incident Response.md"
+    "Cybersecurity/1.3 Given a scenario, analyze potential indicators associated with application attacks.md"
   ]
 }
