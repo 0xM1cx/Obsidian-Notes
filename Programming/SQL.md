@@ -127,7 +127,7 @@ WHERE NOT country = 'USA';
 ```
 
 ---
-### Combning Multiple Operators
+### Combining Multiple Operators
 It is also possible to combine multiple `AND`, `OR` and `NOT` operators in an SQL statement. For example,
 
 Let's suppose we want to select customers where the country is either **USA** or **UK**, and the age is **less than 26**.
@@ -190,3 +190,7 @@ FROM Customers;
 ```
 Here, the SQL command selects the first **2** rows from the table.
 ![[Pasted image 20220502181124.png]]
+> **Note**: The `TOP` clause is not supported in all Database Management Systems (DBMS). Different DMBS use different keywords to select a fixed number of rows.
+
+For example,
+|
