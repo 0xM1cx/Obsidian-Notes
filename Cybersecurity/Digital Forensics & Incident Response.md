@@ -2,6 +2,7 @@ https://sroberts.io/posts/introduction-to-dfir/https://sroberts.io/posts/introdu
 + [[Basics of Digital Forensics]]
 + [[Windows File System]]
 + [Memory Forensics](/Cybersecurity/Memory Forensics)
++ [Windows Forensics 1](Cybersecurity/WF1)
 
 #### General Resource
 This resource is about intro to DFIR, it covers what skills to learn:

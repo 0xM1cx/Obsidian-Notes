@@ -12,4 +12,5 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 ## Offensive Security
 ##### Tools
 + [NMAP](Cybersecurity/NMAP)
++ [SOC Tool List](Cybersecurity/SOC_TOOLS)
 + 
