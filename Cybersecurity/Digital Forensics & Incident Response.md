@@ -1,4 +1,4 @@
-# Topics
+https://sroberts.io/posts/introduction-to-dfir/https://sroberts.io/posts/introduction-to-dfir/# Topics
 + [[Basics of Digital Forensics]]
 + [[Windows File System]]
 + [Memory Forensics](/Cybersecurity/Memory Forensics)
