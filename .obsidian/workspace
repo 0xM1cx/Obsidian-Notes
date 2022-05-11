@@ -59,7 +59,31 @@
   "right": {
     "id": "ea4f210b9a909057",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "a97dbdccf8b3ad38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df3c501a978e24b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/K&I.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
