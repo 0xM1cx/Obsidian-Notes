@@ -61,11 +61,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a448bc0f4bb41338",
+        "id": "a97dbdccf8b3ad38",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa9ee12e58ce286",
+            "id": "df3c501a978e24b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -91,6 +91,7 @@
   "active": "87512bbd8cde574c",
   "lastOpenFiles": [
     "Cybersecurity/SOC.md",
+<<<<<<< HEAD
     "Cybersecurity/1.3 Given a scenario, analyze potential indicators associated with application attacks.md",
     "Cybersecurity/Phishing.md",
     "Web Development/Web Development Main.md",
@@ -98,5 +99,16 @@
     "Cybersecurity/Digital Forensics & Incident Response.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Digital Forensics & Incident Response.md"
+=======
+    "Programming/C-Intro.md",
+    "Programming/Programming Main.md",
+    "Programming/SQL.md",
+    "Programming/UseCaseDiagram.md",
+    "Cybersecurity/Phishing.md",
+    "Pasted image 20220507172005.png",
+    "Pasted image 20220507182907.png",
+    "Pasted image 20220507183900.png",
+    "Cybersecurity/Social Engineering.md"
+>>>>>>> db5e5c9d494ddc12908926d7c81ed27e7a98d3ce
   ]
 }
