@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/C-Intro.md",
+            "file": "Cybersecurity/SOC.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C-Intro.md",
+                "file": "Cybersecurity/SOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "87512bbd8cde574c",
   "lastOpenFiles": [
+    "Cybersecurity/SOC.md",
     "Programming/C-Intro.md",
     "Programming/Programming Main.md",
     "Programming/SQL.md",
