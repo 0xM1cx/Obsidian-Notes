@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/K&I.md",
+            "file": "Programming/C-Intro.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/K&I.md",
+                "file": "Programming/C-Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
   },
   "active": "87512bbd8cde574c",
   "lastOpenFiles": [
-    "Programming/K&I.md",
+    "Programming/C-Intro.md",
     "Programming/Programming Main.md",
     "Programming/SQL.md",
     "Programming/UseCaseDiagram.md",
@@ -98,7 +98,6 @@
     "Pasted image 20220507172005.png",
     "Pasted image 20220507182907.png",
     "Pasted image 20220507183900.png",
-    "Cybersecurity/Social Engineering.md",
-    "Cybersecurity/WF1.md"
+    "Cybersecurity/Social Engineering.md"
   ]
 }

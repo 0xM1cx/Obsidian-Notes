@@ -25,5 +25,5 @@
 - [SQL](Programming/SQL)
 
 # C
-- [Keywords&Identifiers](Programming/K&I)
+- [C Introduction Lessons](C-Intro.md)
 - 
