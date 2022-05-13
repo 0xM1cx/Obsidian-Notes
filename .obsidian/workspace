@@ -7,8 +7,12 @@
         "id": "9d8ee4c713f10871",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Cybersecurity/DWA.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e25b3231d837e5f7",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cybersecurity/DWA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +89,8 @@
     "collapsed": true
   },
   "active": "9d8ee4c713f10871",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Cybersecurity/DWA.md",
+    "Cybersecurity/Cybersecurity Main.md"
+  ]
 }
