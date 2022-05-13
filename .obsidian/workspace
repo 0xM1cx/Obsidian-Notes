@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "7df86cfe4f36df3f",
+    "id": "ad04df9fec8a8ce2",
     "type": "split",
     "children": [
       {
-        "id": "87512bbd8cde574c",
+        "id": "9d8ee4c713f10871",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cybersecurity/SOC.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a5970df92be4f1a9",
+    "id": "3294d277c4a03049",
     "type": "split",
     "children": [
       {
-        "id": "dfb5cfe4d458d33e",
+        "id": "a5def0f075770cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff40115619cd638",
+            "id": "0ef4509bd8a63e34",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "488f4b5aa5b676c5",
+            "id": "bbed41000132ce82",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,24 +49,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "ea4f210b9a909057",
+    "id": "e25b3231d837e5f7",
     "type": "split",
     "children": [
       {
-        "id": "a97dbdccf8b3ad38",
+        "id": "7dee85dc9817b6e5",
         "type": "tabs",
         "children": [
           {
-            "id": "df3c501a978e24b7",
+            "id": "b13df18d5e06cb28",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/SOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,27 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87512bbd8cde574c",
-  "lastOpenFiles": [
-    "Cybersecurity/SOC.md",
-<<<<<<< HEAD
-    "Cybersecurity/1.3 Given a scenario, analyze potential indicators associated with application attacks.md",
-    "Cybersecurity/Phishing.md",
-    "Web Development/Web Development Main.md",
-    "Web Development/Web.md",
-    "Cybersecurity/Digital Forensics & Incident Response.md",
-    "Cybersecurity/Cybersecurity Main.md",
-    "Digital Forensics & Incident Response.md"
-=======
-    "Programming/C-Intro.md",
-    "Programming/Programming Main.md",
-    "Programming/SQL.md",
-    "Programming/UseCaseDiagram.md",
-    "Cybersecurity/Phishing.md",
-    "Pasted image 20220507172005.png",
-    "Pasted image 20220507182907.png",
-    "Pasted image 20220507183900.png",
-    "Cybersecurity/Social Engineering.md"
->>>>>>> db5e5c9d494ddc12908926d7c81ed27e7a98d3ce
-  ]
+  "active": "9d8ee4c713f10871",
+  "lastOpenFiles": []
 }
