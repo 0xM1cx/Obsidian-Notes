@@ -120,3 +120,83 @@ A user is generally expected to enter his/her username and password on the login
 > SELECT * FROM users WHERE username = '**USERNAME**’ AND password = '**USER_PASSWORD**'
 
 The meaning of this SQL query is “bring me all the information about the user from the users table whose name is **USERNAME** and whose password is **USER_PASSWORD**”. If the web application does find a matching user, it will authenticate the user, if it cannot find a user after the query is performed then the login will be unsuccessful.
+
+#### How Attackers Leverage with SQL Injection Attacks
+In order to understand why SQL Injection Attacks are so critically important, let's take a look at what a SQL injection attack can cause.
+- Authentication bypass
+- Command Execution
+- Exfiltrating sensitive data
+- Creating/deleting/updating database entries
+
+
+#### How to Prevent SQL Injections
+-   **Use a framework:** of course just using a framework will not be sufficient to prevent a SQL Injection attack. It is of utmost importance to use the framework in accordance with documentation.
+-   **Keep your framework up to date:** Keep your web application secure by following security updates related to the framework you use.
+  
+-   **Always sanitize data received from a user:** Never trust data received from a user. On top of that do not only sanitize the form data but also do the same with other data (such as Headers, URLs, etc.)
+-   **Avoid using raw SQL queries:** You may have a habit of writing raw SQL queries but you should opt to make use of the benefits a framework provides and you should also make use of the security it provides.
+
+#### Detecting SQL Injection Attacks
+We have discussed what attackers can do with a SQL Injection attack in the previous section. Each of the results of a SQL Injection stated above could cause great loss for an institution so as SOC Analysts we should be able to detect these attacks and be able to take precautions against them.
+
+So, how can we detect SQL Injection attacks?
+There is more than one answer to this question. These are: 
+-   **When examining a web request check all areas that come from the user:** Because SQL Injection attacks are not limited to the form areas, you should also check the HTTP Request Headers like User-Agent.
+  
+-   **Look for SQL keywords:** Look for words like INSERT, SELECT, WHERE within the data received from users.
+  
+-   **Check for special characters:** Look for apostrophes (‘), dashes (-), or parentheses which are used in SQL or special characters that are frequently used in SQL attacks within the data received from the user.
+-   **Familiarize yourself with frequently used SQL Injection payloads:** Even though SQL payloads change according to the web application, attackers still use some common payloads to check for SQL Injection vulnerabilities. If you are familiar with these payloads, you can easily detect SQL Injection payloads. You can see some frequently used SQL Injection payloads [here](https://github.com/payloadbox/sql-injection-payload-list).
+
+#### **Detecting Automated SQL Injection Tools**
+
+Attackers use many automated devices to detect SQL Injection vulnerabilities. One of the most well known is Sqlmap. Let’s look at the wider picture instead of focusing on a specific tool.
+
+You may use the methods listed below to detect SQL Injection devices:
+1.  **Look at the User-Agent:** Automated browser devices generally have their names and versions recorded. You can look at the User-Agent to detect these automated devices.
+2. **Check the frequency of requests:** Automated devices were designed to send an estimated amount of many requests per second to be able to test payloads as quickly as possible. A normal user could send 1 request per second, so you can tell if the requests are made by an automated device or not by looking at the number of requests per second.
+3. **Look at the contents of the payload:** Automated devices usually record their own names in their payloads. For example a SQL Injection payload sent by an automated device could look like this:  **sqlmap’ OR 1=1**
+4. **Is the payload complicated:** This detection method may not always work but based on my experience, I could say that automated devices send more complicated payloads.
+
+#### **Detection Example**
+We have access logs of a web application that was victim to a SQL Injection attack. 
+
+You may not have heard what an access log is before. In short, these are the web server’s access logs. These logs usually contain the source IP address, date, requested URL, HTTP method, user-agent and HTTP Response code. These logs are very useful in investigations.
+![[Pasted image 20220513203136.png]]
+(SQL Injection Access Logs)
+
+We have an access log in hand. Now what do we do?
+
+Firstly, when we look at the pages that were requested we see that besides pages like “info.php” which is fairly readable, there are also requests made for pages that are complex and have symbols like %. We cannot say that requests for pages like these are malicious but the fact that they are made repetitively and many times is suspicious.
+
+First of all, let’s talk about what the % symbols mean. When we request a page that contains special characters, these requests are not directly transferred to the web server. Instead, our browsers perform a URL encoding (Percent Encoding) of the special characters and replaces each special character with a character string that begins with % and has 2 hexadecimal characters in it. So the pages containing the % symbol above are pages that contain special characters.
+![[Pasted image 20220513210154.png]]
+Now that we understand what the % symbols mean, let’s revisit the access logs. When we look at the requests, we can easily see that besides the % symbols there are readable words such as “UNION”, “SELECT”, “AND”, “CHR”.  Because these are specific words that belong to SQL, we can determine that we are face to face with a SQL Injection attack.
+
+To save our eyes, let’s make the examination a little easier. You can conduct a search using the keywords “Online URL Decoder” to find web applications that will automatically do the URL decoding for you. In order to read these access logs easier I will get help from these web applications, by doing so I won’t have to strain my eyes or yours.
+
+Let me add a little note. It is not wise to upload something like an access logs which contain critical information on a 3rd party web application. The access logs I uploaded were prepared specifically for this training so there is no problem in my doing so. But you shouldn’t make such mistakes in your professional life.![[Pasted image 20220513210205.png]]
+When we do the URL decoding we can more clearly see that this is a SQL Injection attack. So what should we do now? Yes, we have confirmed that it is a SQL Injection attack but do we leave it there?
+
+Of course not. Now we are going to find any other pieces of information that we can from these access logs.
+![[Pasted image 20220513210215.png]]
+First, let’s look at the request dates. All the SQL Injection payloads were sent on “19/Feb/2022 11:09:24”. We can see that more than 50 requests were made in 1 second. The fact that so many requests were made in such a short time shows us that this is an automatized attack. Additionally, as we have mentioned before, when attackers perform manual tests they choose to test easy payloads first. But when we look at the access logs we see that the payloads are very complicated. This goes to show that the attack may very well be automated.
+
+We have confirmed that a SQL Injection attack has been performed and that it has been performed with an automated device. So we can end our analysis, right?
+
+There is one more step left to do. We need to determine whether the attack was successful or not. You can determine whether a SQL Injection attack has been successful by looking at the response but in your professional career you will almost never have access to the response. We can presume that all responses will be about the same size because the attack is performed on the same page and over the “id” variable. We can estimate the success of the attack by looking at the size of the response.
+
+Unfortunately, the basic web server that was developed to serve as an example cannot supply a reliable response size. Therefore, we cannot estimate if the attack has been successful looking at this example. But with web servers that have been configured correctly, we can find the response size within the access logs. You can examine this area to determine whether there is a notable difference in response sizes. If there is a notable difference you can estimate that the attack has been successful. But in this situation it would be best to escalate this alert to a higher-tier analyst.
+
+What we know:
+
+  
+2.  There has been a SQL Injection attack performed on the “id” parameter on the web application’s main page.
+  
+4.  The requests came from the IP address: 192.168.31.174.
+  
+6.  Because there have been 50+ requests per second, this attack has been performed by an automated vulnerability scanning tool.
+  
+8.  The complex nature of the payloads supports the claim in # 3.
+  
+10.  We cannot determine whether the response was successful or not because we do not have any information about the response size.
