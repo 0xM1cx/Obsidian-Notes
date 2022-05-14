@@ -155,7 +155,7 @@ Attackers use many automated devices to detect SQL Injection vulnerabilities. On
 You may use the methods listed below to detect SQL Injection devices:
 1.  **Look at the User-Agent:** Automated browser devices generally have their names and versions recorded. You can look at the User-Agent to detect these automated devices.
 2. **Check the frequency of requests:** Automated devices were designed to send an estimated amount of many requests per second to be able to test payloads as quickly as possible. A normal user could send 1 request per second, so you can tell if the requests are made by an automated device or not by looking at the number of requests per second.
-3. **Look at the contents of the payload:** Automated devices usually record their own names in their payloads. For example a SQL Injection payload sent by an automated device could look like this:  **sqlmap’ OR 1=1**
+3. **Look at the contents of the payload:** Automated devices usually record their own names in their payloads. For  example a SQL Injection payload sent by an automated device could look like this:  **sqlmap’ OR 1=1**
 4. **Is the payload complicated:** This detection method may not always work but based on my experience, I could say that automated devices send more complicated payloads.
 
 #### **Detection Example**
