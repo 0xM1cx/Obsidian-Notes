@@ -188,15 +188,9 @@ There is one more step left to do. We need to determine whether the attack was s
 
 Unfortunately, the basic web server that was developed to serve as an example cannot supply a reliable response size. Therefore, we cannot estimate if the attack has been successful looking at this example. But with web servers that have been configured correctly, we can find the response size within the access logs. You can examine this area to determine whether there is a notable difference in response sizes. If there is a notable difference you can estimate that the attack has been successful. But in this situation it would be best to escalate this alert to a higher-tier analyst.
 
-What we know:
-
-  
-2.  There has been a SQL Injection attack performed on the “id” parameter on the web application’s main page.
-  
-4.  The requests came from the IP address: 192.168.31.174.
-  
-6.  Because there have been 50+ requests per second, this attack has been performed by an automated vulnerability scanning tool.
-  
-8.  The complex nature of the payloads supports the claim in # 3.
-  
-10.  We cannot determine whether the response was successful or not because we do not have any information about the response size.
+**What we know:** 
+1.  There has been a SQL Injection attack performed on the “id” parameter on the web application’s main page.
+2. The requests came from the IP address: 192.168.31.174.
+3. Because there have been 50+ requests per second, this attack has been performed by an automated vulnerability scanning tool.
+4. The complex nature of the payloads supports the claim in # 3.
+5. We cannot determine whether the response was successful or not because we do not have any information about the response size.
