@@ -4,7 +4,7 @@ https://sroberts.io/posts/introduction-to-dfir/https://sroberts.io/posts/introdu
 + [Memory Forensics](/Cybersecurity/Memory Forensics)
 + [Windows Forensics 1](Cybersecurity/WF1)
 + [Working with Virtual Hard Disk](Cybersecurity/Working with VHD)
-+ 
++ [Introduction to Evidence Acquisition](Cybersecurity/Intro_To_EvidenceAcquisition)
 
 #### General Resource
 This resource is about intro to DFIR, it covers what skills to learn:
