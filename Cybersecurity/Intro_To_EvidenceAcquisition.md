@@ -32,3 +32,10 @@ The evidence acquisition must be based on the volatility of the evidence data, t
 The first row of evidence types can only be captured in case the investigated machine was running. However, in some cases, a part of the memory (PageFile) may be found on the hard disk. Many applications store files as temporary, which holds valuable evidence for investigation.
 
 Throughout the upcoming courses, you will learn and practice several concepts, methods, and tools for forensic acquisition. When you capture digital evidence, the evidence is saved in a form of a forensic image. So what is a forensic image?
+
+### Copy or Image
+During a forensic investigation, we cannot perform tasks directly on the original evidence, since it will be considered contaminated. If I cannot work on the original evidence, should I copy or clone the drive or should I capture an image? What is the difference between these three concepts?
+
+First, **copying** a piece of evidence provides the actual data of a particular file. Therefore, you just copy the data without any extra information, such as the file’s metadata. Due to the importance of metadata and other information on the drive, digital forensic investigators capture an image of the drive. 
+**Imaging** an evidence drive allows capturing the entire drive ***bit-by-bit***, including actual files, data in slack space, swap files, and unallocated space(which may contain deleted files).
+The term **cloning** is used in the place of imaging, and both create a replica of your drive. If you clone the drive, all files will be copied along with the Master Boot Record(MBR) and all other files needed for booting.
