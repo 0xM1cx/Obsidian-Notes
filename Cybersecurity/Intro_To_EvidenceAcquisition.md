@@ -51,3 +51,12 @@ Another thing to keep in mind is Contiguity, which considers a backup plan in ca
 2. Use two different tools for image acquisition.
 
 ### Chain of Custody
+The chain of custody is a series of documents that describes the evidence. It is used to keep track of evidence and ensure its integrity through forensic investigation. The contents in the chain of custody document will differ according to the law enforcement agency. However, some information is necessary, such as time and location of collection, details of collected evidence, and the reason it was collected.
+![[Pasted image 20220516211123.png]]
+
+Some chain of custody documents may contain the information of several evidence items. In such a document, the quantity and description of the item may be added.
+![[Pasted image 20220516211244.png]]
+
+The chain of custody document should be filled accurately with information about who is responsible for securing the digital evidence in every step during the investigation. Also, photos can be attached to this document to show the evidence state at the collection time. This is very important in case of acquiring a powered-on machine, which has running applications on its screen. You can also include a photo of the disk label.
+![[Pasted image 20220516211411.png]]
+
