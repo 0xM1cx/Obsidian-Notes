@@ -60,3 +60,5 @@ Some chain of custody documents may contain the information of several evidence 
 The chain of custody document should be filled accurately with information about who is responsible for securing the digital evidence in every step during the investigation. Also, photos can be attached to this document to show the evidence state at the collection time. This is very important in case of acquiring a powered-on machine, which has running applications on its screen. You can also include a photo of the disk label.
 ![[Pasted image 20220516211411.png]]
 
+### Write-Blocker
+The **write blocker** is a hardware device or software application that enables read-only access to digital evidence. Write blocker ensures dataintegrity, since it ensures that no data is modified or added to the evidence drive. Windows mounts connected devices automatically, modifying files’ metadata, hence, it is essential to use a write-blocker. Both hardware and software blockers serve the same purpose.
