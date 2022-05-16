@@ -44,4 +44,10 @@ The term **cloning** is used in the place of imaging, and both create a replica 
 
 This means that you can insert the drive into another machine and boot the machine from this drive. However, imaging beats cloning in performance, since drive imaging creates compressed replicas of your drive, it provides more flexibility.
 
-Frequently, forensic images are compressed to save space and maybe fragmented into several files that make it more manageable.
+Frequently, forensic images are compressed to save space and maybe fragmented into several files that make it more manageable. Uncompressing a compressed image or recombining a fragmented image will generate the replica of the source. Besides, a cloned disk presents problems associated with guaranteeing the forensic integrity of the evidence on the destination drive. Except if it is mounted read-only, hence, is not commonly used as an imaging technique.
+
+Another thing to keep in mind is Contiguity, which considers a backup plan in case your acquisition plan cannot be applied or an issue occurs during the acquisition. To ensure Contiguity, follow these guidelines:
+1. Create two copies/images from the evidence drive, hence, in case one got corrupted the second one can be used for further analysis.
+2. Use two different tools for image acquisition.
+
+### Chain of Custody
