@@ -37,5 +37,11 @@ Throughout the upcoming courses, you will learn and practice several concepts, m
 During a forensic investigation, we cannot perform tasks directly on the original evidence, since it will be considered contaminated. If I cannot work on the original evidence, should I copy or clone the drive or should I capture an image? What is the difference between these three concepts?
 
 First, **copying** a piece of evidence provides the actual data of a particular file. Therefore, you just copy the data without any extra information, such as the file’s metadata. Due to the importance of metadata and other information on the drive, digital forensic investigators capture an image of the drive. 
+
 **Imaging** an evidence drive allows capturing the entire drive ***bit-by-bit***, including actual files, data in slack space, swap files, and unallocated space(which may contain deleted files).
-The term **cloning** is used in the place of imaging, and both create a replica of your drive. If you clone the drive, all files will be copied along with the Master Boot Record(MBR) and all other files needed for booting.
+
+The term **cloning** is used in the place of imaging, and both create a replica of your drive. If you clone the drive, all files will be copied along with the Master Boot Record(MBR) and all other files needed for booting. Cloning is creating a one-to-one copy of the drive, thus, if a drive fails, you can just replace it with a cloned drive.
+
+This means that you can insert the drive into another machine and boot the machine from this drive. However, imaging beats cloning in performance, since drive imaging creates compressed replicas of your drive, it provides more flexibility.
+
+Frequently, forensic images are compressed to save space and maybe fragmented into several files that make it more manageable.
