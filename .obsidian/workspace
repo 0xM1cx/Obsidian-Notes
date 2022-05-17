@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Intro_To_EvidenceAcquisition.md",
+            "file": "Cybersecurity/Phishing.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Intro_To_EvidenceAcquisition.md",
+                "file": "Cybersecurity/Phishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
+    "Cybersecurity/Phishing.md",
     "Cybersecurity/Intro_To_EvidenceAcquisition.md",
     "Cybersecurity/Digital Forensics & Incident Response.md",
     "Cybersecurity/Cybersecurity Main.md",
@@ -98,7 +99,6 @@
     "Cybersecurity/DWA.md",
     "Cybersecurity/Memory Forensics.md",
     "Programming/C-FlowControl.md",
-    "Programming/Programming Main.md",
-    "Programming/C-Intro.md"
+    "Programming/Programming Main.md"
   ]
 }
