@@ -249,8 +249,15 @@ Attackers can do the following with an XSS attack:
 -   **Keep your framework up to date:** Frameworks are developed by humans so they too may contain XSS vulnerabilities. But these kinds of vulnerabilities are usually patched by security updates. So you should make sure that you have completed your framework’s security updates.
 
 ### Detecting XSS Attacks
--   **Look for keywords:** The easiest way to catch XSS attacks is to look for keywords such as “alert” and “script” which are commonly used in XSS payloads.
+-   **Look for keywords:** The easiest way to catch XSS attacks is to look for keywords such as “***alert***” and “***script***” which are commonly used in XSS payloads.
   
 -   **Familiarize yourself with frequently used XSS payloads:** Attackers primarily use the same payloads to look for vulnerabilities before they exploit a XSS vulnerability. This is why familiarizing yourself with frequently used XSS payloads would make it easier for you to detect XSS vulnerabilities. You can examine some frequently used payloads [here](https://github.com/payloadbox/xss-payload-list). 
   
 -   **Check if any special characters have been used:** Check data coming from a user to see if any special characters that are frequently used in XSS payloads like greater than (>) or lesser than (<) are present.
+
+### Example of a Detection
+In this example, we see access logs from an Apache server with Wordpress.
+![[Pasted image 20220517210210.png]]
+
+Firstly, let’s take a general look at the requests that have been made and try to understand them. We see that all the requests have been made for the “/blog/” page and that only the “s” parameter values have been changed. If you pay attention to the URLs of the web pages you visit, you would have noticed that when you perform a search in Wordpress, the words you enter are sent using the “?s=” parameter. The example we are looking at shows us that these are searches performed in Wordpress.
+
