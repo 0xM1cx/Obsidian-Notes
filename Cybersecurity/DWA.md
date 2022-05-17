@@ -194,3 +194,63 @@ Unfortunately, the basic web server that was developed to serve as an example ca
 3. Because there have been 50+ requests per second, this attack has been performed by an automated vulnerability scanning tool.
 4. The complex nature of the payloads supports the claim in # 3.
 5. We cannot determine whether the response was successful or not because we do not have any information about the response size.
+
+## What is Cross Site Scripting (XSS)?
+**Cross Site Scripting (XSS)**, is a type of injection based web security vulnerability that is included in legitimate web applications and enables malicious code to be run.
+
+Today most frameworks that are used to develop web applications have taken preventative measures against cross-site scripting attacks.  But we still frequently see XSS vulnerabilities today because frameworks are sometimes not used, or the framework itself has an XSS vulnerability and the data coming from the user is not sanitized.
+
+### XSS Types
+1.  **Reflected XSS (Non-Persistent)**: It is a non-persistent XSS type that the XSS payload must contain in the request. It is the most common type of XSS.
+2.  **Stored XSS (Persistent)**: It is a type of XSS where the attacker can permanently upload the XSS payload to the web application. Compared to other types, the most dangerous type of XSS is Stored XSS.
+3. **DOM Based XSS**: DOM Based XSS is an XSS attack wherein the attack payload is executed as a result of modifying the DOM “environment” in the victim’s browser used by the original client side script, so that the client side code runs in an “unexpected” manner. (OWASP)
+
+### How XSS Works?
+Just like other web attack methods, XSS is a security vulnerability that happens due to the lack of data sanitation. XSS vulnerability occurs when the data received from the user is sent in the reponse without sanitizing. 
+**Example**
+![[Pasted image 20220517204609.png]]
+Let’s look at the piece of code above. What it does is actually very basic. It merely displays whatever is entered in the ‘user’ parameter. If we enter “LetsDefend” as the ‘user’ parameter, we will see the words “Hello LetsDefend”.
+
+![[Pasted image 20220517204650.png]]
+
+Up till now, there is no problem. If we enter the appropriate data in the user parameter, we are greeted with a warm salutation. But, as we have seen above, there is no control mechanism for the user parameter. This means that whatever we enter in the “user” parameter will be included in the HTTP Response that we receive back.
+
+So,what would happen if we didn’t enter a normal value but instead we entered a payload that would summon a pop-up?
+
+Payload: 
+```html
+<script>alert(1)</script>
+```
+
+Because whatever we enter in the “user” parameter is directly included in the HTTP Response, the javascript code we wrote worked and a pop-up window appeared on the screen.
+
+So, this is exactly how XSS works. Because the value entered by the user is not confirmed attacker may enter whatever javascript code he likes and get the result he wants. What if the attacker wants to redirect the user to a malicious site?
+
+Payload: 
+```html
+<script>window.location=’https://google.com’</script>
+```
+
+### How Attackers Leverage with XSS Attacks
+Because XSS is a client-based attack method, it may seem less important than other attack methods but XSS attacks and their impact should not be taken for granted.
+
+Attackers can do the following with an XSS attack:
+-   Steal a user’s session information
+-   Initiate processes that a user can     
+-   Capture credentials
+
+### How to Prevent a XSS Vulnerability
+-   **Sanitize data coming from a user:** Never trust data coming from a user. If user data needs to be processed and saved, it should be encoded with html encoding using special characters and only then should it be saved.
+  
+-   **Use a framework:** Most frameworks come with preventive measures against XSS attacks.
+  
+-   **Use the framework correctly:** Almost all frameworks used to develop web applications come with a sanitation feature but if this is not used properly there still is a chance for XSS vulnerabilities to occur. 
+  
+-   **Keep your framework up to date:** Frameworks are developed by humans so they too may contain XSS vulnerabilities. But these kinds of vulnerabilities are usually patched by security updates. So you should make sure that you have completed your framework’s security updates.
+
+### Detecting XSS Attacks
+-   **Look for keywords:** The easiest way to catch XSS attacks is to look for keywords such as “alert” and “script” which are commonly used in XSS payloads.
+  
+-   **Familiarize yourself with frequently used XSS payloads:** Attackers primarily use the same payloads to look for vulnerabilities before they exploit a XSS vulnerability. This is why familiarizing yourself with frequently used XSS payloads would make it easier for you to detect XSS vulnerabilities. You can examine some frequently used payloads [here](https://github.com/payloadbox/xss-payload-list). 
+  
+-   **Check if any special characters have been used:** Check data coming from a user to see if any special characters that are frequently used in XSS payloads like greater than (>) or lesser than (<) are present.
