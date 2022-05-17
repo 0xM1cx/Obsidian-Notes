@@ -261,3 +261,24 @@ In this example, we see access logs from an Apache server with Wordpress.
 
 Firstly, let’s take a general look at the requests that have been made and try to understand them. We see that all the requests have been made for the “/blog/” page and that only the “s” parameter values have been changed. If you pay attention to the URLs of the web pages you visit, you would have noticed that when you perform a search in Wordpress, the words you enter are sent using the “?s=” parameter. The example we are looking at shows us that these are searches performed in Wordpress.
 
+It is hard to find easily readable examples. Instead, we find characters that have transformed into %XX as a result of URL encoding. We will perform URL decoding next but first let’s take a look at the URLs and try to see if we can recognize any words.
+
+When we look at the logs, we notice javascript related words such as “script”, “prompt”, and “console.log”. When we see javascript it immediately brings XSS to mind. If we do a URL decoding we will easily be able to understand the requests that are made.
+![[Pasted image 20220517215201.png]]
+
+When we take another look at the access logs after performing a URL decoding we clearly see the XSS payloads. We can definitely say that the Wordpress application which we got these access logs from has become the victim of a XSS attack.
+
+When we look at the requested IP addresses, we see there are more than one. Are more than one attackers trying to perform a XSS attack simultaneously? Or is the attacker constantly changing his IP address to avoid being blocked by security products such as firewalls and IPS? If you check the IP address you will see that it belongs to Cloudflare. Because the Wordpress application has been put behind Cloudflare, it is quite normal that Cloudflare is making the request.
+
+![[Pasted image 20220517215840.png]]
+
+When we examine the dates of the requests, we find that there was a request made every 3-4 seconds. It is not really possible for a human to try to enter this many XSS payloads in such a short time but you may not be able to be sure that the number of requests made per second is excessive. We are lucky because we have the User-Agent information in this example. If we examine this information we see that it belongs to a urllib library. This shows us that these requests were made through an automated vulnerability scanner tool.
+
+#### So was the attack successful?
+We cannot say anything definite because we don’t have access to the responses.
+
+As a result of our examinations:
+1.  It is determined that the attack targeted the web application where the access logs came from.
+2. After looking at the amount of requests and the User-Agent information we determined that the attack was performed by an automated vulnerability scanner.
+3. Because the application is behind Cloudflare the source IP addresses were not found.
+4. We do not know whether the attack was successful or not.
