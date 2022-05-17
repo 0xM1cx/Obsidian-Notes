@@ -282,3 +282,84 @@ As a result of our examinations:
 2. After looking at the amount of requests and the User-Agent information we determined that the attack was performed by an automated vulnerability scanner.
 3. Because the application is behind Cloudflare the source IP addresses were not found.
 4. We do not know whether the attack was successful or not.
+
+## What are Command Injection Attacks?
+Command Injection Attacks are attacks that happen when the data received from a user is not sanitized and is directly transmitted to the operating system shell.
+
+Attackers exploit command injection vulnerabilities to directly execute commands on the operating system. The fact that the attacker’s priority is to take control of the system makes these vulnerabilities more critical than other vulnerabilities.
+
+Because the command that the attacker sends will be using the rights of the web application user, a misconfigured web application would grant the attacker access with admin rights.
+
+### How Command Injection Works?
+Command injection vulnerabilities happen when the data received from the user is not sanitized. Let’s examine command injection vulnerabilities with an example. 
+
+Let's say we have a basic web application that copies the user's file in the "/tmp" folder. The web application's code is below.
+![[Pasted image 20220518065856.png]]
+
+Under normal conditions the application will work normally if used accurately. For example if we load a file named “letsdefend.txt” it will successfully copy the file to the “/tmp” folder.
+
+So, what will happen if we upload a file named "letsdefend;ls;txt"? The command would become:
+
+Command: `cp letsdefend;ls;txt`
+";" signifies that the command has ended. So when we look at the payload above, there are threee different commands that the OS executes. These are:
+1. cp letsdefend
+2. ls
+3. .txt
+
+The first command is for the copying process but if the parameters are not entered correctly it will not work correctly.
+
+Command #2 is the directory listing command the attacker wants to execute. The user does not receive the command output so the attacker cannot see the files in the directory but the operating system successfully executes the command.
+
+When the operating system wants to execute command number 3 there will be an error message because there is no “.txt” command.
+
+As you see, the code has been executed in the web server’s operating system. So, what if the attacker uploads a file named ““letsdefend;shutdown;.txt”? The operating system would shut itself down, and the web application will not be able to function.
+
+The attacker can create a reverse shell in the operating system with the help of the accurate payload.
+
+### How Attackets Leverage with Command Injection Attacks
+Attackers can execute commands on an operating system by exploiting command injection vulnerabilities. This means that the web application and all other components on the server are at risk.
+
+### How to Prevent Command Injection
+-   **Always sanitize data received from a user:** Never trust data received from a user. Not even a file name!
+  
+-   **Limit user rights:** Adjust web application user rights to a lower level whenever possible. Hardly any web application requires the user to have admin rights. ***Follow the Principle of Least Privilage**
+  
+-   **Make use of virtualization technologies such as dockers**
+
+### Detecting Command Injection Attacks
+I think we all understand the criticality level of Command Injection Vulnerability very well. If such a critical vulnerability is exploited and gone undetected the company involved may lose a great amount of money and reputation.
+
+So, how can we detect Command Injection Attacks?
+
+There is more than one way. These are:
+-  **When examining a web request look at all the areas:** The command injection vulnerability may be located in various areas depending on the operation of the web application. This is why you should check all areas of the web request.
+  
+-  **Look for keywords related to the terminal language:** Check the data received from the user for keywords that are related to terminal commands such as: dir, ls, cp, cat, type, etc.
+  
+-  **Familiarize yourself with frequently used Command Injection payloads:** When attackers detect a command injection vulnerability they usually create a reverse shell in order to work more easily. This is why knowing frequently used Command Injection payloads will make it easier to detect a command injection attack .
+
+### Detection Example 
+```header
+> GET / HTTP/1.1
+> 
+> Host: yourcompany.com
+> 
+> User-Agent: () { :;}; echo "NS:" $(</etc/passwd)
+> 
+> Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+> 
+> Accept-Encoding: gzip, deflate
+> 
+> Accept-Language: en-US,en;q=0.9
+> 
+> Connection: close
+```
+If we look at the HTTP Request above, we see that the main page of the web application yourcompany[.]com has been requested.
+
+But when we look at the HTTP Request Headers we see a suspicious situation in  the User-Agent header. There is a bash command in the User-Agent header whereas there should be browser/operating system information here.
+
+Actually, this request was captured during the exploitation of a vulnerability named Shellshock. ***Shellshock*** is a security weakness that was published in 2014 and had great effects.
+
+**Shellshock** is a security vulnerability that <u>originates from bash</u> somehow involuntarily executing  Environment Variables. Shellshock is a great example of a command injection attack. 
+
+When the bash command which is located within User-Agent is executed, the “/etc/passwd” file’s contents will be returned to the attacker in the HTTP Response header as “NS”.
