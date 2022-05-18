@@ -282,3 +282,20 @@ As a result of our examinations:
 2. After looking at the amount of requests and the User-Agent information we determined that the attack was performed by an automated vulnerability scanner.
 3. Because the application is behind Cloudflare the source IP addresses were not found.
 4. We do not know whether the attack was successful or not.
+
+## What is Local File Inclusion?
+**Local File Inclusion (LFI)**, is the security vulnerability that occurs when a file is included without sanitizing the data obtained from a user. It differs from the RFI becuase the file that is intended to be included is on the same web server that the web application is hosted on.
+
+Attackers can read sensitive files on the web server, they can see the files that contain passwords that would enabel them to reach the server remotely.
+
+## What is Remote File Inclusion (RFI)?
+**Remote File Inclusion (RFI)**, is the security vulnerability that occurs when a file is included without sanitizing the data obtained from a user. It differs from LFI in that the file that is intended to be included is hosted on a different server.
+
+The attackers host malicious codes on their prepared server and they invite the victim website over the remote server and try to get it to execute.
+
+### How LFI & RFI Works?
+Just like most web application based vulnerabilities, LFI and RFI also have vulnerabilities caused by not sanitizing data received from a user. 
+
+SQL Injection vulnerabilities occur when data received from a user is entered in SQL queries; Command Injection vulnerabilities happen when data received from a user is executed directly in the system shell; IDOR vulnerabilities occur when data received from a user is used to directly access objects. RFI and LFI vulnerabilities are caused by the use of data received from a user directly in the system or to include a file on a remote server.
+
+Why would data received from a user be used to include a file? Web applications have become highly complicated and unfortunately each feature that is developed is used for malicious purposes. The language option found in web applications is used in order to include files based on data received from a user.
