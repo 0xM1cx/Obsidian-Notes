@@ -363,3 +363,79 @@ Actually, this request was captured during the exploitation of a vulnerability n
 **Shellshock** is a security vulnerability that <u>originates from bash</u> somehow involuntarily executing  Environment Variables. Shellshock is a great example of a command injection attack. 
 
 When the bash command which is located within User-Agent is executed, the “/etc/passwd” file’s contents will be returned to the attacker in the HTTP Response header as “NS”.
+
+## Detecting Insecure Direct Object Reference (IDOR) Attacks
+
+### What is IDOR?
+**I**nsecure **D**irect **O**bject **R**eference (IDOR), is a vulnerability caused by the lack of an authorization mechanism or because it is not used properly. It enables a person to access an object that belongs to another.
+
+Among the highest web applications vulnerabilitiy security risks published in the 2021 OWASP, IDOR or "Broken Access Control" taken first place.
+
+### How IDOR works
+IDOR is not a security vulnerability caused by unsanitary conditions like other web application based security vulnerabilities. The attacker manipulates the parameters sent to the web application, gains access to an object that doesn’t belong to himself and is able to read, change or erase the contents.
+**Example**
+Let’s imagine a basic web application. It retrieves the “**id”** variable from the user, then it displays data that belongs to the user who made the request. 
+
+URL: <u>https://letsdefend.io/get_user_information?id=1</u>
+
+When a request is made in our web application, like the one above, it displays the information of the user with an id value of 1.
+
+If I am the user who made the request and my id value is 1 everything will work normally. When I make the request I will see my personal information.
+
+But what happens if we make a request with 2 as the “id” parameter? Or 3?
+
+If the web application is not controlling: “Does the “id” value in the request belong to the person making the request?” then anyone can make this request and see my personal information.This web vulnerability is called **IDOR**.
+
+Attackers can reach objects that do not belong to themselves by changing parameters like the  “id”. What kind of  information they can gain access to may change according to the web application but either way you wouldn’t want anyone to access your personal information, right?
+
+### How Attackers Leverage with IDOR Attacks
+What an attacker can do is limited by the area of an IDOR vulnerability. But the most common areas they are seen are usually pages where a user’s information is received. If an attacker exploits an IDOR vulnerability he could:
+-   Steal personal information
+-   Access unauthorized documents 
+-   Conduct unauthorized processes (For example: deletion, alternation)
+
+### How to Prevent IDOR
+In order to establish a secure environment without an IDOR vulenrability you should always check if the person who made the request has any authority.
+
+On top of this, unnecessary parameters should be removed and only the least amount of parameters should be taken away from the user. If we think about the previous example, we don’t need to get the “id” parameter. Instead of getting the  “id” parameter from user, we can identify the person who made the request using the session information.
+
+### Detecting IDOR Attacks
+IDOR attacks are more difficult to detect than other attacks. Because it does not have certain payloads such as SQL Injections and XSS.
+
+Having the HTTP Reponse at hand would help to identify IDOR attacks. But HTTP Responses are not logged for various reasons anad thus it is harder to identify IDOR attacks.
+
+There are a couple of methods used in identifying IDOR attacks.
+
+**These are**:
+-   **Check all parameters:** an IDOR vulnerability may occur in any parameter. This is why you should not forget to check all parameters.
+  
+-   **Look at the amount of requests made for the same page:** When attackers detect an IDOR vulnerability they also want to access the information related to all other users so they usually perform a brute force attack. This is why you may see many requests made for the same page from one source.
+  
+-   **Try to find a pattern:** Attackers will plan a brute force attack to reach all objects. Because they will perform the attack on successive and foreseeable values like integer values you can try to find a pattern in these requests. For example: if you see requests such as id=1, id=2, id=3, you may suspect something.
+
+### Detection Example
+![[Pasted image 20220518082017.png]]
+
+As in our other examples, let’s start with a general, broad based examination. Because there are no special characters included in the requests that were made we can easily read the logs.
+
+If you have used the Wordpress application before you might know that the “wp-admin/user-edit.php?user_id=” page contains information about registered Wordpress users. It could be seen as normal to be able to access this page, in fact if you have more than one user you may be gaining access with more than one “user_id: parameter. But it is not normal to have this many different “user_id” parameters. 
+
+It looks like we have an IDOR attack on our hands.
+
+When we look at what the source IP was, we see it belongs to Cloudflare. This means that the web application that we received the access log for was using a Cloudflare service. This is why the requests were transmitted to the web application through Cloudflare.
+
+We see 15-16 requests within the short time frame that access logs are recorded and this shows us that the attack is performed with an automated device. If we look at the User-Agent header we can see it says “wfuzz/3.1.0”. Wfuzz is a device that is frequently used by attackers. We did not only determine that this attack was performed by an automated scanner tool, we also determined that it was performed by a tool named Wfuzz.
+
+But we still haven’t answered the most important question. Has the attack been successful? 
+
+Was the attacker able to gain access to the users’ information?
+
+Our job would be easier if we had the HTTP Responses. Because we don’t have the HTTP Responses let’s look at the response size in the Access Logs and make an inference.
+
+Like we mentioned before, the requested page was displaying user information. Information such as the users’ names, last names and usernames’ total size will not be the same. This is why we can ignore requests with a response size of 479 bytes.
+
+If we look at the requests with a response size of 5691 and 5692, we see that the response code will be 302 (redirect). Successful web requests will generally be answered with the response code 200. So we can say that the attack was not successful. But this information alone may not be sufficient to determine the attack as unsuccessful.
+
+There are 10 requests with the response size of 5692 and 4 with the response size of 5691.
+
+Like we stated before, there is a very low possibility for the total of all information like the user’s name, last name, username to be equal. This strengthens the possibility that the attack was not successful.
