@@ -283,7 +283,7 @@ As a result of our examinations:
 3. Because the application is behind Cloudflare the source IP addresses were not found.
 4. We do not know whether the attack was successful or not.
 
-<<<<<<< HEAD
+
 ## What is Local File Inclusion?
 **Local File Inclusion (LFI)**, is the security vulnerability that occurs when a file is included without sanitizing the data obtained from a user. It differs from the RFI becuase the file that is intended to be included is on the same web server that the web application is hosted on.
 
@@ -300,7 +300,7 @@ Just like most web application based vulnerabilities, LFI and RFI also have vuln
 SQL Injection vulnerabilities occur when data received from a user is entered in SQL queries; Command Injection vulnerabilities happen when data received from a user is executed directly in the system shell; IDOR vulnerabilities occur when data received from a user is used to directly access objects. RFI and LFI vulnerabilities are caused by the use of data received from a user directly in the system or to include a file on a remote server.
 
 Why would data received from a user be used to include a file? Web applications have become highly complicated and unfortunately each feature that is developed is used for malicious purposes. The language option found in web applications is used in order to include files based on data received from a user.
-=======
+
 ## What are Command Injection Attacks?
 Command Injection Attacks are attacks that happen when the data received from a user is not sanitized and is directly transmitted to the operating system shell.
 
