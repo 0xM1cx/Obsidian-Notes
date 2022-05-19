@@ -454,6 +454,39 @@ The attackers host malicious codes on their prepared server and they invite the 
 ### How LFI & RFI Works?
 Just like most web application based vulnerabilities, LFI and RFI also have vulnerabilities caused by not sanitizing data received from a user. 
 
-SQL Injection vulnerabilities occur when data received from a user is entered in SQL queries; Command Injection vulnerabilities happen when data received from a user is executed directly in the system shell; IDOR vulnerabilities occur when data received from a user is used to directly access objects. RFI and LFI vulnerabilities are caused by the use of data received from a user directly in the system or to include a file on a remote server.
+ RFI and LFI vulnerabilities are caused by the use of data received from a user directly in the system or to include a file on a remote server.
 
 Why would data received from a user be used to include a file? Web applications have become highly complicated and unfortunately each feature that is developed is used for malicious purposes. The language option found in web applications is used in order to include files based on data received from a user.
+![[Pasted image 20220519214810.png]]
+
+If we examine the piece of code in the image above, we see that the desired website language is selected by using the “language” parameter received from the user. 
+
+In a normal situation the web application will work as planned. For example if “en” is entered as the “language” parameter we will receive the file seen below.
+
+“website/**en**/home.php”
+
+But if an attacker enters the payload seen below into the “language” parameter then unfortunately the web application will display the “/etc/passwd” file to the user.
+
+Payload: **/../../../../../../../../../etc/passwd%00**
+
+“website/**/../../../../../../../../../etc/passwd%00**/home.php
+
+“../” is used to go to the parent directory. Because the attacker does not know what directory the web application is in, he tries hard to reach the “root” directory using “../”. Later, he names the “/etc/passwd” file and enables the inclusion of the file within the web application. “%0” is used to end the string. This way, the remaining “/home.php” string is not read by the web application.
+
+### How Attackes Leverage with RFI and LFI
+- Code execution
+- Sensitive Information disclosure
+- Denial of service
+
+### How to Prevent LFI & RFI
+The most effective way to prevent RFI and LFI attacks is to sanitize any data received from the user before using it. Do not forget that client based controls are easily bypassed. This is why you should always do your controls on both the client-side and the server-side.
+
+### Detecting LFI & RFI Attacks
+We previously mentioned what attackers can accomplish with RFI and LFI attacks. Becuase a company can experience a great deal of loss due to the exploitation of such vulnerabilities we should be able to detect such attacks and take precautions.
+
+**How can we detect and prevent LFI and RFI attacks?**
+- ***When examining a web request from a user, examine all the fields.*** 
+- ***Check for any special characters:*** Within the data is received from users, especially look for notations such as '/', `., `\`.
+- ***Familiarize yourself with files frequently used in LFI attacks***: In an LFI attack the attacker reads the files that are on the server. If you familiarize yourself with the critical file names on the server, you can detect LFI attacks more easily.
+- ***Search for acronyms such as HTTP and HTTPS***: In RFI attacks, the attacker includes the file on his own device and enables the file to execute.
+- In order to inclulde a file, attackers usually set up a small web server on their own device and display the file over an HTTP protocol. This is why you should search for notations such as "http" and "https" to be able to detect RFI attacks more easil. 
