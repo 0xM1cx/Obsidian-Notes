@@ -457,4 +457,11 @@ If we look at the requests with a response size of 5691 and 5692, we see that th
 There are 10 requests with the response size of 5692 and 4 with the response size of 5691.
 
 Like we stated before, there is a very low possibility for the total of all information like the user’s name, last name, username to be equal. This strengthens the possibility that the attack was not successful.
->>>>>>> 7483d85187f78ccdd8796ba39cf8bdbc95df9e40
+
+### What is Local File Inclusion (LFI)?
+**Local File Inclusion (LFI)**, is the security vulnerability that occurs when a file is included without sanitizing the data obtained from a user. It differs from RFI because the file that is intended to be included is on the same web server that the web application is hosted on.
+
+Attackers can read sensitive files on the web server, they can see the files that contain passwords that would enable them to reach the server remotely.
+
+### What is Remote File Inclusion
+Remote File 
