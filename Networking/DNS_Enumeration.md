@@ -47,3 +47,18 @@ A TLD name server manages the information on all domain names that have the same
 
 #### Authoritative Name Server
 Authoritative name servers store DNS record information for domains. These servers are responsible for providing answers to requests from name servers with the IP address and other DNS entries for a web page so the web page can be addressed and accessed by the client. When a recursive resolver receives a TLD name server response, the response refers it to an authoritative name server. The authoritative name server is the last step to get an IP address.
+
+### Other DNS Terms to Know
+- **DNS Zone Transfer**: The process of transferring DNS zone updates from a primary DNS server to a secondary DNS server.
+- **Internal DNS Server**: A DNS server only accessible by internal clients
+- **External DNS Server**: A DNS server accessible by external clients.
+
+## DNS Records
+| **Record Type** | **Description**                                                                                                                                                                                               |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A               | An address record is used to map hostname to an IPv4 address                                                                                                                                                  |
+| AAAA            | A record that maps domains to IPv6 addresses.                                                                                                                                                                 |
+| CNAME           | A canonical name record is an alias of an existing record. Thus allowing multiple DNS records to map to the same IP address.                                                                                  |
+| MX              | A mail exchange record maps a domain anme to an e-mail(or message transfer agent) server for that domain.                                                                                                     |
+| PTR             | A pointer record points to a canonical name. Used commonly for performing reverse DNS lookup.                                                                                                                 |
+| SOA             | A start of authority record provides authoritative information about a DNS zone, such as e-mail contact information for the zone's administrator, the zone's primary name server, and various refresh timers. |
