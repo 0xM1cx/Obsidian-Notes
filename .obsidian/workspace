@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/C-FlowControl.md",
+            "file": "Networking/DNS_Enumeration.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C-FlowControl.md",
+                "file": "Networking/DNS_Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,8 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
+    "Networking/DNS_Enumeration.md",
+    "Pictures/Pasted image 20220520072011.png",
     "Programming/C-FlowControl.md",
     "Programming/Programming Main.md",
     "Cybersecurity/MalwareAnalysis.md",
@@ -97,8 +99,6 @@
     "Cybersecurity/Phishing.md",
     "Pictures/Pasted image 20220513203135.png",
     "Cybersecurity/Digital Forensics & Incident Response.md",
-    "Cybersecurity/Basics of Digital Forensics.md",
-    "Cybersecurity/DWA.md",
-    "Cybersecurity/NMAP.md"
+    "Cybersecurity/Basics of Digital Forensics.md"
   ]
 }
