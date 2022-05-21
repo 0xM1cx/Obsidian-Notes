@@ -11,6 +11,7 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 - [Security Operation Center](Cybersecurity/SOC)
 - [Detecting Web Attacks](Cybersecurity/DWA)
 - [Malware Analysis](Cybersecurity/MalwareAnalysis)
+- [Cyber Threat Intelligence](Cybersecurity/ThreatIntelligence)
 - 
 ## Offensive Security
 ##### Tools

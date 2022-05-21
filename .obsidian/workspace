@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/SOC.md",
+            "file": "Cybersecurity/ThreatIntelligence.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
             "source": false
           }
         }
@@ -60,46 +60,22 @@
   "right": {
     "id": "e25b3231d837e5f7",
     "type": "split",
-    "children": [
-      {
-        "id": "7dee85dc9817b6e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b13df18d5e06cb28",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Cybersecurity/SOC.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
+    "Cybersecurity/ThreatIntelligence.md",
+    "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/SOC.md",
     "Cybersecurity/MalwareAnalysis.md",
     "Networking/DNS_Enumeration.md",
     "Pictures/Pasted image 20220520072011.png",
     "Programming/C-FlowControl.md",
     "Programming/Programming Main.md",
-    "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/Phishing.md",
-    "Pictures/Pasted image 20220513203135.png",
-    "Cybersecurity/Digital Forensics & Incident Response.md"
+    "Pictures/Pasted image 20220513203135.png"
   ]
 }
