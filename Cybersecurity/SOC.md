@@ -219,7 +219,7 @@ If the search you have performed in VirusTotal has been queried before, a result
 If I were an attacker I could search for a clean URL address in VirusTotal and then replace the content with malicious content. This is why we should not just look at the search cache, we should start a new search.
 
 
-## SIEM Continuation
+## SIEM Continuation(Logs)
 ### Log Collection
 First of all, we need data for the SIEM solution to detect threats. That's why the log collection process is one of the most important parts of the SIEM architecture, because without the log SIEM would be useless.
 
@@ -267,3 +267,27 @@ Most SIEM products have their own agent software. 3rd party agents have more cap
 - ArcSight: ArcSight Connectors
 
 These agents are easy to integrate into SIEM and have parsing features.
+
+###### Open Source Agents
+They are generally agents that provide basic needs comfortably. However, it may not be as effective as the agent of the SIEM product itself. (Ease of installation, integration, additional features etc.)
+
+Popular Open Source agents:
+Beats https://www.elastic.co/beats/  
+NXLog https://nxlog.co/
+
+### Agentless
+Agentless log sending process is sometimes preferred as there is no installation and update cost. Usually, logs are sent by connecting to the target with SSH or WMI.
+
+For this method, the username and password of the log server are required, therefore there is a risk of the password being stolen.  
+
+Easier to prepare and manage than the agent method. However, it has limited capabilities and credentials are wrapped in the network.
+
+
+
+### Manual Collection
+Sometimes there are logs that you cannot collect with existing agent software. For example, if you cannot read the logs of a cloud-based application with the agent, you may need to write your own script.
+
+
+
+## Log Aggregation and Parsing
+The first place where the generated logs are sent is the log aggregator. We can edit the logs coming here before sending them to the destination. For example, if we want to get only status codes from a web server logs, we can filter among the incoming logs and send only the desried parts of the target.
