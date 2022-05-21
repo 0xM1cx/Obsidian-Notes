@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Networking/DNS_Enumeration.md",
+            "file": "Cybersecurity/MalwareAnalysis.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/DNS_Enumeration.md",
+                "file": "Cybersecurity/MalwareAnalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,11 +91,11 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
+    "Cybersecurity/MalwareAnalysis.md",
     "Networking/DNS_Enumeration.md",
     "Pictures/Pasted image 20220520072011.png",
     "Programming/C-FlowControl.md",
     "Programming/Programming Main.md",
-    "Cybersecurity/MalwareAnalysis.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/Phishing.md",
     "Pictures/Pasted image 20220513203135.png",
