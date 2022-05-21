@@ -290,4 +290,76 @@ Sometimes there are logs that you cannot collect with existing agent software. F
 
 
 ## Log Aggregation and Parsing
-The first place where the generated logs are sent is the log aggregator. We can edit the logs coming here before sending them to the destination. For example, if we want to get only status codes from a web server logs, we can filter among the incoming logs and send only the desried parts of the target.
+The first place where the generated logs are sent is the **log aggregator**. We can edit the logs coming here before sending them to the destination. For example, if we want to get only status codes from a web server logs, we can filter among the incoming logs and send only the desried parts of the target.
+![[Pasted image 20220521174928.png]]
+
+## Aggregator EPS
+#### What is EPS?
+EPS is an **event per seconds**. The formula is Events/Time period of seconds. For example, if the system receives 1000 logs in 5 seconds, EPS would be 1000/5 = 200.  
+As the EPS value increases, the aggregator and storage area that should be used also increases.
+
+#### Scalling the Aggregator
+More than one aggregator can be added so that the incoming logs do not load the same aggregator each time. And sequential or random selection can be provided.
+
+![[Pasted image 20220521175414.png]]
+
+
+### Log Aggregator Process
+The log coming to the Aggregator is processed and then directed to the target. This process can be parsing, filtering, and enrichment.
+![[Pasted image 20220521175522.png]]
+
+#### Log Modification
+In some cases, you need to edit the incoming log. For example, while the date information of most logs you collect comes in the format dd-mm-yyyy, if it comes from a single source as mm-dd-yyyy, you would want to convert that log. Another example, you may need to convert UTC + 2 incoming time information to UTC + 1.
+
+#### Log Enrichment
+Enrichment can be done to increase the efficiency of the collected logs and to save time.
+Example enrichments:
+- Geolocation
+- DNS
+- Add/Remove
+
+###### Geolocation
+The geolocation of the specified IP address can be found and added to the log. Thus, the person viewing the log saves time. It also allows you to analyze location-based behavior.
+
+###### DNS
+With DNS quiries, the IP address of the domain can be found or the IP address can be found by doing reverse DNS.
+
+
+## Log Storage
+One of the common mistakes made in SIEM structures is to focus on storage size. High-sized storage is important, as well as the speed of accessing this data. For example, let’s say we collect all the logs such as WAF, Firewall, Proxy, etc. and imagine that it takes 15 minutes to make a search in these logs. In a situation where it is so difficult to access data, the studies will not be very productive. For this reason, the speed of data access should also be considered in storage.
+
+When we look at the popular storage technologies in the market (Example: mysql), we see that it is focused on adding, editing, and deleting data. But our focus is on indexing the data, we do not intend to edit the stored log later. Our purpose is to access data as quickly as possible. For this, ***WORM (write once read many)*** based technologies are more suitable to be used in SIEM.
+
+More info about worm once read many: https://en.wikipedia.org/wiki/Write_once_read_many  
+
+
+## Alerting
+We have collected, processed and stored logs up to this point. Now, we need to detect abnormal behavior using the data we have and generate alerts.
+![[Pasted image 20220521181333.png]]
+Timely occurrence of alerts varies depending on our search speed. For a log created today, we want to create a warning immediately instead of generating a alert after 2 days. Therefore, as we mentioned in our previous article, a suitable storage environment should be created.
+
+The alarms we will create for SIEM will usually be suspicious and need to be investigated. This means that the alert must be optimized and not triggered in large numbers (except in exceptional cases).
+
+Here are some ways to create an alert:
+-   By searching stored data
+-   Creating alarms while taking logs
+
+Examples alerts that can be created:
+- New user added to global administrator
+- 15 Login failed in 3 minutes with the same IP address
+
+
+In order to create a quality alert, you must understand the data you have. Some of the techniques for making better log searches are blacklisting, whitelisting and log tail analysis.
+
+ ### Blacklist
+ It can be used to catch undesirable situations. For example, we can collect the prohibited process names (Example: mimikatz.exe) and write them to a list. Then, if a process in this list appears in the logs, we can create an alert. Similarly, an alert can be generated when there is a device that creates and accesses a banned IP list.
+
+It is easy to manage and implement, but very easy to bypass. For example, if the name mimikatz2.exe is used instead of mimikatz.exe, no alert will occur.
+
+### Whitelist
+Unlike blacklist, it is used for desired situations. For example, a list of IP addresses with normal communication can be kept. If communication is made with an address other than this list, we can generate an alert.  
+This method is highly effective but difficult to manage. The list needs to be constantly updated.
+
+### Log Tail Analysis
+This methods assumes that the behavior that occur constantly are normal. In other words, if an "Event ID 4624 An account was successfully logged on" log is constantly occuring on a device, with this method we should take it as normal and approach the least occuring logs with suspicion.
+![[Pasted image 20220521182031.png]]
