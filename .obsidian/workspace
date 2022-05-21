@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/MalwareAnalysis.md",
+            "file": "Cybersecurity/SOC.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/MalwareAnalysis.md",
+                "file": "Cybersecurity/SOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +91,7 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
+    "Cybersecurity/SOC.md",
     "Cybersecurity/MalwareAnalysis.md",
     "Networking/DNS_Enumeration.md",
     "Pictures/Pasted image 20220520072011.png",
@@ -99,7 +100,6 @@
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/Phishing.md",
     "Pictures/Pasted image 20220513203135.png",
-    "Cybersecurity/Digital Forensics & Incident Response.md",
-    "Cybersecurity/Basics of Digital Forensics.md"
+    "Cybersecurity/Digital Forensics & Incident Response.md"
   ]
 }

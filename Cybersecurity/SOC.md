@@ -217,3 +217,53 @@ If the search you have performed in VirusTotal has been queried before, a result
 ![[Pasted image 20220512214004.png]]
 
 If I were an attacker I could search for a clean URL address in VirusTotal and then replace the content with malicious content. This is why we should not just look at the search cache, we should start a new search.
+
+
+## SIEM Continuation
+### Log Collection
+First of all, we need data for the SIEM solution to detect threats. That's why the log collection process is one of the most important parts of the SIEM architecture, because without the log SIEM would be useless.
+
+#### What is log and logging?
+In computing, a log file is a file that records either events that occur in an operating system or other software runs, or messages between different users of a communication software. Logging is the act of keeping a log. In the simplest case, messages are written to a single log file.
+
+It contains a basic log, time, source system and a message. For example, when we look at the content of the "/var/log/auth.log" file on an Ubuntu server, we can see the source, time and message information.
+![[Pasted image 20220521141258.png]]
+
+Our goal at this point is to transfer logs from various places(Hosts, Firewalls, Server logs, Proxy, etc.) to SIEM. Thus we can process all data and detect threats at a central point. Logs are generally collected in the following 2 ways:
+- Log Agents
+- Agentless.
+
+
+### Log Agents
+In order to implement this method, a log agent software is required. Agents often have parsing, log rotation, buffering, log integrity, encryption, conversion features. In other words, this agent software can take action on the logs it collects before forwarding them to the target. 
+
+For example, with the agent software, we can divide a log with "username: LetsDefend; account: Administrator" into 2 parts and forward it as:  
+
+-   message1 = "username: LetsDefend"
+-   message2 = "account: Administrator"
+
+##### Pros of this method
+- It is a tested, and a working application by developers
+- Has many additional features like automatic parsing, enryption, log integrity, etc.
+
+##### Cons of this method
+- Resource consumption increases. More CPU, RAM is needed and increases cost.
+
+
+#### Syslog
+It is a very popular network protocol for log transfers. It can work with both UDP and TCP, and can optionally be encrypted with TLS. Some devices that support syslog: Switch, Router, IDS, Firewall, Linux, Mac, Windows devices can become syslog supported with additional software.  
+
+You can have your log agents transfer logs with Syslog. For this, you must first parse your logs in syslog format.
+
+###### Syslog Format:
+Timestamp - Source Device - Facility - Severity - Message Number - Message Text
+![[Pasted image 20220521142739.png]]
+
+Also, the maximum packet size that can be sent with Syslog **UDP is 1024 bytes**. For **TCP it is 4096**
+
+###### 3rd Party Agents
+Most SIEM products have their own agent software. 3rd party agents have more capabilities than syslog because of the features they support. Some agents:
+- Splunk: universal forwarder
+- ArcSight: ArcSight Connectors
+
+These agents are easy to integrate into SIEM and have parsing features.
