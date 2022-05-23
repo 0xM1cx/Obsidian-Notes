@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/ThreatIntelligence.md",
+            "file": "Cybersecurity/Brupsuite.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,15 +67,15 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
-    "Cybersecurity/ThreatIntelligence.md",
+    "Cybersecurity/Brupsuite.md",
+    "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/Cybersecurity Main.md",
+    "Cybersecurity/ThreatIntelligence.md",
     "Cybersecurity/SOC.md",
     "Cybersecurity/MalwareAnalysis.md",
     "Networking/DNS_Enumeration.md",
     "Pictures/Pasted image 20220520072011.png",
     "Programming/C-FlowControl.md",
-    "Programming/Programming Main.md",
-    "Cybersecurity/Phishing.md",
-    "Pictures/Pasted image 20220513203135.png"
+    "Programming/Programming Main.md"
   ]
 }
