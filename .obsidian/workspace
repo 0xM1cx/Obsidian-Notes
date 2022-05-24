@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Data.md",
+            "file": "Web Development/Javascript.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,15 +67,15 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
+    "Web Development/Javascript.md",
+    "Web Development/Web Development Main.md",
+    "'Web.md",
+    "Web Development/Web.md",
     "Programming/Data.md",
     "Programming/Programming Main.md",
     "Cybersecurity/Brupsuite.md",
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/ThreatIntelligence.md",
-    "Cybersecurity/SOC.md",
-    "Cybersecurity/MalwareAnalysis.md",
-    "Networking/DNS_Enumeration.md",
-    "Pictures/Pasted image 20220520072011.png"
+    "Cybersecurity/ThreatIntelligence.md"
   ]
 }
