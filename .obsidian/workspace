@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Brupsuite.md",
+            "file": "Programming/Data.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,8 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
+    "Programming/Data.md",
+    "Programming/Programming Main.md",
     "Cybersecurity/Brupsuite.md",
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/Cybersecurity Main.md",
@@ -74,8 +76,6 @@
     "Cybersecurity/SOC.md",
     "Cybersecurity/MalwareAnalysis.md",
     "Networking/DNS_Enumeration.md",
-    "Pictures/Pasted image 20220520072011.png",
-    "Programming/C-FlowControl.md",
-    "Programming/Programming Main.md"
+    "Pictures/Pasted image 20220520072011.png"
   ]
 }
