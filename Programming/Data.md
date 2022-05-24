@@ -33,7 +33,47 @@ However, when complexity of the program increases, the linear data structures mi
 
 ##### Popular Data Structures are:
 1. **Arrays** => is a container, which can hold a fix number of items and these items should be of the same type. The elements in this array are arranged in continuous memory. And, the type of elements that can be stored in the form of arrays is determined by the programming language.![[Pasted image 20220524094229.png]]
-2. **Stack** => In this structure, elements are stored in the LIFO principle. The last element stored in the stack will be the first one removed.
+2. **Stack** => In this structure, elements are stored in the LIFO principle. The last element stored in the stack will be the first one removed or the first element stored will be the last removed.
 ![[Pasted image 20220524094218.png]]
-3. **Queue** => This works with FIFO principle, unlike the stack which is LIFO, the first element stored in the queue will be removed first
+3. **Queue** => This works with FIFO principle, unlike the stack which is LIFO, the first element stored in the queue will be removed first.
+![[Pasted image 20220524112000.png]]
+ 4. **Linked List** => In linked list data structures, data elements are connected through a series of nodes. And, each node contains the data items and address to the next node.
+ ![[Pasted image 20220524112705.png]]
+ 
+#### Non Linear Data Structures
+Unlike linear data structures, elements in non-linear data structures are not in any sequence. Instead they are arranged in a hierarchical manner where one element will be connected to one or more elements.
+
+Non-linear data structures are further divided into graph and tree based data structures.
+
+1. **Graph Data Structure** => In this graph each node is called ***vertex*** and each vertex is connected to other vertices through edges.
+![[Pasted image 20220524113724.png]]
+**Popular Graph Based Data structures**
+-   [Spanning Tree and Minimum Spanning Tree](https://www.programiz.com/dsa/spanning-tree-and-minimum-spanning-tree)
+-   [Strongly Connected Components](https://www.programiz.com/dsa/strongly-connected-components)
+-   [Adjacency Matrix](https://www.programiz.com/dsa/graph-adjacency-matrix)
+-   [Adjacency List](https://www.programiz.com/dsa/graph-adjacency-list)
+
+2. **Trees Data Structure** => Similar to graph, a tree is a collection of vertices and edges. However, in tree data structure, there can only be one edge between two vertices. ![[Pasted image 20220524114435.png]]
+**Popular Tree based Data Structure**
+-   [Binary Tree](https://www.programiz.com/dsa/binary-tree)
+-   [Binary Search Tree](https://www.programiz.com/dsa/binary-search-tree)
+-   [AVL Tree](https://www.programiz.com/dsa/avl-tree)
+-   [B-Tree](https://www.programiz.com/dsa/b-tree)
+-   [B+ Tree](https://www.programiz.com/dsa/b-plus-tree)
+-   [Red-Black Tree](https://www.programiz.com/dsa/red-black-tree)
+---
+
+### Linear Vs Non-linear Data Structures
+Now that we know about linear and non-linear data structures, let's see the major differences between them.
+| **Linear Data Structures** | **Non Linear Data Structures** |
+| --- | --- |
+| The data items are arranged in sequential order, one after the other | The data items are arranged in non-sequential order(hierarchical manner). |
+| All the items are present on the single layer | The data items are present at different layers |
+| It can be traversed on a single run. That is, if we started from the first element, we can traverse all the elements sequentially in a single pass. | It requires multiple runs. That is, if we start from the first element it might not be possible to traverse all the elements in a single pass. |
+| The memory utilization is not efficient | Different structures utilize memory in different efficient ways depending on the need. |
+| The time complexity increase with the data size | Time complexity remains the same. |
+| **Example**: Arrays, Stack, Queue | **Example**: Tree, Graph, Map |
+> Knowledge about data structures help you understand the working of each data structure. And, based on that you can select the right data structures for you project.
+> 
+> This helps you write memory and time efficient code.
 
