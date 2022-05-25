@@ -13,3 +13,11 @@ The shadow effect is specified using a combination of **x and y offset** from th
 ***y-offset*** -> It specifies the position of the shadow on the y-axis. If we specify a **positive value** then the position of the shadow will be towards the bottom of the text and if we specify a **negative value** then the shadow will be towards the **top of the text**
 ***blur*** -> It specifies how blurry the shadow should be. The higher the value the more blurry the shadow will be. Its **default** value is 0, which means **no blur**.
 ***color*** -> It specifies the color of the shadow. The **default** color is **black**.
+
+## Multiple Text Shadow
+CSS allows us to add multiple shadow effects on text using the `text-shadow` property. There is nothing tricky in this. We just have to add multiple values to the `text-shadow` property and **separate** each pair of value using a comma.
+
+Syntax:
+```css
+text-shadow: value1, value2;
+```

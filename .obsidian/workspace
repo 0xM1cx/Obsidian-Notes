@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Flowchart.md",
+            "file": "Web Development/Web.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,15 +67,15 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
+    "Web Development/Web.md",
+    "Web Development/Cascading Stylesheet.md",
     "Programming/Flowchart.md",
     "Web Development/Javascript.md",
     "Cybersecurity/Brupsuite.md",
     "Web Development/Web Development Main.md",
     "'Web.md",
-    "Web Development/Web.md",
     "Programming/Data.md",
     "Programming/Programming Main.md",
-    "Cybersecurity/SOC_TOOLS.md",
-    "Cybersecurity/Cybersecurity Main.md"
+    "Cybersecurity/SOC_TOOLS.md"
   ]
 }
