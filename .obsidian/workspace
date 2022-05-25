@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Brupsuite.md",
+            "file": "Web Development/Javascript.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,8 +67,8 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
-    "Cybersecurity/Brupsuite.md",
     "Web Development/Javascript.md",
+    "Cybersecurity/Brupsuite.md",
     "Web Development/Web Development Main.md",
     "'Web.md",
     "Web Development/Web.md",

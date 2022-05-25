@@ -118,3 +118,82 @@ console.log(result); // NaN
 result = Number(NaN);
 console.log(result); // NaN
 ```
+2. To convert other data types to strings, you can use either `String()` or `toString()`. For example,
+```js
+//number to string
+let result;
+result = String(324);
+console.log(result);  // "324"
+
+result = String(2 + 4);
+console.log(result); // "6"
+
+//other data types to string
+result = String(null);
+console.log(result); // "null"
+
+result = String(undefined);
+console.log(result); // "undefined"
+
+result = String(NaN);
+console.log(result); // "NaN"
+
+result = String(true);
+console.log(result); // "true"
+
+result = String(false);
+console.log(result); // "false"
+
+// using toString()
+result = (324).toString();
+console.log(result); // "324"
+
+result = true.toString();
+console.log(result); // "true"
+```
+
+> `String()` takes `null` and `undefined` and converts them to string. However, `toString()` gives error when `null is passed`
+
+3. To convert other data types to a boolean, you can use `Boolean()`
+In Javascript, `undefined`, `null`, `0`, `NaN`, `''` converts to `false`. Example:
+```js
+let result;
+result = Boolean('');
+console.log(result); // false
+
+result = Boolean(0);
+console.log(result); // false
+
+result = Boolean(undefined);
+console.log(result); // false
+
+result = Boolean(null);
+console.log(result); // false
+
+result = Boolean(NaN);
+console.log(result); // false
+
+// Other examples give true.
+result = Boolean(324);
+console.log(result);
+
+result = Boolean('hello');
+console.log(result);
+
+result = Boolean(' ');
+console.log(result);
+```
+### Type Conversion Table
+| **Value** | **String Conversion** | **Number Conversion** | **Boolean Conversion** |
+| --- | --- | --- | --- |
+| 1 | "1" | 1 | true |
+| 0 | "0" | 0 | false |
+| "1" | "1" | 1 | true |
+| "0" | "0" | 0 | true |
+| "ten" | "ten" | NaN | true |
+| true | "true" | 1 | true |
+| false | "false" | 0 | false |
+| null | "null" | 0 | false |
+| undefined | "undefined" | NaN | false |
+| '' | "" | 0 | false |
+| ' ' | " " | 0 | true |

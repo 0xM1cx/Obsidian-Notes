@@ -42,7 +42,7 @@ There are four main ***sub-sections*** of the <u>User options tab</u>:
 -  The options in the **Connections** sub-tab allow us to control how Burp makes connections to targets. For example, we can set a proxy for Burp Suite to connect through; this is very useful if we want to use Burp Suite through a network pivot.
 - The **TLS** sub-tab allows us to enable and disable various TLS (**T**ransport **L**ayer **S**ecurity) options, as well as giving us a place to upload client certificates should a web app require us to use one for connections.
 - An essential set of options: **Display** allows us to change how Burp Suite looks. The options here include things like changing the font and scale, as well as setting the theme for the framework (e.g. dark mode) and configuring various options to do with the rendering engine in Repeater (more on this later!).  
-- The **Misc** sub-tab contains a wide variety of settings, including the keybinding table (HotKeys), which allowing us to view and alter the keyboard shortcuts used by Burp Suite. Familiarising yourself with these settings would be advisable, as using the keybinds can speed up your workflow massively.  
+- The **Misc** sub-tab contains a wide variety of settings, including the keybinding table (HotKeys), which allowing us to view and alter the keyboard shortcuts used by Burp Suite. Familiarizing yourself with these settings would be advisable, as using the keybinds can speed up your workflow massively.  
 
 With these options, we can customize our Burp install to suit our individual preferences.
 
