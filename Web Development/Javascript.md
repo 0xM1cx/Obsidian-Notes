@@ -197,3 +197,10 @@ console.log(result);
 | undefined | "undefined" | NaN | false |
 | '' | "" | 0 | false |
 | ' ' | " " | 0 | true |
+
+## JS Comparison Operator
+![[Pasted image 20220525101128.png]]
+![[Pasted image 20220525101146.png]]
+
+## Logical Operators
+![[Pasted image 20220525101224.png]]
