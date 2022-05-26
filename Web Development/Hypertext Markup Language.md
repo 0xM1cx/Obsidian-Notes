@@ -93,4 +93,4 @@ You can include pictures in your web page using HTML `<img>` tag. This is an emp
 <img src="Path/to/image" />
 ```
 ---
-### Hyperlink Picture
+
