@@ -59,3 +59,17 @@ The five main **sub-tabs** in <u>Projects options</u>
 The Burp Proxy is the most fundamental (and most important!) of the tools available in Burp Suite. It allows us to capture requests and responses between ourselves and our target. These can then be manipulated or sent to other tools for further processing before being allowed to continue to their destination.
 
 For example, if we make a request to `https://tryhackme.com` through the Burp Proxy, our request will be captured and won't be allowed to continue to the TryHackMe servers until we explicitly allow it through. We can choose to do the same with the response from the server, although this isn't active by default. This ability to intercept requests ultimately means that we can take complete control over our web traffic -- an invaluable ability when it comes to testing web applications.
+
+Burp Suite will still (by default) be logging requests made through the proxy when the intercept is off. This can be very useful for going back and analysing prior requests, even if we didn't specifically capture them when they were made.
+
+Burp will also capture and log WebSocket communication, which, again, can be exceedingly helpful when analysing a web app.
+
+The logs can be viewed by going to the "HTTP history" and "WebSockets history" sub-tabs
+![[Pasted image 20220526072953.png]]
+It is worth noting that any requests captures here can be sent to other tools in the framework by right-clicking them and choosing "Send to...". E.g we could take a previous HTTP request that has already been proxied to the target and send it to the **[Repeater](https://tryhackme.com/room/burpsuiterepeater)**
+
+Finally, there are also Proxy specific options, which we can view in the "Options" sub-tab.
+
+These options give us a lot of control over how the proxy operates, so it is an excellent idea to familiarize yourself with these.  
+
+For example, the proxy will not intercept server responses by default unless we explicitly ask it to on a per-request basis. We can override the default setting by selecting the "Intercept responses based on the following rules" checkbox and picking one or more rules. The "`Or` `Request` `Was Intercepted`" rule is good for catching responses to all requests that were intercepted by the proxy:
