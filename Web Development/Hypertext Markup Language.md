@@ -80,6 +80,26 @@ Table of elements and their purpose
 
 #### HTML Lists
 **Ordered List** — This creates an ordered list in html meaning it has numbers or any other hierarchical system like letters. Syntax: `<ol></ol>`.
+There are three attributes for ordered list:
+1. reversed
+2. start
+3. type
+
+Adding **reversed** attribute to the `ol` tag specifies that the list order should be descending.
+```html
+<ol reversed>
+</ol>
+```
+Adding **start** attribute with a value,specifies the start value for an ordered list.
+```html
+<ol start="10">
+</ol>
+```
+Adding **type** attribute specifies the type of marker to use for the list items.
+```html
+<ol type="A">
+<ol>
+```
 
 **Unordered List** — This is the opposite of the ordered list, this list has symbols that denote no order like bullet points, star, etc. Syntax ```<ul></ul>```
 
