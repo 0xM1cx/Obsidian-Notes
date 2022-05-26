@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Development/Hypertext Markup Language.md",
+            "file": "Web Development/Javascript.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,12 +67,12 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
+    "Web Development/Javascript.md",
     "Web Development/Hypertext Markup Language.md",
     "Cybersecurity/Brupsuite.md",
     "Web Development/Web.md",
     "Web Development/Cascading Stylesheet.md",
     "Programming/Flowchart.md",
-    "Web Development/Javascript.md",
     "Web Development/Web Development Main.md",
     "'Web.md",
     "Programming/Data.md",
