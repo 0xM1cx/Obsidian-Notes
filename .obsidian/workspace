@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Brupsuite.md",
+            "file": "Web Development/Hypertext Markup Language.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e25b3231d837e5f7",
@@ -66,6 +67,7 @@
   },
   "active": "9d8ee4c713f10871",
   "lastOpenFiles": [
+    "Web Development/Hypertext Markup Language.md",
     "Cybersecurity/Brupsuite.md",
     "Web Development/Web.md",
     "Web Development/Cascading Stylesheet.md",
@@ -74,7 +76,6 @@
     "Web Development/Web Development Main.md",
     "'Web.md",
     "Programming/Data.md",
-    "Programming/Programming Main.md",
-    "Cybersecurity/SOC_TOOLS.md"
+    "Programming/Programming Main.md"
   ]
 }

@@ -87,4 +87,10 @@ Table of elements and their purpose
 
 **Description List** — This tag represents the description of the list. The description list allows you to create a list of terms and then provide one or more descriptions for each term. Syntax: `<dl></dl>` 
 
-### HTML Table
+## Working with Images
+You can include pictures in your web page using HTML `<img>` tag. This is an empty tag and it has `/` just before the closing angular bracket. E.g. 
+```html
+<img src="Path/to/image" />
+```
+---
+### Hyperlink Picture
