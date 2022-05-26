@@ -222,3 +222,27 @@ What's happening
 	- If the condition is `true`, the block of code inside of the `for`  loop is executed.
 3. The **updateExpression** updates the value of **initialExpression** when the condition is `true`
 4. The **condition** is evaluated again. This process continues until the condition is `false`
+![[Pasted image 20220526203732.png]]
+
+##### Example 1: Display a Text Five Times
+```js
+const n = 5;
+for (let i = 1; i <= n; i++) {
+	console.log("Hello there");
+}
+```
+
+## while and do...while loop
+Syntax for while loop
+```js
+while (condition) {
+	// body of loop
+}
+```
+Here,
+1. A `while` loop evaluates the **condition** inside the parenthesis `()`.
+2. If the **condition** evaluates to `true`, the code inside the `while` loop is executed.
+3. The **condition** is evaluated again.
+4. This process continues until the **condition** is `false`.
+5. When the **condition** evaluates to `false`, the loop stops.
+![[Pasted image 20220526210629.png]]
