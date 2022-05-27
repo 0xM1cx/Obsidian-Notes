@@ -246,3 +246,93 @@ Here,
 4. This process continues until the **condition** is `false`.
 5. When the **condition** evaluates to `false`, the loop stops.
 ![[Pasted image 20220526210629.png]]
+
+Syntax to do...while loop
+```js
+do {
+	// body of loop
+} while(condition)
+```
+Here, 
+1.  The body of the loop is executed at first. Then the **condition** is evaluated.
+2.  If the **condition** evaluates to `true`, the body of the loop inside the `do` statement is executed again.
+3.  The **condition** is evaluated once again.
+4.  If the **condition** evaluates to `true`, the body of the loop inside the `do` statement is executed again.
+5.  This process continues until the **condition** evaluates to `false`. Then the loop stops.
+
+`do...while` loop is similar to the `while` loop. The only difference is that in `do...while` loop, the body of loop is executed at least once.
+
+![[Pasted image 20220527082937.png]]
+
+## Break Statement
+The `break` statement is used to terminate the loop immediately when it is encountered.
+
+The syntax is:
+```js
+// note label is optional and rarely used.
+break [label];
+```
+![[Pasted image 20220527083249.png]]
+
+**Break inside nested loop**
+```js
+// nested for loops
+
+// fist loop
+for (let i = 1; i <= 3; i++){
+
+	// second loop
+	for (let j = 1; j <= 3; j++){
+		if (i == 2) {
+			break;
+		}
+		console.log(`i = ${i}, j = ${j}`);
+	}
+}
+```
+
+In the above program, when `i == 2`, `break` statement executes. It terminates the inner loop and control flow of the program moves to the outer loop.
+
+Hence, the value of i = 2 is never displayed in the output.
+
+## continue statement
+The `continue` statement is used to skip the current iteration of the loop and the control flow of the program goes to the next iteration.
+
+The syntax is:
+```js
+continue;
+```
+
+![[Pasted image 20220527085000.png]]
+
+**Example: Calculate Positive Number**
+```js
+// program to calculate positive numbers only
+// if the user enters a negative number, that number is skipped from calculation
+
+// negative number -> loop terminate
+// non-numeric character -> skip iteration
+
+let sum = 0;
+let number = 0;
+
+while (number >= 0) {
+
+    // add all positive numbers
+    sum += number;
+
+    // take input from the user
+    number = parseInt(prompt('Enter a number: '));
+
+    // continue condition
+    if (isNaN(number)) {
+        console.log('You entered a string.');
+        number = 0; // the value of number is made 0 again
+        continue;
+    }
+
+}
+
+// display the sum
+console.log(`The sum is ${sum}.`);
+```
