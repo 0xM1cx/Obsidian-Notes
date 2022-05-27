@@ -369,7 +369,7 @@ The `switch` statement evaluates a variable/expression inside parentheses `()`.
 - This process goes on. If there is no matching case, the `default` body executes.
 ![[Pasted image 20220527104314.png]]
 
-**Example**
+**Example 1 **
 ```js
 // program using switch statement
 let a = 2;
@@ -387,4 +387,40 @@ switch (a) {
         break;
 }
 console.log(`The value is ${a}`);
+```
+
+**Example 2: Simple Calculator**
+```js
+// program for a simple calculator
+let result;
+
+// take the operator input
+const operator = prompt('Enter operator ( either +, -, * or / ): ');
+
+// take the operand input
+const number1 = parseFloat(prompt('Enter first number: '));
+const number2 = parseFloat(prompt('Enter second number: '));
+
+switch(operator) {
+    case '+':
+        result = number1 + number2;
+        console.log(`${number1} + ${number2} = ${result}`);
+        break;
+    case '-':
+        result = number1 - number2;
+        console.log(`${number1} - ${number2} = ${result}`);
+        break;
+    case '*':
+        result = number1 * number2;
+        console.log(`${number1} * ${number2} = ${result}`);
+        break;
+    case '/':
+        result = number1 / number2;
+        console.log(`${number1} / ${number2} = ${result}`);
+        break;
+
+    default:
+        console.log('Invalid operator');
+        break;
+}
 ```
