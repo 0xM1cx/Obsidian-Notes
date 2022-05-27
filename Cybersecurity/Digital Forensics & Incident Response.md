@@ -1,7 +1,7 @@
 https://sroberts.io/posts/introduction-to-dfir/https://sroberts.io/posts/introduction-to-dfir/# Topics
 + [[Basics of Digital Forensics]]
 + [[Windows File System]]
-+ [Memory Forensics](/Cybersecurity/Memory Forensics)
++ [Memory Forensics](/Cybersecurity/MemoryForensics)
 + [Windows Forensics 1](Cybersecurity/WF1)
 + [Working with Virtual Hard Disk](Cybersecurity/Working with VHD)
 + [Introduction to Evidence Acquisition](Cybersecurity/Intro_To_EvidenceAcquisition)

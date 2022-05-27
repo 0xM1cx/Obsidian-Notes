@@ -19,7 +19,7 @@
 
 
 # Bourne Again Shell
-- [Bash Lesson 1](Programming/Bash Lesson 1)
+- [Bash Lesson 1](Programming/Bash)
 
 # Structured Query Language
 - [SQL](Programming/SQL)

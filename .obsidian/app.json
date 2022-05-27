@@ -1,13 +1,5 @@
 {
   "legacyEditor": false,
-  "alwaysUpdateLinks": true,
-  "promptDelete": false,
-  "pdfExportSettings": {
-    "pageSize": "Legal",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 68
-  },
-  "attachmentFolderPath": "Pictures",
-  "vimMode": true
+  "livePreview": true,
+  "promptDelete": false
 }

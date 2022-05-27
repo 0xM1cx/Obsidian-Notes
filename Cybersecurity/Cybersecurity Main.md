@@ -7,7 +7,7 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 
 ## Defensive Security
 - [[Digital Forensics & Incident Response]]
-- [Phishing Analysis](Cybersecurity/Phishing Analysis)
+- [Phishing Analysis](Cybersecurity/Phishing)
 - [Security Operation Center](Cybersecurity/SOC)
 - [Detecting Web Attacks](Cybersecurity/DWA)
 - [Malware Analysis](Cybersecurity/MalwareAnalysis)
@@ -17,4 +17,5 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 ##### Tools
 + [NMAP](Cybersecurity/NMAP)
 + [SOC Tool List](Cybersecurity/SOC_TOOLS)
++ [BurpSuite](Cybersecurity/Brupsuite)
 + 

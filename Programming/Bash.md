@@ -13,7 +13,7 @@ welcomeMessage="Welcome    Jerry"
 ```
 
 Encapsulating the variable name with `${}` is commonly used rather than the backslash `\` to avoid ambiguity.
-```
+```bash
 User_Name="Morty"
 echo "Welcome ${User_Name}"
 ```
