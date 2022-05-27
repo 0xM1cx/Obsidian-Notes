@@ -8,5 +8,6 @@
     "margin": "0",
     "downscalePercent": 68
   },
-  "attachmentFolderPath": "Pictures"
+  "attachmentFolderPath": "Pictures",
+  "vimMode": true
 }
