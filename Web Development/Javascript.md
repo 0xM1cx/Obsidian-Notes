@@ -336,3 +336,55 @@ while (number >= 0) {
 // display the sum
 console.log(`The sum is ${sum}.`);
 ```
+
+--- 
+## Switch Statements
+The JavaScript `switch` statement is used in decision making.
+
+The `switch` statement evaluates an expression and executes the corresponding body that matches the expression's result.
+
+The syntax of the `swtich` is:
+```js
+switch(variable/expression) {
+    case value1:  
+        // body of case 1
+        break;
+
+    case value2:  
+        // body of case 2
+        break;
+
+    case valueN:
+        // body of case N
+        break;
+
+    default:
+        // body of default
+}
+```
+
+The `switch` statement evaluates a variable/expression inside parentheses `()`.
+- If the result of the expression is equal to `value1`, its body is executed.
+- If the result of the expression is equal to `value2`, its body is executed.
+- This process goes on. If there is no matching case, the `default` body executes.
+![[Pasted image 20220527104314.png]]
+
+**Example**
+```js
+// program using switch statement
+let a = 2;
+
+switch (a) {
+
+    case 1:
+        a = 'one';
+        break;
+    case 2:
+        a = 'two';
+        break;
+    default:
+        a = 'not found';
+        break;
+}
+console.log(`The value is ${a}`);
+```
