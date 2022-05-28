@@ -164,3 +164,4 @@ In the above program, variable
 Hence, in the above program, the first two `console.log()` work without any issue.
 
 However, we are trying to access the block-scoped variable c outside of the block in the third `console.log()`. This will throw an error.
+> **Note:** `var` is function scoped and `let` is block-scoped. If you try to use `var c = 'hello';` inside the `if` statement in the above program, the whole programwords, as `c` is treated as a local variable.
