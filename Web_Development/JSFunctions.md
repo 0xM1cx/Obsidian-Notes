@@ -93,3 +93,74 @@ greet();
 ```
 
 In the above program, variable `a` is declared at the top and is a global variable. It means that this variable can be used anywhere in the program.
+
+> **Note**: It is good practice to avoid using global variables because the value of a global variable can change in different areas in the program. It can introduce unknown results in the program.
+
+---
+In Javascript, a variable can also be used without declaring it. If a variable is used without declaring it, that variable automatically becomes a global variable.
+Example: 
+```js
+function greet() {
+    a = "hello"
+}
+
+greet();
+
+console.log(a); // hello
+```
+
+> **Note:** In JS, there is `"strict mode"`; in which a variable cannot be used without declaring it.
+
+#### Local Scope
+A variable can also have a local scope, it can only be accessed within a function.
+```js
+// program showing local scope of a variable
+let a = "hello";
+
+function greet() {
+    let b = "World"
+    console.log(a + b);
+}
+
+greet();
+console.log(a + b); // error
+```
+In the above program, variable `a` is a global variable and variable `b` is a local variable. The variable `b` can be accessed only inside the function greet. Hence, when we try to access variable `b` outside of the function, <u>an error occurs</u>.
+
+---
+##### let keyword is Blocked Scoped
+The `let` keyword is block-scoped (variable can be accessed only in the immediate block).
+```js
+// program showing block-scoped concept
+// global variable
+let a = 'Hello';
+
+function greet() {
+
+    // local variable
+    let b = 'World';
+
+    console.log(a + ' ' + b);
+
+    if (b == 'World') {
+
+        // block-scoped variable
+        let c = 'hello';
+
+        console.log(a + ' ' + b + ' ' + c);
+    }
+
+    // variable c cannot be accessed here
+    console.log(a + ' ' + b + ' ' + c);
+}
+
+greet();
+```
+In the above program, variable
+-   `a` is a global variable. It can be accessed anywhere in the program.
+-   `b` is a local variable. It can be accessed only inside the function `greet`.
+-   `c` is a block-scoped variable. It can be accessed only inside the `if` statement block.
+
+Hence, in the above program, the first two `console.log()` work without any issue.
+
+However, we are trying to access the block-scoped variable c outside of the block in the third `console.log()`. This will throw an error.
