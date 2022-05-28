@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Brupsuite.md",
+            "file": "Web_Development/JSFunctions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,13 +67,15 @@
   },
   "active": "4760bb19d898691c",
   "lastOpenFiles": [
+    "Web_Development/JSFunctions.md",
+    "Web_Development/Web Development Main.md",
+    "Web_Development/Web.md",
+    "Web_Development/Javascript.md",
+    "Cybersecurity/1.2 Given a scenario, analyze potential indicators to determine the type of attack 1.md",
+    "Cybersecurity/1.3 Given a scenario, analyze potential indicators associated with application attacks.md",
     "Cybersecurity/Brupsuite.md",
     "Programming/Bash.md",
     "Programming/Programming Main.md",
-    "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/Phishing.md",
-    "Cybersecurity/MemoryForensics.md",
-    "Cybersecurity/Digital Forensics & Incident Response.md",
-    "Cybersecurity/Memory.md"
+    "Cybersecurity/Cybersecurity Main.md"
   ]
 }
