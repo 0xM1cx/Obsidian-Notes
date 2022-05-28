@@ -174,3 +174,6 @@ console.log(name); // undefined
 var name; 
 ```
 
+The above program works and the output will be `undefined`. 
+#### Variable Hoisting
+In terms of variables and constants, keywords `var` is hoisted and `let` and `const` does not allow hoisting
