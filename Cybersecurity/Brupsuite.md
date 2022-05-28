@@ -102,3 +102,13 @@ We just chose to disable _logging_ for out of scope traffic, but the proxy will 
 ![[Pasted image 20220528073851.png]]
 
 With this option selected, the proxy will completely ignore anything that isn't in the scope, vastly cleaning up the traffic coming through Burp.
+
+Control of the scope may be the most useful aspect of the Target tab, but it's by no means the _only_ use for this section of Burp.
+
+There are three sub-tabs under _Target_:
+
+-   **Site map** allows us to map out the apps we are targeting in a tree structure. Every page that we visit will show up here, allowing us to automatically generate a site map for the target simply by browsing around the web app. Burp Pro would also allow us to spider the targets automatically (i.e. look through every page for links and use them to map out as much of the site as-is publicly accessible using the links between pages); however, with Burp Community, we can still use this to accumulate data whilst we perform our initial enumeration steps.  
+
+	The Site map can be especially useful if we want to map out an API, as whenever we visit a page, any API endpoints that the page retrieves data from whilst loading will show up here.
+-   **Scope:** We have already seen the Scope sub-tab -- it allows us to control Burp's target scope for the project.
+-   **Issue Definitions:** Whilst we don't have access to the Burp Suite vulnerability scanner in Burp Community, we do still have access to a list of all the vulnerabilities it looks for. The Issue Definitions section gives us a huge list of web vulnerabilities (complete with descriptions and references) which we can draw from should we need citations for a report or help describing a vulnerability.
