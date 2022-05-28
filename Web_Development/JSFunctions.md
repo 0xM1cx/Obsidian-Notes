@@ -70,3 +70,26 @@ console.log(y);
 ```
 
 > **NOTE:** in ES2015, Javascript expressions are written as arrow functions.
+
+## JS Variable Scope
+Scope referes to the availability of variables and functions in certain parts of the code.
+
+In JS, a variable has two types of scope:
+1. Global Scope
+2. Local Scope
+
+---
+#### Global Scope
+A variable declared at the top of a program or outside of a function is considered a global scope variable.
+Example:
+```js
+let a = "hello";
+
+function greet() {
+	console.log(a);
+}
+
+greet();
+```
+
+In the above program, variable `a` is declared at the top and is a global variable. It means that this variable can be used anywhere in the program.
