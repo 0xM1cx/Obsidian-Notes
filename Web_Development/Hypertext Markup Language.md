@@ -106,6 +106,7 @@ Adding **type** attribute specifies the type of marker to use for the list items
 
 **Description List** — This tag represents the description of the list. The description list allows you to create a list of terms and then provide one or more descriptions for each term. Syntax: `<dl></dl>` 
 
+---
 ## Working with Images
 You can include pictures in your web page using HTML `<img>` tag. This is an empty tag and it has `/` just before the closing angular bracket. E.g. 
 ```html
