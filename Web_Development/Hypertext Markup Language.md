@@ -153,3 +153,27 @@ When we create a table with multiple rows and columns of data, we also provide h
 The Head section of the table can be specified using the `<thead>`
 
 Inside the opening and closing `<thead>` tag, we will have a row in which we can add multiple columns, to hold the headings. This row is created using the `<tr>` tag, but the columns inside the row, which will be holding the headings, are created using the `<th>` tag.
+
+###### The `<th>` tag
+`<th>` tag is used to specify the Header cell in a table row, whereas the `<td>` tag is used for standard data cells. The `<th>` tag can be used anywhere inside the table, but it should be used only where you need to provide headings.
+
+### Customizing the Table
+There are many ways in which you can modify the strucutre of your columns as per your requirements. 
+
+Following are two very important attributes that are very useful while creating complex tables.
+1. **colspan**
+2. **rowspan**
+
+##### Colspan
+This attribute allows you to increase the width of a column, making it equal to 2 columns or 3 columns or n columns depending upon the value given to this attribute.
+
+Check out the illustration below for example syntax:
+![[Pasted image 20220531214942.png]]
+
+##### Rowspan
+`rowspan` attribute allows you to increase the height of a column, making it equal to 2 rows or 3 rows or n rows depending upon the value given to this attribute. 
+
+Check out the illustration below for example and syntax:
+![[Pasted image 20220531215106.png]]
+
+Both the attributes, namely `colspan` and `rowspan` can be used with both, the standard data cells created using `<td>` tag and the Header cells created using `<td>` tag.
