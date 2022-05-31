@@ -7,9 +7,12 @@
         "id": "4760bb19d898691c",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pictures/Pasted image 20220531214942.png"
+            "file": "Web_Development/Hypertext Markup Language.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -51,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -63,8 +67,8 @@
   },
   "active": "4760bb19d898691c",
   "lastOpenFiles": [
-    "Pictures/Pasted image 20220531214942.png",
     "Web_Development/Hypertext Markup Language.md",
+    "Pictures/Pasted image 20220531214942.png",
     "Web_Development/JSFunctions.md",
     "Web_Development/Javascript.md",
     "Pictures/Pasted image 20220528073806.png",
