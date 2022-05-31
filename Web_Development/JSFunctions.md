@@ -57,7 +57,7 @@ If nothing is returned, the function returns an `undefined` value.
 - Function increases readability.
 ---
 #### Function Expressions
-In js, functions can alsobe defined as expressions.
+In js, functions can also be defined as expressions.
 ```js
 // program to find the square of a number
 // function is declared inside the variable
@@ -176,4 +176,61 @@ var name;
 
 The above program works and the output will be `undefined`. 
 #### Variable Hoisting
-In terms of variables and constants, keywords `var` is hoisted and `let` and `const` does not allow hoisting
+In terms of variables and constants, keywords `var` is hoisted and `let` and `const` does not allow hoisting. For Example:
+```js
+// program to display value
+a = 5;
+console.log(a);
+var a; //5
+```
+In the above example, variable `a` is used before declaring it. And the program works and displays the output `5`. The program behaves as:
+```js
+// program to display value
+var a;
+a = 5;
+console.log(a); // 5
+```
+
+However, in JS initialization are not hosted only variable declarations are hoisted.
+
+Also, when the variable is used inside the functinon, the variable is hoisted only to the top of the function. For example, 
+```js
+var a = 4;
+
+function greet() {
+	b = "hello";
+	console.log(b); // hello
+	var b;
+}
+
+greet();
+console.log(b);
+```
+
+In the above example, varibale `b` is hoisted to the top of the function `greet` and becomes local variable. Hence `b` is only accessible inside the function. `b` does not become a global variable.
+
+> **NOTE**: In hoisting, the variable declaration is only accessible to the immediate scope.
+
+#### Function Hoisting
+A function can be called before declaring it. For example:
+```js
+// program to print the text
+greet();
+
+function greet() {
+	console.log('Hi, there.');
+}
+```
+
+In the above program, then function `greet` is called before declaring it and the program shows the output. This is due to hoisting.
+
+--- 
+However, when a function is used as an **expression**, an error occurs because only declarations are hoisted. For example:
+```js
+// Program to print text
+greet();
+
+let greet = function(){
+	console.log("hello");
+}
+```
