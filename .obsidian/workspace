@@ -7,12 +7,9 @@
         "id": "4760bb19d898691c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Web_Development/Hypertext Markup Language.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "Pictures/Pasted image 20220531214942.png"
           }
         }
       }
@@ -54,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -67,6 +63,7 @@
   },
   "active": "4760bb19d898691c",
   "lastOpenFiles": [
+    "Pictures/Pasted image 20220531214942.png",
     "Web_Development/Hypertext Markup Language.md",
     "Web_Development/JSFunctions.md",
     "Web_Development/Javascript.md",
@@ -75,7 +72,6 @@
     "Networking/LOAP.md",
     "Networking/Networking Main.md",
     "Networking/Static Routing.md",
-    "Web_Development/Web Development Main.md",
-    "Web_Development/Web.md"
+    "Web_Development/Web Development Main.md"
   ]
 }
