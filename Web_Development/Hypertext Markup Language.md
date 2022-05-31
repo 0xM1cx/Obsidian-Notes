@@ -149,3 +149,7 @@ Like we have the body section of an HTML page, similarly everythin inside a Tabl
 It is not mandatory, but good practice to specify the Table body, by using the opening and closing `<tbody>` tag. All the rows holding data to be represented in tabular form, must be inside the table body using the `<tbody>` tag.
 
 When we create a table with multiple rows and columns of data, we also provide headings to specify what type of data does each column contains. These headings are enclosed inside the table head, which is specified using opening and closing `<thead>` tag.
+
+The Head section of the table can be specified using the `<thead>`
+
+Inside the opening and closing `<thead>` tag, we will have a row in which we can add multiple columns, to hold the headings. This row is created using the `<tr>` tag, but the columns inside the row, which will be holding the headings, are created using the `<th>` tag.

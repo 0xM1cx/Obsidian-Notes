@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web_Development/JSFunctions.md",
+            "file": "Web_Development/Hypertext Markup Language.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,10 +67,9 @@
   },
   "active": "4760bb19d898691c",
   "lastOpenFiles": [
-    "Web_Development/JSFunctions.md",
-    "Web_Development/Javascript.md",
     "Web_Development/Hypertext Markup Language.md",
     "Web_Development/JSFunctions.md",
+    "Web_Development/Javascript.md",
     "Pictures/Pasted image 20220528073806.png",
     "Web_Development/Cascading Stylesheet.md",
     "Networking/LOAP.md",
