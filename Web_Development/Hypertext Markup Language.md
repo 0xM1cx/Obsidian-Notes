@@ -4,7 +4,6 @@
 
 [Learn HTML for Web Development - Studytonight](https://www.studytonight.com/code/html-course/)
 
-
 > [!NOTE] Reminder
 > 💡 Different Between HTML elements and tag HTML Tags refer to the name surrounded by open and closing bracket. E.g. `<body>`. HTML elements on the other hand is nothing but a HTML tag along  with its content. HTML elements are like this `<p> Content </p>.`
 
