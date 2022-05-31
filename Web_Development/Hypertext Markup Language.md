@@ -114,3 +114,38 @@ You can include pictures in your web page using HTML `<img>` tag. This is an emp
 ---
 
 ## Introduction to Tables
+Tables are used on webpages for two major purposes mentioned below:
+- The obvious purpose of arranging information in a tabular form.
+- The less obvious, but widely used, purpose of creating the pages layout with the use of hidden tables.
+
+The use of tables for creating a page layout is not recommended since the advent of CSS.
+
+Opening and closing `<table>` tag is used to represent data intabular form.
+
+### Rows 
+In HTML rows are added into the table using the opening and closing `<tr>` tag.
+
+In the case of Tables, adding just the rows is not enough, we must include columns too, to create tabular cells. You can add `border = "1"` in the table tag, so that you can see the border.
+
+### Columns in a Row
+To add columns into any row inside the table, we have to include the opening and closing `<td>` tag, between the opening and closing `<tr>` tag, and the data will come inside the column.
+
+Hence the table structuer becomes like this,
+```html
+<table>
+	<tr>
+		<td> 
+			Hello
+		</td>
+	</tr>
+</table>	
+```
+
+The `<td>` tag will display on each column within its row.
+
+### Body and Head of Table
+Like we have the body section of an HTML page, similarly everythin inside a Table is table body.
+
+It is not mandatory, but good practice to specify the Table body, by using the opening and closing `<tbody>` tag. All the rows holding data to be represented in tabular form, must be inside the table body using the `<tbody>` tag.
+
+When we create a table with multiple rows and columns of data, we also provide headings to specify what type of data does each column contains. These headings are enclosed inside the table head, which is specified using opening and closing `<thead>` tag.
