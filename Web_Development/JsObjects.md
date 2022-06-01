@@ -32,3 +32,22 @@ const person = {name: 'john', age: 20};
 ```
 
 In the above example, `name` and `age` are keys, and `john` and `20` are values respectively.
+
+### Accessing Object Properties
+You can access the **value** of a property by using a **key**.
+1. Using dot Notation
+Syntax:
+```js
+objectName.key
+```
+```js
+//Example
+const person = {
+	name: 'john',
+	age: 20
+};
+
+//accessing property
+console.log(person.name); // output: john
+
+```
