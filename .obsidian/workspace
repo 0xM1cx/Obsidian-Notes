@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web_Development/Hypertext Markup Language.md",
+            "file": "Web_Development/HTML_PageStructures.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,8 @@
   },
   "active": "4760bb19d898691c",
   "lastOpenFiles": [
+    "Web_Development/HTML_PageStructures.md",
+    "Web_Development/Web Development Main.md",
     "Web_Development/Hypertext Markup Language.md",
     "Pictures/Pasted image 20220531214942.png",
     "Web_Development/JSFunctions.md",
@@ -74,8 +76,6 @@
     "Pictures/Pasted image 20220528073806.png",
     "Web_Development/Cascading Stylesheet.md",
     "Networking/LOAP.md",
-    "Networking/Networking Main.md",
-    "Networking/Static Routing.md",
-    "Web_Development/Web Development Main.md"
+    "Networking/Networking Main.md"
   ]
 }

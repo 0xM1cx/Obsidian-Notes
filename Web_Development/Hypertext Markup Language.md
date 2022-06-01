@@ -178,3 +178,4 @@ Check out the illustration below for example and syntax:
 ![[Pasted image 20220531215106.png]]
 
 Both the attributes, namely `colspan` and `rowspan` can be used with both, the standard data cells created using `<td>` tag and the Header cells created using `<td>` tag.
+
