@@ -179,3 +179,13 @@ Check out the illustration below for example and syntax:
 
 Both the attributes, namely `colspan` and `rowspan` can be used with both, the standard data cells created using `<td>` tag and the Header cells created using `<td>` tag.
 
+## Div and Span
+`div` tag used to divide an HTML page into sections of content. It is usually used as a container for other HTML tags. It is one of the most widely used tag.
+
+### Block-level Elements
+- Block-level elements start on new line.
+- If no width is set, it takes the full width available.
+**NOTE: Tags are also called Elements**
+
+`div` tag is a block level element
+`style` attribute can be added to `div` tag to style it.
