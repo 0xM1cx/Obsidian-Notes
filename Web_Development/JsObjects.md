@@ -51,3 +51,54 @@ const person = {
 console.log(person.name); // output: john
 
 ```
+2. Using bracket Notation
+Syntax:
+```js
+objectName["propertyName"]
+```
+```js
+//Example
+const person = {
+	name: 'john',
+	age: 20
+};
+
+// accessing property
+console.log(person['name']);
+```
+---
+### Nested Objects
+An object can also contain another object. Example:
+```js
+// nested object
+const student = {
+	name: 'john',
+	age: 20,
+	marks: {
+		science: 96,
+		math: 94
+	}
+};
+
+// accessing property of student object.
+console.log(student.marks);
+// accessing property of marks object.
+console.log(student.marks.science);
+```
+In the above example, an object `student` contains an object value in the `marks` property.
+
+---
+### Object Methods
+An object can also contain function. Example
+```js
+const person = {
+	name: 'Shawn',
+	age: 17,
+	// using a function as value
+	welcome_user: function () { console.log(`welcome ${person.name}`)}
+};
+
+person.welcome_user();
+```
+
+A JS **method** is a property containing a function declaration.
