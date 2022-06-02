@@ -1,4 +1,5 @@
-## Functions
+
+s## Functions
 A function is a block of code that performs a specific task.
 
 Suppose you need to create a program to create a circle and color it. You can create two function to solve this problem:
