@@ -76,8 +76,8 @@ console.log(y);
 Scope referes to the availability of variables and functions in certain parts of the code.
 
 In JS, a variable has two types of scope:
-1. Global Scope
-2. Local Scope
+1. **Global Scope**
+2. **Local Scope**
 
 ---
 #### Global Scope
