@@ -7,7 +7,7 @@ Suppose you need to create a program to create a circle and color it. You can cr
 
 Dividing a complex problem into smaller chunks makes your program easy to understand and reusable.
 
-JavaScript also has a huge number of inbuilt functions. For example, `Math.sqrt()` is a function to calculate the square root of a number.
+sJavaScript also has a huge number of inbuilt functions. For example, `Math.sqrt()` is a function to calculate the square root of a number.
 
 In this tutorial, you will learn about user-defined functions.
 
