@@ -43,7 +43,7 @@ let name = prompt("Enter a name: ");
 greet(name);
 ```
 
-> Note: When a value is passed when declaring a function, it is called **parameter**. And when the function is called, the value is passed is called **arguemnt**.
+> Note: When a value is passed when declaring a function, it is called **parameter**. And when the function is called, the value is passed is called **argument**.
 
 #### Function return
 The `return` statement can be used to return the value to a function call.
