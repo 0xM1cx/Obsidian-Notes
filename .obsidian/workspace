@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Networking/Subnetting.md",
+            "file": "Cybersecurity/Brupsuite.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -67,15 +66,15 @@
   },
   "active": "4760bb19d898691c",
   "lastOpenFiles": [
+    "Cybersecurity/Brupsuite.md",
+    "Networking/DNS_Enumeration.md",
+    "Networking/LOAP.md",
+    "Networking/Static Routing.md",
     "Networking/Subnetting.md",
     "Networking/Networking Main.md",
     "Web_Development/JSFunctions.md",
     "Web_Development/JsObjects.md",
     "Web_Development/Web Development Main.md",
-    "Web_Development/Javascript.md",
-    "Web_Development/Hypertext Markup Language.md",
-    "Web_Development/HTML_PageStructures.md",
-    "Pictures/Pasted image 20220531214942.png",
-    "Pictures/Pasted image 20220528073806.png"
+    "Web_Development/Javascript.md"
   ]
 }
