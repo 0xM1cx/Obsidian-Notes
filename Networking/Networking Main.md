@@ -1,6 +1,7 @@
 # CCNA
 + [[Static Routing]]
 + [Life of a Packet](Networking/LOAP)
++ [Subnetting](Networking/Subnetting)
 + 
 
 
