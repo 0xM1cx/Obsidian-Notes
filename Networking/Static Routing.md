@@ -28,7 +28,7 @@ So now that the address has a subnet mask of 0s then there will be no network po
 **Command to Configure [[#^fde65a | Static Route]]**
 `ip route <destination-address> <mask> [<next-hop> | <exit-interface>]`
 ![[Pasted image 20220505122143.png]]
-The S** means that the route configured is statis or it was manually configured. The _*_ means that it is a candidate for a default route.
+The **S** means that the route configured is static or it was manually configured. The _*_ means that it is a candidate for a default route.
 
 >Switches **Flood** frames with unkown destinations(destinations not in the MAC table.) Routers **Drop** packets with unkown destinations.
 

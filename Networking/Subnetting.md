@@ -65,3 +65,35 @@ If we borrows 1 bit we get 2 subnets, 192.168.255.0 and 192.168.255.128. With th
 ![[Pasted image 20220604170448.png]]
 
 This is somewhat similar to calculating the number of hosts or usable addresses in a network, but the difference is that the value of the exponent is the **number of borrowed bits** and not the number of host bits. Another difference is that it doesn't subtract by 2.
+
+##### Table of the different subnet sizes and hosts for class C networks
+| **Prefix Length** | **Number of Subnets** | **Number of Hosts** |
+| --- | --- | --- |
+| /25 | 2 | 126 |
+| /26 | 4 | 62 |
+| /27 | 8 | 30 |
+| /28 | 16 | 14 |
+| /29 | 32 | 6 |
+| /30 | 64 | 2 |
+| /31 | 128 | 0(2 network and broadcast addresses only, cannot be used by hosts) |
+| /32 | 256 | 0(1 You can use this address to assign a specific address to a host, like in the case of a local route) |
+
+##### Table of different subnet sizes and hosts for class B networks
+| **Prefix Length** | **No. of Subnets** | **No. of Hosts** |
+| --- | --- | --- |
+| /17 | 2 | 32766 |
+| /18 | 4 | 16382 |
+| /19 | 8 | 8190 |
+| /20 | 16 | 4094 |
+| /21 | 32 | 2044 |
+| /22 | 64 | 1022 |
+| /23 | 128 | 510 |
+| /24 | 256 | 254 |
+| /25 | 512 | 126 |
+| /26 | 1024 | 62 |
+| /27 | 2048 | 30 |
+| /28 | 4096 | 14 |
+| /29 | 8192 | 6 |
+| /30 | 16384 | 2 |
+| /31 | 32768 | 0(2) |
+| /32 | 65536 | 0(1) |
