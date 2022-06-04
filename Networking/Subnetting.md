@@ -22,7 +22,7 @@ With CIDR(Classless Inter-Domain Routing), the requirements of:
 This allowed larger networks to be split into smaller networks, allowing greater efficiency. These smaller networks are called **subnetworks** or **subnets**.
 
 ###### Formula to get the number of usable addresses:
-2^***n*** - 2 usable addresses. The ***n*** is the number of hosts bits left. 
+2^***n*** - 2 usable addresse. The ***n*** is the number of hosts bits left. 
 **CIDR Notation**
 | **Dotted Decimal** | **CIDR Notation** |
 | --- | --- |
