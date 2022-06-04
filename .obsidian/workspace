@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Brupsuite.md",
+            "file": "Web_Development/Cascading Stylesheet.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "4760bb19d898691c",
   "lastOpenFiles": [
+    "Web_Development/Cascading Stylesheet.md",
     "Cybersecurity/Brupsuite.md",
     "Networking/DNS_Enumeration.md",
     "Networking/LOAP.md",
@@ -75,7 +76,6 @@
     "Networking/Networking Main.md",
     "Web_Development/JSFunctions.md",
     "Web_Development/JsObjects.md",
-    "Web_Development/Web Development Main.md",
-    "Web_Development/Javascript.md"
+    "Web_Development/Web Development Main.md"
   ]
 }
