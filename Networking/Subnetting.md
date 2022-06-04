@@ -1,4 +1,4 @@
-# Subnetting
+# Subnetting Part 1
 ## IPv4 Address Classes
 | **Class** | **First Octet(Binary)** | **First Octet range(decimal)** | **Address Range** |
 | --- | --- | --- | --- |
