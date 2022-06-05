@@ -98,7 +98,7 @@ The new standard is that /media is where the system mount removable media, and /
   
 **/opt Directory**
 
-The /opt directory is the directory where the application software needed to be installed on the system additionally.  
+The /opt directory is the directory where the application software needed to be installed on the system additionally. Furthermore, it is usually described as for optional add-on software packages source, or anything that isn't part of the base system.
   
   
 **/proc Directory**
