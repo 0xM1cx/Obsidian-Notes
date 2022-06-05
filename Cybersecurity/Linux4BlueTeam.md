@@ -65,12 +65,12 @@ The files that are needed when the operating system is first turned on, during t
   
 **/dev Directory**
 
-The /dev directory contains the device files on the system that are recognized by Linux. Access to the disks on the system is made under this directory. For example “/dev/sda1” refers to a device. This device is a disk or a disk partition.  
+The /dev directory contains the device files on the system that are recognized by Linux. Access to the disks on the system is made under this directory. For example “/dev/sda1” refers to a device. This device is a disk or a disk partition.  A device file is an interface to a device driver that appears in a file system as if it were an ordinary file. The purpose of device files is usually to provide simple interfaces to standard devices (such as printers and serial ports), but can also be used to access specific unique resources on those devices, such as disk partitions.
   
   
 **/etc Directory**
 
-The /etc directory is the directory that contains the configuration files on the system. It is one of the most important directories on Linux in terms of security. For example, the encrypted version of the users' passwords is kept under this directory. This file is explained later in the training.
+The /etc directory is the directory that contains the configuration files on the system. It is one of the most important directories on Linux in terms of security. For example, the encrypted version of the users' passwords is kept under this directory. This file is explained later in the training. it also contains executables required to boot the system, and some log files.
 
   
   
