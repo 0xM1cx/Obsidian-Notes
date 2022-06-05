@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Cybersecurity Main.md",
+            "file": "Cybersecurity/Linux4BlueTeam.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -66,6 +67,7 @@
   },
   "active": "4760bb19d898691c",
   "lastOpenFiles": [
+    "Cybersecurity/Linux4BlueTeam.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/CompTIA Security+ All-in-One Exam Guide, Sixth Edition (Exam SY0-601)) by Wm. Arthur Conklin, Greg White, Dwayne Williams, Roger Davis, Chuck Cothren (z-lib.org).pdf",
     "Web_Development/HTML_PageStructures.md",
@@ -74,7 +76,6 @@
     "Networking/Static Routing.md",
     "Cybersecurity/1.3 Given a scenario, analyze potential indicators associated with application attacks.md",
     "Web_Development/Cascading Stylesheet.md",
-    "Cybersecurity/Brupsuite.md",
-    "Networking/DNS_Enumeration.md"
+    "Cybersecurity/Brupsuite.md"
   ]
 }
