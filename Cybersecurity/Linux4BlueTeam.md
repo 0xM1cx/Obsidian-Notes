@@ -81,7 +81,7 @@ The /home directory is the directory where users have various personal files. Do
   
 **/lib Directory**
 
-Under the /lib directory, there are the library files used by the executable binaries in the system.  
+Under the /lib directory, there are the library files used by the executable binaries in the system.  In simple terms, these are helpful files which are used by an application, command or a process for their proper execution.
   
   
 **/media Directory**
@@ -91,8 +91,10 @@ The /media directory is the directory where the removable media, such as CD-ROM 
   
 **/mnt Directory**
 
-The /mnt directory is the directory where the temporarily mounted file systems are located.  
-  
+The /mnt directory is the directory where the temporarily mounted file systems are located. Another way to define this directory is that it is used as the temporary mount points for mounting storage devices, such as CDROMs, floppy disks and USB key drives.  
+
+###### Difference between /media and /mnt 
+The new standard is that /media is where the system mount removable media, and /mnt is for you to mount things manually.
   
 **/opt Directory**
 
