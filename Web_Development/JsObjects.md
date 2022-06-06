@@ -101,4 +101,46 @@ const person = {
 person.welcome_user();
 ```
 
-A JS **method** is a property containing a function declaration.
+A JS **method** is a property containing a function declaration. Here the JS method is an object property that has a function value.
+
+#### Accessing Object Methods
+You can access an object method using a dot notation:
+```js
+objectname.methodKey();
+```
+```js
+// accessing method and property
+const person = {
+    name: 'John',
+    greet: function() { console.log('hello'); }
+};
+
+// accessing property
+person.name; // John
+
+// accessing method
+person.greet(); // hello
+```
+Here, the `greet` method is accessed as `person.greet()` instead of `person.greet`. If you try to access the method with only `person.greet`, it will give you a function definition. Example:
+```js
+person.greet; //f () {console.log('hello'); }
+```
+
+#### Adding a Method to a Javascript Object
+You can also add a method in an object.
+```js
+// creating an object
+let student = { };
+
+// adding a property
+student.name = 'John';
+
+// adding a method
+student.greet = function() {
+    console.log('hello');
+}
+
+// accessing a method
+student.greet(); // hello
+```
+In the above example, an empty `student` object is created. Then, the `name` property is added. Similarly, the `greet` method is also added. In this way, you can add a method as well as property to an object.
