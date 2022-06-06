@@ -144,3 +144,38 @@ student.greet = function() {
 student.greet(); // hello
 ```
 In the above example, an empty `student` object is created. Then, the `name` property is added. Similarly, the `greet` method is also added. In this way, you can add a method as well as property to an object.
+
+#### JS this Keyword
+To access a property of an object from within a method of the same object, you need to use the `this` keyword. Let's cosider an example.
+```js
+const person = {
+    name: 'John',
+    age: 30,
+
+    // accessing name property by using this.name
+    greet: function() { console.log('The name is' + ' ' + this.name); }
+};
+
+person.greet();
+```
+In the above example, a `person` object is created. It contains properties (`name` and `age`) and a method `greet`.
+
+In the method `greet`, while accessing a property of an object, `this` keyword is used.
+
+In order to access the **properties** of an object, `this` keyword is used following the `.` and **key**
+
+>**Note**: In JS, `this` keyword when used with the object's method refers to the objec. `this` is bound to an object.
+
+However, the function inside of an object can access its variable in a similar way as a normal function would. For example:
+```js
+const person = {
+    name: 'John',
+    age: 30,
+    greet: function() {
+        let surname = 'Doe';
+        console.log('The name is' + ' ' + this.name + ' ' + surname); }
+};
+
+person.greet();
+
+```
