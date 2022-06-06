@@ -91,7 +91,7 @@ The /media directory is the directory where the removable media, such as CD-ROM 
   
 **/mnt Directory**
 
-The /mnt directory is the directory where the temporarily mounted file systems are located. Another way to define this directory is that it is used as the temporary mount points for mounting storage devices, such as CDROMs, floppy disks and USB key drives.  
+The /mnt directory is the directory where the temporarily mounted file systems are located. Another way to define this directory is that is used as the temporary mount points for mounting storage devices, such as CDROMs, floppy disks and USB key drives.  
 
 ###### Difference between /media and /mnt 
 The new standard is that /media is where the system mount removable media, and /mnt is for you to mount things manually.
@@ -143,3 +143,16 @@ The /usr directory is the directory containing executable binaries, libraries, a
 The /var directory is known as the variable directory and contains system logs, files for tracking user activity, and cache files. It contains the logs that must be checked by the SOC analyst. According to the logs in the "/var" directory, the SOC analyst can see the unauthorized access to the system and take the necessary action.
 
 In this part of the training, it is explained for what purpose each directory in the Linux file system hierarchy is used and what type of files it contains. In the next part of the training, the command line and basic commands are explained in practice.
+
+###### /bin, /sbin, /usr/bin,  /usr/sbin, /usr/local/bin, /usr/local/sbin
+
+- **/bin**: For binaries usable before the **/usr** partition is mounted. This is used for trivial binaries used in the very early boot stage or ones that you need to have available in booting single-user mode. Think of binaries like `cat`, `ls`, etc.
+- **/sbin**: Same, but for binaries with ***superuser(root)*** privileges required.
+- **/usr/bin**: Same as first, but for general system-wide binaries.
+- **/usr/sbin**: Same as above, but for binaries with superuser(root) privileges required
+ 
+> If I'm writing my own scripts, where should I add these?
+
+None of the above. You should use **/usr/local/bin** or **/usr/local/sbin** for system-wide available scripts. The **local** path means it's not managed by the system packages.
+
+For user-scoped scripts, usr **~/bin**(a personal bin folder in you home directory)
