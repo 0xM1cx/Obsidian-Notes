@@ -142,7 +142,6 @@ The /usr directory is the directory containing executable binaries, libraries, a
 
 The /var directory is known as the variable directory and contains system logs, files for tracking user activity, and cache files. It contains the logs that must be checked by the SOC analyst. According to the logs in the "/var" directory, the SOC analyst can see the unauthorized access to the system and take the necessary action.
 
-In this part of the training, it is explained for what purpose each directory in the Linux file system hierarchy is used and what type of files it contains. In the next part of the training, the command line and basic commands are explained in practice.
 
 ###### /bin, /sbin, /usr/bin,  /usr/sbin, /usr/local/bin, /usr/local/sbin
 
