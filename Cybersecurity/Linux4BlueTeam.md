@@ -155,3 +155,18 @@ The /var directory is known as the variable directory and contains system logs, 
 None of the above. You should use **/usr/local/bin** or **/usr/local/sbin** for system-wide available scripts. The **local** path means it's not managed by the system packages.
 
 For user-scoped scripts, usr **~/bin**(a personal bin folder in you home directory)
+
+---
+# Command Line
+The command line is an intermediary program that receives commands from the user via the keyboard and transfers the commands to the operating system for execution. The command line in Linux is called "shell". There are many types of shells supported on Linux.
+
+For debian, it uses "bash" shell.
+
+## Command Line Structure
+When the command line window is opened, we see a structure with a cursor waiting for a command from the user. This structure is as follows:
+
+username@hostname:current_directory$
+
+In this structure, the part before the "@" sign represents the username. The part from the "@" sign to the ":" sign represents the hostname. The part from the “:” to the “$” sign indicates which directory it is being worked on. The "$" sign on the far right is the last element in this structure. In the command line of the root user, who is the most authorized user in the system, the "#" sign is replaced by the "$" sign at the end of this structure.
+
+![[Pasted image 20220606090904.png]]
