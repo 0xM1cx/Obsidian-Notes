@@ -179,3 +179,16 @@ const person = {
 person.greet();
 
 ```
+
+---
+### JS Constructor Function
+In JS, a constructor function is used to create objects. For example, 
+```js
+// constructor function
+function Person (){
+	this.name = 'Shawn',
+	this.age = 23
+}
+
+const person = new Person();
+```
