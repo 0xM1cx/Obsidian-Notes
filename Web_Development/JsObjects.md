@@ -192,3 +192,10 @@ function Person (){
 
 const person = new Person();
 ```
+In the above example, `function Person()` is an object constructor function.
+
+To create an object from a constructor function, we use the `new` keyword.
+
+> **NOTE**: It is considered a good practice to capitalize the first letter of your constructor function.
+
+#### Create Multiple Objects with Constructors Function
