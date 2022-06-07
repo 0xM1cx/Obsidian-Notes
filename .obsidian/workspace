@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/1.4 Given a scenario, analyze potential indicatorsassociated with network attacks..md",
+            "file": "Programming/DSA.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "d79ff8ef185ec426",
   "lastOpenFiles": [
+    "Programming/DSA.md",
     "Cybersecurity/1.4 Given a scenario, analyze potential indicatorsassociated with network attacks..md",
     "Cybersecurity/Comptia Security+.md",
     "Cybersecurity/Cybersecurity Main.md",
@@ -75,7 +76,6 @@
     "Web_Development/API.md",
     "Web_Development/Web Development Main.md",
     "Web_Development/Javascript.md",
-    "Cybersecurity/Linux4BlueTeam.md",
-    "distrowatch.com.md"
+    "Cybersecurity/Linux4BlueTeam.md"
   ]
 }
