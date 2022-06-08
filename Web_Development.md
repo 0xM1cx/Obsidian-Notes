@@ -66,3 +66,8 @@ Columns help you divide the screen horizontally. If you place a single column in
   </div>
 </div>
 ```
+
+## Setting Sizes
+Using the `.col` class sets the with for the column dynamically. That means that depending on the number of columns in a row, the width of a column will be the width of the container divided by the number of columns.
+
+But there is another way to define columns. You can use classes for columns and define their size. By default, the Bootstrap 4 grid consists of 12 columns. You can select any size from 1 to 12 for your column. If you want 3 equal columns, you can use `.col-4` for each one (because 3*4 cols each = 12). Or you can set different sizes for them. Here are some examples:
