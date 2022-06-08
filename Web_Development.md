@@ -131,3 +131,5 @@ In our example, we want the columns to arrange horizontally starting with the la
 If you wanted the columns to go on the same line starting with larger mobile phones (>= 576px) you would use `.col-sm`, for tablets (>= 768) `.col-md` and for extra large screens (>= 1200px) `.col-xl`
 
 It is useful to keep in mind that up to the given breakpoint, your columns will align vertically. This is one example of the fact that Bootstrap 4 is mobile-first. The default styling is for mobile devices and you specifically need to write what’s the behaviour for bigger screens. And for the resolutions bigger than your breakpoint they will align horizontally.
+
+## Setting Sizes and Breakpoints
