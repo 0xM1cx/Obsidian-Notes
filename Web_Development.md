@@ -133,3 +133,74 @@ If you wanted the columns to go on the same line starting with larger mobile pho
 It is useful to keep in mind that up to the given breakpoint, your columns will align vertically. This is one example of the fact that Bootstrap 4 is mobile-first. The default styling is for mobile devices and you specifically need to write what’s the behaviour for bigger screens. And for the resolutions bigger than your breakpoint they will align horizontally.
 
 ## Setting Sizes and Breakpoints
+You can combine the sizes and breakpoints and use a single class with the format `.col-[breakpoint]-[size]`. E.g. If you want 3 columns of different sizes to align on a row starting with the laptop resolution you need to do this.
+
+```html
+<div class="row">
+  <div class="col-md-4">
+    ...
+  </div>
+  <div class="col-md-3">
+    ...
+  </div>
+  <div class="col-md-5">
+    ...     
+  </div>
+</div>
+```
+
+But what if you want to display 1 column per row on mobile devices, 2 columns per row on tablets and 4 starting with laptops? Then you add multiple classes for a single column to describe the behaviour for every resolution. Using multiple classes, you specify that the content will take 6 slots on tablets and 3 on laptops. The result will show like this:
+```html
+<div class="row">
+  <div class="col-sm-6 col-lg-3">
+    ...
+  </div>
+  <div class="col-sm-6 col-lg-3">
+    ...
+  </div>
+  <div class="col-sm-6 col-lg-3">
+     ...     
+  </div>
+  <div class="col-sm-6 col-lg-3">
+     ...     
+  </div>
+</div>
+```
+
+## Offsetting Columns
+If you don't want you columns to be next to each other, you can use the class `.offset-[breakpoint]-[size]` together with the `.col-[breakpoint]-[size]`. Using this class is the same as adding an empty column before you column.
+```html
+<div class="row">
+  <div class="col-sm-6 col-lg-3">
+    ...
+  </div>
+  <div class="col-sm-6 col-lg-3">
+    ...
+  </div>
+  <div class="col-sm-6 col-lg-3">
+     ...     
+  </div>
+  <div class="col-sm-6 col-lg-3">
+     ...     
+  </div>
+</div>
+```
+
+## Nesting Columns
+This may come as a surprise, but you can add a row inside a column. That row(which will have the width of its parent column) will then be divided into 12 (smaller) columns that you can reference through the `.col-*` classes. Let's take a loook at what happens when we add a new row in a column:
+```html
+<div class="row">
+  <div class="col-sm-6 col-lg-3">
+    ...
+  </div>
+  <div class="col-sm-6 col-lg-3">
+    ...
+  </div>
+  <div class="col-sm-6 col-lg-3">
+     ...     
+  </div>
+  <div class="col-sm-6 col-lg-3">
+     ...     
+  </div>
+</div>
+```
