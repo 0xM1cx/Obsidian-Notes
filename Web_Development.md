@@ -108,3 +108,26 @@ But there is another way to define columns. You can use classes for columns and 
   </div>
 </div>
 ```
+
+If the sum of the `.col` in you row doesn't get up to 12, then they don't fill the whole row. And if it goes beyond 12 then it will move to the next line(it will only display the sum of the fist elements <= 12 on the first line)
+
+## Setting Breakpoints
+If you take the example above and want to display it on mobile, you may run into some problems. Displaying 5 columns on mobile will make the content unreadable. In order to have different layouts on different screens you won’t need to write media queries, instead you can use the column breakpoints.
+
+Let's say you want to display, for example, 2 columns one after another vertically on small screens and on the same line bigger screens. You will need to specify the breakpoints where the columns go on the same line.
+
+In our example, we want the columns to arrange horizontally starting with the laptop. The breakpoint for the laptop resolution is `.col-lg`
+```html
+<div class="row">
+  <div class="col-lg">
+    ...
+  </div>
+  <div class="col-lg">
+     ...   
+  </div>
+</div>
+```
+
+If you wanted the columns to go on the same line starting with larger mobile phones (>= 576px) you would use `.col-sm`, for tablets (>= 768) `.col-md` and for extra large screens (>= 1200px) `.col-xl`
+
+It is useful to keep in mind that up to the given breakpoint, your columns will align vertically. This is one example of the fact that Bootstrap 4 is mobile-first. The default styling is for mobile devices and you specifically need to write what’s the behaviour for bigger screens. And for the resolutions bigger than your breakpoint they will align horizontally.
