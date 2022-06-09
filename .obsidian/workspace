@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Intro_To_EvidenceAcquisition.md",
+            "file": "Cybersecurity/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,15 +66,15 @@
   },
   "active": "d79ff8ef185ec426",
   "lastOpenFiles": [
+    "Cybersecurity/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
+    "Cybersecurity/Comptia Security+.md",
+    "Cybersecurity/Given.md",
     "Cybersecurity/Intro_To_EvidenceAcquisition.md",
     "Cybersecurity/Digital Forensics & Incident Response.md",
     "Cybersecurity/Linux4BlueTeam.md",
     "Web_Development/Bootstrap4.md",
     "Web_Development.md",
     "Web_Development/Web Development Main.md",
-    "Cybersecurity/ThreatIntelligence.md",
-    "Web_Development/HTML_PageStructures.md",
-    "Cybersecurity/1.4 Given a scenario, analyze potential indicatorsassociated with network attacks..md",
-    "Programming/DSA.md"
+    "Cybersecurity/ThreatIntelligence.md"
   ]
 }

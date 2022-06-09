@@ -3,4 +3,4 @@
  
 + [[1.2 Given a scenario, analyze potential indicators to determine the type of attack 1]]
 + [[1.3 Given a scenario, analyze potential indicators associated with application attacks]]
-+ [1.4 Given a scenario, analyze potential indicators associated with network attacks.](Cybersecurity/Given a scenario, analyze potential indicatorsassociated with network attacks.)
++ [1.4 Given a scenario, analyze potential indicators associated with network attacks.](Cybersecurity/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks.)
