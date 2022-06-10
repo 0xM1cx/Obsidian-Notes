@@ -65,7 +65,7 @@ The files that are needed when the operating system is first turned on, during t
   
 **/dev Directory**
 
-The /dev directory contains the device files on the system that are recognized by Linux. Access to the disks on the system is made under this directory. For example “/dev/sda1” refers to a device. This device is a disk or a disk partition.  A device file is an interface to a device driver that appears in a file system as if it were an ordinary file. The purpose of device files is usually to provide simple interfaces to standard devices (such as printers and serial ports), but can also be used to access specific unique resources on those devices, such as disk partitions.
+The /dev directory contains the device files on the system that are recognized by Linux. Access to the disks on the system is made under this directory. For example “/dev/sda1” refers to a device. This device is a disk or a disk partition.  A **device file** is an interface to a device driver that appears in a file system as if it were an ordinary file. The purpose of device files is usually to provide simple interfaces to standard devices (such as printers and serial ports), but can also be used to access specific unique resources on those devices, such as disk partitions.
   
   
 **/etc Directory**
@@ -165,8 +165,35 @@ For debian, it uses "bash" shell.
 ## Command Line Structure
 When the command line window is opened, we see a structure with a cursor waiting for a command from the user. This structure is as follows:
 
-username@hostname:current_directory$
+`username@hostname:current_directory$`
 
-In this structure, the part before the "@" sign represents the username. The part from the "@" sign to the ":" sign represents the hostname. The part from the “:” to the “$” sign indicates which directory it is being worked on. The "$" sign on the far right is the last element in this structure. In the command line of the root user, who is the most authorized user in the system, the "#" sign is replaced by the "$" sign at the end of this structure.
+In this structure, the part before the "@" sign represents the username. The part from the "@" sign to the ":" sign represents the hostname. The part from the “:” to the `$` sign indicates which directory it is being worked on. The `$` sign on the far right is the last element in this structure. In the command line of the root user, who is the most authorized user in the system, the "#" sign is replaces  "$" sign at the end of this structure.
 
 ![[Pasted image 20220606090904.png]]
+
+## Useful Linux Commands
+### whatis
+This command allows us to view a single line of brief information about commands running on the command line. 
+
+### help 
+This command is one of the information commands that gives a more detailed output than the `whatis` command. 
+
+### man
+This command provides the most detailed information about the commands and programs on the command line. It has a specific writing format. It offers very detailed content from description to parameters.
+
+### pwd
+This commands outputs the current directory that it is ran on. This commands stands for "print working directory". Again, it is the command that shows the working directory. 
+
+### cd
+This command is used to switch current directories. It stands for "change directory". When switching between directories with the cd command, the path of the target directory must be specified. There are two methods for specifying this path:
+	**a. Absolute Path** -> is a notation written to indicate all sub-directories from the root directory ("/") to the current directory. For example, our current directory is `/home/shawn/Desktop` and we want to move to the `Documents` directory. We can use the absolute path as `cd /home/shawn/Documents`.
+	**b. Relative Path** -> Unlike absolute path, Relative path is to write the part after the current directory instead of typing the full path of the directory to be traversed from the root directory "/".
+	**c. Switching to the last directory with the Previous directory sign("-")** -> It is possible to switch to the previous directory, regardless of which directory it is. For example, our current directory `/home/shawn/Documents/tenable_CTF` and to move to the previous directory(`/home/buck/Desktop`) we use the "-".
+```bash
+shawn@shawn:~/Documents/tenable_CTF$ cd -
+/home/buck/Desktop
+shawn@shawn:~/Desktop$
+```
+
+### ls
+This command lists directories and files. With this command, directories and files under a specified directory can be viewed.
