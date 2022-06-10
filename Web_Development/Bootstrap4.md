@@ -281,3 +281,6 @@ Try this code
   <div>Flex item 3</div>
 </div>
 ```
+
+## Aligning Flex Items on the Secondary Axis
+The secondary axis is the vertical one for `.flex-row`  and the horizontal one for `.flex-column`. The browser default is to stretch the element for the entire height or width (you can also use the `.align-items-stretch` to do this). But you can modify this behavior. You can align the elements to the start with `.align-items-start`, the end with `.align-items-end` or center with.align-items-center.
