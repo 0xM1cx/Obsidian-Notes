@@ -253,7 +253,7 @@ The main axis is the one you choose to align your items to. It is the horizontal
 
 Your items have multiple options regarding their starting point and also the distance between them. You can align all your items at the beginning with `.justify-content-start`, center with `justify-content-center` or end of the row/column with `.justify-content-end`. Or you can choose to evenly space them out with `.justify-content-between` or `.justify-content-around`
 
-Try this code
+**Try this code**
 ```html
 <div class="d-flex justify-content-start">
   <div>Flex item 1</div>
@@ -283,4 +283,32 @@ Try this code
 ```
 
 ## Aligning Flex Items on the Secondary Axis
-The secondary axis is the vertical one for `.flex-row`  and the horizontal one for `.flex-column`. The browser default is to stretch the element for the entire height or width (you can also use the `.align-items-stretch` to do this). But you can modify this behavior. You can align the elements to the start with `.align-items-start`, the end with `.align-items-end` or center with.align-items-center.
+The secondary axis is the vertical one for `.flex-row`  and the horizontal one for `.flex-column`. The browser default is to stretch the element for the entire height or width (you can also use the `.align-items-stretch` to do this). But you can modify this behavior. You can align the elements to the start with `.align-items-start`, the end with `.align-items-end` or center with `.align-items-center`
+**Try This**:
+```html
+<div class="row">
+  <div class="col-4">
+    <div class="d-flex align-items-start">
+      <div>Flex item 1</div>
+      <div>Flex item 2</div>
+      <div>Flex item 3</div>
+    </div>
+  </div>
+  
+  <div class="col-4">
+    <div class="d-flex align-items-center">
+      <div>Flex item 1</div>
+      <div>Flex item 2</div>
+      <div>Flex item 3</div>
+    </div>
+  </div>
+  
+  <div class="col-4">
+    <div class="d-flex align-items-end">
+      <div>Flex item 1</div>
+      <div>Flex item 2</div>
+      <div>Flex item 3</div>
+    </div>
+  </div>
+</div>
+```
