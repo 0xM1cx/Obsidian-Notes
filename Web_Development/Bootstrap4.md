@@ -1,4 +1,5 @@
 Source: [Bootstrapbay](https://bootstrapbay.com/blog/day-2-bootstrap-4-grid-system-tutorial-examples/)
+# Grid System
 ## Bootstrap 4 Containers
 A Bootstrap 4 container is an element with the class `.container`. The container is the root of the Bootstrap 4 grid system and it is used to control the width of the layout. It contains all the elements in a page. This means your page should have the following structure: first the body of the HTML page, inside of it you add the container and all the other elements inside the container.
 
@@ -204,3 +205,6 @@ This may come as a surprise, but you can add a row inside a column. That row(whi
   </div>
 </div>
 ```
+
+# Bootstrap Flex
+Flexbox is a new layout mode in CSS3. It described ways to align and size elements. Understanding how the Bootstrap 3 flex works will help you align elements horizontally and vertically (to the left, center, and right), size them according to their parent and tell them how to fill a row.
