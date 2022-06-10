@@ -223,6 +223,61 @@ When you start placing elements inside the flex container they will align horizo
   <div>Flex item 2</div>
   <div>Flex item 3</div>
 </div>
+
+<div class="d-flex flex-row-reverse">
+	<div>Flex item 1</div>
+	<div>Flex item 2</div>
+	<div>Flex item 3</div>
+</div>
 ```
 
 Aligning items horizontally also has an explicit class called `.flex-row` It is better to write it down that leave it implied because it will help you when you look back on your code and also when you adjust it for mobile devices. To have the items align from right to left(i.e reverse) you can use `.flex-row-reverse` class.
+
+To align the items vertically the class `.flex-column` is used. To align them vertically in reverse or down to top order the class `.flex-column-reverse` is used.
+```html
+<div class="d-flex flex-column">
+  <div>Flex item 1</div>
+  <div>Flex item 2</div>
+  <div>Flex item 3</div>
+</div>
+
+<div class="d-flex flex-column-reverse">
+	<div>Flex item 1</div>
+	<div>Flex item 2</div>
+	<div>Flex item 3</div>
+</div>
+```
+
+## Aligning Flex Items on the Main Axis
+The main axis is the one you choose to align your items to. It is the horizontal one if you are going with `.flex-row` and the vertical one if you are going with `.flex-column`
+
+Your items have multiple options regarding their starting point and also the distance between them. You can align all your items at the beginning with `.justify-content-start`, center with `justify-content-center` or end of the row/column with `.justify-content-end`. Or you can choose to evenly space them out with `.justify-content-between` or `.justify-content-around`
+
+Try this code
+```html
+<div class="d-flex justify-content-start">
+  <div>Flex item 1</div>
+  <div>Flex item 2</div>
+  <div>Flex item 3</div>
+</div>
+<div class="d-flex justify-content-end">
+  <div>Flex item 1</div>
+  <div>Flex item 2</div>
+  <div>Flex item 3</div>
+</div>
+<div class="d-flex justify-content-center ">
+  <div>Flex item 1</div>
+  <div>Flex item 2</div>
+  <div>Flex item 3</div>
+</div>
+<div class="d-flex justify-content-between">
+  <div>Flex item 1</div>
+  <div>Flex item 2</div>
+  <div>Flex item 3</div>
+</div>
+<div class="d-flex justify-content-around">
+  <div>Flex item 1</div>
+  <div>Flex item 2</div>
+  <div>Flex item 3</div>
+</div>
+```
