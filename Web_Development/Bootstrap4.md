@@ -224,3 +224,5 @@ When you start placing elements inside the flex container they will align horizo
   <div>Flex item 3</div>
 </div>
 ```
+
+Aligning items horizontally also has an explicit class called `.flex-row` It is better to write it down that leave it implied because it will help you when you look back on your code and also when you adjust it for mobile devices. To have the items align from right to left(i.e reverse) you can use `.flex-row-reverse` class.
