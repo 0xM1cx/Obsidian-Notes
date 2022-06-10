@@ -208,3 +208,19 @@ This may come as a surprise, but you can add a row inside a column. That row(whi
 
 # Bootstrap Flex
 Flexbox is a new layout mode in CSS3. It described ways to align and size elements. Understanding how the Bootstrap 3 flex works will help you align elements horizontally and vertically (to the left, center, and right), size them according to their parent and tell them how to fill a row.
+
+## Flex Container
+In order to use the flex utilities you need to have a flex container. This is an element with the class `.d-flex` or `.d-inline-flex`. You can place a flex container anywhere in the page where you want to align items in a specific way. You can even put it inside another `.col` or `.card`, etc. All the elements inside this container will be turned into flex items.
+
+Creating a flex container with `.d-flex` will result in an element that takes up the whole width of its parent. In contrast, creating a flex container with `.d-inline-flex` will make its width vary depending on the width of its content. `d-inline-flex` will only take up the space it is necessary to display its content.
+
+## Flex Items
+### Direction for Flex items
+When you start placing elements inside the flex container they will align horizontally from left to right as a default behavior.  
+```html
+<div class="d-flex">
+  <div>Flex item 1</div>
+  <div>Flex item 2</div>
+  <div>Flex item 3</div>
+</div>
+```
