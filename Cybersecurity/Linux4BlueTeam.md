@@ -208,3 +208,6 @@ The **touch** command is used to create an new empty file. An example would be `
 ### mkdir
 This command is used to create a new directory, as it stands for "make directory". An example of the usage of this command: `mkdir new_Dir`. It is possible to make nested directories by supplying the `-p` parameter. Example `mkdir -p directory1/directory2`.
 
+### mv
+This command is used to move file/directory to another location. This command can also be used to rename the file/directory.
+
