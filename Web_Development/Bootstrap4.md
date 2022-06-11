@@ -1,6 +1,8 @@
 Source: [Bootstrapbay](https://bootstrapbay.com/blog/day-2-bootstrap-4-grid-system-tutorial-examples/)
-# Grid System
-## Bootstrap 4 Containers
+```toc
+```
+## Grid System
+### Bootstrap 4 Containers
 A Bootstrap 4 container is an element with the class `.container`. The container is the root of the Bootstrap 4 grid system and it is used to control the width of the layout. It contains all the elements in a page. This means your page should have the following structure: first the body of the HTML page, inside of it you add the container and all the other elements inside the container.
 
 ```html
@@ -20,7 +22,7 @@ A full-width container takes 100% of the screen size regardless of the screen wi
 </div>
 ```
 
-## Bootstrap 4 Rows
+### Bootstrap 4 Rows
 Bootstrap 4 rows are horizontal slices of the screen. They are used wrappers for columns. To use them, you need the `.row` class.
 ```html
 <div class="row">
@@ -34,7 +36,7 @@ Bootstrap 4 rows are horizontal slices of the screen. They are used wrappers for
 
 **The columns have to be children of the row.** Otherwise they will not align. The rows and columns are created to work together in this strict hierarchy.
 
-## Bootstrap 4 Columns
+### Bootstrap 4 Columns
 Columns help you divide the screen horizontally. If you place a single column in your row, it will take up all the width. If you add two columns, they will each take 1/2 from the width. And so it goes for any number of columns.
 ```html
 <div class="container">
@@ -68,7 +70,7 @@ Columns help you divide the screen horizontally. If you place a single column in
 </div>
 ```
 
-## Setting Sizes
+### Setting Sizes
 Using the `.col` class sets the width for the column dynamically. That means that depending on the number of columns in a row, the width of a column will be the width of the container divided by the number of columns.
 
 But there is another way to define columns. You can use classes for columns and define their size. By default, the Bootstrap 4 grid consists of 12 columns. You can select any size from 1 to 12 for your column. If you want 3 equal columns, you can use `.col-4` for each one (because 3 x 4 cols each = 12). Or you can set different sizes for them. Here are some examples:
@@ -112,7 +114,7 @@ But there is another way to define columns. You can use classes for columns and 
 
 If the sum of the `.col` in you row doesn't get up to 12, then they don't fill the whole row. And if it goes beyond 12 then it will move to the next line(it will only display the sum of the fist elements <= 12 on the first line)
 
-## Setting Breakpoints
+### Setting Breakpoints
 If you take the example above and want to display it on mobile, you may run into some problems. Displaying 5 columns on mobile will make the content unreadable. In order to have different layouts on different screens you won’t need to write media queries, instead you can use the column breakpoints.
 
 Let's say you want to display, for example, 2 columns one after another vertically on small screens and on the same line bigger screens. You will need to specify the breakpoints where the columns go on the same line.
@@ -133,7 +135,7 @@ If you wanted the columns to go on the same line starting with larger mobile pho
 
 It is useful to keep in mind that up to the given breakpoint, your columns will align vertically. This is one example of the fact that Bootstrap 4 is mobile-first. The default styling is for mobile devices and you specifically need to write what’s the behaviour for bigger screens. And for the resolutions bigger than your breakpoint they will align horizontally.
 
-## Setting Sizes and Breakpoints
+### Setting Sizes and Breakpoints
 You can combine the sizes and breakpoints and use a single class with the format `.col-[breakpoint]-[size]`. E.g. If you want 3 columns of different sizes to align on a row starting with the laptop resolution you need to do this.
 
 ```html
@@ -168,7 +170,7 @@ But what if you want to display 1 column per row on mobile devices, 2 columns pe
 </div>
 ```
 
-## Offsetting Columns
+### Offsetting Columns
 If you don't want you columns to be next to each other, you can use the class `.offset-[breakpoint]-[size]` together with the `.col-[breakpoint]-[size]`. Using this class is the same as adding an empty column before you column.
 ```html
 <div class="row">
@@ -187,7 +189,7 @@ If you don't want you columns to be next to each other, you can use the class `.
 </div>
 ```
 
-## Nesting Columns
+### Nesting Columns
 This may come as a surprise, but you can add a row inside a column. That row(which will have the width of its parent column) will then be divided into 12 (smaller) columns that you can reference through the `.col-*` classes. Let's take a loook at what happens when we add a new row in a column:
 ```html
 <div class="row">
@@ -206,16 +208,16 @@ This may come as a surprise, but you can add a row inside a column. That row(whi
 </div>
 ```
 
-# Bootstrap Flex
+## Bootstrap Flex
 Flexbox is a new layout mode in CSS3. It described ways to align and size elements. Understanding how the Bootstrap 3 flex works will help you align elements horizontally and vertically (to the left, center, and right), size them according to their parent and tell them how to fill a row.
 
-## Flex Container
+### Flex Container
 In order to use the flex utilities you need to have a flex container. This is an element with the class `.d-flex` or `.d-inline-flex`. You can place a flex container anywhere in the page where you want to align items in a specific way. You can even put it inside another `.col` or `.card`, etc. All the elements inside this container will be turned into flex items.
 
 Creating a flex container with `.d-flex` will result in an element that takes up the whole width of its parent. In contrast, creating a flex container with `.d-inline-flex` will make its width vary depending on the width of its content. `d-inline-flex` will only take up the space it is necessary to display its content.
 
-## Flex Items
-### Direction for Flex items
+### Flex Items
+#### Direction for Flex items
 When you start placing elements inside the flex container they will align horizontally from left to right as a default behavior.  
 ```html
 <div class="d-flex">
@@ -248,7 +250,7 @@ To align the items vertically the class `.flex-column` is used. To align them ve
 </div>
 ```
 
-## Aligning Flex Items on the Main Axis
+### Aligning Flex Items on the Main Axis
 The main axis is the one you choose to align your items to. It is the horizontal one if you are going with `.flex-row` and the vertical one if you are going with `.flex-column`
 
 Your items have multiple options regarding their starting point and also the distance between them. You can align all your items at the beginning with `.justify-content-start`, center with `justify-content-center` or end of the row/column with `.justify-content-end`. Or you can choose to evenly space them out with `.justify-content-between` or `.justify-content-around`
@@ -282,7 +284,7 @@ Your items have multiple options regarding their starting point and also the dis
 </div>
 ```
 
-## Aligning Flex Items on the Secondary Axis
+### Aligning Flex Items on the Secondary Axis
 The secondary axis is the vertical one for `.flex-row`  and the horizontal one for `.flex-column`. The browser default is to stretch the element for the entire height or width (you can also use the `.align-items-stretch` to do this). But you can modify this behavior. You can align the elements to the start with `.align-items-start`, the end with `.align-items-end` or center with `.align-items-center`
 **Try This**:
 ```html
@@ -310,5 +312,17 @@ The secondary axis is the vertical one for `.flex-row`  and the horizontal one f
       <div>Flex item 3</div>
     </div>
   </div>
+</div>
+```
+
+Using `.align-items-baseline` will align the items along their content's baseline. See the image below to better understand this class. The gray line shows where the content for every item ends.
+![[Pasted image 20220611140111.png]]
+
+**Example**
+```html
+<div class="d-flex align-items-baseline">
+	<div><h1>Item 1</h1></div>
+	<div>Item 2</div>
+	<div><h5>Item 3</h5></div>
 </div>
 ```
