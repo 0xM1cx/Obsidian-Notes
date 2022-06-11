@@ -209,5 +209,18 @@ The **touch** command is used to create an new empty file. An example would be `
 This command is used to create a new directory, as it stands for "make directory". An example of the usage of this command: `mkdir new_Dir`. It is possible to make nested directories by supplying the `-p` parameter. Example `mkdir -p directory1/directory2`.
 
 ### mv
-This command is used to move file/directory to another location. This command can also be used to rename the file/directory.
+This command is used to move file/directory to another location. This command can also be used to rename the file/directory. Example of moving a file to another directory: `mv file1 Directory1/`. Example of renaming a file: `mv file1 file2_renamed`.
+
+### cp
+The **cp** command is used in file/directory copy operations. The first parameter in the cp command is the path of the file/directory to be copied. The second parameter is the target path. Example usage `cp file1 /directory1`.
+
+It is possible to copy nested directories with the cp command. The `-r` parameter is used for this operation. Example of copy a nested directory: `cp -r /directory1/file1 directory2/`
+
+### rm
+This command is used to delete files/directories. In order to delete a directory, the parameter `-r` must be supplied for the rm command to delete files recursively i.e delete all the nested files and directories.
+
+### cat
+The cat command is the command used for reading from the file. The path of the file to be read can also be given as a parameter. Example `cat file.txt` or path to file `cat /Documents/passwd/passwds.doc`
+
+### echo
 
