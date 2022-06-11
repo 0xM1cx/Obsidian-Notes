@@ -1,4 +1,6 @@
 # Introduction To Linux
+```toc
+```
 ## What is Linux?
 Linux is one of the kernel software, which is the most basic part of the computer OSs. It is a free software project released under the GNU General Public License version 2 and developed under the umbrella of the Linux Foundation. The name Linux was given by its first developer, **Linus Torvalds**, in 1991.
 
@@ -197,3 +199,12 @@ shawn@shawn:~/Desktop$
 
 ### ls
 This command lists directories and files. With this command, directories and files under a specified directory can be viewed.
+		**Viewing hidden files and directories with the ls command**. The ls command does not show hidden files when used without parameters. In order to see hidden files, you must supply the `-a` parameter. When using this command the hidden files are indicated with the `.` at as a prefix to the file or folder name.
+		**Getting detailed information about directories and files with the ls command**. When the ls command is used with the `-l` parameter, it provides detailed information about the files/directories it lists. The information given in by this command includes: permissions of the file/directory, owner of the file/directory the name of the user,  the owner of the file/directory the name of the group, the size of the file/directory(in bytes), the date the file/directory was last modified, and the name of the file/directory. 
+
+### touch
+The **touch** command is used to create an new empty file. An example would be `touch new.py`
+
+### mkdir
+This command is used to create a new directory, as it stands for "make directory". An example of the usage of this command: `mkdir new_Dir`. It is possible to make nested directories by supplying the `-p` parameter. Example `mkdir -p directory1/directory2`.
+

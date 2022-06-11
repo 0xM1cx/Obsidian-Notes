@@ -326,3 +326,5 @@ Using `.align-items-baseline` will align the items along their content's baselin
 	<div><h5>Item 3</h5></div>
 </div>
 ```
+
+### Aligning Individual Flex Items
