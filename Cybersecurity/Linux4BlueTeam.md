@@ -223,4 +223,4 @@ This command is used to delete files/directories. In order to delete a directory
 The cat command is the command used for reading from the file. The path of the file to be read can also be given as a parameter. Example `cat file.txt` or path to file `cat /Documents/passwd/passwds.doc`
 
 ### echo
-
+This command is used for printing to the screen. Example `echo "Hello, World!"` it will print in the shell `Hello, World!`
