@@ -151,7 +151,7 @@ The /var directory is known as the variable directory and contains system logs, 
 - **/sbin**: Same, but for binaries with ***superuser(root)*** privileges required.
 - **/usr/bin**: Same as first, but for general system-wide binaries.
 - **/usr/sbin**: Same as above, but for binaries with superuser(root) privileges required
- 
+
 > If I'm writing my own scripts, where should I add these?
 
 None of the above. You should use **/usr/local/bin** or **/usr/local/sbin** for system-wide available scripts. The **local** path means it's not managed by the system packages.
@@ -162,7 +162,7 @@ For user-scoped scripts, usr **~/bin**(a personal bin folder in you home directo
 # Command Line
 The command line is an intermediary program that receives commands from the user via the keyboard and transfers the commands to the operating system for execution. The command line in Linux is called "shell". There are many types of shells supported on Linux.
 
-For debian, it uses "bash" shell.
+For <u>debian</u>, it uses "bash" shell.
 
 ## Command Line Structure
 When the command line window is opened, we see a structure with a cursor waiting for a command from the user. This structure is as follows:
