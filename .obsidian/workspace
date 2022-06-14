@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
+            "file": "Cybersecurity/Phishing.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "d79ff8ef185ec426",
   "lastOpenFiles": [
+    "Cybersecurity/Phishing.md",
     "Cybersecurity/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
     "Cybersecurity/Linux4BlueTeam.md",
     "Cybersecurity/1.3 Given a scenario, analyze potential indicators associated with application attacks.md",
@@ -75,7 +76,6 @@
     "Cybersecurity/Comptia Security+.md",
     "Cybersecurity/Given.md",
     "Cybersecurity/Intro_To_EvidenceAcquisition.md",
-    "Cybersecurity/Digital Forensics & Incident Response.md",
-    "Web_Development.md"
+    "Cybersecurity/Digital Forensics & Incident Response.md"
   ]
 }
