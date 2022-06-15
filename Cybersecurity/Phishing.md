@@ -78,7 +78,7 @@ First, it'll highlight if a message is classified as spam. Then, the spam score 
 
 # Email Header Analysis
 ---
-Here are the key questions we need to answer when checking headings during a Phishin analysis:
+Here are the key questions we need to answer when checking headings during a Phishing analysis:
 1. Was the email sent from the correct SMTP server?
 2. Are the data "**From**" and "**Return-Path / Reply-To**" the same?
 
