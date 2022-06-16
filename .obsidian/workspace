@@ -7,9 +7,12 @@
         "id": "d162618a45482d8e",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "APIs d16ef/Untitled 1.png"
+            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -63,6 +66,8 @@
   },
   "active": "d162618a45482d8e",
   "lastOpenFiles": [
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md",
+    "Cybersecurity/Cybersecurity Main.md",
     "APIs d16ef/Untitled 1.png",
     "Writeups/CTF Writups Main.md",
     "Cybersecurity/Intro_To_EvidenceAcquisition.md",
@@ -70,8 +75,6 @@
     "Cybersecurity/Windows File System.md",
     "Cybersecurity/WF1.md",
     "Cybersecurity/SOC_TOOLS.md",
-    "Cybersecurity/CyberTraningPlatforms_Notes/Letsdefend.io_Notes/SOC.md",
-    "Cybersecurity/CyberTraningPlatforms_Notes/Tryhackme_Notes/NMAP.md",
-    "Cybersecurity/CyberTraningPlatforms_Notes/Letsdefend.io_Notes/Phishing.md"
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/SOC.md"
   ]
 }
