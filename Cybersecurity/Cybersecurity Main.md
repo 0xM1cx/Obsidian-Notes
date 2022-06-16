@@ -7,15 +7,15 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 
 ## Defensive Security
 - [[Digital Forensics & Incident Response]]
-- [Phishing Analysis](Cybersecurity/Phishing)
-- [Security Operation Center](Cybersecurity/SOC)
-- [Detecting Web Attacks](Cybersecurity/DWA)
-- [Malware Analysis](Cybersecurity/MalwareAnalysis)
-- [Cyber Threat Intelligence](Cybersecurity/ThreatIntelligence)
-- [Linux4BlueTeam](Cybersecurity/Linux4BlueTeam) By Letsdefend.io
+- [Phishing Analysis](Phishing.md)
+- [Security Operation Center](SOC.md)
+- [Detecting Web Attacks](DWA.md)
+- [Malware Analysis](MalwareAnalysis.md)
+- [Cyber Threat Intelligence](ThreatIntelligence.md)
+- [Linux4BlueTeam](Linux4BlueTeam.md) By Letsdefend.io
 ## Offensive Security
 ##### Tools
-+ [NMAP](Cybersecurity/NMAP)
++ [NMAP](NMAP.md)
 + [SOC Tool List](Cybersecurity/SOC_TOOLS)
-+ [BurpSuite](Cybersecurity/Brupsuite)
++ [BurpSuite](Brupsuite.md)
 + 

@@ -11,5 +11,6 @@
   },
   "readableLineLength": false,
   "showIndentGuide": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }
