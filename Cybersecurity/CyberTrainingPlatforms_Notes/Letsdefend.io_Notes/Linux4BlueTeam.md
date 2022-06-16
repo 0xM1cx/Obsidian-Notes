@@ -239,3 +239,6 @@ This command is used to see the lines at the beginning of the file. The `-n` par
 
 ### tail
 Unlike the `head` command the `tail` command is used to see the lines at the end of the file.  The `-n` parameter is allows to see the specified number of lines at the end of the file. E.g. to see the 5 last lines in the file we type `head -n 5 <filename>`
+
+### grep
+This command is used to search within a file. The word/s to be searched are given as parameters. E.g to search for the word "hello" in a file called <u>RandomWords.txt</u> we would type `grep hello RandomWords.txt`
