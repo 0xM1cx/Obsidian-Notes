@@ -18,4 +18,6 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 + [NMAP](NMAP.md)
 + [SOC Tool List](Cybersecurity/SOC_TOOLS)
 + [BurpSuite](Brupsuite.md)
-+ 
+
+## Tryhackme Notes
+- [PrintNightmare_Vulnerability](Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability)
