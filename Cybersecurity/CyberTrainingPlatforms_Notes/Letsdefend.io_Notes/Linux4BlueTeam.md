@@ -224,3 +224,9 @@ The cat command is the command used for reading from the file. The path of the f
 
 ### echo
 This command is used for printing to the screen. Example `echo "Hello, World!"` it will print in the shell `Hello, World!`
+
+### more
+The more command is a command that allows reading the contents of long files. When you run the more command, a section of the file that fit the screen size will be seen and to view more details of the file you can click `enter` key which you read by scrolling down line by line and `space` key to view the next page(next visible file content that fit the screen). `q` key is used to exit the interactive reading environment.
+
+### wc
+The **wc** command is used to count the number of lines, the number of words and the number of characters in the file content. 

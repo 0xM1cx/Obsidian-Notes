@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability.md",
+            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "d162618a45482d8e",
   "lastOpenFiles": [
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/PrintNightmare_Vulnerability.md",
@@ -75,7 +76,6 @@
     "Writeups/CTF Writups Main.md",
     "Cybersecurity/Intro_To_EvidenceAcquisition.md",
     "Cybersecurity/Working with VHD.md",
-    "Cybersecurity/Windows File System.md",
-    "Cybersecurity/WF1.md"
+    "Cybersecurity/Windows File System.md"
   ]
 }
