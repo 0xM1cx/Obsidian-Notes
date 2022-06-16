@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
+            "file": "Writeups/CTF Writups Main.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -67,13 +66,13 @@
   },
   "active": "d162618a45482d8e",
   "lastOpenFiles": [
+    "Writeups/CTF Writups Main.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/PrintNightmare_Vulnerability.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md",
     "APIs d16ef/Untitled 1.png",
-    "Writeups/CTF Writups Main.md",
     "Cybersecurity/Intro_To_EvidenceAcquisition.md",
     "Cybersecurity/Working with VHD.md",
     "Cybersecurity/Windows File System.md"
