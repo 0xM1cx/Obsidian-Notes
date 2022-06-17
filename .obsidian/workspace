@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Comptia_Security+/Comptia Security+.md",
+            "file": "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "d162618a45482d8e",
   "lastOpenFiles": [
+    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
     "Cybersecurity/Comptia_Security+/Comptia Security+.md",
     "Networking/Subnetting.md",
     "Networking/Networking Main.md",
@@ -75,7 +76,6 @@
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability.md",
     "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/PrintNightmare_Vulnerability.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md"
+    "Cybersecurity/CyberTrainingPlatforms_Notes/PrintNightmare_Vulnerability.md"
   ]
 }
