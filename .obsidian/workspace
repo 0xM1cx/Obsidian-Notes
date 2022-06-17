@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Networking/Subnetting.md",
+            "file": "Cybersecurity/Comptia_Security+/Comptia Security+.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "d162618a45482d8e",
   "lastOpenFiles": [
+    "Cybersecurity/Comptia_Security+/Comptia Security+.md",
     "Networking/Subnetting.md",
     "Networking/Networking Main.md",
     "Programming/Flowchart.md",
@@ -75,7 +76,6 @@
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/PrintNightmare_Vulnerability.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md",
-    "APIs d16ef/Untitled 1.png"
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md"
   ]
 }

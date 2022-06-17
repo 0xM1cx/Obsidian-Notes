@@ -164,4 +164,21 @@ Identify the following for PC1's subnet:
 
 ---
 ## Subnetting Part 3 
+Tutorial Link for this lesson: [VLSM](https://www.youtube.com/watch?v=z-JqCedc9EI&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=26&t=675s)
+The practice above for subnetting is called FSLM or **Fixed-Length Subnet Masks**. This means that all of the subnets use the same prefix length (i.e. <u>subnetting a class C network into 4 subnets using /26</u>)
+
 ### Variable-Length Subnet Masks
+**VLSM** is the process of creating subnet of different sizes, to make you use of network addresses more efficient. VLSM is more complicated than FLSM, but it's easy if you follow the steps correctly.
+
+### Steps to subnet in VLSM
+1. Assign the largest subnet the the start of the address space.
+2. Assign the second-largest subnet after it.
+3. Repeat the process until all subnets have been assigned.
+![[Pasted image 20220617173442.png]]
+
+For Tokyo LAN A to get ff:
+- Network Address:
+- Broadcast Address:
+- First usable Address:
+- Last usable Address:
+- Total number of host per subnet:
