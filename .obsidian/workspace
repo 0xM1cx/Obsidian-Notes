@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Flowchart.md",
+            "file": "Networking/Subnetting.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,8 @@
   },
   "active": "d162618a45482d8e",
   "lastOpenFiles": [
+    "Networking/Subnetting.md",
+    "Networking/Networking Main.md",
     "Programming/Flowchart.md",
     "Writeups/CTF Writups Main.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
@@ -74,8 +76,6 @@
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/PrintNightmare_Vulnerability.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md",
-    "APIs d16ef/Untitled 1.png",
-    "Cybersecurity/Intro_To_EvidenceAcquisition.md",
-    "Cybersecurity/Working with VHD.md"
+    "APIs d16ef/Untitled 1.png"
   ]
 }

@@ -1,5 +1,7 @@
-# Subnetting Part 1
-## IPv4 Address Classes
+```toc
+```
+## Subnetting Part 1
+### IPv4 Address Classes
 | **Class** | **First Octet(Binary)** | **First Octet range(decimal)** | **Address Range** |
 | --- | --- | --- | --- |
 | A | 0xxxxxxx | 0-127 | 0.0.0.0~127.255.255.255 |
@@ -35,7 +37,8 @@ This allowed larger networks to be split into smaller networks, allowing greater
 | 255.255.255.254 | /31 |
 | 255.255.255.255 | /32 |
 
-# Subnetting Part 2
+---
+## Subnetting Part 2
 Another technique to identify what the range of each subnet is, you can check the last borrows bit value and add it to the current value.
 
 Example:
@@ -49,13 +52,13 @@ Notice that the last bit is 64. So in this case to find the next subnet you can 
 
 As you can see, a trick to finding the next subnet is to determine the value of the last borrowed bit and add it to the current subnet.
 
-## Calculate for the number of subnets
+### Calculate for the number of subnets
 
 **Example** 
 ![[Pasted image 20220604165506.png]]
 As you can see there are 5 subnets in the network 192.168.255.0/24
 
-Out goal is to divide the **192.168.255.0/24** network into five subnets of equal size. Identify the five subnets.
+Our goal is to divide the **192.168.255.0/24** network into five subnets of equal size. Identify the five subnets.
 
 ![[Pasted image 20220604170211.png]]
 
@@ -97,3 +100,21 @@ This is somewhat similar to calculating the number of hosts or usable addresses 
 | /30 | 16384 | 2 |
 | /31 | 32768 | 0(2) |
 | /32 | 65536 | 0(1) |
+
+### Example Problems and Solutions
+#### Example 1:
+What subnet does host **172.21.111.201/20** belong to?
+**Steps to solve this kind of problem**
+1. Write out the address in Binary
+![[Pasted image 20220617123644.png]]
+2. Change all of the host bits to 0 and convert the address back to dotted decimal
+![[Pasted image 20220617123757.png]]
+
+#### Example 2:
+What is the <u>broadcast address</u> of the network **192.168.91.78/26** belongs to?
+1. Write out the address into Binary
+2. Then change all the host bits to 1s and convert the address back to dotted decimal
+![[Pasted image 20220617124210.png]]
+
+---
+## Subnetting Part 3
