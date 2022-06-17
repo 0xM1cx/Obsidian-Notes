@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Writeups/CTF Writups Main.md",
+            "file": "Programming/Flowchart.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -66,6 +67,7 @@
   },
   "active": "d162618a45482d8e",
   "lastOpenFiles": [
+    "Programming/Flowchart.md",
     "Writeups/CTF Writups Main.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability.md",
@@ -74,7 +76,6 @@
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md",
     "APIs d16ef/Untitled 1.png",
     "Cybersecurity/Intro_To_EvidenceAcquisition.md",
-    "Cybersecurity/Working with VHD.md",
-    "Cybersecurity/Windows File System.md"
+    "Cybersecurity/Working with VHD.md"
   ]
 }
