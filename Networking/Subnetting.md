@@ -23,9 +23,10 @@ With CIDR(Classless Inter-Domain Routing), the requirements of:
 ...were removed.
 This allowed larger networks to be split into smaller networks, allowing greater efficiency. These smaller networks are called **subnetworks** or **subnets**.
 
-###### Formula to get the number of usable addresses:
-2^***n*** - 2 usable addresse. The ***n*** is the number of hosts bits left. 
+#### Formula to get the number of usable addresses:
+2^***n*** - 2 usable addresses. The ***n*** is the number of hosts bits left. 
 **CIDR Notation**
+
 | **Dotted Decimal** | **CIDR Notation** |
 | --- | --- |
 | 255.255.255.128 | /25 |
@@ -102,7 +103,7 @@ This is somewhat similar to calculating the number of hosts or usable addresses 
 | /32 | 65536 | 0(1) |
 
 ### Example Problems and Solutions
-#### Example 1:
+#### Example 1: Finding the subnet is belongs to
 What subnet does host **172.21.111.201/20** belong to?
 **Steps to solve this kind of problem**
 1. Write out the address in Binary
@@ -110,11 +111,57 @@ What subnet does host **172.21.111.201/20** belong to?
 2. Change all of the host bits to 0 and convert the address back to dotted decimal
 ![[Pasted image 20220617123757.png]]
 
-#### Example 2:
+#### Example 2: Find the broadcast address of a subnet
 What is the <u>broadcast address</u> of the network **192.168.91.78/26** belongs to?
 1. Write out the address into Binary
 2. Then change all the host bits to 1s and convert the address back to dotted decimal
 ![[Pasted image 20220617124210.png]]
 
+#### Example 3: Dividing subnets of equal size.
+You divide the **172.16.0.0/16** network into 4 subnets of equal size. Identify the **network** and **broadcast** addresses of the second subnet.
+1. Determine the prefix length to use, given the table above having a prefix length of /18 will give us 4 subnets.
+![[Pasted image 20220617125432.png]]
+![[Pasted image 20220617125528.png]]
+2. Turn the last network bit to 1 and convert it back to dotted decimal. This will be the second subnet and the network address for this subnet. The first was **172.16.0.0**![[Pasted image 20220617125544.png]]
+3. To find the broadcast address of the second subnet, change all the host bits to 1s and convert it back to dotted decimal.![[Pasted image 20220617125738.png]]
+#### Example 4: Getting the number of subnets given the number of hosts.
+You divide the **172.30.0.0/16** network into subnets of 1000 hosts each. How many subnets are you able to make?
+- To know how many subnets we are able to make we have to know how many bits we can borrow.
+- In order to know how many bits we can borrow, we need to find how many host bits we need for 1000 hosts.
+
+1. In our case we will 10 hosts bits to get more than 1000 hosts.
+![[Pasted image 20220617131449.png]]
+2. That will get us with **6** borrowed bits.![[Pasted image 20220617131829.png]]
+3. The 6 borrowed bits will get us 64 subnets.
+![[Pasted image 20220617132046.png]]
+
+#### Example 5: Subnetting Class A Networks
+You have been given the **10.0.0.0/8** network. You must create 2000 subnets which will be distributed to various enterprises.
+- What prefix length must you use? Answer: **/19**
+- How many host addresses (usable addresses) will be in each subnet? Answer: **8190**
+
+**How I solved this problem**
+1. First convert the address to binary format and determine what prefix length to use using the formula 2^n where **n** is the number of bits you must borrow, in this case the answer must be 2000 or greater.
+2. In this case the number of borrowed bits are 11 which will give us 2,048 subnets(**2^11 = 2,048 subnets**). 
+3. In the binary format of the **10.0.0.0** address we determined, with the 11 borrowed bits, that the prefix length for there to have 2,048 subnets must be /19.
+4. In order to get the number of host per subnet we use this formula **2 ^ n - 2**. Where **n** is the number of host bits minus 2 for the network and broadcast addresses. We get **8,190** hosts per subnet. 
+
+#### Example 6: Subnetting Class 6 Networks
+PC1 has an IP address of **10.217.182.223/11**
+Identify the following for PC1's subnet:
+- Network address: **10.192.0.0**
+- Broadcast address: **10.192.0.1**
+- First usable address: **10.223.255.255**
+- Last usable address: **10.223.255.254**
+- Number of host(usable) addresses: **2,097,150** hosts per subnet
+
+1.  First convert the address to binary to determine where the network portion ends and where the host portion starts, as well as the number of borrowed bits.  In this problem there were 3 borrowed bits. ![[Pasted image 20220617135239.png]]
+2. To find the **network address**, change all the host address to 0.![[Pasted image 20220617135338.png]]
+3. Add 1 to the determined network address above to find the **first usable address**. ![[Pasted image 20220617135543.png]]
+4. To get the **broadcast address** change all of the host bits to 1. ![[Pasted image 20220617135703.png]]
+5. To get the **last usable address**, just subtract 1 from the broadcast address. ![[Pasted image 20220617135841.png]]
+6. Lastly, to get the number of host per subnet, count the number of host bits and use this formula **2^n - 2**. ![[Pasted image 20220617140034.png]]
+
 ---
-## Subnetting Part 3
+## Subnetting Part 3 
+### Variable-Length Subnet Masks
