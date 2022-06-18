@@ -1,4 +1,6 @@
 # Javascript Objects
+```toc
+```
 JS object is a non-primitive data type that allows you to store multiple collections of data.
 
 > **NOTE**: Unlike other programming languages, Javascript objects are a bit different in which you do not need to create classes in order to create objects.
