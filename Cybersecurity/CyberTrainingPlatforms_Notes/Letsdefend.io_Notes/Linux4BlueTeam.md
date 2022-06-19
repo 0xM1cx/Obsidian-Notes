@@ -220,7 +220,25 @@ It is possible to copy nested directories with the cp command. The `-r` paramete
 This command is used to delete files/directories. In order to delete a directory, the parameter `-r` must be supplied for the rm command to delete files recursively i.e delete all the nested files and directories.
 
 ### cat
-The cat command is the command used for reading from the file. The path of the file to be read can also be given as a parameter. Example `cat file.txt` or path to file `cat /Documents/passwd/passwds.doc`
+The **cat** command is the command used for reading from the file. The path of the file to be read can also be given as a parameter. Example `cat file.txt` or path to file `cat /Documents/passwd/passwds.doc`
 
 ### echo
 This command is used for printing to the screen. Example `echo "Hello, World!"` it will print in the shell `Hello, World!`
+
+### more
+The **more** command is a command that allows reading the contents of long files. When you run the more command, a section of the file that fit the screen size will be seen and to view more details of the file you can click `enter` key which you read by scrolling down line by line and `space` key to view the next page(next visible file content that fit the screen). `q` key is used to exit the interactive reading environment.
+
+### wc
+The **wc** command is used to count the number of lines, the number of words and the number of characters in the file content. 
+- To determine the total number of lines in file use the `wc` command with the `-l` parameter. E.g. `wc -l <filename>`
+- To determine the total number of words in a file use the `-w` parameter.
+- To determine the total number of characters in a file use a `-m`
+
+### head
+This command is used to see the lines at the beginning of the file. The `-n` parameter of the head command allows to see any number of lines. E.g. to the see the first 5 lines in a file we type `head -n 5 <filename>`.
+
+### tail
+Unlike the `head` command the `tail` command is used to see the lines at the end of the file.  The `-n` parameter is allows to see the specified number of lines at the end of the file. E.g. to see the 5 last lines in the file we type `head -n 5 <filename>`
+
+### grep
+This command is used to search within a file. The word/s to be searched are given as parameters. E.g to search for the word "hello" in a file called <u>RandomWords.txt</u> we would type `grep hello RandomWords.txt`

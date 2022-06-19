@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d162618a45482d8e",
+        "id": "ec959625df81168f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability.md",
+            "file": "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -65,17 +65,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d162618a45482d8e",
+  "active": "ec959625df81168f",
   "lastOpenFiles": [
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability.md",
+    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
+    "Cybersecurity/DFIR_Essentials.md",
     "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/PrintNightmare_Vulnerability.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md",
-    "APIs d16ef/Untitled 1.png",
-    "Writeups/CTF Writups Main.md",
-    "Cybersecurity/Intro_To_EvidenceAcquisition.md",
-    "Cybersecurity/Working with VHD.md",
-    "Cybersecurity/Windows File System.md",
-    "Cybersecurity/WF1.md"
+    "Cybersecurity/\"DFIR.md",
+    "Cybersecurity/MemoryForensics.md",
+    "Cybersecurity/SOC_TOOLS.md",
+    "Cybersecurity/DigitalForensics&IncidentResponse.md",
+    "I.T Resources.md",
+    "Cybersecurity/Comptia_Security+/CompTIA Security+ All-in-One Exam Guide, Sixth Edition (Exam SY0-601)) by Wm. Arthur Conklin, Greg White, Dwayne Williams, Roger Davis, Chuck Cothren (z-lib.org).pdf",
+    "Cybersecurity/Comptia_Security+/Comptia Security+.md"
   ]
 }

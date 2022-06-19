@@ -1,4 +1,4 @@
-**Website containg DFIR Tooling, Digital Forensics tutorials and guids from system forensics in windows, linux an max, etc.**
+**Website containg DFIR Tooling, Digital Forensics tutorials and guides from system forensics in windows, linux an max, etc.**
 https://awesomedfir.com
 
 **DFIR Training Path by awesomedfir.com (Train-hard)**
