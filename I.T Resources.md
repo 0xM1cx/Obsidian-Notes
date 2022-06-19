@@ -16,7 +16,7 @@ A complete list of all the resources gathered over the years.
 - [Malware Unicorn Workshop](https://malwareunicorn.org/#/workshops)
 - [Free Automated Malware Analysis Sandboxes and Services](https://zeltser.com/automated-malware-analysis/)
 - [Malware Analysis Class Lecture](https://class.malware.re/)
-- 
+- [How you can start learning Malware Analysis](https://www.sans.org/blog/how-you-can-start-learning-malware-analysis/)
 
 
 ## Programming/Software Development Resources

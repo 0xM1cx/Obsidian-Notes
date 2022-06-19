@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d162618a45482d8e",
+        "id": "ec959625df81168f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -65,17 +65,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d162618a45482d8e",
+  "active": "ec959625df81168f",
   "lastOpenFiles": [
     "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
+    "Cybersecurity/Comptia_Security+/CompTIA Security+ All-in-One Exam Guide, Sixth Edition (Exam SY0-601)) by Wm. Arthur Conklin, Greg White, Dwayne Williams, Roger Davis, Chuck Cothren (z-lib.org).pdf",
+    "I.T Resources.md",
     "Cybersecurity/Comptia_Security+/Comptia Security+.md",
     "Cybersecurity/Cybersecurity Main.md",
     "distrowatch.com.md",
     "Web_Development/Web.md",
     "Web_Development/Bootstrap4.md",
-    "I.T Resources.md",
     "Cybersecurity/Basics of Digital Forensics.md",
-    "Cybersecurity/MemoryForensics.md",
-    "Cybersecurity/SOC_TOOLS.md"
+    "Cybersecurity/MemoryForensics.md"
   ]
 }
