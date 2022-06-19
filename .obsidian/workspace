@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
+            "file": "Cybersecurity/DigitalForensics&IncidentResponse.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,15 +67,15 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+    "Cybersecurity/DigitalForensics&IncidentResponse.md",
+    "I.T Resources.md",
+    "General-I.T/1.1_CompareAndContrast-Common-OS-Types-and-their-purposes].md",
+    "General-I.T/CompTIA-A+220-1002.md",
+    "Cybersecurity/Basics of Digital Forensics.md",
     "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
     "Cybersecurity/DFIR_Essentials.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/\"DFIR.md",
-    "Cybersecurity/MemoryForensics.md",
-    "Cybersecurity/SOC_TOOLS.md",
-    "Cybersecurity/DigitalForensics&IncidentResponse.md",
-    "I.T Resources.md",
-    "Cybersecurity/Comptia_Security+/CompTIA Security+ All-in-One Exam Guide, Sixth Edition (Exam SY0-601)) by Wm. Arthur Conklin, Greg White, Dwayne Williams, Roger Davis, Chuck Cothren (z-lib.org).pdf",
-    "Cybersecurity/Comptia_Security+/Comptia Security+.md"
+    "Cybersecurity/MemoryForensics.md"
   ]
 }

@@ -65,3 +65,32 @@ Malware analysis aims to learn about such malicious programs using various means
 
 1.  **Static analysis** works by inspecting the malicious program without running it. Usually, this requires solid knowledge of assembly language (processor’s instruction set, i.e., computer’s fundamental instructions).
 2.  **Dynamic analysis** works by running the malware in a controlled environment and monitoring its activities. It lets you observe how the malware behaves when running.
+
+## Things to learn
+### FROM GIAC Certified Forensics Examiner
+- [ ] **Browser Forensic Artifacts**
+    The candidate will demonstrate understanding of the forensic value of browser artifacts.
+- [ ] **Browser Structure and Analysis**   
+    The candidate will demonstrate understanding of common browser structure and analysis techniques.
+- [ ] **Cloud Storage Analysis**
+    The candidate will demonstrate an understanding of the artifacts created by the installation and use of cloud storage solutions and how they can be used during forensic examinations.
+- [ ] **Digital Forensic Fundamentals**
+    The candidate will demonstrate an understanding of forensic methodology and key concepts, and be familiar with Windows filesystems and registry structure.
+    
+- [ ]   **Email Analysis**
+    The candidate will demonstrate an understanding of the forensic examination of email communications, including client, web-based, mobile, and M365.
+    
+- [ ]   **Event Log Analysis**
+    The candidate will demonstrate an understanding of the purpose of the various types of Windows event, service and application logs, and the forensic value that they can provide.
+    
+- [ ]   **File and Program Analysis**
+    The candidate will demonstrate an understanding of the artifacts created by the Windows operating system during the execution of programs, or activity specific to folders and files.
+    
+- [ ] **Forensic Artifact Techniques**
+    The candidate will demonstrate an understanding of the approach and tools used to collect forensic evidence required for triage analysis.
+    
+- [ ] **System and Device Analysis**
+    The candidate will demonstrate an understanding of file access artifacts created by the Windows operating system and USB devices.
+    
+- [ ] **User Artifact Analysis**
+    The candidate will demonstrate an understanding of the artifacts created by user account(s) and activity on current Windows operating systems.
