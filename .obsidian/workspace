@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/DigitalForensics&IncidentResponse.md",
+            "file": "General-I.T/CompTIA-A+220-1102.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -67,10 +66,10 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+    "General-I.T/CompTIA-A+220-1102.md",
+    "General-I.T/1.1Identify-basic-features-of-Microsoft-Windows-editions.md",
     "Cybersecurity/DigitalForensics&IncidentResponse.md",
     "I.T Resources.md",
-    "General-I.T/1.1_CompareAndContrast-Common-OS-Types-and-their-purposes].md",
-    "General-I.T/CompTIA-A+220-1002.md",
     "Cybersecurity/Basics of Digital Forensics.md",
     "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
     "Cybersecurity/DFIR_Essentials.md",
