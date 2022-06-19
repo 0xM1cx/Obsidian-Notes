@@ -2,6 +2,9 @@ A complete list of all the resources gathered over the years.
 ```toc
 ```
 ## Cybersecurity Learning Resources
+### DFIR Tool and Other Resources Researched 5 months ago
+[DFIR](Cybersecurity/DigitalForensics&IncidentResponse)
+
 ### Hands-on Training Platforms
 - [Letsdefend.io_Challenges](https://app.letsdefend.io/challenge/) 
 - [Letsdefend.io_Practice_SOC](https://app.letsdefend.io/monitoring/alerts/)

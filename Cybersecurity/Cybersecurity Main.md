@@ -6,13 +6,14 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 [[Comptia Security+]]
 
 ## Defensive Security
-- [[Digital Forensics & Incident Response]]
+- [[DigitalForensics&IncidentResponse]]
 - [Phishing Analysis](Phishing.md)
 - [Security Operation Center](SOC.md)
 - [Detecting Web Attacks](DWA.md)
 - [Malware Analysis](MalwareAnalysis.md)
 - [Cyber Threat Intelligence](ThreatIntelligence.md)
 - [Linux4BlueTeam](Linux4BlueTeam.md) By Letsdefend.io
+- [DFIR Essentials](Cybersecurity/DFIR_Essentials) By Sans DFIR Essentials 101
 ## Offensive Security
 ##### Tools
 + [NMAP](NMAP.md)
