@@ -36,7 +36,7 @@ There are many different versions of Linux suitable for every type of user. Each
 -   Open SUSE
 -   Manjaro
   
-There are a number of Linux distributions and the new ones keep being published day by day. In order to see and examine the Linux distributions, you can refer to the [distrowatch](distrowatch.com) web address.
+There are a number of Linux distributions and the new ones keep being published day by day. In order to see and examine the Linux distributions, you can refer to the [distrowatch](https://distrowatch.com/) web address.
 
 ---
 # Linux File System Heirarchy
