@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General-I.T/1.1Identify-basic-features-of-Microsoft-Windows-editions.md",
+            "file": "Web_Development/Bootstrap4.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,15 +67,15 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
-    "General-I.T/1.1Identify-basic-features-of-Microsoft-Windows-editions.md",
-    "General-I.T/CompTIA-A+220-1102.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
+    "Web_Development/Bootstrap4.md",
     "Cybersecurity/DigitalForensics&IncidentResponse.md",
-    "I.T Resources.md",
+    "Cybersecurity/Intro_To_EvidenceAcquisition.md",
+    "Cybersecurity/MemoryForensics.md",
+    "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/Basics of Digital Forensics.md",
-    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
-    "Cybersecurity/DFIR_Essentials.md",
     "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/\"DFIR.md"
+    "Cybersecurity/WF1.md",
+    "Cybersecurity/DFIR_Essentials.md",
+    "General-I.T/1.1Identify-basic-features-of-Microsoft-Windows-editions.md"
   ]
 }
