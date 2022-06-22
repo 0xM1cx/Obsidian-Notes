@@ -2,6 +2,7 @@ Source: [Bootstrapbay](https://bootstrapbay.com/blog/day-2-bootstrap-4-grid-syst
 ```toc
 ```
 ## Grid System
+
 ### Bootstrap 4 Containers
 A Bootstrap 4 container is an element with the class `.container`. The container is the root of the Bootstrap 4 grid system and it is used to control the width of the layout. It contains all the elements in a page. This means your page should have the following structure: first the body of the HTML page, inside of it you add the container and all the other elements inside the container.
 
