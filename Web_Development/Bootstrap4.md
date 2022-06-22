@@ -330,3 +330,4 @@ Using `.align-items-baseline` will align the items along their content's baselin
 
 ### Aligning Individual Flex Items
 You can separate an element from the others on the primary axis using auto-margins. There are two classes used for this `.mr-auto` and `.ml-auto`. The previous class makes the element it is used on go as far left as possible(together with the elements before him.). And the latter class makes the element go as far right as possible.
+
