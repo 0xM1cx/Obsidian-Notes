@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web_Development/Bootstrap4.md",
+            "file": "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
     "Web_Development/Bootstrap4.md",
     "Cybersecurity/DigitalForensics&IncidentResponse.md",
     "Cybersecurity/Intro_To_EvidenceAcquisition.md",
@@ -75,7 +76,6 @@
     "Cybersecurity/Basics of Digital Forensics.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/WF1.md",
-    "Cybersecurity/DFIR_Essentials.md",
-    "General-I.T/1.1Identify-basic-features-of-Microsoft-Windows-editions.md"
+    "Cybersecurity/DFIR_Essentials.md"
   ]
 }
