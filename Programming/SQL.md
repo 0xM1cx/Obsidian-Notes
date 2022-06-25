@@ -141,7 +141,7 @@ WHERE (country = 'USA' OR country = 'UK') AND age < 26;
 ![[Pasted image 20220502174620.png]]
 
 ---
-**SELECT DISTINCT**
+## **SELECT DISTINCT**
 The SQL `SELECT DISTINCT` statement selects unique rows from a database table. For example,
 ```sql
 SELECT DISTINCT country
@@ -150,7 +150,7 @@ FROM Customers;
 Here, the SQL command selects unique countries from the Customers table.
 ![[Pasted image 20220502174929.png]]
 
-**DISTINCT with COUNT**
+### DISTINCT with COUNT
 If we need to count the number of unique rows, we can use the `COUNT()` function with `DISTINCT`.
 ```sql
 SELECT COUNT(DISTINCT country)
@@ -159,7 +159,7 @@ FROM Customers;
 Here, the SQL command returns the count of unique countries.
 ![[Pasted image 20220502175606.png]]
 
-**SELECT AS**
+## SELECT AS
 The `AS` keyword is used to give columns or tables a temporary name that can be used to identify that column or table later. For example:
 ```sql
 SELECT first_name AS name
@@ -175,7 +175,7 @@ FROM Customers;
 ```
 Here, the SQL command selects customer_id as cid and first_name as name.
 
-**AS with Expressions**
+### SQL AS with Expressions
 We can combine data from multiple columns and represent data in a single column using the `CONCAT()` function. For example,
 ```sql
 SELECT CONTACT(first_name, ' ', last_name) AS full_name
@@ -184,7 +184,7 @@ FROM Customers;
 Here, the SQL command selects first_name and last_name. And, the name of the column will be full_name in the result set.
 ![[Pasted image 20220502180756.png]]
 
-**SELECT TOP**
+## SELECT TOP
 The `SELECT TOP` command is used to select a fixed number of rows from a database. For example,
 ```sql
 SELECT TOP 2 *
@@ -192,7 +192,26 @@ FROM Customers;
 ```
 Here, the SQL command selects the first **2** rows from the table.
 ![[Pasted image 20220502181124.png]]
+
 > **Note**: The `TOP` clause is not supported in all Database Management Systems (DBMS). Different DMBS use different keywords to select a fixed number of rows.
 
 For example,
-|
+| **Keyword** | **Database System** |
+| --- | --- |
+| `TOP` | SQL Server, MS Access |
+| `LIMIT` | MySQL, PostgreSQL, SQLite |
+| `FETCH FIRST` | Oracle |
+
+## SQL Limit
+This keyword is used with **MySQL**, **PostgreSQL**, **SQLite**. This is used if you want to specify the number of rows that will be returned with the `SELECT` statement.
+
+### LIMIT With OFFSET Clause
+The `offset` keyword is used to specify starting rows from where to select rows. 
+```sql 
+SELECT first_name, last_name FROM Customers LIMIT 2 OFFSET 3;
+```
+
+In the example above, SQL commands selects 2 rows starting from the fourth row. `OFFSET 3` means the first 3 rows are excluded.
+
+## TOP Clause
+The `TOP` keyword is used with **SQL Server** and **MS Access**. This is used to retrieve the data from the top of the table. It retrieves only the first few set of rows from the top of the desired table.
