@@ -381,4 +381,4 @@ For changing the alignment of the secondary axis for individual items, you will 
 ```
 
 ### Flex Fill
-By default, the width of the Bootstrap 4 flex items is the width of their content. Even if there is more than enough space in the container for the items, they won't grow. Flex wants us to define how much they should grow. 2 options are available for distributing the remaining space when there is additional space.
+By default, the width of the Bootstrap 4 flex items is the width of their content. Even if there is more than enough space in the container for the items, they won't grow. 2 options are available for distributing the remaining space when there is additional space.

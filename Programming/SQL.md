@@ -1,5 +1,7 @@
-### What is SQL
-***SQL or Structured Query Language*** is a powerful and standard query language for relational database systems. We use SQL to perfom CRUD(Create, Read, Update, Delete) operations on databases along with other various operations.
+```toc
+```
+## What is SQL
+***SQL or Structured Query Language*** is a powerful and standard query language for relational database systems. We use SQL to perform **CRUD(Create, Read, Update, Delete)** operations on databases along with other various operations.
 
 **Database**. Is an organized collection of data so that it can be easily accessed. To manage these databases, ***Database Management Systems(DBMS)*** are used.
 
