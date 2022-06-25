@@ -215,3 +215,29 @@ In the example above, SQL commands selects 2 rows starting from the fourth row. 
 
 ## TOP Clause
 The `TOP` keyword is used with **SQL Server** and **MS Access**. This is used to retrieve the data from the top of the table. It retrieves only the first few set of rows from the top of the desired table.
+```sql
+SELECT TOP 2 first_name, last_name FROM Customers;
+```
+
+Here, the SQL command selects `first_name` and `last_name` of the first 2 rows.
+
+## FETCH FIRST Clause
+This clause is used with the **ORACLE database system**. It is used as `FETCH FIRST n ROWS ONLY`
+```sql
+SELECT * FROM Customers
+FETCH FIRST 2 ROWS ONLY;
+```
+
+Here, the SQL command selects the first 2 rows from the table.
+
+## SQL IN Operator
+This is used with the `WHERE` clause to match values in a list.
+```sql
+SELECT first_name, country
+FROM Customers
+WHERE country IN ("USA", "UK");
+```
+Here, the SQL command selects rows if the `country` is either **USA** or **UK**
+
+### IN Operator with Columns
+This operator can also be used to select rows in which a certain value exist in the given field.
