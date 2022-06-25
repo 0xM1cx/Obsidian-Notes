@@ -351,3 +351,34 @@ You can separate an element from the others on the primary axis using auto-margi
 ```
 
 For changing the alignment of the secondary axis for individual items, you will need to use classes `.align-self-start`, `.align-self-end`, `.align-self-center`, `.align-self-baseline`, `align-self-stretch` on the individual flexbox item.
+**Example**
+```html
+<div class="row">
+  <div class="col-4">
+    <div class="d-flex">
+      <div>Flex item 1</div>
+      <div class="align-self-center">Flex item 2</div>
+      <div>Flex item 3</div>
+    </div>
+  </div>
+  
+  <div class="col-4">
+    <div class="d-flex align-items-start">
+      <div>Flex item 1</div>
+      <div class="align-self-stretch">Flex item 2</div>
+      <div>Flex item 3</div>
+    </div>
+  </div>
+  
+  <div class="col-4">
+    <div class="d-flex">
+      <div>Flex item 1</div>
+      <div class="align-self-end">Flex item 2</div>
+      <div>Flex item 3</div>
+    </div>
+  </div>
+</div>
+```
+
+### Flex Fill
+By default, the width of the Bootstrap 4 flex items is the width of their content. Even if there is more than enough space in the container for the items, they won't grow. Flex wants us to define how much they should grow. 2 options are available for distributing the remaining space when there is additional space.
