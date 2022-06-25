@@ -350,3 +350,4 @@ You can separate an element from the others on the primary axis using auto-margi
 </div>
 ```
 
+For changing the alignment of the secondary axis for individual items, you will need to use classes `.align-self-start`, `.align-self-end`, `.align-self-center`, `.align-self-baseline`, `align-self-stretch` on the individual flexbox item.
