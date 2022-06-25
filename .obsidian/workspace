@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Web_Development/Bootstrap4.md",
+=======
+            "file": "I.T Resources.md",
+>>>>>>> 7d1de1be3cb8d861604a4a2e33bd8fa505d7f7d0
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -67,6 +70,11 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "I.T Resources.md",
+    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
+>>>>>>> 7d1de1be3cb8d861604a4a2e33bd8fa505d7f7d0
     "Web_Development/Bootstrap4.md",
     "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
     "Cybersecurity/DigitalForensics&IncidentResponse.md",
@@ -75,7 +83,6 @@
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/Basics of Digital Forensics.md",
     "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/WF1.md",
-    "Cybersecurity/DFIR_Essentials.md"
+    "Cybersecurity/WF1.md"
   ]
 }
