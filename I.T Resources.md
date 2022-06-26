@@ -24,7 +24,7 @@ A complete list of all the resources gathered over the years.
 
 ## Programming/Software Development Resources
 ### Web Development
-- [ ] [HTML.com](https://html.com/)
+- [x] [HTML.com](https://html.com/)
 - [ ] [CSS Tricks](https://css-tricks.com/)
 - [ ] [JS In 30 Days](https://courses.wesbos.com/account)
 - [ ] [Javascript in 30 days github](https://github.com/Asabeneh/30-Days-Of-JavaScript)
@@ -35,7 +35,7 @@ A complete list of all the resources gathered over the years.
 - [Web Development Style guides](http://styleguides.io/)
 
 ### Web fundamentals
-- [ ] [How does the web work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [x] [How does the web work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 - [ ] [How does a web browser work?](https://medium.com/@monica1109/what-happens-when-i-type-any-url-in-the-browser-3719c6357da2)
 - [ ] [HTTP Basics](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
 - [ ] [What is an API?](https://www.youtube.com/watch?v=Yzx7ihtCGBs&ab_channel=CodeWithChris)
