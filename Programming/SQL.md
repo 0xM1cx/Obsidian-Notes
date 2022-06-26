@@ -269,5 +269,25 @@ WHERE country IN ('USA', 'UK', 'USA');
 --- Is equivalent to
 SELECT first_name, country
 FROM Customers
-WHERE country IN ('USA', 'UK')
+WHERE country IN ('USA', 'UK');
 ```
+
+### IN operator with Subquery
+A **subquery** is a query that is nested inside a SELECT, INSERT, UPDATE or DELETE statement or inside another subquery.
+
+Suppose we want details of customers who have placed an order. Here's how we can do that using a subquery.
+```sql
+SELECT customer_id, first_name
+FROM Customers
+WHERE customer_id IN (
+	SELECT customer_id
+	FROM Orders
+);
+```
+
+Here, the query
+1. Selects the `customer_id` from `Orders` table
+2. Select rows from `Customers` table where `customer_id` is in the result set of subquery.
+
+## SQL Between Operator
+This operator is used with the `WHERE` clause
