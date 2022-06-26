@@ -241,3 +241,33 @@ Here, the SQL command selects rows if the `country` is either **USA** or **UK**
 
 ### IN Operator with Columns
 This operator can also be used to select rows in which a certain value exist in the given field.
+``` sql
+SELECT first_name, country
+FROM Customers
+WHERE "USA" IN (country);
+```
+
+### NOT IN Operator
+This operator excludes the rows that matches the value in the list. It returns all the rows except the excluded rows.
+```sql
+SELECT first_name, country
+FROM Customers
+WHERE country NOT IN ('UK', 'UAE');
+```
+In the example above, it selects a specific row if the **UK** or **UAE** is not in the `country` column.
+
+> The **IN** operator is reversed by **NOT** operator. They are basically two operators combined.
+
+### IN Operator with Duplicate Values
+The IN operator ignores duplicate values in the list.
+```sql
+--- Example the commands below
+SELECT first_name, country
+FROM Customers
+WHERE country IN ('USA', 'UK', 'USA');
+
+--- Is equivalent to
+SELECT first_name, country
+FROM Customers
+WHERE country IN ('USA', 'UK')
+```
