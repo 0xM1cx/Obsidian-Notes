@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/C-Intro.md",
+            "file": "Japanese/Japanese Main.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,15 +66,15 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
-    "Programming/C-Intro.md",
+    "Japanese/Japanese Main.md",
     "Programming/C-FlowControl.md",
+    "Academic/Academic Main.md",
+    "Academic/EVSU 70935.md",
+    "Programming/C-Intro.md",
     "Programming/SQL.md",
     "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
     "General-I.T/CompTIA-A+220-1102.md",
     "Web_Development/Web Development Main.md",
-    "Web_Development/Web.md",
-    "I.T Resources.md",
-    "Web_Development/Bootstrap4.md",
-    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md"
+    "Web_Development/Web.md"
   ]
 }

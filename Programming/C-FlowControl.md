@@ -66,7 +66,7 @@ for (initializationStatement; testExpression; updateStatement)
 }
 ```
 ### How for loop works?
-- The initialization statement is exeecuted only onnce.
+- The initialization statement is executed only once.
 - Then the test expression is evaluated. If the test expression is evaluated to false, the loop is terminated
 - However, if the test expression is evaluated to true, statements inside the body of the for loop are executed, and the update expression is updated.
 - Again the test expression is evaluated.
