@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/Japanese Main.md",
+            "file": "Programming/Python/Set Mutations.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,15 +66,15 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+    "Programming/Python/Set Mutations.md",
+    "Programming/Python/Lamda.md",
+    "Programming/Python/Inheritance.md",
     "Japanese/Japanese Main.md",
     "Japanese/Hiragana.md",
-    "Programming/C-FlowControl.md",
+    "Programming/C/C-FlowControl.md",
     "Academic/Academic Main.md",
     "Academic/EVSU 70935.md",
-    "Programming/C-Intro.md",
-    "Programming/SQL.md",
-    "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
-    "General-I.T/CompTIA-A+220-1102.md",
-    "Web_Development/Web Development Main.md"
+    "Programming/C/C-Intro.md",
+    "Programming/SQL/SQL.md"
   ]
 }

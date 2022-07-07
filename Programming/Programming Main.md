@@ -1,6 +1,6 @@
 # Unified Modeling Lanugage
 - [[Flowchart]]
-- [Use Case Diagram](Programming/UseCaseDiagram)
+- [Use Case Diagram](UseCaseDiagram.md)
 
 
 # Python
@@ -8,23 +8,23 @@
 - [Data Structures](Programming/Data Structures)
 ## Python Advanced Topics
 - [[Decorators]]
-- [Inheritance](Programming/Inheritance)
+- [Inheritance](Inheritance.md)
 
 
 ## Python Hacker Rank
 - [[Set Mutations]]
 
 ## Python HackInScience
-- [Lamda Function](/Programming/Lamda)
+- [Lamda Function](Lamda.md)
 
 
 # Bourne Again Shell
-- [Bash Lesson 1](Programming/Bash)
+- [Bash Lesson 1](Bash.md)
 
 # Structured Query Language
-- [SQL](Programming/SQL)
+- [SQL](SQL.md)
 
 # C
 - [C Introduction Lessons](C-Intro.md)
-- [C Flow Control](Programming/C-FlowControl)
+- [C Flow Control](C-FlowControl.md)
 - 

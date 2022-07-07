@@ -65,7 +65,7 @@ Kana Characters
 
 Kana Characters
 - [ ] sa さ サ 
-- [ ] shi し シ 
+- [ ] sh し シ 
 - [ ] su す ス 
 - [ ] se せ セ 
 - [ ] so そ ソ
