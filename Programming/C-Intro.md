@@ -1,4 +1,4 @@
-# C Intro
+ # C Intro
 ## Character set
 
 A character set is a set of alphabets, letters and some special characters that are valid in C language.
