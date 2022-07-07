@@ -47,4 +47,25 @@ Kana Characters
 - [ ] ケ - ke
 - [ ] こ - ko
 - [ ] コ - ko
-　
+
+### Day 3  - 7/10/2022
+**Things To learn**
+> Reading, Pronunciation and Writing
+
+Kana Characters
+- [ ] ka か カ 
+- [ ] kｉ き キ 
+- [ ] ku く ク 
+- [ ] ke け ケ 
+- [ ] ko こ コ
+
+### Day 4  - 7/11/2022
+**Things To learn**
+> Reading, Pronunciation and Writing
+
+Kana Characters
+- [ ] sa さ サ 
+- [ ] shi し シ 
+- [ ] su す ス 
+- [ ] se せ セ 
+- [ ] so そ ソ
