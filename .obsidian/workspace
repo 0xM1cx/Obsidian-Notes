@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Cybersecurity_Model&Frameworks.md",
+            "file": "Cybersecurity/Comptia_Security+/1.1 Compare and contrast different types of social engineering techniques.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+    "Cybersecurity/Comptia_Security+/1.1 Compare and contrast different types of social engineering techniques.md",
     "Cybersecurity/Cybersecurity_Model&Frameworks.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/DFIR/Basics of Digital Forensics.md",
@@ -75,7 +76,6 @@
     "Cybersecurity/DFIR/DigitalForensics&IncidentResponse.md",
     "Programming/C/C-FlowControl.md",
     "Japanese/Japanese Main.md",
-    "Programming/Python/Set Mutations.md",
-    "Programming/Python/Lamda.md"
+    "Programming/Python/Set Mutations.md"
   ]
 }
