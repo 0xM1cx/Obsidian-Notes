@@ -1,7 +1,7 @@
 ## Diamond Model
 The **Diamond Model** is a model for mapping adversary activity. It's useful for many aspects of InfoSec, including CTI.
 
-This is a powerful framework that can be used both to describe the sources of nation's competitive advantage and the path to obtaining such an advantage.
+This model of intrusion analysis explains how an **adversary** exploits a **capability** of an **infrastructure** against a **victim**. This approach claims that adversaries use their infrastructure capabilities against victims to make an impact on each intrusion.
 
 ---
 This model is named because of the shape formed by the relationships between the 4 core features of an intrusion event:
