@@ -1,3 +1,5 @@
+```toc
+```
 ## if...else Statements
 The syntax of the `if` statement in C programming is:
 ```c
