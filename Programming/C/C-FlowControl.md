@@ -65,6 +65,7 @@ for (initializationStatement; testExpression; updateStatement)
     // statements inside the body of loop
 }
 ```
+
 ### How for loop works?
 - The initialization statement is executed only once.
 - Then the test expression is evaluated. If the test expression is evaluated to false, the loop is terminated
@@ -92,3 +93,4 @@ int main() {
 3. The update statement `++i` is executed. Now, the value of `i` will be 2. Again, the test expression is evaluated to true, and the body of `for` loop is executed. This will print 2(value of `i`) on the screen.
 4. Again, the update statement `++i` is executed and the test expression `i < 11` is evaluated. This process goes on until `i` becomes 11.
 5. When `i` becomes 11, `i < 11` will be false, and the `for` loop terminates.
+
