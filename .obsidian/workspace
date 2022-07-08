@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/C/C-FlowControl.md",
+            "file": "Cybersecurity/Cybersecurity_Model&Frameworks.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -67,15 +66,15 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+    "Cybersecurity/Cybersecurity_Model&Frameworks.md",
+    "Cybersecurity/Cybersecurity Main.md",
+    "Cybersecurity/DFIR/Basics of Digital Forensics.md",
+    "Cybersecurity/DFIR/WF1.md",
+    "Cybersecurity/DFIR/DFIR_Essentials.md",
+    "Cybersecurity/DFIR/DigitalForensics&IncidentResponse.md",
     "Programming/C/C-FlowControl.md",
     "Japanese/Japanese Main.md",
     "Programming/Python/Set Mutations.md",
-    "Programming/Python/Lamda.md",
-    "Programming/Python/Inheritance.md",
-    "Japanese/Hiragana.md",
-    "Academic/Academic Main.md",
-    "Academic/EVSU 70935.md",
-    "Programming/C/C-Intro.md",
-    "Programming/SQL/SQL.md"
+    "Programming/Python/Lamda.md"
   ]
 }

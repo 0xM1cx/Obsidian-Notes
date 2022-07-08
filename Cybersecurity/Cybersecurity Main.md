@@ -13,7 +13,7 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 - [Malware Analysis](MalwareAnalysis.md)
 - [Cyber Threat Intelligence](ThreatIntelligence.md)
 - [Linux4BlueTeam](Linux4BlueTeam.md) By Letsdefend.io
-- [DFIR Essentials](Cybersecurity/DFIR_Essentials) By Sans DFIR Essentials 101
+- [DFIR Essentials](DFIR_Essentials.md) By Sans DFIR Essentials 101
 ## Offensive Security
 ##### Tools
 + [NMAP](NMAP.md)
