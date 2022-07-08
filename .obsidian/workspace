@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/C/C-FlowControl.md",
+            "file": "Japanese/Japanese Main.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,11 +66,11 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+    "Japanese/Japanese Main.md",
     "Programming/C/C-FlowControl.md",
     "Programming/Python/Set Mutations.md",
     "Programming/Python/Lamda.md",
     "Programming/Python/Inheritance.md",
-    "Japanese/Japanese Main.md",
     "Japanese/Hiragana.md",
     "Academic/Academic Main.md",
     "Academic/EVSU 70935.md",

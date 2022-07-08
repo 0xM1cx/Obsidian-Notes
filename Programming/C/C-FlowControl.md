@@ -66,7 +66,7 @@ for (initializationStatement; testExpression; updateStatement)
 }
 ```
 
-### How for loop works?
+### How the for loop works?
 - The initialization statement is executed only once.
 - Then the test expression is evaluated. If the test expression is evaluated to false, the loop is terminated
 - However, if the test expression is evaluated to true, statements inside the body of the for loop are executed, and the update expression is updated.
@@ -94,3 +94,15 @@ int main() {
 4. Again, the update statement `++i` is executed and the test expression `i < 11` is evaluated. This process goes on until `i` becomes 11.
 5. When `i` becomes 11, `i < 11` will be false, and the `for` loop terminates.
 
+## While Loop
+```c
+while (testExpression){
+	// the body of the loop
+}
+```
+
+### How the while loop works?
+- The `while` loop evaluates the `testExpression` inside the parentheses.
+- If the `testExpression` is true, the statements inside the body of the `while` loop are executed. Then, `testExpression` is evaluated again.
+- The process goes on until `testExpression` is evaluated to false.
+- If `testExpression` is false, the loop terminates.
