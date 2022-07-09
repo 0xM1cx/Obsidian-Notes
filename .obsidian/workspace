@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "I.T Resources.md",
+            "file": "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
     "I.T Resources.md",
     "Cybersecurity/Comptia_Security+/1.1 Compare and contrast different types of social engineering techniques.md",
     "Cybersecurity/Cybersecurity_Model&Frameworks.md",
@@ -75,7 +76,6 @@
     "Cybersecurity/DFIR/WF1.md",
     "Cybersecurity/DFIR/DFIR_Essentials.md",
     "Cybersecurity/DFIR/DigitalForensics&IncidentResponse.md",
-    "Programming/C/C-FlowControl.md",
-    "Japanese/Japanese Main.md"
+    "Programming/C/C-FlowControl.md"
   ]
 }
