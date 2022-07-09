@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Comptia_Security+/1.1 Compare and contrast different types of social engineering techniques.md",
+            "file": "I.T Resources.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+    "I.T Resources.md",
     "Cybersecurity/Comptia_Security+/1.1 Compare and contrast different types of social engineering techniques.md",
     "Cybersecurity/Cybersecurity_Model&Frameworks.md",
     "Cybersecurity/Cybersecurity Main.md",
@@ -75,7 +76,6 @@
     "Cybersecurity/DFIR/DFIR_Essentials.md",
     "Cybersecurity/DFIR/DigitalForensics&IncidentResponse.md",
     "Programming/C/C-FlowControl.md",
-    "Japanese/Japanese Main.md",
-    "Programming/Python/Set Mutations.md"
+    "Japanese/Japanese Main.md"
   ]
 }

@@ -120,3 +120,9 @@ A complete list of all the resources gathered over the years.
 
 ### Data Structures and Algorithms
 - [DSA Programiz](https://www.programiz.com/dsa)
+
+
+## SCHOOL
+### 1st Year Courses
+#### Introduction to computing
+[Syllabus Intro to computing](https://www.studocu.com/ph/document/university-of-caloocan-city/bachelor-of-science-in-accounting-information-system/it103summer-2013-syllabus-introduction-to-computing/16869504)
