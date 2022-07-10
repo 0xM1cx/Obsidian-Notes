@@ -122,4 +122,16 @@ int main() {
 	}
 return 0;
 }
+
+/*OUTPUT
+1
+2
+3
+4
+5
+*/
 ```
+Here, we have initialized `i` to 1.
+1. when `i = 1`, the test expression `i <= 5` is **true**. Hence, the body of the `while` loop is executed. This prints `1` on the screen and the value `i` is increased to `2`.
+2. Now, `i=2`, the test expression `i<=5` is again **true**. The body of the `while` loop is executed again. This prints `2` on the screen and the value of `i` is increased to `3`.
+3. This process repeats until `i` becomes 6. Then, the test expression `i<=5` will be **false** and the loop terminates.
