@@ -57,7 +57,7 @@ int main() {
 ```
 
 ---
-In programming, a loop is used t repeat a block of code until the speceified condition is met.
+In programming, a loop is used t repeat a block of code until the specified condition is met.
 
 ## for loop
 Syntax:
@@ -108,3 +108,18 @@ while (testExpression){
 - If the `testExpression` is true, the statements inside the body of the `while` loop are executed. Then, `testExpression` is evaluated again.
 - The process goes on until `testExpression` is evaluated to false.
 - If `testExpression` is false, the loop terminates.
+![[Pasted image 20220710165405.png]]
+
+Example while loop:
+```c
+#include <stdio.h>
+int main() {
+	int i = 1;
+
+	while (i<=5) {
+		printf("%d\n", i);
+		++i;	
+	}
+return 0;
+}
+```
