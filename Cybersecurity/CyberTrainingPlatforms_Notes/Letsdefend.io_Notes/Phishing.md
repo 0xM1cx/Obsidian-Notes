@@ -24,7 +24,7 @@ Many parameters are needed when analyzing a phishing attack. We can learn the si
 ---
 
 ## What is an Email Header?
-"Header" is basically a section of the mail that contains information such as sender, recipient and date. In addition, there are fields such as "Return-Path", "Reply-To", and "Received". Below you can see the header details of a sample email.
+"**Header**" is basically a section of the mail that contains information such as *sender*, *recipient* and *date*. In addition, there are fields such as "**Return-Path**", "**Reply-To**", and "**Received**". Below you can see the header details of a sample email.
 ![[Pasted image 20220507172005.png]]
 
 ## What does the Email Header do?
@@ -52,7 +52,7 @@ If you want to find out more about carbon copy and blind carbon copy, check out 
 **Date**  
 This is the timestamp that shows when the email was sent.  
 In Gmail, it usually follows the format of "day dd month yyyy hh:mmss  
-So if an email had been sent on the 16th of November, 2021, at 4:57:23 PM, it would show as Wed, 16 Nov 2021 16:57:23.
+So if an email had been sent on the *16th of November, 2021, at 4:57:23 PM*, it would show as *Wed, 16 Nov 2021 16:57:23*.
 
 **Subject**  
 The subject mentions the topic of the email. It summarizes the content of the entire message body.
