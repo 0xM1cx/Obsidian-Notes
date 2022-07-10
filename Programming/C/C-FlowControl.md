@@ -137,3 +137,10 @@ Here, we have initialized `i` to 1.
 3. This process repeats until `i` becomes 6. Then, the test expression `i<=5` will be **false** and the loop terminates.
 
 ## do...while loop
+This is similar to the while loop, but the do...while loop is executed at least once. Only then, the test expression is evaluated.
+Syntax:
+```c
+do {
+	// body of the loop
+} while (testExpression);
+```
