@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/C/C-FlowControl.md",
+            "file": "Programming/C/C-Intro.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
+    "Programming/C/C-Intro.md",
     "Programming/C/C-FlowControl.md",
     "Web_Development/Web.md",
     "Web_Development/Cascading Stylesheet.md",
@@ -75,7 +76,6 @@
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Phishing.md",
     "I.T Resources.md",
     "Cybersecurity/Comptia_Security+/1.1 Compare and contrast different types of social engineering techniques.md",
-    "Cybersecurity/Cybersecurity_Model&Frameworks.md",
-    "Cybersecurity/Cybersecurity Main.md"
+    "Cybersecurity/Cybersecurity_Model&Frameworks.md"
   ]
 }

@@ -68,7 +68,7 @@ int main(){
     return 0;
 }
 ```
-Here, we have used `%d` format specifier inside the `scanf()` function to take `int` input from the user. When the user enters an integer, it is stored in the testInteger variable.
+Here, we have used `%d` format specifier inside the `scanf()` function to take `int` input from the user. When the user enters an integer, it is stored in the test Integer variable.
 
 **Example for characters**
 ```c
