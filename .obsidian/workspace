@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Phishing.md",
+            "file": "Web_Development/Web.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -67,15 +66,15 @@
   },
   "active": "ec959625df81168f",
   "lastOpenFiles": [
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Phishing.md",
+    "Web_Development/Web.md",
+    "Web_Development/Cascading Stylesheet.md",
+    "Web_Development/Web Development Main.md",
     "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Phishing.md",
     "I.T Resources.md",
     "Cybersecurity/Comptia_Security+/1.1 Compare and contrast different types of social engineering techniques.md",
     "Cybersecurity/Cybersecurity_Model&Frameworks.md",
     "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/DFIR/Basics of Digital Forensics.md",
-    "Cybersecurity/DFIR/WF1.md",
-    "Cybersecurity/DFIR/DFIR_Essentials.md",
-    "Cybersecurity/DFIR/DigitalForensics&IncidentResponse.md"
+    "Cybersecurity/DFIR/Basics of Digital Forensics.md"
   ]
 }
