@@ -176,9 +176,10 @@ The practice above for subnetting is called FSLM or **Fixed-Length Subnet Masks*
 3. Repeat the process until all subnets have been assigned.
 ![[Pasted image 20220617173442.png]]
 
-For Tokyo LAN A to get ff:
+For Tokyo LAN A to get following:
 - Network Address:
 - Broadcast Address:
 - First usable Address:
 - Last usable Address:
 - Total number of host per subnet:
+[Bookmark: minuet 10:21](https://www.youtube.com/watch?v=z-JqCedc9EI&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=26)
