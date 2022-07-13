@@ -16,7 +16,8 @@ Say we have a switch of three departments: Engineering, Sales, and HR. These dep
 
 **In terms of Security**. Even within the same office, you want to limit who has access to what data. You can apply security policies on a router/firewall. Because this is one LAN, PCs can reach each other directly, without traffic passing through the router. So, even if you configure security policies, they won't have any effect.
 
-**The solution, VLANs**
-When we set up a VLAN it will have its own logical subnet in which it will be separated from other VLANs and can only send broadcast frames to its local VLAN. VLANs will function like different switches on a single router but logically separated. This reduces cost of buying more hardware.
+### How they work
+When we set up a VLAN it will have its own logical subnet in which it hosts will be separated from other VLANs and can only send broadcast frames to its local VLAN. VLANs will function like different switches on a single router but logically separated. This reduces cost of buying more hardware.
 
+**The switch does not perform "inter-VLAN routing". It must send send the traffic through the router.** When a client wants to send data from its VLAN to another the data must pass through the router then to back to the switch to the other VLAN. 
  
