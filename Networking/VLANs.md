@@ -6,6 +6,7 @@ A common definition of LAN is that it is a group of devices(PCs, Servers, Router
 A more specific definition: A LAN is a single **Broadcast domain**, including all devices in that broadcast domain. A **Broadcast domain** is the group of devices which will receive a broadcast frame (destination MAC of FFFF.FFFF.FFFF) sent by any one of the members.
 
 ## What are VLANs?
+It is a logical LAN, a logical grouping of devices in the same broadcast domain. VLANs are usually configures on switches by placing some interfaces into one broadcast domain and some interfaces into another. Each VLAN acts as a subgroup of the switch ports in an Ethernet LAN.
 
 ## Why do we need VLANs?
 ![[Pasted image 20220712233352.png]]
@@ -18,4 +19,4 @@ Say we have a switch of three departments: Engineering, Sales, and HR. These dep
 **The solution, VLANs**
 When we set up a VLAN it will have its own logical subnet in which it will be separated from other VLANs and can only send broadcast frames to its local VLAN. VLANs will function like different switches on a single router but logically separated. This reduces cost of buying more hardware.
 
-[Bookmark: video at current time](https://youtu.be/cjFzOnm6u1g?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&t=617)
+ 
