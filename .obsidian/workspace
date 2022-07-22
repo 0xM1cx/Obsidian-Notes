@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07d5ba89eafd0881",
+        "id": "51e71de4ca050cff",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programming/C/C-FlowControl.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -59,8 +64,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07d5ba89eafd0881",
+  "active": "51e71de4ca050cff",
   "lastOpenFiles": [
+    "Cybersecurity/Comptia_Security+/1.2 Given a scenario, analyze potential indicators to determine the type of attack 1.md",
     "Programming/C/C-FlowControl.md",
     "I.T Resources.md",
     "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md",
@@ -69,7 +75,6 @@
     "Networking/VLANs.md",
     "Networking/Networking Main.md",
     "Networking/Subnetting.md",
-    "Networking/Static Routing.md",
-    "Programming/C/C-Intro.md"
+    "Networking/Static Routing.md"
   ]
 }

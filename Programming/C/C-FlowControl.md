@@ -301,3 +301,5 @@ switch (expression){
 - If there is not match, the default statements are executed. The `default` clause inside the `switch` statement is optional.
 
 ## Lessons to practice/review
+- [ ] break and continue
+- [ ] switch case
