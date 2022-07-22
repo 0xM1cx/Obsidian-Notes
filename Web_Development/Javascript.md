@@ -1,3 +1,5 @@
+```toc
+```
 ## Rules for Naming Variables 
 We know how to create variables, using the `var` and `let` keyword, naming the variable and assigning it a value. 
 

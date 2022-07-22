@@ -1,4 +1,5 @@
-
+```toc
+```
 ## Functions
 A function is a block of code that performs a specific task.
 
@@ -8,7 +9,7 @@ Suppose you need to create a program to create a circle and color it. You can cr
 
 Dividing a complex problem into smaller chunks makes your program easy to understand and reusable.
 
-sJavaScript also has a huge number of inbuilt functions. For example, `Math.sqrt()` is a function to calculate the square root of a number.
+JavaScript also has a huge number of inbuilt functions. For example, `Math.sqrt()` is a function to calculate the square root of a number.
 
 In this tutorial, you will learn about user-defined functions.
 
@@ -57,7 +58,7 @@ If nothing is returned, the function returns an `undefined` value.
 - Function makes the program easier as each small task is divided into a function.
 - Function increases readability.
 ---
-#### Function Expressions
+### Function Expressions
 In js, functions can also be defined as expressions.
 ```js
 // program to find the square of a number
@@ -80,7 +81,7 @@ In JS, a variable has two types of scope:
 2. **Local Scope**
 
 ---
-#### Global Scope
+### Global Scope
 A variable declared at the top of a program or outside of a function is considered a global scope variable.
 Example:
 ```js
@@ -112,7 +113,7 @@ console.log(a); // hello
 
 > **Note:** In JS, there is `"strict mode"`; in which a variable cannot be used without declaring it.
 
-#### Local Scope
+### Local Scope
 A variable can also have a local scope, it can only be accessed within a function.
 ```js
 // program showing local scope of a variable
@@ -176,7 +177,7 @@ var name;
 ```
 
 The above program works and the output will be `undefined`. 
-#### Variable Hoisting
+### Variable Hoisting
 In terms of variables and constants, keywords `var` is hoisted and `let` and `const` does not allow hoisting. For Example:
 ```js
 // program to display value
@@ -194,7 +195,7 @@ console.log(a); // 5
 
 However, in JS initialization are not hosted only variable declarations are hoisted.
 
-Also, when the variable is used inside the functinon, the variable is hoisted only to the top of the function. For example, 
+Also, when the variable is used inside the function, the variable is hoisted only to the top of the function. For example, 
 ```js
 var a = 4;
 
@@ -208,11 +209,11 @@ greet();
 console.log(b);
 ```
 
-In the above example, varibale `b` is hoisted to the top of the function `greet` and becomes local variable. Hence `b` is only accessible inside the function. `b` does not become a global variable.
+In the above example, variable `b` is hoisted to the top of the function `greet` and becomes local variable. Hence `b` is only accessible inside the function. `b` does not become a global variable.
 
 > **NOTE**: In hoisting, the variable declaration is only accessible to the immediate scope.
 
-#### Function Hoisting
+### Function Hoisting
 A function can be called before declaring it. For example:
 ```js
 // program to print the text
@@ -237,7 +238,7 @@ let greet = function(){
 ```
 
 ## Recursion
-**Recursion** is a process of callingn itself. A function that calls itself is called a recursive function.
+**Recursion** is a process of calling itself. A function that calls itself is called a **recursive function**.
 
 Example:
 ```js
@@ -252,7 +253,7 @@ recurse();
 Here the `recurse()` function is a recursive function. It is calling itself inside the function.
 ![[Pasted image 20220601143912.png]]
 
-A recursive function must have a condition to stop calling itself. Otherwise, the function is called **indefinitely**. Once the condition is met, the function stops calling itself. This is called a **base condition** To prevent infinite recursion, you can use if...else statement(or similar approach) where one brach makes the recursive call, and the other doesn't
+A recursive function must have a condition to stop calling itself. Otherwise, the function is called **indefinitely**. Once the condition is met, the function stops calling itself. This is called a **base condition**. To prevent infinite recursion, you can use `if...else` statement(or similar approach) where one branch makes the recursive call, and the other doesn't
 
 So, it generally looks like this.
 ```js
@@ -270,3 +271,7 @@ recurse();
 
 Example of a program that uses this function is at `~Documents/Javascript-Study/Day7.js`
 
+## Lessons to Review/practice
+- [ ] Hoisting
+- [ ] Recursion
+- [ ] [Practice with these questions](https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php)

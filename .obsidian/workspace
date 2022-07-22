@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
+            "file": "Web_Development/JSFunctions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,15 +67,15 @@
   },
   "active": "51e71de4ca050cff",
   "lastOpenFiles": [
-    "General-I.T/CompTIA-A+220-1102.md",
+    "Web_Development/Javascript.md",
+    "Web_Development/JsObjects.md",
+    "Web_Development/JSFunctions.md",
     "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
+    "General-I.T/CompTIA-A+220-1102.md",
     "Programming/C/C-FlowControl.md",
     "Cybersecurity/Comptia_Security+/1.2 Given a scenario, analyze potential indicators to determine the type of attack 1.md",
     "I.T Resources.md",
     "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md",
-    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
-    "Cybersecurity/Comptia_Security+/Comptia Security+.md",
-    "Networking/VLANs.md",
-    "Networking/Networking Main.md"
+    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md"
   ]
 }
