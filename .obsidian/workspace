@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec959625df81168f",
+        "id": "07d5ba89eafd0881",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -54,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -65,17 +59,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec959625df81168f",
+  "active": "07d5ba89eafd0881",
   "lastOpenFiles": [
-    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
     "Programming/C/C-FlowControl.md",
+    "I.T Resources.md",
+    "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md",
+    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
     "Cybersecurity/Comptia_Security+/Comptia Security+.md",
     "Networking/VLANs.md",
     "Networking/Networking Main.md",
     "Networking/Subnetting.md",
     "Networking/Static Routing.md",
-    "Programming/C/C-Intro.md",
-    "Web_Development/Web.md",
-    "Web_Development/Cascading Stylesheet.md"
+    "Programming/C/C-Intro.md"
   ]
 }

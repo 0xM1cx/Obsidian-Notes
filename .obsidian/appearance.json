@@ -1,4 +1,5 @@
 {
-  "baseFontSize": 19,
-  "cssTheme": "Night Owl"
+  "baseFontSize": 22,
+  "cssTheme": "Night Owl",
+  "theme": "moonstone"
 }

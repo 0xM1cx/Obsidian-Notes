@@ -144,3 +144,160 @@ do {
 	// body of the loop
 } while (testExpression);
 ```
+
+Example of do...while loop:
+```c
+#include <stdio.h>
+int main() {
+	double number, sum = 0;
+
+	//body of the loop is executed at least once
+	do {
+		printf("Enter a number: ");
+		scanf("%lf", &number);
+		sum += number;
+	}
+	while(number != 0.0);
+	prinf("Sum = %.2lf", sum);
+	return 0;
+}
+
+/* 
+Output
+Enter a number: 1.5
+Enter a number: 2.4
+Enter a number: -3.4
+Enter a number: 4.2
+Enter a number: 0
+Sum = 4.70
+*/
+```
+
+Here, we used the `do...while` loop to prompt the user to enter a number. The loop works as long as the input number is not `0` .
+
+## break and continue
+The **Break** statement ends the loop immediately when it is encountered. Its syntax is:
+```c
+break;
+```
+The break statement is almost always used with `if...else` statement inside the loop.
+
+Example of using the break statement:
+```c
+// Program to calculate the sum of numbers (10 numbers max)
+// If the user enters a negative number, the loop terminates
+
+#include <stdio.h>
+
+int main() {
+   int i;
+   double number, sum = 0.0;
+
+   for (i = 1; i <= 10; ++i) {
+      printf("Enter n%d: ", i);
+      scanf("%lf", &number);
+
+      // if the user enters a negative number, break the loop
+      if (number < 0.0) {
+         break;
+      }
+
+      sum += number; // sum = sum + number;
+   }
+
+   printf("Sum = %.2lf", sum);
+
+   return 0;
+}
+
+/*
+OUTPUT:
+Enter n1: 2.4
+Enter n2: 4.5
+Enter n3: 3.4
+Enter n4: -3
+Sum = 10.30
+*/
+```
+
+The `continue` statement skips the current iteration of the loop and continues with the next iteration. Its syntax is: 
+```c
+continue;
+```
+The `continue` statement is almost always used with the `if...else` statement.
+
+Example of continue statement:
+```c
+// Program to calculate the sum of numbers (10 numbers max)
+// If the user enters a negative number, it's not added to the result
+
+#include <stdio.h>
+int main() {
+   int i;
+   double number, sum = 0.0;
+
+   for (i = 1; i <= 10; ++i) {
+      printf("Enter a n%d: ", i);
+      scanf("%lf", &number);
+
+      if (number < 0.0) {
+         continue;
+      }
+
+      sum += number; // sum = sum + number;
+   }
+
+   printf("Sum = %.2lf", sum);
+
+   return 0;
+}
+/*
+OUTPUT:
+Enter n1: 1.1
+Enter n2: 2.2
+Enter n3: 5.5
+Enter n4: 4.4
+Enter n5: -3.4
+Enter n6: -45.5
+Enter n7: 34.5
+Enter n8: -4.2
+Enter n9: -1000
+Enter n10: 12
+Sum = 59.70
+*/
+```
+ In this program, when the user enters a positive number, the sum is calculated using `sum += number;` statement.
+
+When the user enters a negative number, the `continue` statement is executed and it skips the negative number from the calculation.
+
+## Switch case
+The switch statement allows us to execute one code block among many alternatives.
+
+You can do the same thing with the `if...else...if` ladder. However, the syntax of the `switch` statement is much easier to read and write.
+
+Syntax of switch...case
+```c
+switch (expression){
+	case constant1:
+		// statements
+		break;
+
+	case constant2:
+		// statements
+		break;
+
+	case constant3:
+		//statements
+		break;
+
+	default:
+		// default statements
+}
+```
+
+**How does the switch statement work?**
+- The `expression` is evaluated once and compared with the values of each `case` label.
+- if there is a match, the corresponding statements after the matching label are executed. For example, if the value of the expression is equal to `constant2` statements after `case constant2:` are executed until break is encountered.
+- If there is not match, the default statements are executed. The `default` clause inside the `switch` statement is optional.
+
+## Lessons to practice/review
