@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/C/C-FlowControl.md",
+            "file": "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce5f92c081db3a4c",
@@ -66,15 +67,15 @@
   },
   "active": "51e71de4ca050cff",
   "lastOpenFiles": [
-    "Cybersecurity/Comptia_Security+/1.2 Given a scenario, analyze potential indicators to determine the type of attack 1.md",
+    "General-I.T/CompTIA-A+220-1102.md",
+    "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
     "Programming/C/C-FlowControl.md",
+    "Cybersecurity/Comptia_Security+/1.2 Given a scenario, analyze potential indicators to determine the type of attack 1.md",
     "I.T Resources.md",
     "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md",
     "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
     "Cybersecurity/Comptia_Security+/Comptia Security+.md",
     "Networking/VLANs.md",
-    "Networking/Networking Main.md",
-    "Networking/Subnetting.md",
-    "Networking/Static Routing.md"
+    "Networking/Networking Main.md"
   ]
 }
