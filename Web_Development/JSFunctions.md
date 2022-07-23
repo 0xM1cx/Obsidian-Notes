@@ -275,3 +275,4 @@ Example of a program that uses this function is at `~Documents/Javascript-Study/
 - [ ] Hoisting
 - [ ] Recursion
 - [ ] [Practice with these questions](https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php)
+- [ ] Functions
