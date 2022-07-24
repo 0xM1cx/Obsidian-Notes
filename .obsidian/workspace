@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web_Development/JSFunctions.md",
+            "file": "Web_Development/JsObjects.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,9 +67,9 @@
   },
   "active": "51e71de4ca050cff",
   "lastOpenFiles": [
+    "Web_Development/JSFunctions.md",
     "Web_Development/Javascript.md",
     "Web_Development/JsObjects.md",
-    "Web_Development/JSFunctions.md",
     "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
     "General-I.T/CompTIA-A+220-1102.md",
     "Programming/C/C-FlowControl.md",

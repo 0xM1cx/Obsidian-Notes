@@ -1,7 +1,7 @@
 # Javascript Objects
 ```toc
 ```
-JS object is a non-primitive data type that allows you to store multiple collections of data.
+**JS object** is a non-primitive data type that allows you to store multiple collections of data.
 
 > **NOTE**: Unlike other programming languages, Javascript objects are a bit different in which you do not need to create classes in order to create objects.
 
@@ -26,9 +26,9 @@ const object_name = {
 	key2: value2
 };
 ```
-Here, an object `object_name` is defined. Each member of an object is a **key:value** pari separated by commas and enclosed in curly braces `{}`
+Here, an object `object_name` is defined. Each member of an object is a **key: value** pair separated by commas and enclosed in curly braces `{}`
 
-You can also define an object in a signle line.
+You can also define an object in a single line.
 ```js
 const person = {name: 'john', age: 20};
 ```
