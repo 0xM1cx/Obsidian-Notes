@@ -126,3 +126,76 @@ A complete list of all the resources gathered over the years.
 ### 1st Year Courses
 #### Introduction to computing
 [Syllabus Intro to computing](https://www.studocu.com/ph/document/university-of-caloocan-city/bachelor-of-science-in-accounting-information-system/it103summer-2013-syllabus-introduction-to-computing/16869504)
+
+---
+## Things to Download for College
+> **NOTE** 
+> Check if these things are already downloaded before proceeding with the download.
+
+### Software
+#### Linux
+- [ ] Ubuntu OS(iso file)
+- [ ] tmux
+- [ ] nodejs
+- [ ] C/C++
+- [ ] python2/3
+- [ ] nvim
+- [ ] MySQL w/ workbench
+- [ ] wireshark
+- [ ] volatility
+- [ ] burpsuite
+- [ ] metasploit
+- [ ] nessus
+- [ ] git 
+- [ ] kali linux iso
+- [ ] other linux-based cybersecurity tools
+
+#### Windows
+- [ ] Virtual box
+- [ ] VScode
+- [ ] Visual Studio
+- [ ] nodejs
+- [ ] C/C++
+- [ ] python2/3
+- [ ] Obsidian and the notes
+- [ ] MySQL w/ workbench
+- [ ] Figma
+- [ ] Filmora
+- [ ] Anki
+- [ ] Packet Tracer
+- [ ] Firefox w/ personal data
+- [ ] Opera w/ personal data
+- [ ] Photoshop
+- [ ] wireshark
+- [ ] other windows-based cybersecurity tools
+- [ ] git bash
+- [ ] github
+
+### Lecture/tutorial Videos
+- [ ] CCNA jeremy's I.T
+- [ ] Professor Messer A+
+- [ ] Professor Messer Security+
+- [ ] Introduction to Computer Science | CS50
+- [ ] Django Tutorial playlist
+- [ ] flask tutorial playlist
+- [ ] DSA lecture playlist
+- [ ] Windows Internals Part 1 - Processes
+- [ ] Introduction to Windows Forensics | 13Cubed
+- [ ] Web Development Tutorials
+- [ ] Node.js Crash Course
+- [ ] Burp Suite tutorial playlist
+- [ ] Wireshark tutorial playlist | Chris Greer
+- [ ] Malware Analysis | hackersploit
+- [ ] Information Gathering | hackersploit
+- [ ] Mathematics in the Modern World | WOW Math
+- [ ] Algorithm Simplified | StudyTonight
+- [ ] SQL Tutorials | Corey Scafer
+- [ ] Intro to x86 Assembly | Davy Wybiral
+- [ ] Download some videos from Powercert animated videos
+- [ ] React JS Tutorials for Beginners | codevolution 
+
+### Books
+- [ ] The IT folders on Google Drive
+- [ ] DSA Book for any of the following languages => python, js, C/C++
+
+### Etc
