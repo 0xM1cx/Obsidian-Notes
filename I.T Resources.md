@@ -199,3 +199,7 @@ A complete list of all the resources gathered over the years.
 - [ ] DSA Book for any of the following languages => python, js, C/C++
 
 ### Etc
+
+## Boarding house numbers
+- [ ] Bermudo's Boarding house - 09083723475
+- [ ] 
