@@ -11,7 +11,7 @@ Create a basic network scanner using a popular programming language such as Pyth
 - [Changing the MAC Address using Python](https://levelup.gitconnected.com/changing-mac-address-using-python-8a16fc4a3563#f878)
 
 ### Scanner Features
-- [ ] Accept command line arguments
+- [x] Accept command line arguments
 - [ ] Capable of spoofing mac addresses
 - [ ] Obfuscate the log.txt files contaning the IP, MAC and other information
 ### Python Libraries to use
