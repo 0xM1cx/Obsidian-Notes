@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "I.T Resources.md",
+            "file": "Web_Development/JsObjects.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -65,6 +64,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc714f333f873df0",
-  "lastOpenFiles": []
+  "active": "47e16e03d10ddc16",
+  "lastOpenFiles": [
+    "Web_Development/Javascript.md",
+    "I.T Resources.md"
+  ]
 }
