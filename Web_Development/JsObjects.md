@@ -147,8 +147,8 @@ student.greet(); // hello
 ```
 In the above example, an empty `student` object is created. Then, the `name` property is added. Similarly, the `greet` method is also added. In this way, you can add a method as well as property to an object.
 
-#### JS this Keyword
-To access a property of an object from within a method of the same object, you need to use the `this` keyword. Let's cosider an example.
+#### "this" keyword for accessing a property in a constructor 
+To access a property of an object from within a method of the same object, you need to use the `this` keyword. Let's consider an example.
 ```js
 const person = {
     name: 'John',
@@ -201,3 +201,49 @@ To create an object from a constructor function, we use the `new` keyword.
 > **NOTE**: It is considered a good practice to capitalize the first letter of your constructor function.
 
 #### Create Multiple Objects with Constructors Function
+You can create multiple objects from a constructor function. For example,
+``` js
+// Below is the constructor function
+function Person() {
+	this.name = "Shawn",
+	this.age = 17,
+	this.greet = function(){
+		console.log('hello');
+	}
+}
+
+// create objects
+const person1 = new Person();
+const person2 = new Person();
+
+//access properties
+console.log(person1.name); // Shawn
+console.log(person2.name); // Shawn
+```
+In the above program, two objects are created using the same constructor function.
+
+#### JS "this" Keyword
+The `this` keyword is used in a constructor function, `this` refers to the objects when the object is created. In the program above when the object accesses the properties, it can directly access the property as `person1.name`  
+
+#### Constructor Function Parameters
+You can create a constructor function with parameters.
+```js
+// Below is the constructor function
+function Person(person_name, person_age, person_gender){
+	
+	// assigning parameter values to the calling object
+	this.name = person_name,
+	this.age = person_age,
+	this.gender = person_gender,
+	this.greet = function(){
+		return (`Hi ${this.name}`);
+	}
+}
+
+// creating objects
+const Person1 = new Person("Shawn", 17, "Male");
+
+// accessing properties
+console.log(Person1.name); // Shawn
+console.log(Person1.age); // 17
+```
