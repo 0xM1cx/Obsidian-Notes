@@ -23,6 +23,10 @@ A complete list of all the resources gathered over the years.
 
 
 ## Programming/Software Development Resources
+
+### Programming Languages Cheat sheets
+You can use this website to quickly brush up on programming languages syntax, keywords, etc. [Link](https://overapi.com)
+
 ### Web Development
 - [x] [HTML.com](https://html.com/)
 - [ ] [CSS Tricks](https://css-tricks.com/)
