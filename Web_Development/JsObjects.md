@@ -248,4 +248,27 @@ console.log(Person1.name); // Shawn
 console.log(Person1.age); // 17
 ```
 
-#### 
+#### Constructor Function vs Object Literal
+In the previous topics you have seen two ways to create an object is JS, although there are more ways, the two discussed are the most used.
+
+- **Object Literal** is generally used to create a single object. The **constructor function** is useful if you want to create multiple objects. 
+```js
+// Using object Literal
+let Student = {
+	Name: "Shawn", 
+	Age: 17,
+	Course: "BSIT"
+};
+
+// Using constructor function
+function Student(StudentName){
+	this.Name = StudentName,
+	this.Age = 17,
+	this.Course = "BSIT"
+}
+
+let StudentA = new Student("Shawn");
+let StudentB = new Student("Martin");
+
+```
+Each object created from the constructor function is unique. You can have some similar properties or add a new property to one particular object.
