@@ -272,3 +272,33 @@ let StudentB = new Student("Martin");
 
 ```
 Each object created from the constructor function is unique. You can have some similar properties or add a new property to one particular object.
+```js
+// Using constructor function
+function Student(StudentName){
+	this.Name = StudentName,
+	this.Age = 17,
+	this.Course = "BSIT"
+}
+
+// creating an object and setting the name
+let StudentA = new Student("Shawn");
+let StudentB = new Student("Martin");
+
+// adding a new property to StudentA
+StudentA.year = "1st";
+```
+
+However, if an object is created with an object literal, and if a variable is defined with that object value, any changes in variable value will change the original object.
+```js
+// Using object literal
+let Student = {name:"Shawn"}
+console.log(person.name); // Shawn
+
+let studentA = Student;
+
+// this changes the property of an object
+studentA.name = "Martin";
+
+// changes the origins object property
+console.log(studentA.name); // Martin
+```
