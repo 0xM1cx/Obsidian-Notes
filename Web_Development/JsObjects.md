@@ -247,3 +247,5 @@ const Person1 = new Person("Shawn", 17, "Male");
 console.log(Person1.name); // Shawn
 console.log(Person1.age); // 17
 ```
+
+#### 
