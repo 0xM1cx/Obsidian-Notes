@@ -206,4 +206,9 @@ You can use this website to quickly brush up on programming languages syntax, ke
 
 ## Boarding house numbers
 - [ ] Bermudo's Boarding house - 09083723475
-- [ ] 
+
+## Freelancing
+- https://www.careeraddict.com/get-paid-for-doing-homework
+- https://www.webemployed.com/earn-money-answering-questions-websites/
+- https://www.studypool.com/
+- https://www.coursera.org/
