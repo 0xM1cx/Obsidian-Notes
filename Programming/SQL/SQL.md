@@ -290,4 +290,19 @@ Here, the query
 2. Select rows from `Customers` table where `customer_id` is in the result set of subquery.
 
 ## SQL Between Operator
-This operator is used with the `WHERE` clause
+This operator is used with the `WHERE` clause to match values in a range.
+```sql
+SELECT item, amount
+FROM Orders
+WHERE amount BETWEEN 300 AND 500;
+```
+This selects all items, amounts that have amounts **BETWEEN** 300 and 500. Including 300 and 500.
+
+### NOT BETWEEN Operator
+This operator is used to exclude the rows that match values in the range. It returns all the rows except the excluded rows.
+```sql
+SELECT item, amount
+FROM Orders
+WHERE amount NOT BETWEEN 300 AND 500;
+```
+This selects all item, amount except the rows that have amounts between 300 and 500.

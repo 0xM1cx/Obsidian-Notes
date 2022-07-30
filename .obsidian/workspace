@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
+            "file": "Programming/SQL/SQL.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,8 +67,8 @@
   },
   "active": "47e16e03d10ddc16",
   "lastOpenFiles": [
-    "I.T Resources.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
+    "I.T Resources.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DWA.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/SOC_TOOLS.md",
