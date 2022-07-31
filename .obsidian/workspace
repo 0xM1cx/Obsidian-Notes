@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md",
+            "file": "Cybersecurity/Comptia_Security+/1.1 Compare and contrast different types of social engineering techniques.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "47e16e03d10ddc16",
   "lastOpenFiles": [
+    "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md",
     "Programming/C/C-FlowControl.md",
     "Programming/DSA/DSA.md",
     "I.T Resources.md",
@@ -75,7 +76,6 @@
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DWA.md",
     "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/SOC_TOOLS.md",
-    "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md"
+    "Cybersecurity/SOC_TOOLS.md"
   ]
 }
