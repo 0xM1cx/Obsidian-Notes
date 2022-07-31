@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/SQL/SQL.md",
+            "file": "Programming/C/C-FlowControl.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,15 +67,15 @@
   },
   "active": "47e16e03d10ddc16",
   "lastOpenFiles": [
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
+    "Programming/DSA/DSA.md",
     "I.T Resources.md",
+    "Programming/C/C-FlowControl.md",
+    "Programming/C/C-Intro.md",
+    "Programming/SQL/SQL.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DWA.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/SOC_TOOLS.md",
-    "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md",
-    "Web_Development/JsObjects.md",
-    "Untitled.md",
-    "Web_Development/Web Development Main.md",
-    "Web_Development/Javascript.md"
+    "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md"
   ]
 }

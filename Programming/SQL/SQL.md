@@ -141,7 +141,7 @@ WHERE (country = 'USA' OR country = 'UK') AND age < 26;
 ![[Pasted image 20220502174620.png]]
 
 ---
-## **SELECT DISTINCT**
+## SELECT DISTINCT
 The SQL `SELECT DISTINCT` statement selects unique rows from a database table. For example,
 ```sql
 SELECT DISTINCT country

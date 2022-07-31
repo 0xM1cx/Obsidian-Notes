@@ -116,6 +116,7 @@ You can use this website to quickly brush up on programming languages syntax, ke
 ### C Programming
 - [C-Programming Programiz](https://www.programiz.com/c-programming)
 
+
 ### Structured Query Language
 - [SQL Programiz](https://www.programiz.com/sql)
 
@@ -124,6 +125,8 @@ You can use this website to quickly brush up on programming languages syntax, ke
 
 ### Data Structures and Algorithms
 - [DSA Programiz](https://www.programiz.com/dsa)
+- [DSA Learning Path](https://www.quora.com/What-are-some-interactive-programming-learning-websites-to-learn-data-structure-and-algorithms)
+- [DSA Practice Problems by codechef](https://www.codechef.com/LEARNDSA)
 
 
 ## SCHOOL
