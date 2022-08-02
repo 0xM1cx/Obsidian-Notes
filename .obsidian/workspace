@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/DFIR/Intro_To_EvidenceAcquisition.md",
+            "file": "Web_Development/HTML_PageStructures.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -65,8 +65,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc714f333f873df0",
+  "active": "33aff15b02154c97",
   "lastOpenFiles": [
+    "Cybersecurity/DFIR/Intro_To_EvidenceAcquisition.md",
     "Pasted image 20220427140018.png.md",
     "Cybersecurity/DFIR/Windows File System.md",
     "Cybersecurity/DFIR/WF1.md",
@@ -75,7 +76,6 @@
     "I.T Resources.md",
     "Programming/C/C-FlowControl.md",
     "Programming/DSA/DSA.md",
-    "Programming/C/C-Intro.md",
-    "Programming/SQL/SQL.md"
+    "Programming/C/C-Intro.md"
   ]
 }
