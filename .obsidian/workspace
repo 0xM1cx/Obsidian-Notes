@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
+            "file": "Web_Development/Bootstrap4.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,8 @@
   },
   "active": "33aff15b02154c97",
   "lastOpenFiles": [
+    "Web_Development/CSS Display Property.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
     "I.T Resources.md",
     "Cybersecurity/DFIR/Basics of Digital Forensics.md",
     "Cybersecurity/DFIR/DigitalForensics&IncidentResponse.md",
@@ -74,8 +76,6 @@
     "Cybersecurity/DFIR/Intro_To_EvidenceAcquisition.md",
     "Pasted image 20220427140018.png.md",
     "Cybersecurity/DFIR/Windows File System.md",
-    "Cybersecurity/DFIR/WF1.md",
-    "Cybersecurity/DFIR/Working with VHD.md",
-    "Cybersecurity/DFIR/MemoryForensics.md"
+    "Cybersecurity/DFIR/WF1.md"
   ]
 }
