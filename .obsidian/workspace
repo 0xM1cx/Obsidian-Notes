@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web_Development/HTML_PageStructures.md",
+            "file": "I.T Resources.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "33aff15b02154c97",
   "lastOpenFiles": [
+    "Web_Development/HTML_PageStructures.md",
     "Cybersecurity/DFIR/Intro_To_EvidenceAcquisition.md",
     "Pasted image 20220427140018.png.md",
     "Cybersecurity/DFIR/Windows File System.md",
@@ -75,7 +76,6 @@
     "Cybersecurity/DFIR/MemoryForensics.md",
     "I.T Resources.md",
     "Programming/C/C-FlowControl.md",
-    "Programming/DSA/DSA.md",
-    "Programming/C/C-Intro.md"
+    "Programming/DSA/DSA.md"
   ]
 }

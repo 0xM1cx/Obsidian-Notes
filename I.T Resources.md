@@ -177,6 +177,7 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] other windows-based cybersecurity tools
 - [ ] git bash
 - [ ] github
+- [ ] Canva
 
 ### Lecture/tutorial Videos
 - [ ] CCNA jeremy's I.T
