@@ -242,3 +242,16 @@ Unlike the `head` command the `tail` command is used to see the lines at the end
 
 ### grep
 This command is used to search within a file. The word/s to be searched are given as parameters. E.g to search for the word "hello" in a file called <u>RandomWords.txt</u> we would type `grep hello RandomWords.txt`
+
+### sort
+This command is used to sort the contents of the file alphabetically.
+![[Pasted image 20220802194710.png]]
+### uniq
+This is used to reduce the successive same values to single value in the file content.
+
+### date 
+This is used to display the system's date and time. ![[Pasted image 20220802195122.png]]
+### uptime
+This command shows how long the system has been up. The format is hh:mm:ss.
+### history
+This command shows the history of previous commands executed on the command line. While the history command is running, it reads the list of commands executed from a file and prints it to the screen. The file is the ".bash_history" file that is hidden under the user's home directory.

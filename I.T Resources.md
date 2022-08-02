@@ -15,11 +15,18 @@ A complete list of all the resources gathered over the years.
 - [Letsdefend.io_Learn](https://app.letsdefend.io/#)
 - [Cyberdefenders_Learn](https://cyberdefenders.org/blueteam-training/)
 
-#### Malware Analysis
+### Malware Analysis
 - [ ] [Malware Unicorn Workshop](https://malwareunicorn.org/#/workshops)
 - [ ] [Free Automated Malware Analysis Sandboxes and Services](https://zeltser.com/automated-malware-analysis/)
 - [ ] [Malware Analysis Class Lecture](https://class.malware.re/)
 - [ ] [How you can start learning Malware Analysis](https://www.sans.org/blog/how-you-can-start-learning-malware-analysis/)
+
+### Making My Resume
+-   [Sample Resume & Cover Letter: Information Security Analyst](https://www.thebalancecareers.com/information-security-analyst-cover-letter-and-resume-2060133)
+-   [How to Write a Resume for a Cybersecurity Position](https://www.careersingovernment.com/tools/gov-talk/career-advice/how-to-write-a-resume-for-a-cybersecurity-position/)
+- 
+
+
 
 
 ## Programming/Software Development Resources
@@ -148,6 +155,8 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] burpsuite
 - [ ] metasploit
 - [ ] nessus
+- [ ] FTK Imager
+- [ ] Autopsy - Sleuth Kit
 
 ##### General Computing
 - [ ] tmux
