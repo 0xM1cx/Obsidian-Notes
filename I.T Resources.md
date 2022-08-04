@@ -23,10 +23,7 @@ A complete list of all the resources gathered over the years.
 
 ### Making My Resume
 -   [Sample Resume & Cover Letter: Information Security Analyst](https://www.thebalancecareers.com/information-security-analyst-cover-letter-and-resume-2060133)
--   [How to Write a Resume for a Cybersecurity Position](https://www.careersingovernment.com/tools/gov-talk/career-advice/how-to-write-a-resume-for-a-cybersecurity-position/)
-- 
-
-
+-   [How to Write a Resume for a Cybersecurity Position](https://www.careersingovernment.com/tools/gov-talk/career-advice/how-to-write-a-resume-for-a-cybersecurity-position/) 
 
 
 ## Programming/Software Development Resources
@@ -157,6 +154,10 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] nessus
 - [ ] FTK Imager
 - [ ] Autopsy - Sleuth Kit
+- [ ] Hashcat
+- [ ] binwalk
+- [ ] strings
+- [ ] 
 
 ##### General Computing
 - [ ] tmux
