@@ -82,7 +82,6 @@ You can use this website to quickly brush up on programming languages syntax, ke
     -    Firefox Dev Tools [Video](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)
 
 ## Suggested learning process
-
 1.  **SKILLS** Learn the fundamentals from a resource of your choice:
     1.  HTML
     2.  CSS

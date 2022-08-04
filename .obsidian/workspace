@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "I.T Resources.md",
+            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -66,15 +67,15 @@
   },
   "active": "33aff15b02154c97",
   "lastOpenFiles": [
+    "Cybersecurity/Cybersecurity Main.md",
+    "Cybersecurity/Cybersecurity_Model&Frameworks.md",
+    "I.T Resources.md",
     "Web_Development/Web.md",
     "Web_Development/Cascading Stylesheet.md",
     "Web_Development/CSS Display Property.md",
     "Web_Development/CSS Borders.md",
     "Web_Development/Bootstrap4.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
-    "I.T Resources.md",
-    "Cybersecurity/DFIR/Basics of Digital Forensics.md",
-    "Cybersecurity/DFIR/DigitalForensics&IncidentResponse.md",
-    "Web_Development/HTML_PageStructures.md"
+    "Cybersecurity/DFIR/Basics of Digital Forensics.md"
   ]
 }

@@ -53,6 +53,15 @@ Example of Utility Software to install:
 ### Debuggers
 **Debuggers** are software that are generally used by programmers to test the code and catch errors. These software help to see the instructions of a process and change the flow of the program.
 
-Malware analysts use debuggers to learn the malware's working structure and disable some prevention features by modifying the code. For example, suppose you want to investigate a malware that does not function when the device name is not "Shawn." You can disable this control with the Debugger by making changes to the codes in which it is implemented, ensuring that the malware continues to run.
+Malware analysts use debuggers to learn the malware's working structure and disable some prevention features by modifying the code. 
 
-[Bookmark: Debuggers 2nd paragraph](https://app.letsdefend.io/training/lesson_detail/which-tools-and-software-do-we-need-for-dynamic-an)
+For example, suppose you want to investigate a malware that does not function when the device name is not "Shawn." You can disable this control with the Debugger by making changes to the codes in which it is implemented, ensuring that the malware continues to run.
+
+Some debuggers that are frequently preferred by malware analyst are as follows.
+- Ollydbg
+- X64dbg
+- Windbg
+- Radare2
+
+### Network Monitoring Tools
+Information such as the network connections by the malware, the addresses it communicates with and how it communicates with those should be reported as a result of the malware analysis.
