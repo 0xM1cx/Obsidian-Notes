@@ -55,7 +55,7 @@ Example of Utility Software to install:
 
 Malware analysts use debuggers to learn the malware's working structure and disable some prevention features by modifying the code. 
 
-For example, suppose you want to investigate a malware that does not function when the device name is not "Shawn." You can disable this control with the Debugger by making changes to the codes in which it is implemented, ensuring that the malware continues to run.
+For example, suppose you want to investigate a malware that does not function when the device name is not "Shawn" You can disable this control with the Debugger by making changes to the codes in which it is implemented, ensuring that the malware continues to run.
 
 Some debuggers that are frequently preferred by malware analyst are as follows.
 - Ollydbg
@@ -72,4 +72,27 @@ Information such as the network connections by the malware, the addresses it com
 ### Process Monitoring Tools
 A new process is created for the program we run for malware analysis. In order to monitor these processes, we should use process monitoring tools.
 
-Windows already comes with a process monitoring tools called **"Task Manager"**
+Windows already comes with a process monitoring tools called **"Task Manager"**. However, other process monitoring tools are more useful in terms of usage and features for malware analysis.
+- Process Hacker
+- Process Explorer (SysInternals)
+- Procmon (SysInternals)
+
+### File Activity Monitoring Tools
+Malware can read files to collect information from the OS, write other components of the malware to the file system, and move itself to the startup folder to ensure persistence. Malware can be involved in various activities in the file system. We should detect and indicate these activities in the malware analysis report.
+- Sysmon
+
+### Other Tools
+- SysInternal Tools
+- CFF Explorer
+- PEView
+- TriDNet
+- BinText
+- PEiD
+- Regshot
+- HashMyFiles
+---
+## Tweaking Virtual Machine
+### 1. Turn off anti-malware programs
+Since we will be analyzing malware on our VM, we do not want the antivirus software to delete the malware we have installed for analysis. We should turn off Windows defender which comes pre-installed and active by default on Windows.
+
+
