@@ -1,4 +1,6 @@
-# Evidence Acquisition
+```toc
+```
+## Evidence Acquisition
 The acquired forensic image will be the foundation of your analysis; any mistake may tamper with the evidence, rendering it inadmissible in court. You may have two or more chances on the analysis part, but the acquisition is a single-shot chance. Just by looking through the files or by booting up the computer, you may destroy or even lose your evidence. Therefore, following the right steps of evidence acquisition will guarantee sound evidence and will make you confident about the evidence between your hands. 
 
 In data acquisition you will deal with three types of data: **active**, **archival**, and **latent data.** 

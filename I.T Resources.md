@@ -15,11 +15,15 @@ A complete list of all the resources gathered over the years.
 - [Letsdefend.io_Learn](https://app.letsdefend.io/#)
 - [Cyberdefenders_Learn](https://cyberdefenders.org/blueteam-training/)
 
-#### Malware Analysis
+### Malware Analysis
 - [ ] [Malware Unicorn Workshop](https://malwareunicorn.org/#/workshops)
 - [ ] [Free Automated Malware Analysis Sandboxes and Services](https://zeltser.com/automated-malware-analysis/)
 - [ ] [Malware Analysis Class Lecture](https://class.malware.re/)
 - [ ] [How you can start learning Malware Analysis](https://www.sans.org/blog/how-you-can-start-learning-malware-analysis/)
+
+### Making My Resume
+-   [Sample Resume & Cover Letter: Information Security Analyst](https://www.thebalancecareers.com/information-security-analyst-cover-letter-and-resume-2060133)
+-   [How to Write a Resume for a Cybersecurity Position](https://www.careersingovernment.com/tools/gov-talk/career-advice/how-to-write-a-resume-for-a-cybersecurity-position/) 
 
 
 ## Programming/Software Development Resources
@@ -78,7 +82,6 @@ You can use this website to quickly brush up on programming languages syntax, ke
     -    Firefox Dev Tools [Video](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)
 
 ## Suggested learning process
-
 1.  **SKILLS** Learn the fundamentals from a resource of your choice:
     1.  HTML
     2.  CSS
@@ -141,72 +144,104 @@ You can use this website to quickly brush up on programming languages syntax, ke
 
 ### Software
 #### Linux
-- [ ] Ubuntu OS(iso file)
-- [ ] tmux
-- [ ] nodejs
-- [ ] C/C++
-- [ ] python2/3
-- [ ] nvim
-- [ ] MySQL w/ workbench
-- [ ] wireshark
+##### Cybersecurity
+- [ ] kali linux iso
+- [ ] other linux-based cybersecurity tools
 - [ ] volatility
 - [ ] burpsuite
 - [ ] metasploit
 - [ ] nessus
+- [ ] FTK Imager
+- [ ] Autopsy - Sleuth Kit
+- [ ] Hashcat
+- [ ] binwalk
+- [ ] strings
+- [ ] 
+
+##### General Computing
+- [ ] tmux
+- [ ] Ubuntu OS(iso file)
+
+##### Networking
+- [ ] wireshark
+
+##### Programming
 - [ ] git 
-- [ ] kali linux iso
-- [ ] other linux-based cybersecurity tools
+- [ ] MySQL w/ workbench
+- [ ] nodejs
+- [ ] C/C++
+- [ ] python2/3
+- [ ] nvim
+
 
 #### Windows
+##### Multimedia
+- [ ] Canva
+- [ ] Photoshop
+- [ ] Figma
+- [ ] Filmora
+
+##### Networking
+- [ ] wireshark
+- [ ] Packet Tracer
+
+##### General Computing
+- [ ] Firefox w/ personal data
+- [ ] Opera w/ personal data
+- [ ] Anki
+- [ ] Obsidian and the notes
+
+##### Cybersecurity
+- [ ] other windows-based cybersecurity tools
 - [ ] Virtual box
+
+##### Programming
+- [ ] git bash
+- [ ] github
 - [ ] VScode
 - [ ] Visual Studio
 - [ ] nodejs
 - [ ] C/C++
 - [ ] python2/3
-- [ ] Obsidian and the notes
 - [ ] MySQL w/ workbench
-- [ ] Figma
-- [ ] Filmora
-- [ ] Anki
-- [ ] Packet Tracer
-- [ ] Firefox w/ personal data
-- [ ] Opera w/ personal data
-- [ ] Photoshop
-- [ ] wireshark
-- [ ] other windows-based cybersecurity tools
-- [ ] git bash
-- [ ] github
+
 
 ### Lecture/tutorial Videos
-- [ ] CCNA jeremy's I.T
-- [ ] Professor Messer A+
-- [ ] Professor Messer Security+
-- [ ] Introduction to Computer Science | CS50
-- [ ] Django Tutorial playlist
-- [ ] flask tutorial playlist
-- [ ] DSA lecture playlist
-- [ ] Windows Internals Part 1 - Processes
-- [ ] Introduction to Windows Forensics | 13Cubed
-- [ ] Web Development Tutorials
-- [ ] Node.js Crash Course
-- [ ] Burp Suite tutorial playlist
-- [ ] Wireshark tutorial playlist | Chris Greer
+#### Cybersecurity
 - [ ] Malware Analysis | hackersploit
 - [ ] Information Gathering | hackersploit
-- [ ] Mathematics in the Modern World | WOW Math
-- [ ] Algorithm Simplified | StudyTonight
-- [ ] SQL Tutorials | Corey Scafer
-- [ ] Intro to x86 Assembly | Davy Wybiral
-- [ ] Download some videos from Powercert animated videos
+- [ ] Wireshark tutorial playlist | Chris Greer
+- [ ] Burp Suite tutorial playlist
+- [ ] Introduction to Windows Forensics | 13Cubed
+- [ ] Professor Messer Security+
+
+#### Programming
 - [ ] React JS Tutorials for Beginners | codevolution 
+- [ ] Intro to x86 Assembly | Davy Wybiral
+- [ ] SQL Tutorials | Corey Scafer
+- [ ] Algorithm Simplified | StudyTonight
+- [ ] Node.js Crash Course
+- [ ] Web Development Tutorials
+- [ ] flask tutorial playlist
+- [ ] DSA lecture playlist
+- [ ] Django Tutorial playlist
+
+#### General Computing
+- [ ] Download some videos from Powercert animated videos
+- [ ] Mathematics in the Modern World | WOW Math
+- [ ] Professor Messer A+
+- [ ] Introduction to Computer Science | CS50
+- [ ] Windows Internals Part 1 - Processes
+
+#### Networking
+- [ ] CCNA jeremy's I.T
+
 
 ### Books
 - [ ] The IT folders on Google Drive
 - [ ] DSA Book for any of the following languages => python, js, C/C++
 
 ### Etc
-
 ## Boarding house numbers
 - [ ] Bermudo's Boarding house - 09083723475
 

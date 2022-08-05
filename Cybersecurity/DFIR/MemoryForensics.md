@@ -1,3 +1,9 @@
+```toc
+```
+## Resources Used
+- [Introduction to Memory - Brilliant.org](https://brilliant.org/courses/memory/)
+- Practical Memory Forensics Book
+
 ## Types of Memory
 **Computer Memory** -> is storage for data, programs and information. RAM, ROM, Harddisk are some examples of computer memory.
 ![[Pasted image 20220421114430.png]]

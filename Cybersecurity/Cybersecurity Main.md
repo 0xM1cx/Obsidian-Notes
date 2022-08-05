@@ -15,6 +15,7 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 - [Linux4BlueTeam](Linux4BlueTeam.md) By Letsdefend.io
 - [DFIR Essentials](DFIR_Essentials.md) By Sans DFIR Essentials 101
 - [Dynamic Malware Analysis](Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis)
+
 ## Offensive Security
 ##### Tools
 + [NMAP](NMAP.md)
