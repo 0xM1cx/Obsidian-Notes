@@ -64,4 +64,12 @@ Some debuggers that are frequently preferred by malware analyst are as follows.
 - Radare2
 
 ### Network Monitoring Tools
-Information such as the network connections by the malware, the addresses it communicates with and how it communicates with those should be reported as a result of the malware analysis.
+Information such as the network connections by the malware, the addresses it communicates with and how it communicates with those should be reported as a result of the malware analysis. Software to detect these network activities:
+- Wireshark
+- Fiddler
+- Burp Suite
+
+### Process Monitoring Tools
+A new process is created for the program we run for malware analysis. In order to monitor these processes, we should use process monitoring tools.
+
+Windows already comes with a process monitoring tools called **"Task Manager"**
