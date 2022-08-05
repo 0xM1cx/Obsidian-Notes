@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/SQL/SQL.md",
+            "file": "Cybersecurity/SOC_TOOLS.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,14 +67,15 @@
   },
   "active": "9277e8e171b5ed1c",
   "lastOpenFiles": [
+    "I.T Resources.md",
+    "Cybersecurity/SOC_TOOLS.md",
+    "Programming/SQL/SQL.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/Cybersecurity_Model&Frameworks.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Phishing.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/SOC.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/ThreatIntelligence.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md",
-    "Cybersecurity/Comptia_Security+/Comptia Security+.md",
-    "Cybersecurity/Comptia_Security+/1.5_Explain_different_threat_actors,vectors,and_intelligence_sources.md"
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Linux4BlueTeam.md"
   ]
 }
