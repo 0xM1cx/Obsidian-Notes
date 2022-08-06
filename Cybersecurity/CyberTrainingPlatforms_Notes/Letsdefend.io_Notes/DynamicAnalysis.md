@@ -109,3 +109,15 @@ Some malicious software makes various checks in order not to work in analysis en
 To change the device name, you must select "Settings > System > About" and then click "Rename this PC". And also change your username too.
 
 ### 3. Turn off auto update
+Malware are taking advantage of vulnerabilities in the system and to ensure that the malware sill run you must disable auto update. You can turn off automatic updates through the group policy settings.
+
+After Accessing the relevant policy, you should set the policy named "Configure Automatic Updates" to "Disabled"![[Pasted image 20220806172318.png]]
+
+### 4. Disable Hidden Extensions
+Attackers usually trick their victims by changing the file extensions. Windows are set hide known file extensions by default. I.e. file named "Chrome.exe" will appear as "Chrome" by default.
+
+Attackers name their malicious software as "Photo.jpg.exe", causing the user to see the file as "Photo.jpg". When the user thinks that this file is an image file and opens it, the malware will start to run.
+
+In the "file explorer" click the "File" tab and then "Change folder and search options", then uncheck the "Hide extensions for known file types" from the "View" tab.
+
+### Show Hidden Files and Folders
