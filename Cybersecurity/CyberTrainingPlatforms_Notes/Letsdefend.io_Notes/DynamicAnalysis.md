@@ -95,4 +95,17 @@ Malware can read files to collect information from the OS, write other component
 ### 1. Turn off anti-malware programs
 Since we will be analyzing malware on our VM, we do not want the antivirus software to delete the malware we have installed for analysis. We should turn off Windows defender which comes pre-installed and active by default on Windows.
 
+**Disable Windows Defender Using Group Policy**
+To disable Windows Defender using the Local Group Policy Editor application, you must access the policy below.
+"Computer Configuration > Administrative Templates > Windows Components > Microsoft Defender Antivirus" 
 
+Here, you should double-click the "Turn off Microsoft Defender Antivirus" policy and set it to "Enabled"
+![[Pasted image 20220806162315.png]]
+
+You should also disable the "Monitor file and program activity on your computer" policy under "Real-time Protection"![[Pasted image 20220806163203.png]]
+### 2. Rename you virtual OS
+Some malicious software makes various checks in order not to work in analysis environment. One of these checks is to check the hostname. Most sandboxes have hostnames such as "Sandbox", "Malware", "Cuckoo", etc. Most malware are programmed not to run on systems with these hostnames.
+
+To change the device name, you must select "Settings > System > About" and then click "Rename this PC". And also change your username too.
+
+### 3. Turn off auto update
