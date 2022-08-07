@@ -12,12 +12,13 @@
 - **System Software** - These are used to directly modify or give commands to the computer hardware. One example is the *Operating System*.
 - **Application software** -  These are used to perform a specific task and that can be directly used by the user.
 
+## Computer System Operation
 ![[4.png]]
 
 ![[5.png]]
 
 ![[6.png]]
-
+- **Service Routine/Interrupt Service Routine(ISR)** - is a process invoked by an interrupt request from a hardware device. It handles the request and sends it to the CPU, interrupting the active process. When the ISR is complete, the process is resumed. [More Information Here](https://techterms.com/definition/isr)
 ![[7.png]]
 
 ![[8.png]]
