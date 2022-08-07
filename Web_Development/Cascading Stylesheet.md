@@ -1,4 +1,6 @@
-# Box Model
+```toc
+```
+## Box Model
 
 > [!NOTE] Own Words
 > The box model is used to help visualize the different section of an HTML element.
@@ -54,8 +56,8 @@ To overcome this problem, the `box-sizing` property was introduced. The CSS `box
 Syntax: ```box-sizing: content-box|border-box|initial|inherit;```
 The value  *content-box* is the default value and it means that the *width and height will include only the content*, while the border and padding will not be included. Whilst the value *border-box* specifies that the width and height properties will include the content, padding and border of the element.
 
-# [[CSS Borders]]
+## [[CSS Borders]]
 
-# [[CSS Display Property]]
-# [[Styling Images]]
-# [Shadow Effect](Web Development/Adding Shadow Effect)
+## [[CSS Display Property]]
+## [[Styling Images]]
+## [Shadow Effect](Web_Development/Shadow-Effect)
