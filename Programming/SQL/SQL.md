@@ -306,3 +306,21 @@ FROM Orders
 WHERE amount NOT BETWEEN 300 AND 500;
 ```
 This selects all item, amount except the rows that have amounts between 300 and 500.
+
+### BETWEEN Operator with Text
+This operator also works with text.
+```sql
+SELECT item, amount
+FROM Orders
+WHERE item BETWEEN 'I' AND 'L';
+```
+Here, the command selects all orders where the item names lies between **I** and **L**.
+
+If we need to include all the words that start withe **L** as well we can use `~`. For example,
+```sql
+SELECT item, amount
+FROM Orders
+WHERE item BETWEEN 'I' AND 'L~'
+```
+
+## SQL IS NULL and IS NOT NULL
