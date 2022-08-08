@@ -35,6 +35,7 @@ This position value means that the **element is relative to its normal position*
 **Let's take an example**
 ```html
 <!doctype html>
+<html>
 	<head>
 		<style>
 			.move {
@@ -70,4 +71,12 @@ h1 {
 ```
 
 ## Fixed
-With this value, elements position themselves **relative to the viewport or browser window** and **not relative to the parent element or its siblingss**
+With this value, elements position themselves **relative to the view-port or browser window** and **not relative to the parent element or its siblings**
+
+There can be many use cases for this property, like a fixed navigation bar, fixed sidebar which doesn't move even when the page is scrolled.
+
+## Sticky
+In the case of position value `sticky`, an element gets positioned based on the user's scroll position.
+
+The value sticky consists of the **functionality of both relative and fixed positioning**. The element is positioned relative until it meets the specified position value and then the element sticks at that position.
+
