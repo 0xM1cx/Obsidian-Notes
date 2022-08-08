@@ -324,3 +324,9 @@ WHERE item BETWEEN 'I' AND 'L~'
 ```
 
 ## SQL IS NULL and IS NOT NULL
+`IS NULL` is a condition used to select rows if the specified field is `NULL`. Example, 
+```sql
+SELECT * FROM Employee
+WHERE email IS NULL;
+```
+The query above selects rows that do not have an email.
