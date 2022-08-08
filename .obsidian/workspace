@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General-I.T/Operating-Systems/Intro-to-OS.md",
+            "file": "Web_Development/Positioning.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,15 +67,15 @@
   },
   "active": "e9a5b948f90297f4",
   "lastOpenFiles": [
-    "Web_Development/Positioning.md",
     "Web_Development/Cascading Stylesheet.md",
+    "Web_Development/CSS Borders.md",
+    "General-I.T/Operating-Systems/Intro-to-OS.md",
+    "Web_Development/Positioning.md",
     "Web_Development/Shadow-Effect.md",
     "Web.md",
     "Web_Development/Web Development Main.md",
     "Web_Development/CSS Display Property.md",
     "Cybersecurity/SOC_TOOLS.md",
-    "I.T Resources.md",
-    "Cybersecurity/Comptia_Security+/1.1 Compare and contrast different types of social engineering techniques.md",
-    "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md"
+    "I.T Resources.md"
   ]
 }

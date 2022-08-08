@@ -33,7 +33,7 @@ The `static` position value is the **default value**. The elements that are posi
 This position value means that the **element is relative to its normal position**. If the element's position is set with the value of `relative` and do not use the properties `left`, `right`, `top`, or `bottom` then there is no effect on the element's position.
 
 **Let's take an example**
-```css
+```html
 <!doctype html>
 	<head>
 		<style>
@@ -53,3 +53,21 @@ This position value means that the **element is relative to its normal position*
 OUTPUT:
 ![[Pasted image 20220807154317.png]]
 In the above code it will move the `<div>` element with the class move, **10px towards the bottom**. Because it will move **10px away from the top** and **100px towards the right** 
+
+## Absolute
+This position value allows us to place an element exactly where we want to place it. The position attributes `top`, `bottom`, `right`, and `left` are used to specify the exact position of the element.
+
+If the `absolute` value is used then the element will position itself like there's no other elements present and this will cause other elements to overlap with the `absoluted` positioned element.
+
+Example, if we provide the `top` and `left` properties a value of 0 then it will the element `h1` to the top-left corner of its parent element or browser window.
+``` css
+h1 {
+	position: absolute;
+	top: 0; 
+	left: 0;
+	
+}
+```
+
+## Fixed
+With this value, elements position themselves **relative to the viewport or browser window** and **not relative to the parent element or its siblingss**
