@@ -21,8 +21,11 @@
 
 ![[6.png]]
 - **Service Routine/Interrupt Service Routine(ISR)** - is a process invoked by an interrupt request from a hardware device. It handles the request and sends it to the CPU, interrupting the active process. When the ISR is complete, the process is resumed. [More Information Here](https://techterms.com/definition/isr)
-![[7.png]]
 
+## Storage Structure
+![[7.png]]
+- **Registers** -> These are the smallest storage structure. These are a small set of data holding places that are part of the processor. They can hold instructions, storage address,  or other small data like bit sequences.
+- **Cache** ->  
 ![[8.png]]
 
 ![[9.png]]
