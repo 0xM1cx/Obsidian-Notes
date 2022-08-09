@@ -24,8 +24,12 @@
 
 ## Storage Structure
 ![[7.png]]
-- **Registers** -> These are the smallest storage structure. These are a small set of data holding places that are part of the processor. They can hold instructions, storage address,  or other small data like bit sequences.
-- **Cache** ->  
+- **Registers**. These are the smallest storage structure. These are a small set of data holding places that are part of the processor. They can hold instructions, storage address,  or other small data like bit sequences.
+- **Cache**. This is a temporary memory, this is used to store commonly used data for faster processing in the future.
+- **Main Memory**. This the Random-Access Memory. This is where processes are stored temporarily for execution when you execute them.
+### Volatile vs Non-Volatile
+- **Volatile** - It means that it loses its content when power is removed, examples of this are RAM, Cache, Registers.
+- **Non-Volatile** -  It means that even if the there is no power it still retains its contents. Examples of this are Secondary Storage like hard disks, external storage like external HDD, DVD, flash drive.
 ![[8.png]]
 
 ![[9.png]]
