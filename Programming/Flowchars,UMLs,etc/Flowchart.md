@@ -1,4 +1,5 @@
-
+```toc
+```
 > [!NOTE] Check Your Progress.
 > a. What is an algorithm?
 > 	An algorithm is a sequence of instructions design in such a way to complete a task or solve a problem.
@@ -9,7 +10,7 @@
 > d. List any two steps involved in problem solving
 > 	Detailed study of the problem and Problem redefinition.
 
-# Introduction
+## Introduction
 Computers are capable of handling various complex problems which are tedious and routine in nature. In order that a computer solve a problem, a method for the solution and a detailed procedure has to be prepared by the programmer. The problem solving Involves :
 - Detailed study of the problem
 - Problem redefinition
@@ -22,19 +23,19 @@ Computers are capable of handling various complex problems which are tedious and
 An **algorithm** is a sequence of instructinos designed in such a way that if the instructions are executed in a specific sequence the desried result will be obtained.
 These instructions should be  precise and concise and the result should be obtained after a finite execution of steps. ***I.e. an algorithm should not repeat one or more instructions infinitely.***
 
-*An alogrithm should posses the following characteristics:*
-- Each and every instructinos should be precise and clear.
+*An algorithm should posses the following characteristics:*
+- Each and every inst should be precise and clear.
 - Each instructions should be performed a finite number of times.
 - The algorithm should ultimately terminate.
 - When the algorithm terminates the desired result should be obtained.
 ---
-###### Flowcharts
-Before you start coding a program it is necessary to plan the step by step solution to the  task you program will carry out. Such a plan can be symbolically developed using a diagram. This diagram is called a *flowchart*. **Flowcharting** is a tool that can help us to develop and represent graphically program logic sequence. It also enables us to trace and detect any logical or other erros before the programs are written.
+### Flowcharts
+Before you start coding a program it is necessary to plan the step by step solution to the  task you program will carry out. Such a plan can be symbolically developed using a diagram. This diagram is called a *flowchart*. **Flowcharting** is a tool that can help us to develop and represent graphically program logic sequence. It also enables us to trace and detect any logical or other errors before the programs are written.
 
 ---
-*Types of Flowcharts*
-- Program Flowcharts 
-- System Flowcharts
+### Types of Flowcharts
+- **Program Flowcharts** 
+- **System Flowcharts**
 
 **Program Flowcharts**. These are used by programmers. A program flowchart shows the program structure, logic flow and operations performed.  It also forms an important part of the documentation of the system. The emphasis in this type of flowchart is on the *logic*.It includes the ff.
 - Program Structure
@@ -47,31 +48,32 @@ Before you start coding a program it is necessary to plan the step by step solut
 - Results
 - Various Options
 
-**System Flowcharts**. System flowcharts are used by system analyst to show various processes, sub systems, outputs and operations on data in a system. This is used for a way to display how data flows in a system and how decisinos are made to control events.
+**System Flowcharts**. System flowcharts are used by system analyst to show various processes, sub systems, outputs and operations on data in a system. This is used for a way to display how data flows in a system and how decisions are made to control events.
 
 ---
-
 ###### Flowchart Symbols
 Flowcharts use boxes of different shapes to denote different types of instructions. The actual instructions is written in the boxes.
 
-The boxes which are used in flowcharts are standerdised to have specific meanings. These flowchart symbols have been standardised by the Americal National Standard Institute.
+The boxes which are used in flowcharts are standardized to have specific meanings. These flowchart symbols have been standardized by the American National Standard Institute.
 
 *While using the flowchart symbols following points have to be kept in mind*: 
 - The shape of the symbol is important and must not be changed
 - The size can be changed as required.
 - The symbol must be immediately recognizable.
-- The details inside the sumbol must be clearly legible. 
+- The details inside the symbol must be clearly legible. 
 - The flow lines, as far as possible, must not cross.
 
-**The symbols used in flowcharts**
-| Symbol                                                   | Function                                                                                                                        |
-| -------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Pasted image 20220413224521.png]] Start/Stop              | Used to indicate the start and end of a program.                                                                               
-| ![[Pasted image 20220413224623.png]] Input/Output             | Used to indicate the input and output functions in a program.                                                                   
-| ![[Pasted image 20220414155041.png]] Connectors              | This symbol shows continuation of the flowchart from one page to another or from a decision diamond to another page or process. 
-| ![[Pasted image 20220414155319.png]] Process|    This represents a process, action, or function.                                                                                                                      
+### The symbols used in flowcharts
+![[Pasted image 20220809134756.png]]
 
+- **Start** - This is used to start or end a process
+- **Preparation** - This is often used for declaration, like variable declaration, etc.
+- **Process** - This box represents the arithmetic instructions or how the data(input) is processed.
+- **Input or Output** - This represents the Input data taken from the user or program and output data, after the input data has been processed.
+- **Decision** - This box represents a conditional statement. This is used for determining the different possibilities and routes the program will take.
 
+---
+### More information about the symbols
 **Terminal Symbol**
 Every flowchart has a unique *starting point* and an *ending point*. The flowchart <u>begins at the start terminator</u> and <u>ends at the stop terminator</u>. The *Starting Point* is indicated with the word ***START*** inside the terminator symbol. The *Ending Point* is indicated with the word ***STOP*** inside the terminator symbol. In case a program logic involves a pause, it is also indicated with the terminal symbol. Nonetheless, ***There can be only one START and STOP terminator in the entire flowchart***. 
 
