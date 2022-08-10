@@ -9,3 +9,4 @@ To implement the `transition` effect on HTML elements, we need to specify two th
 - the property on which you want to add the transition effect.
 - the duration of the effect.
 
+> **NOTE:** If we don't specify the duration time, then the transition will not happen, or it will happen but we won't be able to see it because it will happen instantaneously, as the **default duration time**
