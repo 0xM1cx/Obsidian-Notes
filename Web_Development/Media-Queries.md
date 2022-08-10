@@ -80,3 +80,6 @@ For extra-large devices such as large laptops and desktops having screen sizes *
 ```
 
 ## Hiding elements using media queries
+Another common use case for media queries is hiding certain components of a webpage on smaller screen, or we can add details large screen sizes.
+
+We use the `display` property to **show or hide elements**.

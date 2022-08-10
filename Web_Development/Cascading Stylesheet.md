@@ -67,3 +67,5 @@ The value  *content-box* is the default value and it means that the *width and h
 ## [Positioning](Web_Development/Positioning)
 
 ## [Media Queries](Web_Development/Media-Queries)
+
+## [Transitions](Web_Development/Transitions)
