@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web_Development/Transitions.md",
+            "file": "Programming/DSA/DSA.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "e9a5b948f90297f4",
   "lastOpenFiles": [
+    "Web_Development/Transitions.md",
     "Web_Development/Cascading Stylesheet.md",
     "Web_Development/Media-Queries.md",
     "Web_Development/Styling Images.md",
@@ -75,7 +76,6 @@
     "Programming/Flowchars,UMLs,etc/Flowchart.md",
     "Programming/SQL/SQL.md",
     "Web_Development/Positioning.md",
-    "Web_Development/CSS Borders.md",
-    "Web_Development/Shadow-Effect.md"
+    "Web_Development/CSS Borders.md"
   ]
 }
