@@ -161,6 +161,8 @@ You can use this website to quickly brush up on programming languages syntax, ke
 ##### General Computing
 - [ ] tmux
 - [ ] Ubuntu OS(iso file)
+- [ ] tmux configuration file
+- [ ] nvim configuration file
 
 ##### Networking
 - [ ] wireshark
