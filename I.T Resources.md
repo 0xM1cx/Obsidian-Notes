@@ -242,12 +242,20 @@ You can use this website to quickly brush up on programming languages syntax, ke
 
 ### Books
 - [ ] The IT folders on Google Drive
-- [ ] DSA Book for any of the following languages => python, js, C/C++
+- [ ] DSA Book for any of the following languages => python, JS, C/C++
 
 ### Etc
 ## Boarding house numbers
 - [ ] Bermudo's Boarding house - 09083723475
-
+- [ ] Abrematea's Boarding house -  [+63 930 408 2457](tel:+63 930 408 2457)
+- [ ] Casa Emiliana Dormitory
+- [ ] by: Imelda V yangzon "Boarding House bedspace for rent ( male and female) With WiFi, electricity and water Location: near 7/11, LNU & EVSU" Please Contact: 09615094690
+- [ ] Miles Boarding house
+- [ ] Boarding house ni kuya
+- [ ] Lemuels boarding house
+- [ ] Professsional's dormitory
+- [ ] Contact:  ![[Pasted image 20220812121029.png]]
+- [ ] RTZ Raganit Boadring house. 09958924433 ![[Pasted image 20220812121417.png]]
 ## Freelancing
 - https://www.careeraddict.com/get-paid-for-doing-homework
 - https://www.webemployed.com/earn-money-answering-questions-websites/

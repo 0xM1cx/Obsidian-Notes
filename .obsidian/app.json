@@ -12,5 +12,6 @@
   "readableLineLength": false,
   "showIndentGuide": false,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }
