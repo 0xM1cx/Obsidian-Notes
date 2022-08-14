@@ -168,7 +168,7 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] wireshark
 
 ##### Programming
-- [ ] git 
+- [x] git 
 - [ ] MySQL w/ workbench
 - [ ] nodejs
 - [ ] C/C++
@@ -178,9 +178,9 @@ You can use this website to quickly brush up on programming languages syntax, ke
 
 #### Windows
 ##### Multimedia
-- [ ] Canva
+- [x] Canva
 - [ ] Photoshop
-- [ ] Figma
+- [x] Figma
 - [ ] Filmora
 
 ##### Networking
@@ -197,6 +197,8 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] other windows-based cybersecurity tools
 - [x] Virtual box
 - [ ] FTK Imager
+- [ ] Redline
+- [ ] Splunk
 
 ##### Programming
 - [x] git bash

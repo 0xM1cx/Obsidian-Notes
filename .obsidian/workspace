@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -67,6 +66,8 @@
   },
   "active": "e9a5b948f90297f4",
   "lastOpenFiles": [
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/ThreatIntelligence.md",
+    "I.T Resources.md",
     "Programming/DSA/DSA.md",
     "Web_Development/Transitions.md",
     "Web_Development/Cascading Stylesheet.md",
@@ -74,8 +75,6 @@
     "Web_Development/Styling Images.md",
     "Web_Development/Web Development Main.md",
     "General-I.T/Operating-Systems/Intro-to-OS.md",
-    "Programming/Flowchars,UMLs,etc/Flowchart.md",
-    "Programming/SQL/SQL.md",
-    "Web_Development/Positioning.md"
+    "Programming/Flowchars,UMLs,etc/Flowchart.md"
   ]
 }
