@@ -263,8 +263,15 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - https://www.coursera.org/
 
 ## Cookbook
-### Installing Neovim
+### Neovim
+#### Installing Neovim
 https://evancalz.medium.com/setting-up-neovim-on-wsl2-bf634cac435f
 
-### Neovim Config file
+#### Neovim Config file
 https://github.com/LunarVim/LunarVim
+
+#### TSInstall "Installing programming language support"
+https://github.com/nvim-treesitter/nvim-treesitter#supported-languages
+
+#### Init.vim file used
+https://github.com/Optixal/neovim-init.vim
