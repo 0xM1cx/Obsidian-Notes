@@ -159,9 +159,9 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] 
 
 ##### General Computing
-- [ ] tmux
+- [x] tmux
 - [ ] Ubuntu OS(iso file)
-- [ ] tmux configuration file
+- [x] tmux configuration file [config file](https://github.com/gpakosz/.tmux) 
 - [ ] nvim configuration file
 
 ##### Networking
@@ -184,28 +184,28 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] Filmora
 
 ##### Networking
-- [ ] wireshark
-- [ ] Packet Tracer
+- [x] wireshark
+- [x] Packet Tracer
 
 ##### General Computing
-- [ ] Firefox w/ personal data
+- [x] Firefox w/ personal data
 - [ ] Opera w/ personal data
 - [ ] Anki
-- [ ] Obsidian and the notes
+- [x] Obsidian and the notes
 
 ##### Cybersecurity
 - [ ] other windows-based cybersecurity tools
-- [ ] Virtual box
+- [x] Virtual box
 - [ ] FTK Imager
 
 ##### Programming
-- [ ] git bash
-- [ ] github
-- [ ] VScode
-- [ ] Visual Studio
-- [ ] nodejs
+- [x] git bash
+- [x] github
+- [x] VScode
+- [x] Visual Studio
+- [x] nodejs
 - [ ] C/C++
-- [ ] python2/3
+- [x] python2/3
 - [ ] MySQL w/ workbench
 
 
@@ -261,3 +261,10 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - https://www.webemployed.com/earn-money-answering-questions-websites/
 - https://www.studypool.com/
 - https://www.coursera.org/
+
+## Cookbook
+### Installing Neovim
+https://evancalz.medium.com/setting-up-neovim-on-wsl2-bf634cac435f
+
+### Neovim Config file
+https://github.com/LunarVim/LunarVim
