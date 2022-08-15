@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "I.T Resources.md",
+            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -66,15 +67,15 @@
   },
   "active": "e9a5b948f90297f4",
   "lastOpenFiles": [
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/ThreatIntelligence.md",
-    "I.T Resources.md",
-    "Programming/DSA/DSA.md",
+    "Writeups/CTF Writups Main.md",
+    "Writeups/PicoCTFs.md",
     "Web_Development/Transitions.md",
-    "Web_Development/Cascading Stylesheet.md",
-    "Web_Development/Media-Queries.md",
-    "Web_Development/Styling Images.md",
-    "Web_Development/Web Development Main.md",
-    "General-I.T/Operating-Systems/Intro-to-OS.md",
-    "Programming/Flowchars,UMLs,etc/Flowchart.md"
+    "I.T Resources.md",
+    "Web_Development/Javascript.md",
+    "Web_Development/Hypertext Markup Language.md",
+    "Web_Development/HTML_PageStructures.md",
+    "Web_Development/API.md",
+    "Networking/Subnetting.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md"
   ]
 }
