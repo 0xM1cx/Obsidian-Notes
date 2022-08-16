@@ -303,4 +303,25 @@ studentA.name = "Martin";
 console.log(studentA.name); // Martin
 ```
 
-Essentially, when an object is crated with an object literal, any object variable derived from that object will act as a clone of the original object. Hence, any change you make in one object will also reflect in the other object.
+Essentially, when an object is crated with an object literal, any object variable derived from that object will act as a clone of the original object. Hence, any change you make in one object will also reflect in the other object
+
+#### Adding Properties and Methods in an Object
+```js
+// constructor function
+function Student(){
+	this.name = "Shawn Michael Sudaria",
+	this.age = 18,
+	this.course = "BSIT"
+}
+
+// Creating Objects
+let studentA = new Person();
+
+// adding a property to an object
+studentA.gender = "male";
+
+// adding method to an object
+studentA.welcomeMessage = function(){
+	console.log(`Welcome ${studentA.name}`);
+}
+```

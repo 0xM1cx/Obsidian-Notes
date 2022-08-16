@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "I.T Resources.md",
+            "file": "Web_Development/JsObjects.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,12 +67,12 @@
   },
   "active": "e9a5b948f90297f4",
   "lastOpenFiles": [
+    "Web_Development/Javascript.md",
+    "I.T Resources.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
     "Writeups/CTF Writups Main.md",
     "Writeups/PicoCTFs.md",
     "Web_Development/Transitions.md",
-    "I.T Resources.md",
-    "Web_Development/Javascript.md",
     "Web_Development/Hypertext Markup Language.md",
     "Web_Development/HTML_PageStructures.md",
     "Web_Development/API.md",
