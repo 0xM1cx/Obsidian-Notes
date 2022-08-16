@@ -160,9 +160,9 @@ You can use this website to quickly brush up on programming languages syntax, ke
 
 ##### General Computing
 - [x] tmux
-- [ ] Ubuntu OS(iso file)
+- [x] Ubuntu OS(iso file)
 - [x] tmux configuration file [config file](https://github.com/gpakosz/.tmux) 
-- [ ] nvim configuration file
+- [x] nvim configuration file
 
 ##### Networking
 - [ ] wireshark
@@ -197,7 +197,7 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] other windows-based cybersecurity tools
 - [x] Virtual box
 - [ ] FTK Imager
-- [ ] Redline
+- [x] Redline
 - [ ] Splunk
 
 ##### Programming
@@ -208,7 +208,7 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [x] nodejs
 - [ ] C/C++
 - [x] python2/3
-- [ ] MySQL w/ workbench
+- [x] MySQL w/ workbench
 
 
 ### Lecture/tutorial Videos

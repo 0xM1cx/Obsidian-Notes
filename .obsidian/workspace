@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
+            "file": "I.T Resources.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "e9a5b948f90297f4",
   "lastOpenFiles": [
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
     "Writeups/CTF Writups Main.md",
     "Writeups/PicoCTFs.md",
     "Web_Development/Transitions.md",
@@ -75,7 +76,6 @@
     "Web_Development/Hypertext Markup Language.md",
     "Web_Development/HTML_PageStructures.md",
     "Web_Development/API.md",
-    "Networking/Subnetting.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/MalwareAnalysis.md"
+    "Networking/Subnetting.md"
   ]
 }
