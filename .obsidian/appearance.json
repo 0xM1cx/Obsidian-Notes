@@ -1,5 +1,7 @@
 {
   "baseFontSize": 22,
-  "cssTheme": "Night Owl",
-  "theme": "obsidian"
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "translucency": true,
+  "textFontFamily": "Arial"
 }

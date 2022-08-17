@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a5b948f90297f4",
+        "id": "31b8a878f4a25772",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web_Development/JsObjects.md",
+            "file": "General-I.T/Operating-Systems/Intro-to-OS.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -65,17 +64,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9a5b948f90297f4",
+  "active": "31b8a878f4a25772",
   "lastOpenFiles": [
-    "Web_Development/Javascript.md",
-    "I.T Resources.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
-    "Writeups/CTF Writups Main.md",
-    "Writeups/PicoCTFs.md",
-    "Web_Development/Transitions.md",
-    "Web_Development/Hypertext Markup Language.md",
+    "Web_Development/CSS Borders.md",
     "Web_Development/HTML_PageStructures.md",
-    "Web_Development/API.md",
-    "Networking/Subnetting.md"
+    "Web_Development/CSS Display Property.md",
+    "Web_Development/Cascading Stylesheet.md",
+    "Networking/DNS_Enumeration.md",
+    "Web_Development/Shadow-Effect.md",
+    "Web_Development/Media-Queries.md",
+    "Web_Development/JsObjects.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DWA.md",
+    "Web_Development/API.md"
   ]
 }

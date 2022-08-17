@@ -44,10 +44,11 @@ We can specify the value of all three properties in one property to reduce the C
 ```border: width (in px|cm|%...) style color```
 
 *Example*
-``
-`#myborder {
-	``border: dashed 2px purple;``
-``}`
+```css
+#myborder {
+	border: dashed 2px purple;
+}
+```
 
 ###### border-radius
 The CSS `border-radius` property is used to make the corners of any HTML element rounded. We can use it with images, borders, fieldset, etc. HTML elements, to make their corners rounded. This property can even make an HTML element appear completely circular if we increase the value of `border-radius` property to more than half of the edge of the HTML element.

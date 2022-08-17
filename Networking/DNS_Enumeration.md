@@ -27,7 +27,7 @@ Each domain consists of at least two parts:
 1.  `Top-Level Domain` (`TLD`)
 2.  `Domain Name`
 
-From the last example, the domain name would be `inlanefreight` and the TLD then "`com`".  If we look at the "`inlanefreight`", we see that its contains some so-called `subdomains`(dev, www, mail). These subdomains can represent a single host or virtual hosts(vHosts). The DNS servers are divided into four diferent types:
+From the last example, the domain name would be `inlanefreight` and the TLD then "`com`".  If we look at the "`inlanefreight`", we see that its contains some so-called `subdomains`(dev, www, mail). These subdomains can represent a single host or virtual hosts(vHosts). The DNS servers are divided into four different types:
 - Recursive resolvers (DNS Recursor)
 - Root name server
 - TLD name server
