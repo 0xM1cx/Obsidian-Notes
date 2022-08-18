@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General-I.T/Operating-Systems/Intro-to-OS.md",
+            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -66,6 +67,7 @@
   },
   "active": "31b8a878f4a25772",
   "lastOpenFiles": [
+    "General-I.T/Operating-Systems/Intro-to-OS.md",
     "Web_Development/CSS Borders.md",
     "Web_Development/HTML_PageStructures.md",
     "Web_Development/CSS Display Property.md",
@@ -74,7 +76,6 @@
     "Web_Development/Shadow-Effect.md",
     "Web_Development/Media-Queries.md",
     "Web_Development/JsObjects.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DWA.md",
-    "Web_Development/API.md"
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DWA.md"
   ]
 }
