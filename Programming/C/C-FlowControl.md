@@ -8,6 +8,7 @@ if (test expression)
    // code
 }
 ```
+
 ### How if statement works?
 The `if` statement evaluates the test expression inside the parenthesis `()`.
 -   If the test expression is evaluated to true, statements inside the body of `if` are executed.

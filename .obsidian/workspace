@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
+            "file": "Programming/C/C-FlowControl.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -67,6 +66,7 @@
   },
   "active": "31b8a878f4a25772",
   "lastOpenFiles": [
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
     "General-I.T/Operating-Systems/Intro-to-OS.md",
     "Web_Development/CSS Borders.md",
     "Web_Development/HTML_PageStructures.md",
@@ -75,7 +75,6 @@
     "Networking/DNS_Enumeration.md",
     "Web_Development/Shadow-Effect.md",
     "Web_Development/Media-Queries.md",
-    "Web_Development/JsObjects.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DWA.md"
+    "Web_Development/JsObjects.md"
   ]
 }

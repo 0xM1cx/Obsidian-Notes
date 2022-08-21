@@ -2,6 +2,6 @@
   "baseFontSize": 22,
   "cssTheme": "Things",
   "theme": "obsidian",
-  "translucency": true,
+  "translucency": false,
   "textFontFamily": "Arial"
 }
