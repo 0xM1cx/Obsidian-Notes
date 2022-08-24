@@ -56,7 +56,6 @@ int main() {
     return 0;
 }
 ```
-
 ---
 In programming, a loop is used t repeat a block of code until the specified condition is met.
 
