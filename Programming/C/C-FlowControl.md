@@ -348,6 +348,5 @@ jump:
 
 ### Should you use goto?
 If you think the use of `goto` simplifies your program. you can use it. That being said, `goto` is rarely useful and you can create any C program without using it.
-## Lessons to practice/review
 
 
