@@ -1,3 +1,5 @@
+```toc
+```
  # C Intro
 ## Character set
 
