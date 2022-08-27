@@ -228,12 +228,12 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] Node.js Crash Course
 - [ ] Web Development Tutorials
 - [ ] flask tutorial playlist
-- [ ] DSA lecture playlist
+- [x] DSA lecture playlist
 - [ ] Django Tutorial playlist
 
 #### General Computing
 - [ ] Download some videos from Powercert animated videos
-- [ ] Mathematics in the Modern World | WOW Math
+- [x] Mathematics in the Modern World | WOW Math
 - [ ] Professor Messer A+
 - [ ] Introduction to Computer Science | CS50
 - [ ] Windows Internals Part 1 - Processes
@@ -248,14 +248,14 @@ You can use this website to quickly brush up on programming languages syntax, ke
 
 ### Etc
 ## Boarding house numbers
-- [ ] Bermudo's Boarding house - 09083723475
-- [ ] Abrematea's Boarding house -  [+63 930 408 2457](tel:+63 930 408 2457)
-- [ ] Casa Emiliana Dormitory
+- [x] Bermudo's Boarding house - 09083723475
+- [x] Abrematea's Boarding house -  [+63 930 408 2457](tel:+63 930 408 2457)
+- [x] Casa Emiliana Dormitory
 - [x] by: Imelda V yangzon "Boarding House bedspace for rent ( male and female) With WiFi, electricity and water Location: near 7/11, LNU & EVSU" Please Contact: 09615094690 ![[Pasted image 20220812211419.png]]
-- [ ] Miles Boarding house
-- [ ] Boarding house ni kuya
-- [ ] Lemuels boarding house
-- [ ] Professsional's dormitory
+- [x] Miles Boarding house
+- [x] Boarding house ni kuya
+- [x] Lemuels boarding house
+- [x] Professsional's dormitory
 - [x] Contact:  ![[Pasted image 20220812121029.png]]
 - [x] RTZ Raganit Boadring house. 09958924433 ![[Pasted image 20220812121417.png]]
 ## Freelancing

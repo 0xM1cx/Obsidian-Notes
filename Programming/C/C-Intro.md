@@ -1,7 +1,11 @@
 ```toc
 ```
  # C Keywords and Identifiers
+
+ ## Extra Information to KNOW
  
+ ### What is a preprocessor in C?
+ The **Preprocessor** is not part of the compiler, but is a separate step in the compilation process. In simple terms, a C Preprocessor is just a text substitution tool and its instructs the compiler to do require pre-processing before the actual compilation.
 ## Character set
 
 A character set is a set of alphabets, letters and some special characters that are valid in C language.
@@ -82,7 +86,32 @@ These are created by enclosing a single character inside single quotation marks.
 There are times where it is necessary to use characters that cannot be types or has special meaning in C. E.g. newline, tab, question mark, etc.
 ![[Pasted image 20220827172713.png]]
 
+### String Literals
+These are literals that are a sequence of characters enclosed in double quotation marks. E.g.
+```c
+"good" // String constant
+"" // null string constant
+"     " // string constant with white space
+"X" //string constant having a single character
+"Earth is round\n" //prints string with a newline
+```
+
+## Constants
+These are variables whose value cannot be changed, you can use the `const` keyword.
+```c
+const float PI = 3.1415265;
+```
+>You can also define a constants using the `#define` preprocessor.
+
+# Data Types
+
+**Data types** are declaration for variables. This determines the type and size of data associated with variables.
+```c
+int age;
+```
+In the example above, the variable `age` is a `int`(integer) type. The size of `int` is 4 bytes.
 # Input Output (I/O)
+
 In C programming, `printf()` is one of the main output function. The function sends formatted output to the screen. For example,
 ```c
 #include <stdio.h>    
