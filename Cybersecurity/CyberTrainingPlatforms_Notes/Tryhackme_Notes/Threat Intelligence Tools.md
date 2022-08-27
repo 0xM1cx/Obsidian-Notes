@@ -56,5 +56,12 @@ This is done by providing a database of the C&C servers that security analysts c
 
 ### SSL Blacklist
 [SSL Blacklist](https://sslbl.abuse.ch/)
+This was developed to identify and detect malicious SSL connections. From these connections, [SSL certificate](https://www.websecurity.digicert.com/security-topics/what-is-ssl-tls-https) used by botnet C2 servers would be identified and update on a deny-list that is provided for use.
 
+### URLhaus
+[URLhaus](https://urlhaus.abuse.ch/)
+This tool focuses on sharing malicious URLs used for malware distribution. As an analyst, you can search through the database for domains, URLs, hashes and filetypes that are suspected to be malicious and validate your investigations.
 
+### ThreatFox
+[ThreatFox](https://threatfox.abuse.ch/)
+With this tool security analysts can search for, share and export indicators of compromise associated with malware. IOCs can be exported in various formats such as MISP events, Sucricata IDS Ruleset, Domain Host files, DNS Response Policy Zone, JSON files and CSV files.

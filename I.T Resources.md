@@ -239,7 +239,7 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] Windows Internals Part 1 - Processes
 
 #### Networking
-- [ ] CCNA jeremy's I.T
+- [x] CCNA jeremy's I.T
 
 
 ### Books

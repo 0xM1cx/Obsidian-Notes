@@ -1,6 +1,7 @@
 ```toc
 ```
- # C Intro
+ # C Keywords and Identifiers
+ 
 ## Character set
 
 A character set is a set of alphabets, letters and some special characters that are valid in C language.
@@ -33,19 +34,53 @@ int money
 
 ### Rules of naming identifiers
 1.  A valid identifier can have letters (both uppercase and lowercase letters), digits and underscores.
-2.  The character of an identifier should be either a letter or an underscore.
-3.  You cannot use keywords like `int`, `while` etc. as identifiers.
+2.  The first character of an identifier should be either a letter or an underscore.
+3.  You cannot use keywords like `int`, `while` etc. as identifiers because these are keywords.
 4.  There is no rule on how long an identifier can be. However, you may run into problems in some compilers if the identifier is longer than 31 characters.
 
 You can choose any name as an identifier if you follow the above rule, however, give meaningful names to identifiers that make sense.
 
-# Variables
-In programming, a variable is a container (storage area) to hold data.
+# Variables, Constants and Literals
+## Variables
+In programming, a variable is a container *(storage area)* to hold data.
 
-To indicate the storage area, each variable should be given a unique name (identifier). Variable names are just the symbolic representation of a memory location. For example:
+Each variable should be given a unique name *(identifier)*. Variable names are just the symbolic representation of a memory location. For example:
 ```c
 int playerScore = 95; 
 ```
+
+>**Note:** You should always try to give meaningful names to variables. E.g. `firstName` is better than `fn`
+
+C is a strongly *typed language*. This means that the variable type cannot be changed once it is declared. E.g.
+```c
+int age = 18; // Integer Variable 
+age = 18.5; // error
+double age; // error
+```
+ Here, the type of the `age` variable is an integer. You can't assign a floating-point value to this variable. Also you can't define the data type of the variable to a `double`. BTW, to store decimal variables in C you can either use a `double` or `float`.
+
+
+## Literals
+These are data used for representing fixed values. They can be used directly in the code. E.g. `1`, `2.5`, `'c'`, etc.
+
+The examples above are literals. Why? You cannot assign different values to these terms.
+
+### Integers
+These are numeric literals without any fractional or exponential part. There are three types of integer literals in C.
+- decimal (base 10)
+- octal (base 8)
+- hexadecimal (base 16)
+
+### Floating-point Literals
+These are numeric literals that has either a fractional form or an exponent form. E.g. `-2.0`, `0.0000234`, `-0.22E-5` 
+> **BTW**: E-5 = 10^-5
+
+### Characters
+These are created by enclosing a single character inside single quotation marks. E.g. `a`, `m`, `F`, `2`, `}`, etc.
+
+### Escape Sequences
+There are times where it is necessary to use characters that cannot be types or has special meaning in C. E.g. newline, tab, question mark, etc.
+![[Pasted image 20220827172713.png]]
 
 # Input Output (I/O)
 In C programming, `printf()` is one of the main output function. The function sends formatted output to the screen. For example,

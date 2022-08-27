@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "I.T Resources.md",
+            "file": "Programming/C/C-Intro.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -66,15 +67,15 @@
   },
   "active": "31b8a878f4a25772",
   "lastOpenFiles": [
+    "I.T Resources.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
+    "EVSU/GEN Ed 002/Orientation.md",
     "Programming/C/C-Intro.md",
     "Programming/C/C-FlowControl.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
     "General-I.T/Operating-Systems/Intro-to-OS.md",
     "Web_Development/CSS Borders.md",
     "Web_Development/HTML_PageStructures.md",
     "Web_Development/CSS Display Property.md",
-    "Web_Development/Cascading Stylesheet.md",
-    "Networking/DNS_Enumeration.md",
-    "Web_Development/Shadow-Effect.md"
+    "Web_Development/Cascading Stylesheet.md"
   ]
 }
