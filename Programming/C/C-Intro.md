@@ -111,7 +111,7 @@ int age;
 ```
 In the example above, the variable `age` is a `int`(integer) type. The size of `int` is 4 bytes.
 
-## Basic Types
+## Basic Data Types
 ![[Pasted image 20220828102004.png]]
 #### int
 These are whole numbers like `0`, `-5`, `10`. You can declare multiple variables at once in C. E.g.
@@ -155,6 +155,28 @@ short number;
 
 >**TIP**
 >You can check the size of the variable using the `sizeof()` operator.
+
+#### Signed and unsigned 
+`signed` and `unsigned` are type modifiers. You can alter the data storage of a data type by using them:
+- `signed` - allows for storage of both positive and negative numbers
+- `unsigned` - allows for storage of only positive numbers.
+```c
+//valid codes
+unsigned int x = 35; // unsigned int
+int y = -35; // signed int
+int x = 19; // signed int
+
+//invalid code
+unsigned int num = -24;
+```
+
+## Derived Data Types
+Data types that are derived from fundamental data types are derived types. E.g. *arrays*, *pointers*, *functions types*, *structures*, etc.
+- Bool type
+- Enumerated type
+- Complex types
+
+
 # Input Output (I/O)
 
 In C programming, `printf()` is one of the main output function. The function sends formatted output to the screen. For example,
@@ -166,6 +188,9 @@ int main(){
     return 0;
 }
 ```
+
+- `printf()` is a library function to send formatted output to the screen. To use this function, we need to include `stdio.h` header file using the `#include <stdio.h>` statement.
+- The `return 0` statement is the *"Exit status"* of the program. It's optional.
 
 ### Input
 In C programming, `scanf()` is one of the commonly used function to take input from the user. The `scanf()` function reads formatted input from the standard input such as keyboards.
@@ -180,6 +205,8 @@ int main(){
 }
 ```
 Here, we have used `%d` format specifier inside the `scanf()` function to take `int` input from the user. When the user enters an integer, it is stored in the test Integer variable.
+>**NOTE:**
+> In the above code we used `&testInteger`. It's because `&testInteger` gets the address of `testInteger`, and the value entered by the user is stored in that address.
 
 **Example for characters**
 ```c
