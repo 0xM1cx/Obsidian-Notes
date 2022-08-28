@@ -2,7 +2,7 @@
 ```
  # C Keywords and Identifiers
 
- ## Extra Information to KNOW
+ ### Extra Information to KNOW
  
  ### What is a preprocessor in C?
  The **Preprocessor** is not part of the compiler, but is a separate step in the compilation process. In simple terms, a C Preprocessor is just a text substitution tool and its instructs the compiler to do require pre-processing before the actual compilation.
@@ -110,6 +110,51 @@ const float PI = 3.1415265;
 int age;
 ```
 In the example above, the variable `age` is a `int`(integer) type. The size of `int` is 4 bytes.
+
+## Basic Types
+![[Pasted image 20220828102004.png]]
+#### int
+These are whole numbers like `0`, `-5`, `10`. You can declare multiple variables at once in C. E.g.
+```c
+int Student_ID, age, pin;
+```
+The size of `int` is usually 4 bytes(32 bits). And, it can take `2^32` distinct states from `-2147483648` to `2147483647`.
+#### float and double
+These hold real numbers. In C, floating-point numbers can also be represented in exponential. E.g.
+```c
+float salary;
+double price;
+float normalizationFactor = 22.442e2;
+```
+The difference between them is that a `float`(single precision float data type) is 4 bytes. And the size of `double`(double precision float data type) is 8 bytes.
+
+#### Char
+This is used for declaring character type variables. The size of the character variable is 1bytes.
+```c
+char characterExample = 'a'
+```
+
+#### void
+`void` is an incomplete type. Meaning 'nothing' or 'no type'. You can think of void as **absent**. E.g. if a function is not returning anything, its return type should be `void`. 
+
+>**NOTE:** you cannot create variables of `void` type.
+
+#### short & long
+If you need to use a large number, you can use a type specifier `long`.
+```c
+long a;
+long long num;
+long double decimalNumber;
+```
+In the example above, variable `a` and `num` can store long integer values and variable `decimalNnumber` can store a long floating-point number.
+
+You can also use `short` for small integers.
+```c
+short number;
+```
+
+>**TIP**
+>You can check the size of the variable using the `sizeof()` operator.
 # Input Output (I/O)
 
 In C programming, `printf()` is one of the main output function. The function sends formatted output to the screen. For example,
@@ -122,7 +167,7 @@ int main(){
 }
 ```
 
-#### Input
+### Input
 In C programming, `scanf()` is one of the commonly used function to take input from the user. The `scanf()` function reads formatted input from the standard input such as keyboards.
 ```c
 #include <stdio.h>
