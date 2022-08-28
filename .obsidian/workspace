@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/C/C-Intro.md",
+            "file": "I.T Resources.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,8 +67,8 @@
   },
   "active": "31b8a878f4a25772",
   "lastOpenFiles": [
-    "I.T Resources.md",
     "Programming/C/C-Intro.md",
+    "I.T Resources.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
     "EVSU/GEN Ed 002/Orientation.md",
     "Programming/C/C-FlowControl.md",

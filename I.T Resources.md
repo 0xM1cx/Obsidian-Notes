@@ -140,7 +140,7 @@ You can use this website to quickly brush up on programming languages syntax, ke
 ---
 ## Things to Download for College
 > **NOTE** 
-> Check if these things are already downloaded before proceeding with the download.
+> Check if these things have already downloaded before proceeding with the download.
 
 ### Software
 #### Linux
@@ -165,15 +165,15 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [x] nvim configuration file
 
 ##### Networking
-- [ ] wireshark
+- [x] wireshark
 
 ##### Programming
 - [x] git 
-- [ ] MySQL w/ workbench
-- [ ] nodejs
-- [ ] C/C++
-- [ ] python2/3
-- [ ] nvim
+- [x] MySQL w/ workbench
+- [x] nodejs
+- [x] C/C++
+- [x] python2/3
+- [x] nvim
 
 
 #### Windows
@@ -189,8 +189,8 @@ You can use this website to quickly brush up on programming languages syntax, ke
 
 ##### General Computing
 - [x] Firefox w/ personal data
-- [ ] Opera w/ personal data
-- [ ] Anki
+- [x] Opera w/ personal data
+- [x] Anki
 - [x] Obsidian and the notes
 
 ##### Cybersecurity
@@ -206,16 +206,16 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [x] VScode
 - [x] Visual Studio
 - [x] nodejs
-- [ ] C/C++
+- [x] C/C++
 - [x] python2/3
 - [x] MySQL w/ workbench
 
 
 ### Lecture/tutorial Videos
 #### Cybersecurity
-- [ ] Malware Analysis | hackersploit
-- [ ] Information Gathering | hackersploit
-- [ ] Wireshark tutorial playlist | Chris Greer
+- [x] Malware Analysis | hackersploit
+- [x] Information Gathering | hackersploit
+- [x] Wireshark tutorial playlist | Chris Greer
 - [ ] Burp Suite tutorial playlist
 - [ ] Introduction to Windows Forensics | 13Cubed
 - [ ] Professor Messer Security+
