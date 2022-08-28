@@ -224,6 +224,18 @@ When a character is entered by the user in the above program, the character itse
 
 And when we display that value using `%c` text format, the entered character is displayed. If we use `%d` to display the character, it's ASCII value is printed.
 
+#### I/O Multiple values
+```c
+#include <stdio.h>
+int main(){
+	int a;
+	float b;
+	printf("Enter an Integer then a float");
+	scanf("%d%f", &a, &b);
+}
+```
+
+
 # Comments
 In programming, comments are hints that a programmer can add to make their code easier to read and understand. For example,
 ```c
