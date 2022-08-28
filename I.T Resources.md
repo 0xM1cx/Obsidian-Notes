@@ -145,17 +145,17 @@ You can use this website to quickly brush up on programming languages syntax, ke
 ### Software
 #### Linux
 ##### Cybersecurity
-- [ ] kali linux iso
+- [x] kali linux iso
 - [ ] other linux-based cybersecurity tools
 - [ ] volatility
 - [ ] burpsuite
-- [ ] metasploit
-- [ ] nessus
+- [x] metasploit
+- [x] nessus
 - [ ] FTK Imager
 - [ ] Autopsy - Sleuth Kit
 - [ ] Hashcat
-- [ ] binwalk
-- [ ] strings
+- [x] binwalk
+- [x] strings
 - [ ] 
 
 ##### General Computing
@@ -216,13 +216,13 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [x] Malware Analysis | hackersploit
 - [x] Information Gathering | hackersploit
 - [x] Wireshark tutorial playlist | Chris Greer
-- [ ] Burp Suite tutorial playlist
+- [x] Burp Suite tutorial playlist
 - [ ] Introduction to Windows Forensics | 13Cubed
 - [ ] Professor Messer Security+
 
 #### Programming
 - [ ] React JS Tutorials for Beginners | codevolution 
-- [ ] Intro to x86 Assembly | Davy Wybiral
+- [x] Intro to x86 Assembly | Davy Wybiral
 - [ ] SQL Tutorials | Corey Scafer
 - [ ] Algorithm Simplified | StudyTonight
 - [ ] Node.js Crash Course
