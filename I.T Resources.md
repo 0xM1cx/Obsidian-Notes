@@ -234,9 +234,9 @@ You can use this website to quickly brush up on programming languages syntax, ke
 #### General Computing
 - [ ] Download some videos from Powercert animated videos
 - [x] Mathematics in the Modern World | WOW Math
-- [ ] Professor Messer A+
+- [x] Professor Messer A+
 - [ ] Introduction to Computer Science | CS50
-- [ ] Windows Internals Part 1 - Processes
+- [x] Windows Internals Part 1 - Processes
 
 #### Networking
 - [x] CCNA jeremy's I.T
