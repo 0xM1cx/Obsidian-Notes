@@ -1,3 +1,4 @@
+
 # Introduction to Phishing Analysis
 ---
 Phishing attacks correspond to the "**Delivery**" phase in the **Cyber Kill Chain** model created to analyze cyber attacks. The delivery stage is the step where the attacker transmits the previously prepared harmful content to the victim systems / people.
@@ -168,4 +169,13 @@ Attackers try to deceive security products and analysts by creating a free subdo
 
 **Form applications**
 
-Services are available that allow free form creation. Attackers use these services instead of creating a fishing site themselves. Since the domain is harmless under normal conditions, it can pass on to the user without getting stuck on antivirus software. Google Form is an example of these services. When looking at whois information, the domain can be seen to be Google, so the attacker can mislead analysts.
+Services are available that allow free form creation. Attackers use these services instead of creating a fishing site themselves. Since the domain is harmless under normal conditions, it can pass on to the user without getting stuck on antivirus software. Google Form is an example of these services. When looking at **whois** information, the domain can be seen to be Google, so the attacker can mislead analysts.
+
+
+```json
+Note Title: "Phising Analysis",
+Author: "Shawn Michael A Sudaria",
+Github: "https://github.com/0xM1cx"
+```
+
+

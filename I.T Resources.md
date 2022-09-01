@@ -247,6 +247,11 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] DSA Book for any of the following languages => python, JS, C/C++
 
 ### Etc
+
+## Cybersecurity Tools List
+### OSINT
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+
 ## Boarding house numbers
 - [x] Bermudo's Boarding house - 09083723475
 - [x] Abrematea's Boarding house -  [+63 930 408 2457](tel:+63 930 408 2457)

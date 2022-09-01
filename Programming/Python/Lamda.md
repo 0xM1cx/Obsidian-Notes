@@ -33,3 +33,10 @@ def myfunc(n):
 my doubler = myfunc(2)
 print(mydoubler(11))
 ```
+
+```json
+Note Title: "Python Lamda",
+Author: "Shawn Michael Sudaria", 
+github: "https://github.com/0xM1cx"
+```
+

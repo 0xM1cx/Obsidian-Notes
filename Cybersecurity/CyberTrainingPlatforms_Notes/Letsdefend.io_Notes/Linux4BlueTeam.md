@@ -43,7 +43,8 @@ There are a number of Linux distributions and the new ones keep being published 
 ## What is Filesystem Hierarchy?
 As in every operating system, Linux has a filing system as well. Everything in the Linux operating system consists of files. When all the files come together, they form all the components of the operating system. Files are in a grouped order by directories. In Linux, directories are in a hierarchical order. Hierarchical order means that one directory can be above or below another. In the Linux operating system, the directory structure must conform to a certain standard. The main directories in Linux and what they are used for are explained below.
 
-**"/" - Root Directory**
+### Main Directories 
+#### "/" - Root Directory
 
 The directory used as the top directory in the entire file hierarchy in Linux is the "Root Directory". The root directory is expressed with “/” and each directory to be written to the right is under the root directory. For example, the “/bin” directory means the directory named "bin” under the “/” directory. In other words, a parent directory of the "bin" directory is the "/"(root directory).  
   
@@ -55,97 +56,97 @@ The directory used as the top directory in the entire file hierarchy in Linux is
 
   
   
-**/bin Directory**
+#### /bin Directory
 
 It is the directory where the binary files of the executable commands are located. The executable binary files of the basic commands are located under this directory.  
   
   
-**/boot Directory**
+#### /boot Directory
 
 The files that are needed when the operating system is first turned on, during the loading of the kernel are located under the boot directory.  
   
   
-**/dev Directory**
+#### /dev Directory
 
 The /dev directory contains the device files on the system that are recognized by Linux. Access to the disks on the system is made under this directory. For example “/dev/sda1” refers to a device. This device is a disk or a disk partition.  A **device file** is an interface to a device driver that appears in a file system as if it were an ordinary file. The purpose of device files is usually to provide simple interfaces to standard devices (such as printers and serial ports), but can also be used to access specific unique resources on those devices, such as disk partitions.
   
   
-**/etc Directory**
+#### /etc Directory
 
 The /etc directory is the directory that contains the configuration files on the system. It is one of the most important directories on Linux in terms of security. For example, the encrypted version of the users' passwords is kept under this directory. This file is explained later in the training. it also contains executables required to boot the system, and some log files.
 
   
   
-**/home Directory**
+#### /home Directory
 
 The /home directory is the directory where users have various personal files. Downloaded files, documents, and user-specific files can be found under this directory. Since the files under this directory can give an idea about the user, they may be of interest to attackers in terms of security. Therefore, it is one of the directories that the SOC analyst should carefully examine. The size of this directory may vary depending on the user's activity. By default, when a new user is created, a new directory belonging to the user is created in the "/home" directory. However, because it is not mandatory, attackers do not usually create a new directory under the "/home" directory for newly created users.  
   
   
-**/lib Directory**
+#### /lib Directory
 
 Under the /lib directory, there are the library files used by the executable binaries in the system.  In simple terms, these are helpful files which are used by an application, command or a process for their proper execution.
   
   
-**/media Directory**
+#### /media Directory
 
 The /media directory is the directory where the removable media, such as CD-ROM and USB, are mounted.  
   
   
-**/mnt Directory**
+#### /mnt Directory
 
 The /mnt directory is the directory where the temporarily mounted file systems are located. Another way to define this directory is that is used as the temporary mount points for mounting storage devices, such as CDROMs, floppy disks and USB key drives.  
 
 ###### Difference between /media and /mnt 
 The new standard is that /media is where the system mount removable media, and /mnt is for you to mount things manually.
   
-**/opt Directory**
+#### /opt Directory
 
 The /opt directory is the directory where the application software needed to be installed on the system additionally. Furthermore, it is usually described as for optional add-on software packages source, or anything that isn't part of the base system.
   
   
-**/proc Directory**
+#### /proc Directory
 
 The /proc directory is the directory that contains the files that hold information about the current status of the running processes on the system.  
   
   
-**/root Directory**
+#### /root Directory
 
 The most authorized user in Linux is the "Root" user. The root user also has a directory that contains its own files, like other users on the system. This directory is the "/root" directory. This directory can contain critical information just like any other user directory. Therefore, SOC analysts should control access to this directory separately.
 
 The "/root" directory should not be confused with the "/" directory. The “/” directory is the topmost directory on the system. The “/root” directory is a directory under the “/” directory and belongs to the root user. Information about the root user and other users is explained in the following sections of the training.  
   
   
-**/run Directory**
+#### /run Directory
 
 The /run directory is the directory that holds information about the running system since the last boot of the system.  
   
   
-**/sbin Directory**
+#### /sbin Directory
 
 The /sbin directory is the directory where the binaries of executable commands are located. Usually, only the root users can run executable binaries under this directory.  
   
   
-**/srv Directory**
+#### /srv Directory
 
 The /srv directory is the directory that contains the data for the services offered by the system. For example, the data of services such as TFTP or FTP are located under this directory.  
   
   
-**/tmp Directory**
+#### /tmp Directory
 
 The /tmp directory is the directory where temporary files are stored. Usually, the files under the "/tmp" directory are deleted during the system reboot. When analyzing a live Linux system, the cyber security specialist who responded to the incident should examine the "/tmp" directory in order to access critical data that may be deleted.  
   
   
-**/usr Directory**
+#### /usr Directory
 
 The /usr directory is the directory containing executable binaries, libraries, and other files that all users of the system can access with read-only privileges.  
   
   
-**/var Directory**
+#### /var Directory
 
 The /var directory is known as the variable directory and contains system logs, files for tracking user activity, and cache files. It contains the logs that must be checked by the SOC analyst. According to the logs in the "/var" directory, the SOC analyst can see the unauthorized access to the system and take the necessary action.
 
 
-###### /bin, /sbin, /usr/bin,  /usr/sbin, /usr/local/bin, /usr/local/sbin
+##### /bin, /sbin, /usr/bin,  /usr/sbin, /usr/local/bin, /usr/local/sbin
 
 - **/bin**: For binaries usable before the **/usr** partition is mounted. This is used for trivial binaries used in the very early boot stage or ones that you need to have available in booting single-user mode. Think of binaries like `cat`, `ls`, etc.
 - **/sbin**: Same, but for binaries with ***superuser(root)*** privileges required.
