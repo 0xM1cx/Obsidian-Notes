@@ -44,4 +44,64 @@ In the above program when the compiler encounters `exerciseOne()`, control of th
 ## User-defined functions
 
 ### Function prototype
-A **function prototype** is simply the declaration of a function that specifies function's name, parameters and return type. It doesn't contain a function body.
+A **function prototype** is simply the declaration of a function that specifies function's name, parameters and return type. It doesn't contain a function body.  This function gives information to the compiler that the function may later be used in the program.
+
+#### Syntax of function prototype
+```c
+returnType functionName(type1 argument1, type argument2, ...);
+```
+
+An example would be:
+```c
+int userAge(int currentYear, int userBirthYear);
+```
+In the above example, it is a function prototype which provides the following to the compiler:
+1. name of the function is `addNumbers()`
+2. return type of the function is `int`
+3. two arguments of type `int` are passed to the function
+
+> The function prototype is not needed if the user-defined function is defined before the `main()` function.
+
+### Function definition
+Function definition contains the block of code to perform a specific task. 
+#### Syntax of function definition
+```c
+returnType functionName(type argument){
+	// body of the function
+}
+```
+When a function is called, the control of the program is transferred to the function definition. And, the compiler starts executing the codes inside the body of the function.
+
+### Return Statement
+The **return statement** terminates the execution of a function and returns a value to the calling function. The program control is transferred to the calling function after the return statement.
+
+
+#### Examples
+```c
+#include <stdio.h>
+int addNumbers(int a, int b);         // function prototype
+
+int main()
+{
+    int n1,n2,sum;
+
+    printf("Enters two numbers: ");
+    scanf("%d %d",&n1,&n2);
+
+    sum = addNumbers(n1, n2);        // function call
+    printf("sum = %d",sum);
+
+    return 0;
+}
+
+int addNumbers(int a, int b)         // function definition   
+{
+    int result;
+    result = a+b;
+    return result;                  // return statement
+}
+```
+
+[Revisit this page](https://www.programiz.com/c-programming/types-user-defined-functions)
+
+## Recursion
