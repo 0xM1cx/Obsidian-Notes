@@ -105,3 +105,4 @@ int addNumbers(int a, int b)         // function definition
 [Revisit this page](https://www.programiz.com/c-programming/types-user-defined-functions)
 
 ## Recursion
+A **recursive function** is a function that calls itself.
