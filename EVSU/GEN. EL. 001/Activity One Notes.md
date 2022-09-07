@@ -13,7 +13,7 @@
 ### Stye ng damit na sinusuot ng mga tao 
 
 ### Linggwahe na ginagamit
-Sa Calbayog mayroon dalawang katutubong linguahe, eto ay ang tagalog at waray
+Sa Calbayog mayroon dalawang katutubong linguahe, eto ay ang tagalog at waray. Mala
 
 ###  Ano ang original na pinagmulan ng lugar.
 Calbayog began **as early as 1600** in a settlement called Hibatang by the river bank of the present Oquendo River. It had 2,000 inhabitants under the spiritual guidance of a certain Jesuit, Father Ignacio de Alzina. The present barangay Anislag was the forerunner of Calbayog settlement.
@@ -51,6 +51,7 @@ Republic Act No. 328 made Calbayog a city on October 16, 1948. In 1961 R.A. 328 
 
 ### Useful Links
 - https://www.facebook.com/calbayog/photos/
+- https://ewikitl.top/wiki/calbayog
 
 Gumawa ng isang PowerPoint Presentation tungkol sa:  
 1. Anong lugar ang inyong pinanggalingan (hal. Tacloban City)  
