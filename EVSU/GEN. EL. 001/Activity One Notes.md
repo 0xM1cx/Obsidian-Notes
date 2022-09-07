@@ -52,6 +52,7 @@ Republic Act No. 328 made Calbayog a city on October 16, 1948. In 1961 R.A. 328 
 ### Useful Links
 - https://www.facebook.com/calbayog/photos/
 - https://ewikitl.top/wiki/calbayog
+- https://en.wikipedia.org/wiki/Calbayog
 
 Gumawa ng isang PowerPoint Presentation tungkol sa:  
 1. Anong lugar ang inyong pinanggalingan (hal. Tacloban City)  
