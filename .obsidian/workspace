@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EVSU/GEN. EL. 001/Activity One Notes.md",
+            "file": "EVSU/GEN Ed 002/Activity1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -66,6 +67,8 @@
   },
   "active": "a4f373cf576faf7a",
   "lastOpenFiles": [
+    "EVSU/GEN Ed 002/Orientation.md",
+    "EVSU/GEN. EL. 001/Activity One Notes.md",
     "EVSU/Intro to Comp/Week 3 What is Hardware.md",
     "Programming/C/C-Functions.md",
     "Programming/Python/Lamda.md",
@@ -73,8 +76,6 @@
     "Programming/Python/Decorators.md",
     "Programming/SQL/SQL.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Phishing.md",
-    "Networking/Subnetting.md",
-    "Networking/Static Routing.md",
-    "Networking/Networking Main.md"
+    "Networking/Subnetting.md"
   ]
 }
