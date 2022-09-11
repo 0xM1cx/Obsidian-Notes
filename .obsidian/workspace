@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EVSU/GEN Ed 002/Activity1.md",
+            "file": "EVSU/Comp. prog 1/Algorithm and Flowcharts.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,15 +67,15 @@
   },
   "active": "a4f373cf576faf7a",
   "lastOpenFiles": [
+    "EVSU/Intro to Comp/A.md",
+    "EVSU/Intro to Comp/Week 3 What is Hardware.md",
+    "EVSU/GEN Ed 002/Activity1.md",
     "EVSU/GEN Ed 002/Orientation.md",
     "EVSU/GEN. EL. 001/Activity One Notes.md",
-    "EVSU/Intro to Comp/Week 3 What is Hardware.md",
     "Programming/C/C-Functions.md",
     "Programming/Python/Lamda.md",
     "Programming/Python/Inheritance.md",
     "Programming/Python/Decorators.md",
-    "Programming/SQL/SQL.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Phishing.md",
-    "Networking/Subnetting.md"
+    "Programming/SQL/SQL.md"
   ]
 }
