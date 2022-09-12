@@ -1,7 +1,7 @@
 ## Presentation of hometown DEADLINE: SEPT 7, 2022
 ### Name of place
 - Calbayog City
-- Why is it named calbayog city?
+- Why is it named Calbayog city?
 - When was it founded? 
 - 
 
@@ -16,7 +16,7 @@
 Sa Calbayog mayroon dalawang katutubong linguahe, eto ay ang tagalog at waray. Mala
 
 ###  Ano ang original na pinagmulan ng lugar.
-Calbayog began **as early as 1600** in a settlement called Hibatang by the river bank of the present Oquendo River. It had 2,000 inhabitants under the spiritual guidance of a certain Jesuit, Father Ignacio de Alzina. The present barangay Anislag was the forerunner of Calbayog settlement.
+Calbayog began **as early as 1600** in a settlement called "Hibatang" by the river bank of the present Oquendo River. It had 2,000 inhabitants under the spiritual guidance of a certain Jesuit, Father Ignacio de Alzina. The present barangay Anislag was the forerunner of Calbayog settlement.
 
 The barangay is located along the river bank of Oquendo river, about ten kilometers north off the city proper. Historical remains of what was once a village church can be noticed by travelers passing this barangay.
 
