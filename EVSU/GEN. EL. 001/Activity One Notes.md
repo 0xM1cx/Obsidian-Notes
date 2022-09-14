@@ -1,21 +1,19 @@
 ## Presentation of hometown DEADLINE: SEPT 7, 2022
-### Name of place
-- Calbayog City
-- Why is it named Calbayog city?
-- When was it founded? 
-- 
+### Name of place(Finished)
+- [x] Why named calbayog?
+- [x] When was it founded?
 
-### Population 
+### Population (Finished)
 - 186,960 people
 
 ### Structural design if nagbago na ang style ng mga bahay
 
 ### Stye ng damit na sinusuot ng mga tao 
 
-### Linggwahe na ginagamit
+### Linggwahe na ginagamit (Finished)
 Sa Calbayog mayroon dalawang katutubong linguahe, eto ay ang tagalog at waray. Mala
 
-###  Ano ang original na pinagmulan ng lugar.
+###  Ano ang original na pinagmulan ng lugar. (Finished)
 Calbayog began **as early as 1600** in a settlement called "Hibatang" by the river bank of the present Oquendo River. It had 2,000 inhabitants under the spiritual guidance of a certain Jesuit, Father Ignacio de Alzina. The present barangay Anislag was the forerunner of Calbayog settlement.
 
 The barangay is located along the river bank of Oquendo river, about ten kilometers north off the city proper. Historical remains of what was once a village church can be noticed by travelers passing this barangay.
@@ -55,15 +53,15 @@ Republic Act No. 328 made Calbayog a city on October 16, 1948. In 1961 R.A. 328 
 - https://en.wikipedia.org/wiki/Calbayog
 
 Gumawa ng isang PowerPoint Presentation tungkol sa:  
-1. Anong lugar ang inyong pinanggalingan (hal. Tacloban City)  
-2. Populasyon sa inyong lugar  
-3. Disenyo ng istruktura ng mga gusali sa inyo (hal. simentado, kahoy, makabago, atbp.)  
-4. Paraan ng pananamit  
-5. Lengguwahe/ wikang ginagamit sa inyong lugar  
-6. Ano ang alamat o pinagmulan ng inyong lugar  
-7. Paraan ng panliligaw at paraan ng pag-aasawa  
-8. Ano ang mga pamahiin sa inyong lugar  
-9. Paraan ng panganganak  
-10. Mga tradition sa inyong lugar  
-11. Pakilahad ang naging progreso o pag-unlad ng inyong lugar  
-12. Antiks, ilagay rin ang mga importanteng taon tungkol sa antik na iyan.
+- [x] Anong lugar ang inyong pinanggalingan (hal. Tacloban City)  
+- [x] Populasyon sa inyong lugar  
+- [x] Disenyo ng istruktura ng mga gusali sa inyo (hal. simentado, kahoy, makabago, atbp.)  
+- [x] Paraan ng pananamit  
+- [x] Lengguwahe/ wikang ginagamit sa inyong lugar  
+- [x] Ano ang alamat o pinagmulan ng inyong lugar  
+- [x] Paraan ng panliligaw at paraan ng pag-aasawa  
+- [x] Ano ang mga pamahiin sa inyong lugar  
+- [ ] Paraan ng panganganak  
+- [x] Mga tradition sa inyong lugar  
+- [ ] Pakilahad ang naging progreso o pag-unlad ng inyong lugar  
+- [ ] Antiks, ilagay rin ang mga importanteng taon tungkol sa antik na iyan.
