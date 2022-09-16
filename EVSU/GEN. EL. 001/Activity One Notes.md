@@ -61,7 +61,7 @@ Gumawa ng isang PowerPoint Presentation tungkol sa:
 - [x] Ano ang alamat o pinagmulan ng inyong lugar  
 - [x] Paraan ng panliligaw at paraan ng pag-aasawa  
 - [x] Ano ang mga pamahiin sa inyong lugar  
-- [ ] Paraan ng panganganak  
+- [x] Paraan ng panganganak  
 - [x] Mga tradition sa inyong lugar  
-- [ ] Pakilahad ang naging progreso o pag-unlad ng inyong lugar  
-- [ ] Antiks, ilagay rin ang mga importanteng taon tungkol sa antik na iyan.
+- [x] Pakilahad ang naging progreso o pag-unlad ng inyong lugar  
+- [x] Antiks, ilagay rin ang mga importanteng taon tungkol sa antik na iyan.
