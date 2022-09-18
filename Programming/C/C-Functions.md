@@ -150,6 +150,7 @@ int n = 5;
 int main(){
 	++n;
 	display();
+
 	return 0;
 }
 
@@ -160,3 +161,30 @@ void display(){
 ```
 
 Suppose, a global variable is declared in `file1`. If you try to use that variable in a different file `file2`, the compiler will complain. To solve this problem, keyword `extern` is used in `file2` to indicate that the external variable is declared in another file.
+
+### Register Variable
+The `register` keyword is used to declare register variables. Register variables were supposed to be faster than local variables.
+
+However, modern compilers are very good at code optimization, and there is a rare change that using register variables will make you program faster. Unless you are working on embedded systems where you know how to optimize code for the given application, there is no use of register variables.
+
+### Static Variable
+A **Static variable** is declared by using the `static` keyword. E.g. `static int i;`
+The value of the static variable persists until the end of the program.
+**Example**
+```c
+#include <stdio.h>
+void display();
+
+int main(){
+	display();
+	display();
+}
+void display(){
+	static int n = 1;
+	n += 5;
+	printf("%d ", c);
+}
+
+// Output:
+// 6 11
+```
