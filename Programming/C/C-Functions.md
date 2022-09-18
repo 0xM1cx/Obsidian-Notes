@@ -106,3 +106,57 @@ int addNumbers(int a, int b)         // function definition
 
 ## Recursion
 A **recursive function** is a function that calls itself.
+
+
+## Storage Class
+Every variable in C programming has two properties: **Type** and **Storage class**
+
+Types refers to the data type of a variable. And, storage class determines the scope, visibility and lifetime of a variable.
+
+There are 4 types of storage class:
+1. Automatic
+2. External
+3. Static
+4. Register
+
+
+### Local Variable
+These are variable that are declared inside a block and are also called automatic variables. The local variable exist only inside the block in which it is declared.
+**Example**
+```c
+#include <stdio.h>
+int main(void){
+	
+	for(int i = 0; i<5; ++i){
+		printf("Hello C");
+	}
+
+	// Error: i is not declared at this point
+	printf("%d", i);
+	return 0;
+}
+```
+When you run the above program, you will get an error `undelcared identifier i`. It's because `i` is declared inside the `for` loop block. Outside of the block, it's undeclared.`
+
+### Global Variable
+These are variables declared outside of all functions and are known as external or global variables. They can be accessed from any function inside the program.
+**Example**
+```c
+#include <stdio.h>
+void display();
+
+int n = 5;
+
+int main(){
+	++n;
+	display();
+	return 0;
+}
+
+void display(){
+	++n;
+	printf("n = %d", n);
+}
+```
+
+Suppose, a global variable is declared in `file1`. If you try to use that variable in a different file `file2`, the compiler will complain. To solve this problem, keyword `extern` is used in `file2` to indicate that the external variable is declared in another file.
