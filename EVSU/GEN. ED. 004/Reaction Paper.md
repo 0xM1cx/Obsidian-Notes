@@ -6,5 +6,5 @@ Make a reaction paper about the movie entitled "Donald Duck in Mathmagic Land". 
 
 ## Reaction Paper
 ### Part 1: A summary of the work
-
+**_Donald in Mathmagic Land_** is a 1959 American animated-live-action featurette produced by Walt Disney Productions and featuring Donald Duck. The short was directed by Hamilton Luske (with Wolfgang Reitherman, Les Clark, and Joshua Meador as sequence directors) and was released on June 26, 1959. It was nominated for an Academy Award for Best Documentary (Short Subject) at the 32nd Academy Awards, and became a widely viewed educational film in American schools of the 1960s and beyond. This film showed how mathematics is part of everything around us.
 ### Part 2: Your reaction to the work
