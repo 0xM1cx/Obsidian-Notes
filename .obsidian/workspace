@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/C/C-FlowControl.md",
+            "file": "EVSU/Purposive Communication/Lesson_3.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -67,14 +68,14 @@
   "active": "a4f373cf576faf7a",
   "lastOpenFiles": [
     "EVSU/GEN. EL. 001/Chapter 1 Notes.md",
-    "EVSU/GEN. ED. 004/Reaction Paper.md",
-    "Programming/C/C-Functions.md",
-    "EVSU/GEN. EL. 001/Activity One Notes.md",
     "EVSU/GEN Ed 002/Activity1.md",
+    "EVSU/GEN. ED. 004/Reaction Paper.md",
+    "EVSU/GEN. EL. 001/Activity One Notes.md",
+    "Programming/C/C-FlowControl.md",
+    "Programming/C/C-Functions.md",
     "EVSU/GEN Ed 002/Orientation.md",
     "EVSU/Comp. prog 1/Algorithm and Flowcharts.md",
     "EVSU/Intro to Comp/A.md",
-    "EVSU/Intro to Comp/Week 3 What is Hardware.md",
-    "Programming/Python/Lamda.md"
+    "EVSU/Intro to Comp/Week 3 What is Hardware.md"
   ]
 }
