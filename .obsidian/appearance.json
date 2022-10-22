@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "translucency": false,
   "textFontFamily": "Arial",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "accentColor": ""
 }
