@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b7f9dd21d2881402",
+        "id": "4e747e88b0d11373",
         "type": "tabs",
         "children": [
           {
-            "id": "72daa49925c599c7",
+            "id": "b187bd6fe301b3c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/Purposive Communication/Communication and Globalization.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18c044a3ad5df0da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/Purposive Communication/Communication Process.md",
+                "file": "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,8 +73,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18c044a3ad5df0da",
+  "active": "b187bd6fe301b3c0",
   "lastOpenFiles": [
+    "EVSU/GEN. ED. 004/Some_Fundamentals_Of_Logic.md",
+    "EVSU/GEN. ED. 004/Reaction Paper.md",
     "EVSU/Purposive Communication/Communication and Globalization.md",
     "EVSU/Purposive Communication/Communication Process.md",
     "Programming/DSA/50 Days - Learning Plan.md",
@@ -96,8 +84,6 @@
     "Programming/DSA/DSA.md",
     "Programming/C/C-Functions.md",
     "Programming/C/C-FlowControl.md",
-    "Programming/C/C-Intro.md",
-    "Programming/SQL/SQL.md",
-    "Web_Development/API.md"
+    "Programming/C/C-Intro.md"
   ]
 }
