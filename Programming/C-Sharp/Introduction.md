@@ -34,5 +34,20 @@ To access the members of a namespace use the dot(.) operator. Syntax:
 HelloWorld.Hello hello = new MyNamespace.Hello();
 ```
 
+2. `Main()` is a method of class Hello. The execution of every C# program starts from the `Main()` method. So it is mandatory for a C# program to have a `Main()` method.
+```cs
+static void Main(string[] args)
+{
 
-#interface_set
+}
+```
+
+## Arrays
+### Multidimensional Array
+In a **multidimensional Array** each element of the array is also an array.
+```cs
+int[,] x = { {1, 2, 3}, {3, 4, 5} };
+```
+
+### Jagged Array
+A **Jagged Array** consists of multiple arrays as its element. However, unlike multidimensional arrays, each array inside a jagged array can be of different sizes. 
