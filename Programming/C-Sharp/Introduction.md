@@ -43,11 +43,29 @@ static void Main(string[] args)
 ```
 
 ## Arrays
+**Array** is a collection of similar types of data.
 ### Multidimensional Array
 In a **multidimensional Array** each element of the array is also an array.
 ```cs
 int[,] x = { {1, 2, 3}, {3, 4, 5} };
 ```
 
-### Jagged Array
+#### Two dimentional array
+Syntax:
+```cs
+// datatype[,] identifier = { {1, 2, 3}, {4, 5, 6} };
+int[,] arr = { {1, 2, 3}, {4, 5, 6} };
+```
+In the example above the the array is composed of elements which are also arrays. The array `{1, 2, 3}` and `{4, 5, 6}` are the rows which each element in that array being the columns.
+- Accessing Elements from 2D Array
+```cs
+// identifier[row, column];
+arr[1, 0]; // returns 4
+```
+
+#### Jagged Array
 A **Jagged Array** consists of multiple arrays as its element. However, unlike multidimensional arrays, each array inside a jagged array can be of different sizes. 
+```cs
+// dataType[][] identifier = new dataType[rows][];
+int[][] arr = new int[2][];
+```
