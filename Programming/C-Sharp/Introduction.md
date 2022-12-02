@@ -44,6 +44,16 @@ static void Main(string[] args)
 
 ## Arrays
 **Array** is a collection of similar types of data.
+
+Declaring and allocating memory to an array
+```cs
+int[] scores = new int[10];
+```
+
+Initializing an array
+```cs
+float[] scores = {1.4, 2.1, 4.3, 1.1, 1.0};
+```
 ### Multidimensional Array
 In a **multidimensional Array** each element of the array is also an array.
 ```cs
