@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C-Sharp/Introduction.md",
+                "file": "Programming/C-Sharp/OOP (I).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,6 +75,8 @@
   },
   "active": "12ae560d3641422d",
   "lastOpenFiles": [
+    "Programming/C-Sharp/Introduction.md",
+    "Programming/C-Sharp/OOP (I).md",
     "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md",
     "EVSU/GEN. ED. 004/Some_Fundamentals_Of_Logic.md",
     "EVSU/GEN. ED. 004/Reaction Paper.md",
@@ -82,8 +84,6 @@
     "EVSU/Purposive Communication/Communication Process.md",
     "Programming/DSA/50 Days - Learning Plan.md",
     "I.T Resources.md",
-    "Programming/DSA/DSA.md",
-    "Programming/C/C-Functions.md",
-    "Programming/C/C-FlowControl.md"
+    "Programming/DSA/DSA.md"
   ]
 }
