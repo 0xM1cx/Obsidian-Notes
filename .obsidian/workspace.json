@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C-Sharp/OOP (I).md",
+                "file": "Programming/C/C-Functions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -75,8 +74,8 @@
   },
   "active": "12ae560d3641422d",
   "lastOpenFiles": [
-    "Programming/C-Sharp/Introduction.md",
     "Programming/C-Sharp/OOP (I).md",
+    "Programming/C-Sharp/Introduction.md",
     "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md",
     "EVSU/GEN. ED. 004/Some_Fundamentals_Of_Logic.md",
     "EVSU/GEN. ED. 004/Reaction Paper.md",
