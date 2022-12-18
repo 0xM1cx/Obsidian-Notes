@@ -78,7 +78,7 @@ However, when complexity of the program increases, the linear data structures mi
 1. **Arrays** => is a container, which can hold a fix number of items and these items should be of the same type. The elements in this array are arranged in continuous memory. And, the type of elements that can be stored in the form of arrays is determined by the programming language.![[Pasted image 20220524094229.png]]
 2. **Stack** => In this structure, elements are stored in the LIFO principle. The last element stored in the stack will be the first one removed or the first element stored will be the last removed.
 ![[Pasted image 20220524094218.png]]
-3. **Queue** => This works with FIFO principle, unlike the stack which is LIFO, the first element stored in the queue will be removed first.
+3. **Queue** => This works with FIFO principle, unlike the stack which is LIFO, the first element stored in the queue will be removed first. In programming terms, putting items in the queue is called **enqueue**, and removing items from the queue is called **dequeue**.
 ![[Pasted image 20220524112000.png]]
  4. **Linked List** => In linked list data structures, data elements are connected through a series of nodes. And, each node contains the data items and address to the next node.
  ![[Pasted image 20220524112705.png]]
