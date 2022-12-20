@@ -43,6 +43,15 @@ Stick to chapters of arrays, linked lists, strings, stacks, queues and complexit
 
 Day 101 - ∞ You are now better than most of the CS undergrads. Keep revising the above topics and start competitive programming! Good luck!
 
+## Time and Space Complexity
+There are many ways to solve a problem, it is highly required to use a method to compare the solution in order to judge which is  more optimal. The method must be:
+
+- Independent of the machine and its configuration, one which the algorithm is running on. 
+- Shows a direct correlation with the number of inputs
+- Can distinguish two algorithms clearly without ambiguity.
+  
+  There are two methods used, **time complexity** and **space complexity**
+
 ## What is an Algorithm?
 In computer programming, an **algorithm** is a set of well-defined instructions to solve a particular problem. It takes a set of input and produces a desired output. For example,
 
@@ -50,7 +59,7 @@ An algorithm to add two numbers:
 1. Take two number inputs
 2. Add numbers using the + operator
 3. Display result
-
+ 
 ### Qualities of a Good Algorithm
 - Input and output should be defined precisely.
 - Each step in the algorithm should be clear and unambiguous.

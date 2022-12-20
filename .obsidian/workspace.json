@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/DSA/DSA.md",
+                "file": "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fd8e22371905a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVSU/GEN. ED. 004/Final Exam Topics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12ae560d3641422d",
+  "active": "3fd8e22371905a68",
   "lastOpenFiles": [
-    "Programming/C-Sharp/OOP (I).md",
+    "Untitled.md",
+    "EVSU/GEN. ED. 004/Final Exam Topics.md",
+    "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md",
     "Programming/DSA/DSA.md",
     "Programming/DSA/50 Days - Learning Plan.md",
-    "Programming/C-Sharp/Introduction.md",
     "Programming/C/C-Functions.md",
-    "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md",
+    "Programming/C-Sharp/OOP (I).md",
+    "Programming/C-Sharp/Introduction.md",
     "EVSU/GEN. ED. 004/Some_Fundamentals_Of_Logic.md",
-    "EVSU/GEN. ED. 004/Reaction Paper.md",
-    "EVSU/Purposive Communication/Communication and Globalization.md",
-    "EVSU/Purposive Communication/Communication Process.md"
+    "EVSU/GEN. ED. 004/Reaction Paper.md"
   ]
 }
