@@ -21,9 +21,15 @@ A **sequence** is an ordered list of numbers. The numbers, separated by commas a
 - EUCLID and PAPPUS were interested in solving mathematical problems, but they were also interested in **HEURISTICS**, the study of the methods and rules of discovery and invention. 
 
 - In the 17th century the mathematician and philosopher Rene Descartes published some of his ideas in **RULES FOR THE DIRECTION OF THE MIND** and his better known work **DISCOURSE DE LA METHODE**.
+  
 - Gottfried Wilhelm Leibniz(1646-1716) planned to write a book on heuristics titled **"ART OF INVENTION"**. Of the problem-solving process he wrote **"NOTHING IS MORE IMPORTANT THAN TO SEE THE SOURCES OF INVENTION WHICH ARE, IN MY OPINION, MORE INTERESTING THAN THE INVENTIONS THEMSELVES"**
 
-
+<u>PROBLEM SOLVING STRATEGIES</u>
+- Polya's Problem Solving Strategy
+	1. Understand the Problem
+	2. Devise a plan
+	3. Carry out the plan
+	4. Review the solution
 # Statistics
 - It involves the collection, organization, summarization, presentation, and interpretation of data.
 - The branch of statistics that involves the collection, organization, summarization, and presentation of data is called **descriptive statistics**
