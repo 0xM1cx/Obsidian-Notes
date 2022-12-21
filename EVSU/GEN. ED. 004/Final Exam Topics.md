@@ -30,6 +30,8 @@ A **sequence** is an ordered list of numbers. The numbers, separated by commas a
 	2. Devise a plan
 	3. Carry out the plan
 	4. Review the solution
+- George Polya (1887-1985) is one of the foremost recent mathematicians who devoted much of his teaching to helping students become better problem solvers.
+- George Polya was born in Hungery and moved to the states in 1940. In 1945 he published the book **HOW TO SOLVE IT**
 # Statistics
 - It involves the collection, organization, summarization, presentation, and interpretation of data.
 - The branch of statistics that involves the collection, organization, summarization, and presentation of data is called **descriptive statistics**
@@ -72,13 +74,16 @@ The **range** of a set of data values is the difference between the greatest dat
 ### Standard Deviation
 A measure of dispersion that is less sensitive to extreme values is the **standard deviation**.
 - This makes use of the amount by which each individual data value deviates from the mean.
+- If x1, x2... is a **population** of *n* numbers with a mean of ![[Pasted image 20221221064317.png]] then the standard deviation of the population is ![[Pasted image 20221221064346.png]]
+- If x1, x2... is a sample of *n* numbers with a mean of ![[Pasted image 20221221064426.png]] then the standard deviation of the sample is ![[Pasted image 20221221064456.png]]
 ### Variance
 This is also used to measure dispersion. The variance for a given set of data is the square of the standard deviation of the data.
+![[Pasted image 20221221064218.png]]
 
 ## Measures of Relative Position
-The number of standard deviations between a data value and the mean is known as the data value's **z-score** or **standard score**
+The number of standard deviations between a <u>data value and the mean</u> is known as the data value's **z-score** or **standard score**
 
-
+![[Pasted image 20221221064152.png]]
 
 ### Quartiles
 The three numbers Q1, Q2, and Q3 that partition a ranked data set into four (approximately) equal groups are called **quartiles** of the data. 
@@ -96,3 +101,7 @@ A value *x* is called the *pth percentile* of a data set provided p% of the data
 <u>PERCENTILE FOR A GIVEN DATA VALUE</u>
 Given a set of data and a data value *x*,
 ![[Pasted image 20221221002049.png]]
+
+### Box and Whisker Plots
+- Is often used to provide visual summary of a set of data. This shows the median, the first and second quartiles and the minimum and maximum values of a data set.
+![[Pasted image 20221221070318.png]]
