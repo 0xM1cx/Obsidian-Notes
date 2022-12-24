@@ -221,7 +221,7 @@ namespace Constructor {
 }
 ```
 3. **Default Constructor**
-   If we have not defined a constructor in a class, then C# will automatically create a default constructor with an empty code and no parameters.
+   If we have not defined a constructor in a class, then C# will automatically create a default constructor with an empty code and no parameters. **NOTE:** <u>In the default constructor, all the numeric fields are initialized to 0, whereas string and object are initialized as null.</u>
    ```cs
    using System;
 
@@ -238,8 +238,44 @@ namespace Constructor {
 
       Console.WriteLine("Default value of a: " + p1.a);
       Console.ReadLine();
+    }
+  }
+}
+```
+4. **Copy Constructor**
+   We use this constructor to create an object by copying data from another object.
+   ```cs
+   using System;
+
+namespace Constructor {
+
+  class Car {  
+    string brand;
+
+    // constructor
+    Car (string theBrand) {
+      brand = theBrand;
+    }
+
+    // copy constructor
+    Car(Car c1) {
+      brand = c1.brand;
+    }
+
+    static void Main(string[] args) {
+      // call constructor
+      Car car1 = new Car("Bugatti");
+
+      Console.WriteLine("Brand of car1: " + car1.brand);
+
+      // call the copy constructor
+      Car car2 = new Car(car1);
+      Console.WriteLine("Brand of car2: " + car2.brand);
+
+      Console.ReadLine();
      
     }
   }
 }
 ```
+5. **Private Constructor**
