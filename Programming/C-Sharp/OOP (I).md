@@ -279,3 +279,67 @@ namespace Constructor {
 }
 ```
 5. **Private Constructor**
+   Once a constructor is declared private, we cannot create objects of the class in other classes.
+   ```cs
+   using System;
+
+namespace Constructor {
+
+  class Car {  
+  
+   // private constructor
+   private Car () {
+    Console.WriteLine("Private Constructor");    
+    }
+  }
+    
+    class CarDrive {
+
+      static void Main(string[] args) {
+
+      // call private constructor
+      Car car1 = new Car(); // In this example we get an error
+      Console.ReadLine();
+    }
+  }
+}
+```
+6. **Static Constructor**
+   We cannot call a static constructor directly. However, when we call a regular constructor, the static constructor gets called automatically. The **static constructor** is called only once during the execution of the program. That's why when we call the constructor again, only the regular constructor is called. The purpose of this constructor s to initialize static data, or perform a particular action that needs to be performed only once.
+```cs
+using System;
+
+namespace Constructor {
+
+  class Car {  
+  
+   // static constructor
+   static Car () {
+    Console.WriteLine("Static Constructor");    
+   }
+
+    // parameterless constructor
+    Car() {
+     Console.WriteLine("Default Constructor");
+   } 
+
+    static void Main(string[] args) {
+
+      // call parameterless constructor
+      Car car1 = new Car();
+
+      // call parameterless constructor again
+      Car car2 = new Car();
+
+      Console.ReadLine();
+    }
+  }
+}
+```
+**OUTPUT**
+```cs
+Static Constructor
+Default Constructor
+Default Constructor
+```
+>**NOTE**: WE can have only one static constructor in a class. It cannot have any parameters or access modifiers.
