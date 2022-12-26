@@ -352,3 +352,33 @@ Creating two or more constructor in a class is known as **constructor overloadin
 
 ## this Keyword
 `this` keyword refers to the current instance of a class.
+
+### Invoke Constructor of the Same Class Using this
+While working with constructor overloading, we might have to invoke one constructor from another constructor. In this case, we can use `this` keyword. Example:
+```cs
+using System;
+ 
+namespace ThisKeyword {
+  class Test {
+    
+    Test(int num1, int num2) {
+
+      Console.WriteLine("Constructor with two parameter");
+    }
+    
+    // invokes the constructor with 2 parameters
+    Test(int num) : this(33, 22) {
+
+      Console.WriteLine("Constructor with one parameter");
+    }
+
+    public static void Main(String[] args) {
+
+      Test t1 = new Test(11); 
+      Console.ReadLine();   
+    }
+  }
+}
+```
+> Calling one constructor from another constructor is known as **constructor chaining**
+
