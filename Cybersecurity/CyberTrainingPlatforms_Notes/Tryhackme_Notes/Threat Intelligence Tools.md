@@ -8,14 +8,18 @@ To mitigate against risk, we can start by trying to answer a few simple question
 - What artifacts and indicators of compromise should you look out for?
 
 ## Threat Intelligence Classifications
-Threat Intel is geared towards understanding the relationship between your operational environment and your adversary.
+Threat Intel is geared towards <u>understanding the relationship between your operational environment and your adversary</u>.
+
 - **Strategic Intel**. This is a high-level intel that looks into the organization's threat landscape and maps out the risk areas based on trends, patters and emerging threats that may impact business decisions.
 - **Technical Intel**. This looks into evidence and artifacts of attack used by an adversary. IR teams can use this intel to create a baseline attack surface to analyze and develop mechanisms.
 - **Tactical Intel**. Assesses adversaries' tactics, techniques, and procedures(TTPs). This intel can strengthen security controls and address vulnerabilities through real-time investigations.
 - **Operational Intel**. This looks into an adversary's specific motives and intent to perform an attack. Security teams may use this intel to understand the critical assets available in the organization(people, process, and technologies) that may be targeted.
+---
+
+# Threat Intelligence Tools
 
 ## Urlscan.io
-This is a free service developed to assist in scanning analyzing websites. It is used to automate the process of browsing and crawling through websites to record activities and interactions.
+This is a free service developed to assist in **scanning analyzing websites**. It is used to automate the process of browsing and crawling through websites to record activities and interactions.
 
 When a URL is submitted, the information recorded includes the domains and IP addresses contacted, resources requested from the domains, a snapshot of the web page, technologies utilized and other metadata about the website. The site provides two views, the first on showing the most recent scans performed and the second one showing current live scans.
 
