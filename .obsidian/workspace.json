@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "0dc640124d32d674",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVSU/1st-Year-2nd-Sem/Discrete_Math/Introduction To Discrete Mathematics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3fd8e22371905a68",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -95,10 +110,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "12ae560d3641422d",
+  "active": "0dc640124d32d674",
   "lastOpenFiles": [
-    "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md",
     "Programming/C-Sharp/OOP (I).md",
+    "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md",
     "Programming/Python/Set Mutations.md",
     "EVSU/GEN. ED. 004/Final Exam Topics.md",
     "Untitled.md",
