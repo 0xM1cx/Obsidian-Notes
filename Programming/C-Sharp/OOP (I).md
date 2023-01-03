@@ -382,3 +382,131 @@ namespace ThisKeyword {
 ```
 > Calling one constructor from another constructor is known as **constructor chaining**
 
+## static keyword
+Using this keyword with class members will result in having a single copy of the type member and all objects of the class share a single copy instead of creating individual copies.
+
+If a variables is declared `static`, we can access the variable using the class name.
+```c#
+using System;
+
+namespace StaticKeyword {
+
+  class Student {
+
+    // static variable
+    public static string department = "Computer Science";
+  }
+
+  class Program {
+    static void Main(string[] argos) {
+    
+      // access static variable
+      Console.WriteLine("Department: " + Student.department);
+     
+      Console.ReadLine();
+    }
+  }
+}
+```
+
+### static variables vs instance variables
+Every object of a class will have its own copy of instance variables.
+```cs
+class Student {
+	public string studentName;
+	public static string university = "Eastern Visayas State University";
+}
+
+class Program {
+	static void Main(string[] args){
+		Student s1 = new Student();
+		Student s2 = new Student();
+
+		s1.studentName = "Shawn";
+		s2.studentName = "Jade";
+
+		Console.WriteLine($"Student 1: {s1.studentName}");
+		Console.writeLine($"Student 2: {s2.studentName}");
+
+		// No matter the object, all of them have the same value for the university variable
+
+		Console.WriteLine(Student.university);
+		
+	}
+}
+```
+Here, both the objects s1 and s2 will have different copies of the variable `studentName` but since the `university` variable is static then all the object will share the same copy.
+
+
+### static methods
+Just like static variables, we can call the static methods using the class name.
+```cs
+class Test 
+{
+	public static void display(){
+		// statements
+	}
+}
+
+class Program
+{
+	static void Main(string[] args){
+		Test.display();
+	}
+}
+```
+
+>**NOTE:** In C#, the `Main` methods is static. So, we can call it without creating the object
+
+
+
+### static class
+When we create a static class, we cannot create objects of the class.
+```cs
+using System;
+
+namespace StaticKeyword {
+
+  static class Test {
+    static int a = 5;
+    static void display() {
+
+      Console.WriteLine("Static method");
+    }
+  
+    static void Main(string[] args) {
+
+      // creating object of Test
+      // this will return an error
+      Test t1 = new Test();
+      Console.WriteLine(a);
+      display();
+    }
+  }
+}
+```
+Notice the field and method of the static class are also static because we can only have static members inside the static class.
+
+If we are accessing the static variables and methods inside the same class, we can directly access them without using the class name.
+```cs
+using System;
+ 
+namespace StaticKeyword {
+ 
+  class Test {
+ 
+    static int age = 25;
+    public static void display() {
+ 
+      Console.WriteLine("Static method");
+    }
+   
+    static void Main(string[] args) {
+ 
+      Console.WriteLine(age);
+      display();
+      Console.ReadLine();
+    }
+  }
+}
+```
