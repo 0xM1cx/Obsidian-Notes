@@ -1,7 +1,7 @@
-# DSA Introduction
-- Day −∞ to 0: Stick to a programming language like C or C++. Make sure that you are comfortable with pointers/objects.  
+# DSA Learning List
+- <s>Day −∞ to 0: Stick to a programming language like C or C++. Make sure that you are comfortable with pointers/objects.</s>  
 
-- Day 1: Understand the concept of [Algorithmic complexity](https://en.wikipedia.org/wiki/Algorithmic_complexity "en.wikipedia.org"). Skip the theory for now, but for every piece of code you write, you should be able to derive both time and space complexity.
+- <s>Day 1: Understand the concept of [Algorithmic complexity](https://en.wikipedia.org/wiki/Algorithmic_complexity "en.wikipedia.org"). Skip the theory for now, but for every piece of code you write, you should be able to derive both time and space complexity.</s>
 
 - Day 2 - 10: Let’s start with some simple data structures,
 1.  Arrays
@@ -43,14 +43,21 @@ Stick to chapters of arrays, linked lists, strings, stacks, queues and complexit
 
 Day 101 - ∞ You are now better than most of the CS undergrads. Keep revising the above topics and start competitive programming! Good luck!
 
+
+----
+# NOTES
+---
+
 ## Time and Space Complexity
 There are many ways to solve a problem, it is highly required to use a method to compare the solution in order to judge which is  more optimal. The method must be:
-
 - Independent of the machine and its configuration, one which the algorithm is running on. 
 - Shows a direct correlation with the number of inputs
 - Can distinguish two algorithms clearly without ambiguity.
   
   There are two methods used, **time complexity** and **space complexity**
+
+### Time Complexity
+### Space Complexity
 
 ## What is an Algorithm?
 In computer programming, an **algorithm** is a set of well-defined instructions to solve a particular problem. It takes a set of input and produces a desired output. For example,

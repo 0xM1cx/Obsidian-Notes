@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C-Sharp/OOP (I).md",
+                "file": "Programming/SQL/SQL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,15 +112,15 @@
   },
   "active": "0dc640124d32d674",
   "lastOpenFiles": [
-    "EVSU/1st-Year-2nd-Sem/Discrete_Math/Introduction To Discrete Mathematics.md",
+    "Programming/DSA/DSA.md",
+    "Networking/VLANs.md",
+    "Networking/Subnetting.md",
+    "Networking/Static Routing.md",
     "Programming/C-Sharp/OOP (I).md",
+    "EVSU/1st-Year-2nd-Sem/Discrete_Math/Introduction To Discrete Mathematics.md",
     "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md",
     "Programming/Python/Set Mutations.md",
     "EVSU/GEN. ED. 004/Final Exam Topics.md",
-    "Untitled.md",
-    "Programming/DSA/DSA.md",
-    "Programming/DSA/50 Days - Learning Plan.md",
-    "Programming/C/C-Functions.md",
-    "Programming/C-Sharp/Introduction.md"
+    "Untitled.md"
   ]
 }
