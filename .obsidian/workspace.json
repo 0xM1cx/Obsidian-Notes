@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "4df9e8e04d9b7f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Coding Journal Unity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3fd8e22371905a68",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -110,17 +122,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0dc640124d32d674",
+  "active": "4df9e8e04d9b7f9b",
   "lastOpenFiles": [
+    "Programming/Programming Main.md",
+    "Programming/Coding Journal Unity.md",
+    "Programming/SQL/SQL.md",
     "Programming/DSA/DSA.md",
     "Networking/VLANs.md",
     "Networking/Subnetting.md",
     "Networking/Static Routing.md",
     "Programming/C-Sharp/OOP (I).md",
     "EVSU/1st-Year-2nd-Sem/Discrete_Math/Introduction To Discrete Mathematics.md",
-    "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md",
-    "Programming/Python/Set Mutations.md",
-    "EVSU/GEN. ED. 004/Final Exam Topics.md",
-    "Untitled.md"
+    "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md"
   ]
 }
