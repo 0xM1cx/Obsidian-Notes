@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
+                "file": "Programming/DSA/DSA.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -124,6 +125,7 @@
   },
   "active": "4df9e8e04d9b7f9b",
   "lastOpenFiles": [
+    "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
     "Programming/Coding Journal Unity.md",
     "Programming/Programming Main.md",
     "Programming/SQL/SQL.md",
@@ -132,7 +134,6 @@
     "Networking/Subnetting.md",
     "Networking/Static Routing.md",
     "Programming/C-Sharp/OOP (I).md",
-    "EVSU/1st-Year-2nd-Sem/Discrete_Math/Introduction To Discrete Mathematics.md",
-    "EVSU/GEN. ED. 004/Mathematical_Language_and_Symbols.md"
+    "EVSU/1st-Year-2nd-Sem/Discrete_Math/Introduction To Discrete Mathematics.md"
   ]
 }

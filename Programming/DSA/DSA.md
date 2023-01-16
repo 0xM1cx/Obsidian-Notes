@@ -94,8 +94,29 @@ However, when complexity of the program increases, the linear data structures mi
 1. **Arrays** => is a container, which can hold a fix number of items and these items should be of the same type. The elements in this array are arranged in continuous memory. And, the type of elements that can be stored in the form of arrays is determined by the programming language.![[Pasted image 20220524094229.png]]
 2. **Stack** => In this structure, elements are stored in the LIFO principle. The last element stored in the stack will be the first one removed or the first element stored will be the last removed.
 ![[Pasted image 20220524094218.png]]
-3. **Queue** => This works with FIFO principle, unlike the stack which is LIFO, the first element stored in the queue will be removed first. In programming terms, putting items in the queue is called **enqueue**, and removing items from the queue is called **dequeue**.
+### Applications of Stack Data Structure
+- **To reverse a word** - Put all the letters in a stack and pop them out. Because of the LIFO order in stack, you will get the letters in reverse order.
+- **In compilers** - Compilers use the stack to calculate the value of expressions like `2 + 4 / 5 * (7 - 9) ` by converting the expression to prefix or postfix form.
+- **In browsers** - The back button in a browser saves all the URLs you have visited previously in a stack. Each time you visit a new page, it is added on top of the stack. When you press the back button, the current URL is removed from the stack, and the previous URL is accessed.
+
+### Operations in a Stack
+- **IsEmpty** - check if the stack is empty
+- **IsFull** - check if the stack is full
+- **push** - push an item into the top of the stack
+- **pop** - remove and return the item at the top of the stack
+- **Peek** - Get the value of the top item in the stack without removing it
+
+
+3. **Queue** => This works with **FIFO** principle, unlike the stack which is LIFO, the first element stored in the queue will be removed first. In programming terms, putting items in the queue is called **enqueue**, and removing items from the queue is called **dequeue**.
 ![[Pasted image 20220524112000.png]]
+ ### Operations of a Queue
+ A **queue** is an object(an abstract data structure - ADT).
+ - **Enqueue**: Add an element to the end of the queue
+ - **Dequeue**: Remove an element from the from of the queue
+ - **IsEmpty**: Check if the queue is empty
+ - **IsFull**: Check if the queue is full
+ - **Peek**: Get the value of the front of the queue without removing it.
+
  4. **Linked List** => In linked list data structures, data elements are connected through a series of nodes. And, each node contains the data items and address to the next node.
  ![[Pasted image 20220524112705.png]]
  
