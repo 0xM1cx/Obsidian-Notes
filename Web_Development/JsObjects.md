@@ -338,4 +338,7 @@ const BSIT_STUDENT = new Student();
 
 console.log(BSIT_STUDENT.prototype);// {...}
 ```
-Here, we are trying to access the prototype property of a `Student` constructor function. Since the prototype has no value at the moment, it shows an empty object
+Here, we are trying to access the prototype property of a `Student` constructor function. Since the prototype has no value at the moment, it shows an empty object.
+
+#### PROTOTYPE INHERITANCE
+A prototype can be used to add properties and methods to a constructor function. And objects inherit properties and methods from a prototype.
