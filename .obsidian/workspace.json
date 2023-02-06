@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/IT_163.md",
+                "file": "Web_Development/JsObjects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,6 +99,7 @@
   },
   "active": "51a247499d449f28",
   "lastOpenFiles": [
+    "Programming/Python/IT_163.md",
     "Web_Development/JSFunctions.md",
     "EVSU/1st-Year-2nd-Sem/GEN. ED. 007.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
@@ -107,7 +108,6 @@
     "Programming/C-Sharp/Introduction.md",
     "Programming/DSA/DSA.md",
     "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
-    "Programming/Coding Journal Unity.md",
-    "Programming/Programming Main.md"
+    "Programming/Coding Journal Unity.md"
   ]
 }

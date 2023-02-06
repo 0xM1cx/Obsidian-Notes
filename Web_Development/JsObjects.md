@@ -251,7 +251,7 @@ console.log(Person1.age); // 17
 #### Constructor Function vs Object Literal
 In the previous topics you have seen two ways to create an object is JS, although there are more ways, the two discussed are the most used.
 
-- **Object Literal** is generally used to create a single object. The **Constructor Function** is useful if you want to create multiple objects. 
+- **Object Literal** is generally used to create a <u>single object</u>. The **Constructor Function** is useful if you want to create <u>multiple objects</u>. 
 ```js
 // Using object Literal
 let Student = {
@@ -325,3 +325,17 @@ studentA.welcomeMessage = function(){
 	console.log(`Welcome ${studentA.name}`);
 }
 ```
+
+### JS prototype property
+Every function and object has a property named **prototype** by default.
+```js
+function Student(){
+	this.name = "Shawn",
+	this.age = 18
+}
+
+const BSIT_STUDENT = new Student();
+
+console.log(BSIT_STUDENT.prototype);// {...}
+```
+Here, we are trying to access the prototype property of a `Student` constructor function. Since the prototype has no value at the moment, it shows an empty object
