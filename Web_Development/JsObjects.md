@@ -341,4 +341,20 @@ console.log(BSIT_STUDENT.prototype);// {...}
 Here, we are trying to access the prototype property of a `Student` constructor function. Since the prototype has no value at the moment, it shows an empty object.
 
 #### PROTOTYPE INHERITANCE
-A prototype can be used to add properties and methods to a constructor function. And objects inherit properties and methods from a prototype.
+A prototype can be used to add properties and methods to a constructor function. And objects inherit properties and methods from a prototype. Prototype properties are bound to the constructor function. 
+>They work similarly to C# static fields, wherein each instance or object created has access to the same field.
+
+##### Changing Prototype
+```js
+// ObjecjConstructorName.prototype = {key:value}
+function Student(){
+	this.name = "Shawn";
+}
+
+const Astudent = Student();
+Astudent.prototype.age = 18;
+
+Astudent.prototype = {age: 19};
+```
+
+>**NOTE**: You should not modify the prototypes of standard JS built-in object like strings, arrays, etc. It is considered bad practice.
