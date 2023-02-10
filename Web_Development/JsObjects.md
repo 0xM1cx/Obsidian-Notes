@@ -344,7 +344,8 @@ Here, we are trying to access the prototype property of a `Student` constructor 
 A prototype can be used to add properties and methods to a constructor function. And objects inherit properties and methods from a prototype. Prototype properties are bound to the constructor function. 
 >They work similarly to C# static fields, wherein each instance or object created has access to the same field.
 
-##### Changing Prototype
+##### Chaining Prototype
+If an object tries to access the same property that is in the constructor function and the prototype object, the object takes the property from the constructor function.
 ```js
 // ObjecjConstructorName.prototype = {key:value}
 function Student(){
@@ -352,9 +353,12 @@ function Student(){
 }
 
 const Astudent = Student();
-Astudent.prototype.age = 18;
+Student.prototype = {age: 19};
+Student.prototype = {name: "Shawn Michael"};
 
-Astudent.prototype = {age: 19};
+console.log(Astudent.name); // Shawn
+
 ```
 
 >**NOTE**: You should not modify the prototypes of standard JS built-in object like strings, arrays, etc. It is considered bad practice.
+>

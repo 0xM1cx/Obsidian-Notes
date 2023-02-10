@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5a6ab15cb552b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web_Development/JS_Types.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,8 +110,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51a247499d449f28",
+  "active": "c5a6ab15cb552b4f",
   "lastOpenFiles": [
+    "Web_Development/JsObjects.md",
     "Programming/Python/IT_163.md",
     "Web_Development/JSFunctions.md",
     "EVSU/1st-Year-2nd-Sem/GEN. ED. 007.md",
@@ -107,7 +121,6 @@
     "Programming/SQL/SQL.md",
     "Programming/C-Sharp/Introduction.md",
     "Programming/DSA/DSA.md",
-    "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
-    "Programming/Coding Journal Unity.md"
+    "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md"
   ]
 }
