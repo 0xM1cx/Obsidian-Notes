@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7415792b7e38a1fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVSU/CWTS/2nd Sem Graded Recitation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -109,8 +123,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5a6ab15cb552b4f",
+  "active": "7415792b7e38a1fd",
   "lastOpenFiles": [
+    "Web_Development/JS_Types.md",
     "Web_Development/JsObjects.md",
     "Programming/Python/IT_163.md",
     "Web_Development/JSFunctions.md",
@@ -119,7 +134,6 @@
     "Programming/C-Sharp/OOP (I).md",
     "Programming/SQL/SQL.md",
     "Programming/C-Sharp/Introduction.md",
-    "Programming/DSA/DSA.md",
-    "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md"
+    "Programming/DSA/DSA.md"
   ]
 }
