@@ -1,3 +1,5 @@
+```toc
+```
 ## Arrays
 An **array** is an object that can store multiple values at once.
 ```js
@@ -75,3 +77,31 @@ const numbers = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
 numbers[0][0] = 15;
 ```
 
+## Strings
+### Multiline Strings
+```js
+// using the + operator
+const message1 = 'This is a long message ' +
+    'that spans across multiple lines' + 
+    'in the code.'
+
+// using the \ operator
+const message2 = 'This is a long message \
+that spans across multiple lines \
+in the code.'
+```
+### String Methods
+| **METHOD**              | **DESCRIPTION**                                         |
+| ----------------------- | ------------------------------------------------------- |
+| `charAt()`              | returns the character at the specified index            |
+| `concat()`              | joins two or more strings                               |
+| `replace()`             | replaces a string with another strings                  |
+| `split()`               | converts the string to an array of strings              |
+| `substr(start, length)` | returns a part of a string                              |
+| `substring(start, end)` | returns a part of a string                              |
+| `slice(start, end)`     | returns a part of a string                              |
+| `toLowerCase()`         | returns the passed string in lowercase                  |
+| `toUpperCase()`         | returns the passed string in uppercase                  |
+| `trim()`                | removes whitespaces from the string                     |
+| `includes()`            | searches for a string and returns a boolean value       |
+| `search()`              | searches for a string and returns a position of a match |
