@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "c5a6ab15cb552b4f",
+            "id": "7415792b7e38a1fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7415792b7e38a1fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/CWTS/2nd Sem Graded Recitation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,15 +112,15 @@
   },
   "active": "7415792b7e38a1fd",
   "lastOpenFiles": [
-    "Web_Development/JS_Types.md",
     "Web_Development/JsObjects.md",
+    "Web_Development/JS_Types.md",
+    "EVSU/CWTS/2nd Sem Graded Recitation.md",
     "Programming/Python/IT_163.md",
     "Web_Development/JSFunctions.md",
     "EVSU/1st-Year-2nd-Sem/GEN. ED. 007.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
     "Programming/C-Sharp/OOP (I).md",
     "Programming/SQL/SQL.md",
-    "Programming/C-Sharp/Introduction.md",
-    "Programming/DSA/DSA.md"
+    "Programming/C-Sharp/Introduction.md"
   ]
 }
