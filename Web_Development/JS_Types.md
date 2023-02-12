@@ -112,3 +112,46 @@ This function is used to convert data types to strings.
 const age = 18;
 console.log(String(age)); // "18"
 ```
+
+## for...in loop
+In each iteration of the loop, a key is assigned to the `key` variables. The  loop continues for all object properties.
+```js
+for(key in object){
+	// statements
+}```
+>Once you get the keys above, you can easily find their corresponding values
+
+### for...in string
+You can use `for...in` loop to iterate over string values.
+```js
+let name = "Shawn";
+for(let char in name){
+	console.log(name[char]);
+}
+```
+
+## Number
+Numbers in JS are primitive data types. Unlike other languages, you don't have to specifically declare for integer or floating values using *int*, *float*, etc.
+
+You can use exponential notation **e** to include too large or too small numbers.
+```js
+const a = 5e9; // 500000000
+const b = 5e-5; // 0.00005
+
+```
+
+Numbers can also be denoted in hex notation
+```js
+const a = 0xff; // 255
+```
+
+### NaN
+**NaN(Not a Number)** is a keyword that indicates that the value is not a number.
+```js
+const a = isNan(9) // false because 9 is a number
+const name = isNaN("Shawn") // true
+const test = isNaN(4 - name); // true because the output is not a number
+```
+
+### Infinity
+When calculation is done that exceeds the largest(or smallest) possible number, `Infinity`(for -Infinity) is return
