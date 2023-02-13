@@ -155,3 +155,13 @@ const test = isNaN(4 - name); // true because the output is not a number
 
 ### Infinity
 When calculation is done that exceeds the largest(or smallest) possible number, `Infinity`(for -Infinity) is return
+
+### BigInt
+A number type can only represent numbers less than(2^53 - 1) and more than -(2^53-1). However, if you need to use larger than that, you can use the BigInt data type. A **BigInt** number is created by appending **n** to the end of an integer.
+```js
+const value = 900719925124740998n;
+// Adding two big integers
+const value2 = value + 1n;
+console.log(value2); // 900719925124740999
+```
+
