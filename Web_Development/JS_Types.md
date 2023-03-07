@@ -106,6 +106,7 @@ in the code.'
 | `includes()`            | searches for a string and returns a boolean value       |
 | `search()`              | searches for a string and returns a position of a match |
 
+
 ### String() Function
 This function is used to convert data types to strings.
 ```js
@@ -120,6 +121,7 @@ for(key in object){
 	// statements
 }```
 >Once you get the keys above, you can easily find their corresponding values
+
 
 ### for...in string
 You can use `for...in` loop to iterate over string values.
