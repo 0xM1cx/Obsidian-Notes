@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
+                "file": "I.T. Projects/Basic Network Scanner.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,6 +111,7 @@
   },
   "active": "7415792b7e38a1fd",
   "lastOpenFiles": [
+    "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
     "Web_Development/JS_Types.md",
     "Web_Development/JsObjects.md",
     "EVSU/CWTS/2nd Sem Graded Recitation.md",

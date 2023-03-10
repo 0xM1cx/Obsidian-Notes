@@ -13,10 +13,12 @@ Create a basic network scanner using a popular programming language such as Pyth
 ### Scanner Features
 - [x] Accept command line arguments
 - [ ] Capable of spoofing mac addresses
-- [ ] Obfuscate the log.txt files contaning the IP, MAC and other information
+- [x] Obfuscate the log.txt files contaning the IP, MAC and other information
+- [ ] Add a feature that can allow users to send de-authentication packets
 ### Python Libraries to use
 - [Scapy](https://scapy.readthedocs.io/en/latest/introduction.html) 
 **Platform** ->  Windows and Linux
+
 
 **Executable**
 -   Using a .pyw file  
