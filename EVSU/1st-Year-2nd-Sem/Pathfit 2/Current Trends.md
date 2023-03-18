@@ -20,3 +20,41 @@
 
 ## Benefits of being knowledgeable in PE
 Being knowledgeable and having proper understanding of PE activities will help you become more flexible and versatile individual, you will experience a more healthier and happier life, a life that is free from stress, burnout, insecurities, and boredom. You will look and feel young.
+
+## Physical Fitness
+*Physical Fitness* comprises of two related concepts:
+- **General Fitness** - a state of health and well-being.
+- **Specific fitness** - a task-oriented definition based on the ability to perform specific aspects of sport or occupations.
+> Physical Fitness is generally achieved through correct nutrition, exercise, hygiene and rest.
+
+- **Physical Fitness** - is a state of well-being with low risk of premature health problems and energy to participate in a variety of physical activities
+- **Fitness** - commonly defined as the capacity to carry out the day's activities without excessive fatigue.
+
+### Importance of Physical Fitness
+1. *You're more likely to live a long and healthy life*
+2. *You'll have more energy, strength and stamina*
+3. *You'll keep excess body fat off*
+4. *You'll keep your bones strong*
+5. *You'll prevent or reduce low back pale*
+6. *You'll keep your  mind sharp*
+7. *You''ll improve your mood*
+8. *You'll get sick less often*
+9. *You'll sleep better*
+10. *You'll enjoy life more*
+
+## Components of Physical Fitness
+- Health Related Components
+	- Factors related  to how well your body's system work
+		- **Cardiovascular Fitness** - The ability of the circulatory system to supply oxygen to working muscles during exercise
+		- **Body Composition**  - The relative percentage of body fat compared to lean body mass(muscle, bone water, etc)
+		- **Flexibility** - The range of movement possible at various joints
+		- **Muscular Strength** - The amount of force that can be produced by a single contraction of a muscle
+		- **Muscular Endurance** - The ability of a muscle group to continue muscle movement over a length of time.
+- Skill Related Components
+	- Aspect of fitness that form the basis of successful sport or activity participation
+		- **Speed** - The ability to move quickly from one point to another in a straight line.
+		- **Agility** - The ability of the body to change direction quickly
+		- **Balance** - The ability to maintain an upright posture while still or moving
+		- **Coordination** - Integration with hand and/or foot movements with the input of the senses
+		- **Reaction Time** - Amount of time it takes to get moving
+		- **Power** - The ability to do strength work at an explosive pace.
