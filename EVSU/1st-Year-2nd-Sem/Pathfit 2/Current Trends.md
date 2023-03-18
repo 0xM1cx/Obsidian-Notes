@@ -16,5 +16,7 @@
 2. **Mental** - Nervous system is divided into two: *central nervous system* and *peripheral nervous system*. These play an important role in our movement and right decision making. Physical activities help us to condition and develop our mind to become more active and alert.
 3. **Social**  - There are four temperaments; *Sanguine*, *Choleric*, *Melancholic* and *Phlegmatic*
 4. **Emotional** - Heart is the most sensitive part of our body. PE helps us to become more mature individuals through various physical activities by mingling and playing with other people.
-5. **Spiritual** - 
-6. 
+5. **Spiritual** - PE through sports develop spirituality by asking and seeking help from God before competition.
+
+## Benefits of being knowledgeable in PE
+Being knowledgeable and having proper understanding of PE activities will help you become more flexible and versatile individual, you will experience a more healthier and happier life, a life that is free from stress, burnout, insecurities, and boredom. You will look and feel young.
