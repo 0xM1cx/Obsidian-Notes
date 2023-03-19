@@ -57,3 +57,7 @@ Being knowledgeable and having proper understanding of PE activities will help y
 		- **Coordination** - Integration with hand and/or foot movements with the input of the senses
 		- **Reaction Time** - Amount of time it takes to get moving
 		- **Power** - The ability to do strength work at an explosive pace.
+
+```md
+Notes By: Shawn Michael "pinili" Sudaria;
+```
