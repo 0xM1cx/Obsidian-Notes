@@ -9,7 +9,7 @@
 **Physical Fitness** is an important factor in order to reduce the risk of having non-transmittable diseases. One way of getting into shape is through engaging in different physical activities. These activities can be occupational, domestic, transportation or leisure. It is physical activities done during leisure time has contributed the most in order to attain physical fitness.
 
 
-#### Four classifications or domains on why physical activities are done
+#### Four classifications or domains on how physical activities are done
 1. Occupational or work-related
 2. Domestic or Housework
 3. Transportation like *walking* or *bicycling*

@@ -4,70 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "b4ec969b0e01296e",
-        "type": "split",
-        "children": [
-          {
-            "id": "a9e7a5990aeea7df",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "51a247499d449f28",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Web_Development/JsObjects.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7415792b7e38a1fd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "I.T. Projects/Basic Network Scanner.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "6a65c4da4b07f911",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "15abf8c561d37c29",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "67b5cec852cc0f45",
+        "id": "a9e7a5990aeea7df",
         "type": "tabs",
         "children": [
           {
-            "id": "b768de0d0ab7d40c",
+            "id": "51a247499d449f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web_Development/JsObjects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7415792b7e38a1fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I.T. Projects/Basic Network Scanner.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80d55771d74f4279",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "EVSU/1st-Year-2nd-Sem/Pathfit 2/Fitness-Training-Module.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b3e61be48ffc450e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb3518e3351037f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVSU/1st-Year-2nd-Sem/Pathfit 2/Current-Trends.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,13 +129,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15abf8c561d37c29",
+  "active": "bb3518e3351037f9",
   "lastOpenFiles": [
-    "EVSU/1st-Year-2nd-Sem/Pathfit 2/Current-Trends.md",
     "EVSU/1st-Year-2nd-Sem/Pathfit 2/Fitness-Training-Module.md",
-    "Web_Development/JSFunctions.md",
-    "Web_Development/JsObjects.md",
+    "Cybersecurity/Cybersecurity Main.md",
+    "EVSU/1st-Year-2nd-Sem/Pathfit 2/Current-Trends.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/ThreatIntelligence.md",
     "I.T. Projects/Basic Network Scanner.md",
+    "Web_Development/JsObjects.md",
+    "Web_Development/JSFunctions.md",
     "Pictures/Pasted image 20230318203907.png",
     "EVSU/1st-Year-2nd-Sem/Pathfit 2",
     "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
