@@ -4,7 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "a9e7a5990aeea7df",
+        "id": "b4ec969b0e01296e",
+        "type": "split",
+        "children": [
+          {
+            "id": "a9e7a5990aeea7df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "51a247499d449f28",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Web_Development/JsObjects.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7415792b7e38a1fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "I.T. Projects/Basic Network Scanner.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "6a65c4da4b07f911",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "15abf8c561d37c29",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "67b5cec852cc0f45",
         "type": "tabs",
         "children": [
           {
@@ -19,48 +73,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "51a247499d449f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web_Development/JsObjects.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7415792b7e38a1fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I.T. Projects/Basic Network Scanner.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15abf8c561d37c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/1st-Year-2nd-Sem/Pathfit 2/Current-Trends.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,8 +139,8 @@
   },
   "active": "15abf8c561d37c29",
   "lastOpenFiles": [
-    "EVSU/1st-Year-2nd-Sem/Pathfit 2/Fitness-Training-Module.md",
     "EVSU/1st-Year-2nd-Sem/Pathfit 2/Current-Trends.md",
+    "EVSU/1st-Year-2nd-Sem/Pathfit 2/Fitness-Training-Module.md",
     "Web_Development/JSFunctions.md",
     "Web_Development/JsObjects.md",
     "I.T. Projects/Basic Network Scanner.md",
