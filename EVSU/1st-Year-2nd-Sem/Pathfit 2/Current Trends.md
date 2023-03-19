@@ -1,7 +1,6 @@
 - **Physical Education** - It is an integral part of the school curriculum, that aims to develop the physical, mental, social, emotional and spiritual aspects of an individual; through well selected physical activities that will help students. 
 - **Health** - is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges.
 
-
 ## 7 Reasons Why PE is Important in Schools
 1. **Good Health**
 2. **It's a preventative measure against disease**
