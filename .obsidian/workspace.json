@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
+                "file": "EVSU/1st-Year-2nd-Sem/Contempo/GEN. ED. 007.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "621eca3392b08b16",
+            "id": "6d4c56ad6710ae6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/1st-Year-2nd-Sem/Prog-2/Python-Essential-1-Module-1.md",
+                "file": "EVSU/1st-Year-2nd-Sem/ETHICS/The-Moral-Agent.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf1bab97d6f07b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVSU/1st-Year-2nd-Sem/ETHICS/SC-ETHICS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,9 +110,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "621eca3392b08b16",
+  "active": "6d4c56ad6710ae6c",
   "lastOpenFiles": [
+    "EVSU/1st-Year-2nd-Sem/Contempo/GEN. ED. 007.md",
+    "EVSU/1st-Year-2nd-Sem/ETHICS/The-Moral-Agent.md",
+    "EVSU/1st-Year-2nd-Sem/ETHICS/SC-ETHICS.md",
+    "EVSU/1st-Year-2nd-Sem/Contempo",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
+    "EVSU/1st-Year-2nd-Sem/ETHICS",
     "EVSU/1st-Year-2nd-Sem/Prog-2/Python-Essential-1-Module-1.md",
     "EVSU/1st-Year-2nd-Sem/Prog-2",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DWA.md",
@@ -118,7 +136,6 @@
     "Web_Development/JS_Types.md",
     "EVSU/CWTS/2nd Sem Graded Recitation.md",
     "Programming/Python/IT_163.md",
-    "EVSU/1st-Year-2nd-Sem/GEN. ED. 007.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
     "Programming/C-Sharp/OOP (I).md",
     "Programming/SQL/SQL.md",
