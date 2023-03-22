@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16836babf1a99ed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Protecting-Information-Resource(Lesson 3).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,9 +123,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4bf1bab97d6f07b3",
+  "active": "16836babf1a99ed3",
   "lastOpenFiles": [
     "EVSU/1st-Year-2nd-Sem/ETHICS/SC-ETHICS.md",
+    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Protecting-Information-Resource(Lesson 3).md",
+    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)",
     "EVSU/1st-Year-2nd-Sem/Contempo/GEN. ED. 007.md",
     "EVSU/1st-Year-2nd-Sem/ETHICS/The-Moral-Agent.md",
     "EVSU/1st-Year-2nd-Sem/Contempo",
