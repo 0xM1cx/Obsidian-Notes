@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "acf7331bb8426217",
+        "id": "4498ff9432f7e838",
         "type": "tabs",
         "children": [
           {
-            "id": "294a42c8eacf42ff",
+            "id": "b3ea1d84cc5b8914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/1st-Year-2nd-Sem/Contempo/GEN. ED. 007.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d4c56ad6710ae6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/1st-Year-2nd-Sem/ETHICS/The-Moral-Agent.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bf1bab97d6f07b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/1st-Year-2nd-Sem/ETHICS/SC-ETHICS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16836babf1a99ed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Protecting-Information-Resource(Lesson 3).md",
+                "file": "EVSU/1st-Year-2nd-Sem/Prog-2/Python-Essentials-1-Module-1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -123,14 +82,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16836babf1a99ed3",
+  "active": "b3ea1d84cc5b8914",
   "lastOpenFiles": [
+    "EVSU/1st-Year-2nd-Sem/Prog-2/Python-Essentials-1-Module-1.md",
+    "EVSU/1st-Year-2nd-Sem/Prog-2/Python-Essential-1-Module-1.md",
+    "EVSU/1st-Year-2nd-Sem/Prog-2/Python-Essentials-1-Module-2.md",
+    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Protecting-Information-Resource(Lesson 3).md",
     "Programming/Python/Set Mutations.md",
     "Programming/Python/Lamda.md",
     "Programming/Python/IT_163.md",
     "Programming/Python/Inheritance.md",
     "Programming/Python/Decorators.md",
-    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Protecting-Information-Resource(Lesson 3).md",
     "EVSU/1st-Year-2nd-Sem/ETHICS/SC-ETHICS.md",
     "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)",
     "EVSU/1st-Year-2nd-Sem/Contempo/GEN. ED. 007.md",
@@ -138,7 +100,6 @@
     "EVSU/1st-Year-2nd-Sem/Contempo",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
     "EVSU/1st-Year-2nd-Sem/ETHICS",
-    "EVSU/1st-Year-2nd-Sem/Prog-2/Python-Essential-1-Module-1.md",
     "EVSU/1st-Year-2nd-Sem/Prog-2",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DWA.md",
     "Cybersecurity/Comptia_Security+/1.4_Given_a_scenario,_analyze_potential_indicators_associated_with_network_attacks..md",
@@ -154,8 +115,6 @@
     "EVSU/1st-Year-2nd-Sem/Pathfit 2",
     "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
     "Web_Development/JS_Types.md",
-    "EVSU/CWTS/2nd Sem Graded Recitation.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Threat Intelligence Tools.md",
-    "Programming/C-Sharp/OOP (I).md"
+    "EVSU/CWTS/2nd Sem Graded Recitation.md"
   ]
 }
