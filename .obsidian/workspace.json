@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/1st-Year-2nd-Sem/Prog-2/Python-Essentials-1-Module-1.md",
+                "file": "EVSU/1st-Year-2nd-Sem/Prog-2/Python-Essentials-1-Module-2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
