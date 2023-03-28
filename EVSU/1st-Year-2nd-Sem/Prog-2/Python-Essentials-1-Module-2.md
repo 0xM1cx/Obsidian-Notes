@@ -1,6 +1,7 @@
 ```toc
 ```
 
+
 ## Basics
 - `print()` - The word print is the function name. This is a function that is used to print an output in the terminal. This is a **built-in** function
 
