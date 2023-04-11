@@ -1,2 +1,5 @@
+## Background of ethics
 - The name **Ethics** is derived from the Greek work word *ethos*, which means <u>"a characteristic way of acting"</u>
-- 
+
+
+## What is w
