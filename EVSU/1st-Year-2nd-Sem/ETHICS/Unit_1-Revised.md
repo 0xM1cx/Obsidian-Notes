@@ -2,6 +2,7 @@
 - The name **Ethics** is derived from the Greek work word *ethos*, which means <u>"a characteristic way of acting"</u>
 - Ethics is designated as the science of human acts, of human conduct. The latin mos is the equivalent of the Greek ethos. 
 
+
 ## What is Ethics?
 Ethics can be defined as the *"the practical science dealing with the morality of human conduct(human actions)"*
 Two important elements of ethics: *Ethics as a science* and *Ethics as a Practical Science*
