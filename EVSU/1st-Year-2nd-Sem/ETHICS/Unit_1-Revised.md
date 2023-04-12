@@ -45,7 +45,7 @@ Having a sense of morality is one of the things that differentiate us from anima
 
 ## What is Human act?
 - **Human Act** is an act which proceeds from the *deliberate free will of man*. In a wide sense, the term human act means any sort of activity, internal or external, bodily or spiritual performed by a human being. 
-- **Acts of man** are those acts than man performs indeliberately  or without the full exercise of free choice. Thus, such acts are affected in sleep, in delirium, in the state of unconciousness.
+- **Acts of man** are those acts that man performs indeliberately  or without the full exercise of free choice. Thus, such acts are affected in sleep, in delirium, in the state of unconciousness.
 
 ### Constituents of Human Acts
 In order that an act be human, it must possess three essential elements:
@@ -53,5 +53,28 @@ In order that an act be human, it must possess three essential elements:
 
 1. **Knowledge** - here means the act whereby the intellect perceives the action that the person is about to perform or is performing. 
 2. **Freedom** is the capacity to act or not to act(freedom of exercise), or to choose this thing in preference to others(freedom of specification)
-3. **Voluntariness** The latin word for *voluntas*
-## SUMMARY
+3. **Voluntariness** The latin word for *voluntas*, and from this word we derive the English terms, *voluntary* and *voluntariness*. The other condition that is necessary for an act to be morally imputable to a person is that the person must do it with consent
+
+### Modifiers of Human Acts
+By the modifiers of human acts we mean the things that may affect human acts in the essential qualities of knowledge, freedom, voluntariness, and so make them less perfectly human. Such modifiers lessen the moral character of the human act. 
+#### Ignorance.
+Is the absence of knowledge-and, for our purpose here, it may be defined as *the absence of intellectual knowledge in man*. This is the *negation of knowledge*, it is a negative thing. We are to consider ignorance in its effect upon human acts by considering it in two ways, that is, **in its Object**, meaning it the thing of which a person may be ignorant;**in its Subject**, that is, in the person in whom ignorance exist.
+1. *Ignorance in its Object* - The thing of which a person may be ignorant is a matter of law fact or penalty
+	- **Ignorance of Law** - is the ignorance of the existence of duty, rule, or regulation
+	- **Ignorance of Fact** - is ignorance of the nature of circumstance of an act as forbidden
+	- **Ignorance of Penalty** - is the lack of knowledge of the precise sanction
+2. **Ignorance in its subject** -  in the person in whom it exist, ignorance(of law, fact, or penalty) is either vincible or invincible
+	- **Vincible Ignorance** - is ignorance that can be dispelled by the use of ordinary diligence. Such ignorance, therefore, due to lack of proper diligence on the part of the ignorant person, and is his fault.
+	- **Invincible Ignorance** - is ignorance that ordinary and proper diligence cannot dispel. This sort of ignorance is attributable to one of two causes, namely: *either the person in whom the ignorance exists has no realization whatever of his lack of knowledge,* or *the person who realizes his ignorance finds ineffective his effort to dispel it*
+	
+
+#### Fear
+It is one of the passions, and it included under the general denotation of the term concupiscence, but it is usual to give special mention in Ethics because it is a very common passion, and we should know in detail its relation to the morality of acts, and because it has a characteristic distinctive among the passions.
+
+#### Violence
+It is also known as **coaction**. It is defined as the external force applied by a free cause for the purpose of compelling a person to perform an act which is against his will . Violence cannot reach the will directly. It may force bodily action, but the will is not controlled by the body, rather, the body is controlled by the will
+
+#### Habit
+By habit ethics understands operative habit, which is a lasting readiness and facility, born frequently repeated acts, for action in certain matter. Thus a man who has the always endeavor to speak the truth, has a habit of truthfulness. 
+
+
