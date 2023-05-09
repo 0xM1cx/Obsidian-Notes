@@ -8,4 +8,4 @@ When it comes to a healthy and ideal family, I can think of one that isn't just 
 
 ## To be submitted on Wednesday(May 10, 2023)
 2. Do you agree the legalization of divorce in the Philippines? defend your answer.
-Yes. It is for a fact that not every married couple are happy. No matter how happy a relationship might seem on the outside, we can't truly know how they are when they're alone. The legalization of divorce in the Philippines provides a legal separation of the couple. In turn, giving them protection 
+Yes. It is for a fact that not every married couple are happy. No matter how happy a relationship might seem on the outside, we can't truly know how they are when they're alone. The legalization of divorce in the Philippines provides a legal separation of the couple. This is beneficial especially in cases of domestic abuse, 
