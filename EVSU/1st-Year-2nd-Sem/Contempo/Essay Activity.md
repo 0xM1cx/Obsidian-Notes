@@ -8,9 +8,13 @@ When it comes to a healthy and ideal family, I can think of one that isn't just 
 
 ## To be submitted on Wednesday(May 10, 2023)
 2. Do you agree the legalization of divorce in the Philippines? defend your answer.
-Yes. It is for a fact that not every married couple are happy. No matter how happy a relationship might seem on the outside, we can't truly know how they are when they're alone.  As stated by Anna Cristina Tuazon, a psychologist, "Divorce is not the killer of happy marriages. It is simply a life raft for people drowning in a marriage that's already long dead. If you want to ensure the success of a marriage, we should be providing couples with resources and support to help them better adapt and not simply mandate them to stay together". That is to say, divorce is only a escape of a failed marriage.
+Yes. It is a fact that not every married couple is content. We can't truly know how happy a couple is when they're alone, no matter how happy they appear to be on the outside.  According to psychologist Anna Cristina Tuazon, "divorce is not the killer of happy marriages; it is simply a life raft for people drowning in a marriage that is already long dead. If you want to ensure the success of a marriage, we should be providing couples with resources and support to help them better adapt, rather than simply mandating them to stay together." That is, divorce is simply an escape from a failed marriage.
 
-In the perspective of the catholic church, they view divorce as a *The legalization of divorce in the Philippines provides a legal separation of the couple. This is beneficial especially in cases of domestic abuse,* 
+The Catholic Church opposes it because it is "anti-marriage and anti-family," as they put it. They regard it as a "grave offense" against natural law because it claims to violate the contract, to which the spouses willingly agreed to live with each other until death.
+
+Both the phycologist's and the Roman Catholic church's arguments, in my opinion, are correct in their terms. Neither point can decide what the couple wants; even if divorce is not legalized, there will still be couples who want to end their failed marriages. Nonetheless, I believe that divorce legalization should be implemented. Because it puts an end to those failed marriages legally.
+
+*The legalization of divorce in the Philippines provides a legal separation of the couple. This is beneficial especially in cases of domestic abuse,* 
 
 
 
