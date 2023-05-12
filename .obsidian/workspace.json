@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/1st-Year-2nd-Sem/RPH/Survey Essay Answers.md",
+                "file": "EVSU/1st-Year-2nd-Sem/Contempo/Essay Activity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -103,13 +105,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a2e39de59ec479c1",
+  "active": "2ced3c7263efbed9",
   "lastOpenFiles": [
     "EVSU/1st-Year-2nd-Sem/RPH/Survey Essay Answers.md",
+    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Protecting-Information-Resource(Lesson 3).md",
     "EVSU/1st-Year-2nd-Sem/Contempo/Essay Activity.md",
     "EVSU/1st-Year-2nd-Sem/Contempo/GEN. ED. 007.md",
     "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Data Communication.md",
-    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Protecting-Information-Resource(Lesson 3).md",
     "EVSU/Purposive Communication/Lesson_3.md",
     "EVSU/GEN. EL. 001/Chapter 1 Notes.md",
     "EVSU/GEN Ed 002/Activity1.md",

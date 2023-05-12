@@ -4,3 +4,4 @@ During the pandemic, it was said that tasks would be easier to complete because 
 
 
 Our goal, like that of any other IT student, is to become an IT professional in the fields that interest us. Since I began programming in eighth grade, I've wanted to work in IT. I became somewhat "addicted" to the various topics offered by the world of information technology. Since grade 8, I've been dabbling in various IT-related topics, ranging from programming and networking to operating systems and digital forensics. Since then, I've had a wonderful journey that has allowed me to grow and learn about myself. As a result, I was able to complete the challenges that led me to where I am now. I will continue to work hard to achieve my goals because I believe that the things I want are on the other side of hard work.
+
