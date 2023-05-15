@@ -11,6 +11,7 @@ Ideas for events this friday
 - Programming Quiz. An problem la kasi is iba-iba na programming language ang gamit per section, dire hiya maging fair. 
 ### 3rd Year
 - CCNA configuration Challenge. Mayda teams na tagan laboratory files na ira ig finish. The team with the most finished lab files under a time limit an mag daog.
+- CCNA Quiz Bee. Multiple choice, write the letter only. Mga 20 - 30 questions.
 ## Seminar
 ## Programming Contest
 ## CCNA Configuration Quiz
