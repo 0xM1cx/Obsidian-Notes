@@ -36,5 +36,39 @@ def main():
 	uInput = getThis()
 	return uInput + "!!!"
 
-main()
+print(main())
 ```
+Answer: **INTEL!!!**
+
+Easy: What does UTF meaning, example UTF-8. 
+Answer: **Unicode Transformation Format**
+
+Easy: Python Programming language comes from an old BBC television comedy sketch series called?
+Answer: **Monty Python's Flying Circus**
+
+Easy: Who created the python programming language?
+Answer: **Guido van Rossum**
+
+Easy: What is the output of the following code?
+```python
+print('2' == 2)
+```
+Answer: **False**
+
+Easy: What is the output of the following code?
+```python
+var = "\\\\\\\\\\"
+print(len(var))
+```
+Answer: **5**
+
+Medium Level:
+
+Medium: The compiled Python bytecode is stored in files which have their ending with?
+Answer: **pyc**
+
+Medium: Which pip command would you use to uninstall a previously installed package?
+Answer: **pip uninstall packagename**
+
+Medium: 
+Answer: ****
