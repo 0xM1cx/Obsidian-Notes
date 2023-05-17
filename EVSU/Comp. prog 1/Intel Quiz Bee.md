@@ -28,4 +28,13 @@ Answer: **5 times**
 Easy: What function is used to display output to the console?
 Answer: **printf()**
 
-Easy: 
+Easy:  What is the output of the following code
+```python
+def getThis():
+	return "INTEL"
+def main():
+	uInput = getThis()
+	return uInput + "!!!"
+
+main()
+```
