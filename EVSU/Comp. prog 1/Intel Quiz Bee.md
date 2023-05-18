@@ -70,5 +70,46 @@ Answer: **pyc**
 Medium: Which pip command would you use to uninstall a previously installed package?
 Answer: **pip uninstall packagename**
 
-Medium: 
-Answer: ****
+Medium: What is the output of the following code
+```python
+def start():
+	print("b")
+	def end():
+		return "a"
+	print(end())
+	print("g")
+
+start()
+```
+Answer: **bag**
+
+Medium: What is the output of the following code
+```c
+#include <stdio.h>
+
+int main(){
+
+    int i = 5;
+
+    printf("%d %d %d", i++, i++, i++);
+
+    return 0;
+
+}
+```
+
+Answer: **7 5 6**
+
+
+Medium: Which of the following operators has the highest precendence?
+```python
+not
+&
+*
++
+```
+Answer: **\***
+
+Hard Level:
+
+Hard: 
