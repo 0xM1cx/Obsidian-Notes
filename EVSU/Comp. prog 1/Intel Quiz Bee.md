@@ -112,4 +112,7 @@ Answer: **\***
 
 Hard Level:
 
-Hard: 
+Hard:  What is the output of the following code?
+```c
+
+```
