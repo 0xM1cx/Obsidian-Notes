@@ -19,6 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad1c023ca03849b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
           }
         ]
       }

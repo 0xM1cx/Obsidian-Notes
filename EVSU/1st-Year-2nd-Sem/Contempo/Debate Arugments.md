@@ -1,5 +1,5 @@
 ## Mechanics for Debate
-TOPIC: **Artificial Intelligence: A delusion to human dignity or man's glory**
+TOPIC: **Artificial Intelligence: A delusion to human dignity** or man's glory
 1. Format: The debate will follow a traditional format with two teams; the Affirmative Team, which supports the notion that AI is a delusion to human dignity, and the Negative Team, which argues that AI is man's glory.
 
 2. Time Allocation: Each team will have a predetermined amount of time to present their arguments and engage in rebuttals. The following time allocations are recommended:
@@ -40,7 +40,9 @@ RESEARCHERS:
 
 
 ## Opening statement
-Classmates, Speakers of the Opposition, Judges, Ma'am Daisy. Good
+Classmates, Speakers of the Opposition, Judges, Ma'am Daisy. Good morning. I am Christian Pagaduan...
+
+I take this opportunity to present to you our views in favor of the matter, in which Artificial Intelligence is a delusion to human dignity.  I'll start with the definition of Artificial Intelligence, Artificial Intelligence or AI is the simulation of  human intelligence processes by machines, especially computer systems.  We Take -
 ## Rebuttals
 ## Cross-Examination
 ## Closing Statements
