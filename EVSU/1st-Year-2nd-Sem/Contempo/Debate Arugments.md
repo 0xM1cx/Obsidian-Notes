@@ -46,3 +46,9 @@ I take this opportunity to present to you our views in favor of the matter, in w
 ## Rebuttals
 ## Cross-Examination
 ## Closing Statements
+
+## Opening Remarks
+Good afternoon everyone. I would like to extend my gratitude and thanks to all my classmates and professor. To the moderators, for arranging the event, to the teams, for doing their very best in preparing for this debate.  As information technology students, the topic in this debate is very close to us. So it is expected that we have extensive knowledge on this topic, as broad as it may be. Nonetheless, this will surely be an entertaining debate. Best of luck to both teams.        
+ 
+
+
