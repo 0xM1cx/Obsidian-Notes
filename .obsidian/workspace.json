@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f9381e8e7e2df357",
+        "id": "be80a324797517a7",
         "type": "tabs",
         "children": [
           {
-            "id": "2ced3c7263efbed9",
+            "id": "335ad8111ba1a560",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Final Case Study.md",
+                "file": "EVSU/2nd-Year/1st-Sem/Platform-Tech/Intro.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ad1c023ca03849b6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.3"
               }
             }
           }
@@ -80,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 385.5
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -100,10 +90,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2ced3c7263efbed9",
+  "active": "335ad8111ba1a560",
   "lastOpenFiles": [
-    "EVSU/1st-Year-2nd-Sem/Human Computer Interaction.md",
+    "EVSU/2nd-Year/1st-Sem/Untitled.md",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Intro.md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net",
+    "EVSU/2nd-Year/1st-Sem/Web-Sys",
+    "EVSU/2nd-Year/1st-Sem/OOP",
+    "EVSU/2nd-Year/1st-Sem/Statistics-Prob",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech",
+    "EVSU/2nd-Year/1st-Sem",
+    "EVSU/2nd-Year",
     "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Final Case Study.md",
+    "EVSU/1st-Year-2nd-Sem/Human Computer Interaction.md",
     "EVSU/1st-Year-2nd-Sem/ETHICS/ETHICS-LAST-TOPICS.md",
     "EVSU/1st-Year-2nd-Sem/Contempo/Debate Arugments.md",
     "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Assessment 4.md",
@@ -126,8 +125,6 @@
     "EVSU/GEN Ed 002/Activity1.md",
     "EVSU/GEN. ED. 004/Reaction Paper.md",
     "EVSU/GEN. EL. 001/Activity One Notes.md",
-    "Programming/C/C-FlowControl.md",
-    "Programming/C/C-Functions.md",
-    "EVSU/GEN Ed 002/Orientation.md"
+    "Programming/C/C-FlowControl.md"
   ]
 }
