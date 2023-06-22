@@ -1,1 +1,1 @@
-- 
+- **Opportunity Cost** - Is having to give you something to get what you want.
