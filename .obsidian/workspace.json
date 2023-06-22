@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I.T Resources.md",
+                "file": "Finance/Terms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,8 +92,15 @@
   },
   "active": "335ad8111ba1a560",
   "lastOpenFiles": [
-    "Untitled.md",
+    "APIs d16ef/Untitled 2.png",
+    "Finance/Terms.md",
+    "Finance",
+    "APIs d16ef/Untitled 3.png",
+    "APIs d16ef/Untitled 6.png",
+    "General-I.T/Operating-Systems/Intro-to-OS.md",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Intro.md",
     "I.T Resources.md",
+    "Untitled.md",
     "Writeups/PicoCTFs.md",
     "Writeups/CTF Writups Main.md",
     "Comptia Linux+/1.2 Given a scenario, install, configure, and monitor kernel modules.md",
@@ -105,7 +112,6 @@
     "Cybersecurity/DFIR/Basics of Digital Forensics.md",
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/Cybersecurity_Model&Frameworks.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Intro.md",
     "EVSU/2nd-Year/1st-Sem/DSA",
     "EVSU/2nd-Year/1st-Sem/DSA.md",
     "EVSU/2nd-Year/1st-Sem/Intro-Net",
@@ -123,9 +129,6 @@
     "EVSU/GEN. EL. 001/Chapter 1 Notes.md",
     "EVSU/GEN. EL. 001/Reporting Notes.md",
     "EVSU/Comp. prog 1/Intel Quiz Bee.md",
-    "EVSU/INTEL Stuff.md",
-    "EVSU/1st-Year-2nd-Sem/Contempo/Essay Activity.md",
-    "Programming/Python/IT_163.md",
     "Pictures/Pasted image 20230512103607.png"
   ]
 }
