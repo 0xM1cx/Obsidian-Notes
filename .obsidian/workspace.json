@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/2nd-Year/1st-Sem/Platform-Tech/Intro.md",
+                "file": "I.T Resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,8 +92,22 @@
   },
   "active": "335ad8111ba1a560",
   "lastOpenFiles": [
-    "EVSU/2nd-Year/1st-Sem/Untitled.md",
+    "Untitled.md",
+    "I.T Resources.md",
+    "Writeups/PicoCTFs.md",
+    "Writeups/CTF Writups Main.md",
+    "Comptia Linux+/1.2 Given a scenario, install, configure, and monitor kernel modules.md",
+    "Comptia Linux+/1.1 Explain Linux boot process concepts..md",
+    "Cybersecurity/DFIR/MemoryForensics.md",
+    "Cybersecurity/DFIR/Intro_To_EvidenceAcquisition.md",
+    "Cybersecurity/DFIR/DFIR_Essentials.md",
+    "Cybersecurity/DFIR/DigitalForensics&IncidentResponse.md",
+    "Cybersecurity/DFIR/Basics of Digital Forensics.md",
+    "Cybersecurity/SOC_TOOLS.md",
+    "Cybersecurity/Cybersecurity_Model&Frameworks.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Intro.md",
+    "EVSU/2nd-Year/1st-Sem/DSA",
+    "EVSU/2nd-Year/1st-Sem/DSA.md",
     "EVSU/2nd-Year/1st-Sem/Intro-Net",
     "EVSU/2nd-Year/1st-Sem/Web-Sys",
     "EVSU/2nd-Year/1st-Sem/OOP",
@@ -111,20 +125,7 @@
     "EVSU/Comp. prog 1/Intel Quiz Bee.md",
     "EVSU/INTEL Stuff.md",
     "EVSU/1st-Year-2nd-Sem/Contempo/Essay Activity.md",
-    "Untitled.md",
     "Programming/Python/IT_163.md",
-    "Programming/Coding Journal Unity.md",
-    "Programming/Programming Main.md",
-    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Case Study 2.md",
-    "Pictures/Pasted image 20230512103607.png",
-    "EVSU/1st-Year-2nd-Sem/RPH/Survey Essay Answers.md",
-    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Protecting-Information-Resource(Lesson 3).md",
-    "EVSU/1st-Year-2nd-Sem/Contempo/GEN. ED. 007.md",
-    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Data Communication.md",
-    "EVSU/Purposive Communication/Lesson_3.md",
-    "EVSU/GEN Ed 002/Activity1.md",
-    "EVSU/GEN. ED. 004/Reaction Paper.md",
-    "EVSU/GEN. EL. 001/Activity One Notes.md",
-    "Programming/C/C-FlowControl.md"
+    "Pictures/Pasted image 20230512103607.png"
   ]
 }

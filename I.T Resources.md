@@ -156,7 +156,6 @@ You can use this website to quickly brush up on programming languages syntax, ke
 - [ ] Hashcat
 - [x] binwalk
 - [x] strings
-- [ ] 
 
 ##### General Computing
 - [x] tmux
@@ -179,9 +178,9 @@ You can use this website to quickly brush up on programming languages syntax, ke
 #### Windows
 ##### Multimedia
 - [x] Canva
-- [ ] Photoshop
+- [x] Photoshop
 - [x] Figma
-- [ ] Filmora
+- [x] Filmora
 
 ##### Networking
 - [x] wireshark
