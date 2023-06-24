@@ -1,1 +1,2 @@
-- **Opportunity Cost** - Is having to give you something to get what you want.
+- **Opportunity Cost** - Is having to give you something to get what you want. represent the potential benefits that an individual, investor, or business misses out on when choosing one alternative over another.
+- **Capital** - can be any financial asset being used. It is a broad term that can describe anything that confers value or benefit to its owners, such as a factory and its machinery, intellectual property like patents, or the [financial assets](https://www.investopedia.com/terms/f/financialasset.asp) of a business or an individual.

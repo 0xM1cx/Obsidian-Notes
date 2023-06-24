@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "be80a324797517a7",
+        "id": "8399cdac28ad7508",
         "type": "tabs",
         "children": [
           {
-            "id": "335ad8111ba1a560",
+            "id": "47414207a3942687",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finance/Terms.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -90,10 +86,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "335ad8111ba1a560",
+  "active": "47414207a3942687",
   "lastOpenFiles": [
-    "APIs d16ef/Untitled 2.png",
+    "Programming/DSA/Linked Lists.md",
+    "Programming/DSA/DSA.md",
+    "Programming/DSA/50 Days - Learning Plan.md",
+    "Programming/DSA/Arrays.md",
+    "Programming/DSA/Queues.md",
+    "Programming/DSA/Stacks.md",
+    "Programming/DSA/Strings.md",
+    "DSA/Stacks.md",
+    "DSA",
     "Finance/Terms.md",
+    "APIs d16ef/Untitled 2.png",
     "Finance",
     "APIs d16ef/Untitled 3.png",
     "APIs d16ef/Untitled 6.png",
@@ -122,13 +127,6 @@
     "EVSU/2nd-Year/1st-Sem",
     "EVSU/2nd-Year",
     "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Final Case Study.md",
-    "EVSU/1st-Year-2nd-Sem/Human Computer Interaction.md",
-    "EVSU/1st-Year-2nd-Sem/ETHICS/ETHICS-LAST-TOPICS.md",
-    "EVSU/1st-Year-2nd-Sem/Contempo/Debate Arugments.md",
-    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Assessment 4.md",
-    "EVSU/GEN. EL. 001/Chapter 1 Notes.md",
-    "EVSU/GEN. EL. 001/Reporting Notes.md",
-    "EVSU/Comp. prog 1/Intel Quiz Bee.md",
     "Pictures/Pasted image 20230512103607.png"
   ]
 }

@@ -4,11 +4,11 @@
 - <s>Day 1: Understand the concept of [Algorithmic complexity](https://en.wikipedia.org/wiki/Algorithmic_complexity "en.wikipedia.org"). Skip the theory for now, but for every piece of code you write, you should be able to derive both time and space complexity.</s>
 
 - Day 2 - 10: Let’s start with some simple data structures,
-1.  Arrays
-2.  Linked Lists
-3.  Strings
-4.  Stacks
-5.  Queues
+1.  [[Arrays]]
+2.  [[Linked Lists]]
+3.  [[Strings]]
+4.  [[Stacks]]
+6.  [[Queues]]
 
 Understand their basic operations (insert, delete, search, traversal) and their complexity - [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/ "bigocheatsheet.com"), and code them all.
 
