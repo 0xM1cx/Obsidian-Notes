@@ -22,31 +22,31 @@
 > Reading, Pronunciation and Writing
 
 Kana Characters
-　- [ ] あ - a
-　- [ ] え - e
-　- [ ] い - i
-　- [ ] お - o
-　- [ ] う - u
-　- [ ] ア - a
-　- [ ] イ - i
-　- [ ] ウ - u
-　- [ ] エ - e
-　- [ ] オ - o
+　- [x] あ - a
+　- [x] え - e
+　- [x] い - i
+　- [x] お - o
+　- [x] う - u
+　- [x] ア - a
+　- [x] イ - i
+　- [x] ウ - u
+　- [x] エ - e
+　- [x] オ - o
 ### Day 2  - 7/9/2022
 **Things To learn**
 > Reading, Pronunciation and Writing
 
 Kana Characters
-- [ ] か - ka
-- [ ] カ - ka
-- [ ] き - ki
-- [ ] キ - ki
-- [ ] く - ku
-- [ ] ク - ku
-- [ ] け - ke
-- [ ] ケ - ke
-- [ ] こ - ko
-- [ ] コ - ko
+- [x] か - ka
+- [x] カ - ka
+- [x] き - ki
+- [x] キ - ki
+- [x] く - ku
+- [x] ク - ku
+- [x] け - ke
+- [x] ケ - ke
+- [x] こ - ko
+- [x] コ - ko
 
 ### Day 3  - 7/10/2022
 **Things To learn**

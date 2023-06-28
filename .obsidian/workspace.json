@@ -11,8 +11,13 @@
             "id": "47414207a3942687",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/Kanji.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -88,6 +92,8 @@
   },
   "active": "47414207a3942687",
   "lastOpenFiles": [
+    "Japanese/Japanese Main.md",
+    "Japanese/Kanji.md",
     "Programming/DSA/Linked Lists.md",
     "Programming/DSA/DSA.md",
     "Programming/DSA/50 Days - Learning Plan.md",
@@ -118,7 +124,6 @@
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/Cybersecurity_Model&Frameworks.md",
     "EVSU/2nd-Year/1st-Sem/DSA",
-    "EVSU/2nd-Year/1st-Sem/DSA.md",
     "EVSU/2nd-Year/1st-Sem/Intro-Net",
     "EVSU/2nd-Year/1st-Sem/Web-Sys",
     "EVSU/2nd-Year/1st-Sem/OOP",
@@ -126,7 +131,6 @@
     "EVSU/2nd-Year/1st-Sem/Platform-Tech",
     "EVSU/2nd-Year/1st-Sem",
     "EVSU/2nd-Year",
-    "EVSU/1st-Year-2nd-Sem/GE-EL(MIS)/Final Case Study.md",
     "Pictures/Pasted image 20230512103607.png"
   ]
 }
