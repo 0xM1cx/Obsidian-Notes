@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Tool-Set/OSINT-TOOLS.md",
+                "file": "Finance/Terms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,8 +92,10 @@
   },
   "active": "47414207a3942687",
   "lastOpenFiles": [
-    "Japanese/Japanese Main.md",
+    "Finance/Stocks.md",
+    "Finance/Terms.md",
     "Cybersecurity/Tool-Set/OSINT-TOOLS.md",
+    "Japanese/Japanese Main.md",
     "Cybersecurity/Tool-Set",
     "Japanese/Kanji.md",
     "Programming/DSA/Linked Lists.md",
@@ -105,7 +107,6 @@
     "Programming/DSA/Strings.md",
     "DSA/Stacks.md",
     "DSA",
-    "Finance/Terms.md",
     "APIs d16ef/Untitled 2.png",
     "Finance",
     "APIs d16ef/Untitled 3.png",
@@ -123,7 +124,6 @@
     "Cybersecurity/DFIR/DFIR_Essentials.md",
     "Cybersecurity/DFIR/DigitalForensics&IncidentResponse.md",
     "Cybersecurity/DFIR/Basics of Digital Forensics.md",
-    "Cybersecurity/SOC_TOOLS.md",
     "EVSU/2nd-Year/1st-Sem/DSA",
     "EVSU/2nd-Year/1st-Sem/Intro-Net",
     "EVSU/2nd-Year/1st-Sem/Web-Sys",
