@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/DSA/50 Days - Learning Plan.md",
+                "file": "Programming/DSA/Arrays.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,6 +92,8 @@
   },
   "active": "47414207a3942687",
   "lastOpenFiles": [
+    "Pictures/array_.png",
+    "Programming/DSA/50 Days - Learning Plan.md",
     "Programming/DSA/Arrays.md",
     "Programming/DSA/DSA.md",
     "Programming/Programming Main.md",
@@ -101,7 +103,6 @@
     "Programming/DSA/Stacks.md",
     "Programming/DSA/Queues.md",
     "Programming/DSA/Linked Lists.md",
-    "Programming/DSA/50 Days - Learning Plan.md",
     "Finance/Terms.md",
     "Finance/Stocks.md",
     "Cybersecurity/Tool-Set/OSINT-TOOLS.md",
@@ -123,7 +124,6 @@
     "Comptia Linux+/1.2 Given a scenario, install, configure, and monitor kernel modules.md",
     "Comptia Linux+/1.1 Explain Linux boot process concepts..md",
     "Cybersecurity/DFIR/MemoryForensics.md",
-    "Cybersecurity/DFIR/Intro_To_EvidenceAcquisition.md",
     "EVSU/2nd-Year/1st-Sem/DSA",
     "EVSU/2nd-Year/1st-Sem/Intro-Net",
     "EVSU/2nd-Year/1st-Sem/Web-Sys",
