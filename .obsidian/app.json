@@ -14,5 +14,6 @@
   "showIndentGuide": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "vimMode": false
+  "vimMode": false,
+  "focusNewTab": false
 }
