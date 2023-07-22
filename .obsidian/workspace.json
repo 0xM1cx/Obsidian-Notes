@@ -11,13 +11,16 @@
             "id": "47414207a3942687",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/2nd-Year/1st-Sem/Intro-Net/Network-Main.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e138e3960fedfbe2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,34 +95,34 @@
   },
   "active": "47414207a3942687",
   "lastOpenFiles": [
+    "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/Maps.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/Trees.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/Graph.md",
+    "Programming/DSA/Arrays.md",
+    "EVSU/Comp. prog 1/Intel Quiz Bee.md",
+    "EVSU/Comp. prog 1/Algorithm and Flowcharts.md",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal Main.md",
     "EVSU/2nd-Year/1st-Sem/2nd-Sem-Main.md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Network-Main.md",
     "EVSU/2nd-Year/1st-Sem/Web-Sys/Web-Main.md",
-    "EVSU/2nd-Year/RIZAL 001/Rizal Main.md",
-    "EVSU/2nd-Year/RIZAL 001",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Stats-Main.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Platform-Tech Main.md",
     "EVSU/2nd-Year/1st-Sem/OOP/OOP-Main.md",
-    "EVSU/2nd-Year/1st-Sem/Intro-Net/Network-Main.md",
     "Finance/Terms.md",
     "Finance/Stocks.md",
     "Programming/Python/Lamda.md",
     "Programming/Python/Set Mutations.md",
     "Programming/Python/Inheritance.md",
     "Programming/Python/IT_163.md",
-    "Programming/DSA/Arrays.md",
     "Programming/DSA/50 Days - Learning Plan.md",
     "Programming/DSA/Stacks.md",
     "Programming/DSA/Queues.md",
     "Programming/DSA/Linked Lists.md",
     "Programming/DSA/DSA.md",
     "Pictures/array_.png",
-    "Programming/Programming Main.md",
-    "Programming/C/C-FlowControl.md",
-    "Programming/Coding Journal Unity.md",
-    "Programming/DSA/Strings.md",
-    "Cybersecurity/Tool-Set/OSINT-TOOLS.md",
-    "Japanese/Japanese Main.md",
     "Cybersecurity/Tool-Set",
     "DSA",
     "APIs d16ef/Untitled 2.png",

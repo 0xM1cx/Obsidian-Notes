@@ -1,8 +1,15 @@
 # DSA
 
 ## Topics
-### From School
-- 
+- [[DSA-INTRO]]
 
-### Self Study
-- 
+### Linear Data Structures
+- [[Arrays]]
+- [[Stacks]]
+- [[Queues]]
+- [[Linked Lists]]
+
+### Non-Linear Data Structures
+- [[Graph]]
+- [[Trees]]
+- [[Maps]]
