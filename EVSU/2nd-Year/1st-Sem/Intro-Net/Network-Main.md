@@ -5,7 +5,7 @@
 
 ### Self Study
 #### 1.0 Network fundamentals
-- [ ] Explain the role and function of network components
+- [ ] [[Explain the role and function of network components]]
 	- [ ] Routers
 	- [ ] Layer 2 and Layer 3 switches
 	- [ ] Next-generation firewalls and IPS
