@@ -11,9 +11,12 @@
             "id": "077a94033b31141f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Writeups/ToDo.md"
+                "file": "EVSU/2nd-Year/1st-Sem/Intro-Net/Compare Physical interface and cabling types.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -89,6 +92,17 @@
   },
   "active": "077a94033b31141f",
   "lastOpenFiles": [
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Network-Main.md",
+    "Networking/Interfaces and Cables.md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Compare TCP to UDP.md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Configure and verify IPv6 addressing and prefix.md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Configure and verify IPv4 addressing and subnetting.md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Describe IPv6 address types.md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Identify interface and cable issues (collisions, errors, mismatch duplex, speed).md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Compare Physical interface and cabling types.md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Describe Characteristics of network topology architectures.md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Explain the role and function of network components.md",
+    "Writeups/ToDo.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Basics of OS.md",
     "General-I.T/Operating-Systems/Intro-to-OS.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Platform-Tech Main.md",
@@ -101,24 +115,13 @@
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
     "EVSU/2nd-Year/1st-Sem/DSA/Graph.md",
     "Non-Linear Data Structure.md",
-    "EVSU/2nd-Year/1st-Sem/Intro-Net/Explain the role and function of network components.md",
-    "Writeups/ToDo.md",
     "I.T Resources.md",
     "To do.canvas",
     "Untitled.canvas",
-    "EVSU/2nd-Year/1st-Sem/Intro-Net/Network-Main.md",
     "Pictures/Cisco-switches-and-hubs-Design-elements.png",
     "Explain the role and function of network components.md",
     "EVSU/2nd-Year/1st-Sem/DSA/Maps.md",
-    "EVSU/2nd-Year/1st-Sem/DSA/Trees.md",
-    "Programming/DSA/Arrays.md",
-    "EVSU/Comp. prog 1/Intel Quiz Bee.md",
-    "EVSU/Comp. prog 1/Algorithm and Flowcharts.md",
-    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal Main.md",
-    "EVSU/2nd-Year/1st-Sem/2nd-Sem-Main.md",
-    "EVSU/2nd-Year/1st-Sem/Web-Sys/Web-Main.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001",
-    "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Stats-Main.md",
     "Pictures/array_.png",
     "Cybersecurity/Tool-Set",
     "DSA",

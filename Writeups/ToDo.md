@@ -6,16 +6,14 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] Learn how to read blogs and academic papers
 - [ ] Learn, for 3 days, Jquery
 - [ ] Learn DSA with C++
-- [ ] Register Sim Cards
-- [ ] Study 5 vids of CCNA
+- [ ] Learn and Sell notes online
 
 
 ## Doing
 
-- [ ] 
+- [ ] Register Sim Cards
 
 
 ## Revisions
@@ -24,6 +22,8 @@ kanban-plugin: basic
 
 ## Finished
 
+- [ ] Study 5 vids of CCNA
+- [ ] Learn how to write blogs and academic papers
 - [ ] Read Research
 
 
