@@ -276,6 +276,7 @@ Increment `++` increases the value by 1 whereas decrement `--` decreases the val
 -   If you use the `++` operator as a postfix like: `var++`, the original value of var is returned first; then var is incremented by 1.
 
 ***Assignment Operators***
+
 | **Operator** | **Example** | **Same as**   |
 | -------- | ------- | --------- |
 | =        | a = b   | a = b     |
@@ -312,6 +313,7 @@ int main() {
 A relational operator checks the relationship between two operands. If the relation is true, it returns 1; if the relation is false, it returns value 0.
 
 Relational operators are used in [decision making](https://www.programiz.com/c-programming/c-if-else-statement "C if else") and [loops](https://www.programiz.com/c-programming/c-for-loop "C for loop").
+
 | **Operator** | **Meaning of Operator**      | **Example**                  |
 | -------- | ------------------------ | ------------------------ |
 | ==       | Equal to                 | 5 == 3 is evaluated to 0 |
@@ -381,6 +383,7 @@ int main()
 During computation, mathematical operations like: addition, subtraction, multiplication, division, etc are converted to bit-level which makes processing faster and saves power.
 
 Bitwise operators are used in C programming to perform bit-level operations.
+
 | **Operator** | **Meaning of Operator** |
 | ------------ | ----------------------- |
 | &            | Bitwise AND             |
@@ -388,7 +391,7 @@ Bitwise operators are used in C programming to perform bit-level operations.
 | ^            | Bitwise exclusive OR    |
 | ~            | Bitwise complement      |
 | <<           | Shift left              |
-| >>           | Shift right             | 
+| >>           | Shift right             |
 
 ***Other Operators***
 

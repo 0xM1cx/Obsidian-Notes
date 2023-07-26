@@ -7,7 +7,6 @@
 - [[#Non-Linear Data Structure]]
 
 
-
 ## Linear Data Structure
 - In this structure, the elements are arranged in a sequence one after the other. 
 - This kind of structure is easy to implement because the elements are arranged in particular order. 

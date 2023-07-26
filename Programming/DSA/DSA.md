@@ -147,6 +147,7 @@ Non-linear data structures are further divided into graph and tree based data st
 
 ### Linear Vs Non-linear Data Structures
 Now that we know about linear and non-linear data structures, let's see the major differences between them.
+
 | **Linear Data Structures** | **Non Linear Data Structures** |
 | --- | --- |
 | The data items are arranged in sequential order, one after the other | The data items are arranged in non-sequential order(hierarchical manner). |
