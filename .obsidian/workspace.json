@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1849dcf247e1d8",
+        "id": "b71f6f833f6902d2",
         "type": "tabs",
         "children": [
           {
-            "id": "077a94033b31141f",
+            "id": "35f2cd6a1c37284f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/2nd-Year/1st-Sem/Intro-Net/Compare Physical interface and cabling types.md",
+                "file": "EVSU/2nd-Year/1st-Sem/Platform-Tech/Basics of OS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,8 +90,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "077a94033b31141f",
+  "active": "35f2cd6a1c37284f",
   "lastOpenFiles": [
+    "General-I.T/Operating-Systems/Intro-to-OS.md",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Platform-Tech Main.md",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Basics of OS.md",
+    "Programming/Python/Lamda.md",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Scheduling Algorithms.md",
+    "Programming/Python/IT_163.md",
+    "Programming/Python/Decorators.md",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech/History of OS.md",
+    "EVSU/2nd-Year/1st-Sem/Intro-Net/Compare Physical interface and cabling types.md",
     "EVSU/2nd-Year/1st-Sem/Intro-Net/Network-Main.md",
     "Networking/Interfaces and Cables.md",
     "EVSU/2nd-Year/1st-Sem/Intro-Net/Compare TCP to UDP.md",
@@ -99,28 +108,19 @@
     "EVSU/2nd-Year/1st-Sem/Intro-Net/Configure and verify IPv4 addressing and subnetting.md",
     "EVSU/2nd-Year/1st-Sem/Intro-Net/Describe IPv6 address types.md",
     "EVSU/2nd-Year/1st-Sem/Intro-Net/Identify interface and cable issues (collisions, errors, mismatch duplex, speed).md",
-    "EVSU/2nd-Year/1st-Sem/Intro-Net/Compare Physical interface and cabling types.md",
     "EVSU/2nd-Year/1st-Sem/Intro-Net/Describe Characteristics of network topology architectures.md",
     "EVSU/2nd-Year/1st-Sem/Intro-Net/Explain the role and function of network components.md",
     "Writeups/ToDo.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Basics of OS.md",
-    "General-I.T/Operating-Systems/Intro-to-OS.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Platform-Tech Main.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Scheduling Algorithms.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Assembly Basics.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/History of OS.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Binary Operation & Logic.md",
     "General-I.T/1.1-Identify-basic-features-of-Microsoft-Windows-editions.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
     "EVSU/2nd-Year/1st-Sem/DSA/Graph.md",
     "Non-Linear Data Structure.md",
-    "I.T Resources.md",
     "To do.canvas",
     "Untitled.canvas",
     "Pictures/Cisco-switches-and-hubs-Design-elements.png",
-    "Explain the role and function of network components.md",
-    "EVSU/2nd-Year/1st-Sem/DSA/Maps.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001",
     "Pictures/array_.png",
     "Cybersecurity/Tool-Set",
