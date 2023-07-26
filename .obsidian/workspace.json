@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/2nd-Year/1st-Sem/Platform-Tech/Basics of OS.md",
+                "file": "EVSU/2nd-Year/1st-Sem/Intro-Net/Compare Physical interface and cabling types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,9 +92,17 @@
   },
   "active": "35f2cd6a1c37284f",
   "lastOpenFiles": [
+    "Pictures/Pasted image 20230726170204.png",
+    "Pictures/Pasted image 20230726170137.png",
+    "Pictures/Pasted image 20230726165934.png",
+    "Pictures/Pasted image 20230726165607.png",
+    "Pictures/Pasted image 20230726165602.png",
+    "Pictures/Pasted image 20230726164950.png",
+    "Pictures/Pasted image 20230726162818.png",
+    "Pictures/Pasted image 20230726162228.png",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Basics of OS.md",
     "General-I.T/Operating-Systems/Intro-to-OS.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Platform-Tech Main.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Basics of OS.md",
     "Programming/Python/Lamda.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Scheduling Algorithms.md",
     "Programming/Python/IT_163.md",
@@ -117,7 +125,6 @@
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
     "EVSU/2nd-Year/1st-Sem/DSA/Graph.md",
-    "Non-Linear Data Structure.md",
     "To do.canvas",
     "Untitled.canvas",
     "Pictures/Cisco-switches-and-hubs-Design-elements.png",
@@ -127,14 +134,11 @@
     "DSA",
     "APIs d16ef/Untitled 2.png",
     "Finance",
-    "APIs d16ef/Untitled 3.png",
-    "APIs d16ef/Untitled 6.png",
     "EVSU/2nd-Year/1st-Sem/DSA",
     "EVSU/2nd-Year/1st-Sem/Intro-Net",
     "EVSU/2nd-Year/1st-Sem/Web-Sys",
     "EVSU/2nd-Year/1st-Sem/OOP",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech",
-    "Pictures/Pasted image 20230512103607.png"
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech"
   ]
 }
