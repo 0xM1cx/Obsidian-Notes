@@ -3,6 +3,7 @@ Arrays are a type of linear data structure. In an array, elements in memory are 
 
 ![[array_.png]]
 - **Multidimensional Arrays** - These are arrays of arrays. These are arrays in which the elements are also arrays. To better understand them, you can think of them as a table. Where you can access an element with x and y points. 
+
 ## Why Arrays?
 
 
