@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5e70e0b61dac984f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/How to write an Effective Blog.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
