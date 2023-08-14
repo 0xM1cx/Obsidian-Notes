@@ -1,3 +1,4 @@
+# Ungrouped Data
 ## Mean
 - This is the most commonly used measure of central tendency. When we speak of average, we always refer to the mean. 
 ![[Pasted image 20230727183036.png]]
