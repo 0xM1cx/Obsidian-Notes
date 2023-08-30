@@ -6,7 +6,6 @@ Arrays are a type of linear data structure. In an array, elements in memory are 
 
 ## Why Arrays?
 
-
 ## Pros & Cons
 
 ## Big-O Analysis

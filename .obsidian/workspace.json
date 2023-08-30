@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Tool-Set/CTF_Tools_Used.md",
+                "file": "Programming/DSA/Arrays.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -93,8 +92,13 @@
   },
   "active": "46d39214f4602555",
   "lastOpenFiles": [
-    "Cybersecurity/Tool-Set/OSINT-TOOLS.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
+    "General-I.T/Operating-Systems/Intro-to-OS.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/Graph.md",
     "Cybersecurity/Tool-Set/CTF_Tools_Used.md",
+    "Cybersecurity/Tool-Set/OSINT-TOOLS.md",
     "Writeups/Freelance Stuff.md",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Measures of Central Tendency.md",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Stats-Main.md",
@@ -102,9 +106,6 @@
     "Programming/DSA/Arrays.md",
     "Writeups/ToDo.md",
     "Writeups/How to write an Effective Blog.md",
-    "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
-    "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
-    "EVSU/2nd-Year/1st-Sem/DSA/Graph.md",
     "EVSU/1st-Year-2nd-Sem/Human Computer Interaction.md",
     "Programming/C/C-FlowControl.md",
     "Programming/C/C-Intro.md",
@@ -121,8 +122,6 @@
     "EVSU/2nd-Year/1st-Sem/DSA/Trees.md",
     "EVSU/2nd-Year/1st-Sem/DSA/Maps.md",
     "Programming/DSA/DSA.md",
-    "Programming/DSA/Strings.md",
-    "Programming/DSA/Linked Lists.md",
     "Pictures/Pasted image 20230726170204.png",
     "Pictures/Pasted image 20230726170137.png",
     "Pictures/Pasted image 20230726165934.png",
