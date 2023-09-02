@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/DSA/Arrays.md",
+                "file": "Cybersecurity/SOC_TOOLS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,6 +92,9 @@
   },
   "active": "46d39214f4602555",
   "lastOpenFiles": [
+    "Cybersecurity/DFIR/WF1.md",
+    "Cybersecurity/DFIR/MemoryForensics.md",
+    "Programming/DSA/Arrays.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
     "General-I.T/Operating-Systems/Intro-to-OS.md",
@@ -103,7 +106,6 @@
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Measures of Central Tendency.md",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Stats-Main.md",
     "EVSU/2nd-Year/1st-Sem/1st-Sem-Main.md",
-    "Programming/DSA/Arrays.md",
     "Writeups/ToDo.md",
     "Writeups/How to write an Effective Blog.md",
     "EVSU/1st-Year-2nd-Sem/Human Computer Interaction.md",
@@ -120,8 +122,6 @@
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Intro to stats and prob.md",
     "I.T Resources.md",
     "EVSU/2nd-Year/1st-Sem/DSA/Trees.md",
-    "EVSU/2nd-Year/1st-Sem/DSA/Maps.md",
-    "Programming/DSA/DSA.md",
     "Pictures/Pasted image 20230726170204.png",
     "Pictures/Pasted image 20230726170137.png",
     "Pictures/Pasted image 20230726165934.png",

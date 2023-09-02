@@ -28,4 +28,8 @@
 
 ### CTF Writeups | For reference
 - [Banking Troubles](https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/)
+
+
+## OSINT TOOLS
+- [Getting Info From Phone Numbers](https://medium.com/system-weakness/track-anyone-with-just-a-phone-number-osint-investigation-a7f50f5f660d)
 - 
