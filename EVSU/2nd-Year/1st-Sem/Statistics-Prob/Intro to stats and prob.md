@@ -1,4 +1,4 @@
-## Statistics
+ask## Statistics
 - It is a collection of methods for planning experiments, **obtaining data**, and then **analyzing**, **interpreting** and *drawing conclusion* based on the data. 
 
 ### Terms
@@ -19,6 +19,7 @@
 		- number of days
 		- number of siblings 
 		- usual daily allowance
+		- 
 	- **Continuous Variables**, it can assume values between any two specific values like 0.5, 1.2, etc. and data can be measured
 		- weight
 		- height
@@ -33,13 +34,16 @@
 	- happiness index for the day
 	- the rankings of tennis player
 	- academic excellence awards
+	- 
 - **Interval Level**. This is the same in ordinal level, with an additional property that we can determine meaningful amounts of differences between the data. 
 	- body temperature 
 	- Intelligence  Quotient
+	- 
 - **Ratio Level**. This is an interval level modified to include the inherent zero starting point. It possesses a meaningful absolute, fixed zero pint and allows all arithmetic operations.
 	- number of siblings
 	- weight 
 	- height
+	- *The amount of memory a certain process is taking*
 
 ### Four Basic Methods of Sampling
 - **Random Sampling**, this is done by using chance or random numbers.
