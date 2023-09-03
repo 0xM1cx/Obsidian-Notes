@@ -30,15 +30,16 @@ ask## Statistics
 	- gender
 	- most preferred color
 	- civil status
+	- *Firewall*
 - **Ordinal Level**. This involves data that arranged in some order, but differences between data.
 	- happiness index for the day
 	- the rankings of tennis player
 	- academic excellence awards
-	- 
+	- *L1 Cache*
 - **Interval Level**. This is the same in ordinal level, with an additional property that we can determine meaningful amounts of differences between the data. 
 	- body temperature 
 	- Intelligence  Quotient
-	- 
+	- ""
 - **Ratio Level**. This is an interval level modified to include the inherent zero starting point. It possesses a meaningful absolute, fixed zero pint and allows all arithmetic operations.
 	- number of siblings
 	- weight 
