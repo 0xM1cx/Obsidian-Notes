@@ -1,4 +1,4 @@
-ask## Statistics
+## Statistics
 - It is a collection of methods for planning experiments, **obtaining data**, and then **analyzing**, **interpreting** and *drawing conclusion* based on the data. 
 
 ### Terms
@@ -39,7 +39,7 @@ ask## Statistics
 - **Interval Level**. This is the same in ordinal level, with an additional property that we can determine meaningful amounts of differences between the data. 
 	- body temperature 
 	- Intelligence  Quotient
-	- ""
+	- *CPU Clock rate*
 - **Ratio Level**. This is an interval level modified to include the inherent zero starting point. It possesses a meaningful absolute, fixed zero pint and allows all arithmetic operations.
 	- number of siblings
 	- weight 

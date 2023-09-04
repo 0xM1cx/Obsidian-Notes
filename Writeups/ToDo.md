@@ -6,9 +6,9 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] Learn, for 3 days, Jquery
-- [ ] Learn and Sell notes online
-- [ ] Learn the levels of measurement in stats
+- [ ] Finish Stats Assignment
+- [ ] Platform Tech Assignment
+- [ ] DSA Assignment
 
 
 ## Doing
@@ -21,7 +21,10 @@ kanban-plugin: basic
 
 ## Finished
 
+- [ ] Learn and Sell notes online
 - [ ] Study 5 vids of CCNA
+- [ ] Learn the levels of measurement in stats
+- [ ] Learn, for 3 days, Jquery
 - [ ] Learn DSA with C++
 - [ ] Register Sim Cards
 - [ ] Learn how to write blogs and academic papers

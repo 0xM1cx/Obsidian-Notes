@@ -6,3 +6,7 @@
 - [[Binary Operation & Logic]]
 - [[Scheduling Algorithms]]
 - [[Assembly Basics]]
+
+### Assignments
+- [[1-Assignment]]
+- 
