@@ -3,3 +3,9 @@
 2. Types of OS
 3. Major Functions of OS
 4. Functions of OS
+
+### Operating Systems
+### Types of OS
+
+### Major Functions of OS
+### Functions of OS
