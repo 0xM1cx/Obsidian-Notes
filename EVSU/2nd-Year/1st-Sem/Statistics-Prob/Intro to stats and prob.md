@@ -20,7 +20,7 @@
 		- number of siblings 
 		- usual daily allowance
 		- 
-	- **Continuous Variables**, it can assume values between any two specific values like 0.5, 1.2, etc. and data can be measured
+		- **Continuous Variables**, it can assume values between any two specific values like 0.5, 1.2, etc. and data can be measured
 		- weight
 		- height
 		- body temperature

@@ -6,17 +6,21 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] Finish Stats Assignment
-- [ ] Platform Tech Assignment
-- [ ] DSA Assignment
+- [ ] Make Flashcards for CCNA
+- [ ] Read Introduction for CCNA
+- [ ] Make Flashcards for DSA
 
 
 ## Doing
 
+- [ ] DSA Assignment
+- [ ] Study Statistics
 
 
 ## Revisions
 
+- [ ] Platform Tech Assignment
+- [ ] Finish Stats Assignment
 
 
 ## Finished
