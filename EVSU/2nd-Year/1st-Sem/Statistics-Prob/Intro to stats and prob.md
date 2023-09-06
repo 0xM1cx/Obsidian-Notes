@@ -1,12 +1,27 @@
 ## Statistics
-- It is a collection of methods for planning experiments, **obtaining data**, and then **analyzing**, **interpreting** and *drawing conclusion* based on the data. 
+- It is a collection of methods for planning experiments, **obtaining data**, and then **analyzing**, **interpreting** and *drawing conclusion* based on the data.
+- It is a branch of science that deals with the collection, presentation, organization, analysis, and interpretation of data.
+- It is a grammar of science - Karl Pearson
+- Statistics(plural sense) - numerical facts
+- Statistics(singular sense) - scientific discipline consisting of theory and methods for processing numerical information that one can use when making decisions in the face of uncertainty. 
+
+
+### History of Statistics
+- **Ratio Status** - study of practical politics or stateman's art.
+- **Statistik** - the political science of several countries
+- **Statistics** - statements in figures and facts of the present condition of a state.
+
 
 ### Terms
-- **Data** are the values that the variables can assume.
-- **Variable** is a characteristic that is observable or measurable in every unit of universe.
-- **Population** is the set of all possible values of a variable.
+- **Data** are the values that the variables can assume. Collection of observations
+- **Variable** is a characteristic that is observable or measurable in every unit of universe. Is a characteristics or attribute of the elements in a collection that can assume different values for the different elements.
+- **Observation** - realized value of the variable
+- **Population** is the set of all possible values of a variable. Collection of all elements under consideration in a statistical inquiry
 - **Sample** is a subgroup of a population.
 
+### Parameter and Statistic
+- **Parameter** - summary of describing  a specific characteristic of the population. Usually denoted by Greek letters; μ (mu), σ (sigma), ρ (rho), λ (lambda), τ (tau), θ (theta), α (alpha), β (beta)
+- **Statistic** - a summary of describing a specific characteristic of the sample. Usually denoted by small letters of the alphabet. ![[Pasted image 20230906092635.png]]
 ### Classification of Variables
 - **Qualitative Variable**. These are words or codes that represent a class or category.
 	- express a categorical attribute

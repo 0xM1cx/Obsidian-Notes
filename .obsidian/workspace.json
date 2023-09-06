@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -92,6 +93,8 @@
   },
   "active": "46d39214f4602555",
   "lastOpenFiles": [
+    "Pictures/Pasted image 20230906092635.png",
+    "Pictures/Pasted image 20230906092533.png",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Measures of Central Tendency.md",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Stats-Main.md",
     "Writeups/ToDo.md",
@@ -117,7 +120,6 @@
     "Writeups/Freelance Stuff.md",
     "EVSU/2nd-Year/1st-Sem/1st-Sem-Main.md",
     "Writeups/How to write an Effective Blog.md",
-    "EVSU/1st-Year-2nd-Sem/Human Computer Interaction.md",
     "Pictures/Pasted image 20230727183736.png",
     "Pictures/Pasted image 20230727183734.png",
     "Pictures/Pasted image 20230727183036.png",
@@ -127,7 +129,6 @@
     "Pictures/Pasted image 20230726165934.png",
     "Pictures/Pasted image 20230726165607.png",
     "Pictures/Pasted image 20230726165602.png",
-    "Pictures/Pasted image 20230726164950.png",
     "To do.canvas",
     "Untitled.canvas",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001",
