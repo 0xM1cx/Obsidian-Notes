@@ -20,5 +20,12 @@ Step 8: Students Attend Class
 
 #### How to buy a cellular phone
 Step 1: Start
-Step 2
+Step 2: Go to nearest Electronic/Phone Store
+Step 3: Ask the seller what Phone Brand you want
+Step 4: Pick one Cellular Phone from the numerous flavors of the brand picked
+Step 5: Present the desired phone to the seller
+Step 6: Give payment to the seller
+Step 7: Seller processes the payment and packs phone
+Step 8: Get the phone and go home.
 ### Flowchart
+

@@ -15,6 +15,7 @@ kanban-plugin: basic
 
 - [ ] DSA Assignment
 - [ ] Study Statistics
+- [ ] Statistics Assignment 2
 
 
 ## Revisions
