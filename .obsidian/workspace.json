@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
+                "file": "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskOne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -93,8 +94,10 @@
   "active": "46d39214f4602555",
   "lastOpenFiles": [
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
-    "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskOne.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
+    "Programming/DSA/Arrays.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/Trees.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskOne.md",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Intro to stats and prob.md",
     "Pictures/Pasted image 20230906092635.png",
     "Pictures/Pasted image 20230906092533.png",
@@ -111,7 +114,6 @@
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/DFIR/WF1.md",
     "Cybersecurity/DFIR/MemoryForensics.md",
-    "Programming/DSA/Arrays.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis.md",
     "EVSU/2nd-Year/1st-Sem/DSA/Graph.md",
     "Cybersecurity/Tool-Set/CTF_Tools_Used.md",

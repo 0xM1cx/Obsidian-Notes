@@ -10,7 +10,13 @@
 ### Algorithm
 #### How to Enroll
 Step 1: Start
-Step 2: 
+Step 2: Pre-registration
+Step 3: Registration for Free Higher Education
+Step 4: Evaluation of Grades, Advising & Controlling of Subjects
+Step 5: Approval of COR
+Step 6: Student Registration
+Step 7: Assessment of Fees
+Step 8: Students Attend Class
 
 #### How to buy a cellular phone
 Step 1: Start

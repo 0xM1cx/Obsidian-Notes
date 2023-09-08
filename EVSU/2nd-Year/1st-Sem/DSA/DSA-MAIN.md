@@ -8,6 +8,7 @@
 - [[Stacks]]
 - [[Queues]]
 - [[Linked Lists]]
+- [[Trees]]
 
 ### Non-Linear Data Structures
 - [[Graph]]

@@ -9,7 +9,15 @@ Every algorithm must satisfy the following criteria:
 2. **Output**. An algorithm should produce at least one required output from the give set of input values. These output values are known as the solution to a problem. 
 3. **Definiteness**. Each step must be clear and unambiguous. 
 4. **Finiteness**. All instructions of an algorithm should terminate after a finite number of steps.
-5. **Effectiveness**. Each step must be feasible but must also be definite. Every algorithm is expected to be effective.
+5. **Effectiveness**. Each step must be feasible but must also be definite. Every algorithm is expected to be effective
+### Pseudocode 
+- is sometimes used as a detailed step in the process of developing program. 
+- Expressed in a natural language rather than a programming language.
+- Is the statement in plain English which may be translated later in a program. 
+### Flowchart 
+- A graphical representation that shows a solution model to give a problem.
+- A diagram that shows step-by-step development using connecting lines and a set of conventional symbols
+
 ## What are Data Structures?
 **Data structure** is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 
