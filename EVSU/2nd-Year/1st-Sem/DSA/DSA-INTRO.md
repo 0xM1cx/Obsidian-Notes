@@ -1,4 +1,15 @@
+```toc
+```
+## What is Algorithm?
+- This a step-by-step procedure to solve a problem in a finite number of steps. **Pseudocode** and **flowchart** are common ways to represent an algorithm. 
 
+### Criteria for Algorithm
+Every algorithm must satisfy the following criteria:
+1. **Input**.  Is data items presented to the algorithm. An algorithm should have zero or more input but should be a predetermined number of inputs
+2. **Output**. An algorithm should produce at least one required output from the give set of input values. These output values are known as the solution to a problem. 
+3. **Definiteness**. Each step must be clear and unambiguous. 
+4. **Finiteness**. All instructions of an algorithm should terminate after a finite number of steps.
+5. **Effectiveness**. Each step must be feasible but must also be definite. Every algorithm is expected to be effective.
 ## What are Data Structures?
 **Data structure** is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 
