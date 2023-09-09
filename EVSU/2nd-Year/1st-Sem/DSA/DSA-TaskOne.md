@@ -5,8 +5,12 @@
 2. Explain in detail about top-down approach and bottom-up approach with suitable programming examples
 	- 
 3. Explain the term "data structure"
-4. What are the uses of an array? What is an ordered array?
-5. What do you mean by stepwise refinement?
+	- Data Structure are methods in arranging data in a way that  makes it efficient when accessed or updated. This prevents unnecessary bottle necks that could've been solved by proper storing of data. They serve as the building blocks for designing and implementing algorithms and software systems. They provide a structured and efficient means to store and manage data, making it easier to perform various computational tasks. Common Data Structures used are arrays, queues, linked lists, stacks, trees and hash tables.
+	- Overall, data structures are a fundamental concept in computer science and programming, essential for designing efficient algorithms and building software systems that can manage, process, and manipulate data effectively.
+
+1. What are the uses of an array? What is an ordered array?
+	- 
+2. What do you mean by stepwise refinement?
 ### Algorithm
 #### How to Enroll
 Step 1: Start
