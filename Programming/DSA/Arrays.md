@@ -1,6 +1,6 @@
 ## Overview
-Arrays are a type of linear data structure. In an array, elements in memory are arranged in continuous memory. All the elements of an array are of the same type. And, the type of elements that can be stored in the form of arrays is determined by the programming language.
-
+Arrays are a type of linear data structure. In an array, elements in memory are arranged in continuous memory. All the elements of an array are of the same type. This is a collection of similar data elements. These data elements have the same data type. The elements of the array are stored in consecutive memory locations and are referenced by an *index(also known as the subscripts)*
+	
 - The number written inside the square brackets are called **subscripts**
 
 ![[array_.png]]

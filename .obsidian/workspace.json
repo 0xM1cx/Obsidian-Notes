@@ -38,8 +38,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7df4041be6c6433d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskOne.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,12 +124,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "46d39214f4602555",
+  "active": "7df4041be6c6433d",
   "lastOpenFiles": [
-    "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
     "Programming/DSA/Arrays.md",
-    "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskOne.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
     "Writeups/ToDo.md",
     "EVSU/2nd-Year/1st-Sem/DSA/Trees.md",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Intro to stats and prob.md",
