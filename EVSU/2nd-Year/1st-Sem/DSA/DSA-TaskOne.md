@@ -3,8 +3,10 @@
 	- How to enroll
 	- How to buy a cellular phone
 2. Explain in detail about top-down approach and bottom-up approach with suitable programming examples
-	- In a top-down approach it start with a high-level view of the problem then gradually divides the problem/system into smaller parts(modules or functions in programming)
-	- In a bottom-up approach programmers make 
+	- Top-down approaches begin with a high-level view of the problem and gradually divide it into smaller parts (modules or functions in programming). Making a simple temperature conversion program, for example, begins with a high-level view of the problem and then divides it into smaller subtasks such as features, UI, and how the program calculates the conversion. 
+	
+	- Bottom-up programming involves the creation of small components that will eventually be linked together to form a larger system. In creating an ROT13 program, for example, engineers would create components, modules, or functions of the program such as converting plaintext to shifted value text and another component for decoding cipher text, and so on. Following the completion of all of these components, they will be linked together to form a single program.
+
 1. Explain the term "data structure"
 	- Data structures are methods for organizing data so that it can be accessed and updated efficiently. This avoids unnecessary bottlenecks that could have been avoided with proper data storage. They are the building blocks used in the design and implementation of algorithms and software systems. They provide a structured and efficient means of storing and managing data, making various computational tasks easier to perform. Arrays, queues, linked lists, stacks, trees, and hash tables are common data structures.
 	- Overall, data structures are a fundamental concept in computer science and programming, and they are required for designing efficient algorithms and developing software systems that can effectively manage, process, and manipulate data.
