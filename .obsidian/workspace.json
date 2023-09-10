@@ -11,49 +11,13 @@
             "id": "46d39214f4602555",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/DSA/Arrays.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Writeups/ToDo.md"
               }
             }
           }
         ]
-      },
-      {
-        "id": "bf68abcec2ab7c1b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5247fb2ee58543bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7df4041be6c6433d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskOne.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,8 +90,8 @@
   },
   "active": "46d39214f4602555",
   "lastOpenFiles": [
-    "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskOne.md",
     "Programming/DSA/Arrays.md",
+    "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskOne.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
     "Writeups/ToDo.md",

@@ -13,7 +13,6 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] DSA Assignment
 - [ ] Study Statistics
 - [ ] Statistics Assignment 2
 
@@ -21,11 +20,12 @@ kanban-plugin: basic
 ## Revisions
 
 - [ ] Platform Tech Assignment
-- [ ] Finish Stats Assignment
 
 
 ## Finished
 
+- [ ] DSA Assignment
+- [ ] Finish Stats Assignment
 - [ ] Learn and Sell notes online
 - [ ] Study 5 vids of CCNA
 - [ ] Learn the levels of measurement in stats
