@@ -11,6 +11,7 @@
 	- Data structures are methods for organizing data so that it can be accessed and updated efficiently. This avoids unnecessary bottlenecks that could have been avoided with proper data storage. They are the building blocks used in the design and implementation of algorithms and software systems. They provide a structured and efficient means of storing and managing data, making various computational tasks easier to perform. Arrays, queues, linked lists, stacks, trees, and hash tables are common data structures.
 	- Overall, data structures are a fundamental concept in computer science and programming, and they are required for designing efficient algorithms and developing software systems that can effectively manage, process, and manipulate data.
 
+
 4. What are the uses of an array? What is an ordered array?
 	- An array is a linear data structure in which elements are sequentially stored in memory. Its purpose is to store data. Arrays are used to store data with the same data type in programming languages such as C/C++, C#, and others. Python, on the other hand, can store multiple data types in a single array. Nonetheless, the concept works in memory the same way. This is done so that instead of creating multiple variables to store data, programmers can represent a list of data with a single variable.
 	   
