@@ -14,17 +14,22 @@ kanban-plugin: basic
 ## Doing
 
 - [ ] Study Statistics
-- [ ] Statistics Assignment 2
+- [ ] DSA Paper Assignment
+- [ ] DSA Code Assignment
+- [ ] Study Arrays
+- [ ] Study PHP
+- [ ] Study CCNA Module 1
 
 
 ## Revisions
 
-- [ ] Platform Tech Assignment
 
 
 ## Finished
 
+- [ ] Platform Tech Assignment
 - [ ] DSA Assignment
+- [ ] Statistics Assignment 2
 - [ ] Finish Stats Assignment
 - [ ] Learn and Sell notes online
 - [ ] Study 5 vids of CCNA

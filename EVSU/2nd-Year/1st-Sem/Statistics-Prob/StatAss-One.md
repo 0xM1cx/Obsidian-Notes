@@ -1,0 +1,6 @@
+1. Last year, 80% of the employees of a company were absent for at least 10 working days
+	- We would use descriptive statistics in this scenario because we are only interested in reporting the 80% absence rate among employees for descriptive purposes. This is because in this case our primary goal is to summarize and present the data that was already given. Finally, we are not drawing any conclusions about a larger population; we are simply describing the data you have.
+1. A pollster would like to predict the mayoralty winner of a certain municipality. However, he has budget for a quick survey for only 25 out of 100 barangays of that municipality
+	- In this case, Inferential statistics would be more appropriate because the pollster wants to predict the mayoralty winner for the entire municipality based on a sample of 25 out of 100 barangays. Inferential statistics' primary goal is to draw conclusions or make predictions about a larger population based on a sample of data. 
+2. Do girls learn to speak at an earlier age that boys?
+	- Because the query requires an answer or a conclusion, inferential statistics would be more appropriate in this case. Inferential statistics' primary goal is to draw broader conclusions.

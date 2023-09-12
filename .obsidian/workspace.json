@@ -67,13 +67,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "right": {
     "id": "09b27e4e3242d603",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "42ba68791558790a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "528b988944ce31a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -90,21 +106,22 @@
   },
   "active": "46d39214f4602555",
   "lastOpenFiles": [
+    "EVSU/2nd-Year/1st-Sem/Statistics-Prob/StatAss-One.md",
+    "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Stats-Main.md",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech/1-Assignment.md",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Basics of OS.md",
+    "EVSU/2nd-Year/1st-Sem/Platform-Tech/History of OS.md",
+    "Writeups/ToDo.md",
     "Programming/DSA/Arrays.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskOne.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-INTRO.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
-    "Writeups/ToDo.md",
     "EVSU/2nd-Year/1st-Sem/DSA/Trees.md",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Intro to stats and prob.md",
     "Pictures/Pasted image 20230906092635.png",
     "Pictures/Pasted image 20230906092533.png",
     "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Measures of Central Tendency.md",
-    "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Stats-Main.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/1-Assignment.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Platform-Tech Main.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/History of OS.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Basics of OS.md",
     "General-I.T/Operating-Systems/Intro-to-OS.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Binary Operation & Logic.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Computer and OS Architecture.md",
@@ -117,7 +134,6 @@
     "Cybersecurity/Tool-Set/OSINT-TOOLS.md",
     "Writeups/Freelance Stuff.md",
     "EVSU/2nd-Year/1st-Sem/1st-Sem-Main.md",
-    "Writeups/How to write an Effective Blog.md",
     "Pictures/Pasted image 20230727183736.png",
     "Pictures/Pasted image 20230727183734.png",
     "Pictures/Pasted image 20230727183036.png",
