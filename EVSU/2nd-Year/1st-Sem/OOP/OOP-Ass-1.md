@@ -1,0 +1,1 @@
+Research 10 real World Applications example and describe and explain the uses of each
