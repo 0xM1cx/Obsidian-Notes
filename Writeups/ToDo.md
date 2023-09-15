@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] DSA Paper Assignment
 - [ ] DSA Code Assignment
 - [ ] Study Arrays
+- [ ] 
 - [ ] Study PHP
 - [ ] Study CCNA Module 1
 
