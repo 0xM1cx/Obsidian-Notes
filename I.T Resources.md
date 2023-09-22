@@ -1,4 +1,4 @@
-A complete list of all the resources gathered over the years.
+	A complete list of all the resources gathered over the years.
 ```toc
 ```
 ## Cybersecurity Learning Resources
