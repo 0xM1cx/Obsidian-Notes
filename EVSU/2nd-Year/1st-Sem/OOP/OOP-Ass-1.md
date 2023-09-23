@@ -12,10 +12,10 @@ Research 10 real World Applications example and describe and explain the uses of
    
 6. OOP in Simulations. They are used in algorithms for modeling real-world data. These include weather data like in Accuweather, internal human biological modeling such as in medical research; they use it in their algorithims to simulate how, for example, blood flow in the body.
    
-7. OOP in AI. They are used in Artificial Intelligence systems in areas such as training data, learning, etc. An example of a use case would be Deep Mind, in their AI "Alpha Fold". They used Object Oriented Programming in their algorithms that predict how proteins fold.
+7. OOP in AI. They are used in Artificial Intelligence systems for things like training data, learning, and so on. Deep Mind's AI "Alpha Fold" is one example of a use case. In their algorithms that predict how proteins fold, they used Object Oriented Programming.
     
-8. OOP in GUI Applications. All Graphical User Interface applications have different featured to then, for example, the Packet Tracer by Cisco has a login window once you first installed the application in this GUI, different areas such as the packet tracer info, user profile, etc. can be represented by objects. 
+8. OOP in GUI Applications. For example, the Packet Tracer by Cisco has a login window once you first install the application in this GUI, different areas such as the packet tracer info, user profile, and so on can be represented by objects. 
    
-9. OOP in Social Media Platforms. OOP can be used to represent, for example, social media post; post contain features like delete, picture, content, public interactions and comments. A great example would be Facebook posts, where developers use classes as blueprint for the post and allows varied content when the class is instantiated. 
+9. OOP in Social Media Platforms. OOP can be used to represent a social media post, for example, with features such as delete, picture, content, public interactions, and comments. A good example is Facebook posts, where developers use classes as the blueprint for the post and allow for variable content when the class is instantiated. 
    
-10. OOP in the Military. In the modern world, countries require modern armies. OOP is used in different ways, such as in algorithms for drones, planes, or even in house personnel management. In the Philippine military they have software used for intelligence gathering and these software uses OOP to represent the intel they get on the field.
+10. OOP in the Military. Countries in the modern world require modern armies. OOP is used in a variety of contexts, including algorithms for drones, planes, and even internal personnel management. In the Philippine military, intelligence gathering software is used, and this software uses OOP to represent the information gathered on the battlefield.
