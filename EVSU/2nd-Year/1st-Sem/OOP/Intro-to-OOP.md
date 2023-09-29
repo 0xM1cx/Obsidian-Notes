@@ -25,3 +25,10 @@ PHP is a versatile server-side scripting language known for its ability to suppo
 ## Classes and Objects
 **Classes**. A class in PHP can be thought of as a blueprint or a template for creating objects. It defines the structure and behavior that objects based on the class will have.
 **Objects**. are instances of classes. If a class is a blueprint, an object is an actual instantiation or realization of that blueprint. You can create multiple objects from the same class, each with its own unique state and behavior. 
+
+
+
+### Class Structure
+**Properties(Attributes)**. These are variables that belong to a class and represent its attributes define the state of an object. In PHP, properties are declared using visibility modifiers like public, private, or protected.
+
+**Methods(Functions)**. Are functions defined within a class that describes the behavior or actions objects of that class perform. 
