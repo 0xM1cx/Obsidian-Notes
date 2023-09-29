@@ -1,4 +1,4 @@
-Research 10 real World Applications example and describe and explain the uses of each.
+	 Research 10 real World Applications example and describe and explain the uses of each.
 
 1. OOP in Video Games. In video games, Object-Oriented Programming (OOP) plays a role in creating game characters. It helps in representing characters, including their health, skills, and the number of coins they have. 
    

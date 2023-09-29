@@ -20,3 +20,8 @@ To implement OOP in PHP effectively. You need to understand the following key co
 
 ## PHP as an OOP Language
 PHP is a versatile server-side scripting language known for its ability to support multiple programming paradigms including procedural and object-oriented programming. Over the years, PHP has evolved to become a robust OOP language by incorporating key features and syntax that align with OOP principles. 
+
+
+## Classes and Objects
+**Classes**. A class in PHP can be thought of as a blueprint or a template for creating objects. It defines the structure and behavior that objects based on the class will have.
+**Objects**. are instances of classes. If a class is a blueprint, an object is an actual instantiation or realization of that blueprint. You can create multiple objects from the same class, each with its own unique state and behavior. 
