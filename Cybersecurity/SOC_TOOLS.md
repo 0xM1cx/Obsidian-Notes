@@ -26,6 +26,9 @@
 - **dogbolt**[decompiler]. Is an interactive online decompiler which shows equivalent c-like output of decompiled programs fro many popular decompilers.
 - **godbolt**[compiler]. is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go(and many more) code.
 
+#### 
+- [SqureX](https://sqrx.com/) These include a  web app that allows to view suspicious files safely, view links safely with their secure browser, and also email protection. No download, just use the web app. 
+
 ### CTF Writeups | For reference
 - [Banking Troubles](https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/)
 

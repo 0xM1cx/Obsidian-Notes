@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General-I.T/Anonymous Confession Web App(EVSU).md",
+                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Web/HTTP_In_Detail.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -107,12 +108,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bc714f333f873df0",
+  "active": "46d39214f4602555",
   "lastOpenFiles": [
-    "EVSU/INTEL Stuff.md",
-    "General-I.T/Anonymous Confession Web App(EVSU).md",
-    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssTwo.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Web/HTTP_In_Detail.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Web/Brupsuite.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Blue",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Network",
+    "Pictures/34ad66d8b90aaaa35f9536d3b152ea97.png",
+    "Cybersecurity/Learning Curriculum.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Web",
+    "Cybersecurity/SOC_TOOLS.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/OSINT-TOOLS.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssThree.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal Main.md",
+    "General-I.T/Anonymous Confession Web App(EVSU).md",
+    "EVSU/INTEL Stuff.md",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssTwo.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssOne.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/2-Assignment.md",
     "EVSU/2nd-Year/1st-Sem/OOP/Intro-to-OOP.md",
@@ -123,18 +136,10 @@
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskTwo.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-MAIN.md",
     "EVSU/2nd-Year/1st-Sem/DSA/DSA-TaskOne.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/OSINT-TOOLS.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
-    "Cybersecurity/SOC_TOOLS.md",
     "I.T Resources.md",
     "Writeups/Freelance Stuff.md",
     "Writeups/How to write an Effective Blog.md",
     "Writeups/ToDo.md",
-    "EVSU/2nd-Year/1st-Sem/Statistics-Prob/StatAss-One.md",
-    "EVSU/2nd-Year/1st-Sem/Statistics-Prob/Stats-Main.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Basics of OS.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/History of OS.md",
-    "Programming/DSA/Arrays.md",
     "Pictures/Pasted image 20230906092635.png",
     "Pictures/Pasted image 20230906092533.png",
     "Pictures/Pasted image 20230727183736.png",
@@ -144,7 +149,6 @@
     "Pictures/Pasted image 20230726170204.png",
     "Pictures/Pasted image 20230726170137.png",
     "Pictures/Pasted image 20230726165934.png",
-    "Pictures/Pasted image 20230726165607.png",
     "To do.canvas",
     "Untitled.canvas",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001",
@@ -153,9 +157,6 @@
     "Finance",
     "EVSU/2nd-Year/1st-Sem/DSA",
     "EVSU/2nd-Year/1st-Sem/Intro-Net",
-    "EVSU/2nd-Year/1st-Sem/Web-Sys",
-    "EVSU/2nd-Year/1st-Sem/OOP",
-    "EVSU/2nd-Year/1st-Sem/Statistics-Prob",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech"
+    "EVSU/2nd-Year/1st-Sem/Web-Sys"
   ]
 }
