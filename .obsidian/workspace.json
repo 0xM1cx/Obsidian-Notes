@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Web/HTTP_In_Detail.md",
+                "file": "Cybersecurity/Learning Curriculum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -110,15 +109,16 @@
   },
   "active": "46d39214f4602555",
   "lastOpenFiles": [
+    "Cybersecurity/SOC_TOOLS.md",
+    "Cybersecurity/Learning Curriculum.md",
+    "Cybersecurity/Cybersecurity_Model&Frameworks.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Web/HTTP_In_Detail.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Web/Brupsuite.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Network",
     "Pictures/34ad66d8b90aaaa35f9536d3b152ea97.png",
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/Web",
-    "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/OSINT-TOOLS.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssThree.md",
@@ -139,7 +139,6 @@
     "I.T Resources.md",
     "Writeups/Freelance Stuff.md",
     "Writeups/How to write an Effective Blog.md",
-    "Writeups/ToDo.md",
     "Pictures/Pasted image 20230906092635.png",
     "Pictures/Pasted image 20230906092533.png",
     "Pictures/Pasted image 20230727183736.png",
