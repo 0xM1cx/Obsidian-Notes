@@ -16,6 +16,13 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 - [DFIR Essentials](DFIR_Essentials.md) By Sans DFIR Essentials 101
 - [Dynamic Malware Analysis](Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/DynamicAnalysis)
 
+### Cyber Kill Chains
+- [Lockheed Martin Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+- [Unified Kill Chain](https://unifiedkillchain.com/)
+- [Varonis Cyber Kill Chain](https://www.varonis.com/blog/cyber-kill-chain/)
+- [Active Directory Attack Cycle](https://github.com/infosecn1nja/AD-Attack-Defense)
+- [MITRE ATT&CK Framework](https://attack.mitre.org/)
+
 ## Offensive Security
 ##### Tools
 + [NMAP](NMAP.md)
@@ -24,3 +31,4 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 
 ## Tryhackme Notes
 - [PrintNightmare_Vulnerability](Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability)
+- [[HTTP_In_Detail]]
