@@ -6,8 +6,8 @@
 - [ ] January - Reverse Engineering, Binary Exploitation
 - [ ] February - Cryptography, Network Security
 - [ ] March - Pwn(Own), Attacking Machines
-- [ ] April - Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
-- [ ] May - 
+- [ ] April - Security Analyst, Security+
+- [ ] May - Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
 - [ ] June - 
 ## Foundational Topics
 - [x] What are Capture the Flags?
@@ -20,9 +20,9 @@
 - [ ] How TCP Handshake works
 - [ ] How Domain Name System works
 - [x] How HTTP works
-- [ ] How cookies work
+- [x] How cookies work
 - [ ] How does Symmetric and Asymmetric Cryptography work
-- [ ] How does Hashing and Hashin+Salt work
+- [x] How does Hashing and Hashin+Salt work
 - [ ] How DHCP works
 - [ ] Bash Scripting
 - [ ] Powershell Scripting
@@ -39,6 +39,7 @@
 
 ## Web Application Security
 - [x] Introduction to Web Security
+- [ ] How does a web session work
 - [ ] Cross-Site (XSS) Lecture
 - [ ] How to and Do some Cross-Site Scripting (XSS) Challenges
 - [ ] SQL Injection Lecture
@@ -46,6 +47,9 @@
 - [ ] How does Command Injection Work and Do some challenges
 - [ ] How does Cross-Side Request Forgery(CSRF) work and do some challenges
 - [ ] How does Session Hijacking Work
+- [ ] JSON Web Tokens
+- [ ] Fuzzing(DirBuster, Gobuster)
+- [ ] Cookie Based Authentication
 - [ ] File Inclusion Vulnerabilities
 - [ ] Server-Side Request Forgery(SSRF) how it works
 - [ ] What is Cross-Origin Resource Sharing and how does it work
@@ -67,6 +71,11 @@
 ## Network Security
 - [ ] Learn about Secure Network Architecture
 - [ ] Learn In-dept about the structure of the Packet
+- [ ] GPS Spoofing
+
+
+#### Do these challenges
+- https://www.vulnhub.com/
 
 ## Cryptography
 - [ ] Common Encryption Algorithms 
@@ -98,6 +107,11 @@
 
 ### Learning Resources
 - [Basics of GDB](https://github.com/hoppersroppers/nightmare/blob/master/modules/02-intro_tooling/gdb-gef/readme.md)
+
+
+## Security Analyst, Security+
+
+
 
 ## Incident Response
 

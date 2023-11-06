@@ -30,5 +30,5 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 + [BurpSuite](Brupsuite.md)
 
 ## Tryhackme Notes
-- [PrintNightmare_Vulnerability](Cybersecurity/CyberTrainingPlatforms_Notes/Tryhackme_Notes/PrintNightmare_Vulnerability)
+- [PrintNightmare_Vulnerability](PrintNightmare_Vulnerability.md)
 - [[HTTP_In_Detail]]
