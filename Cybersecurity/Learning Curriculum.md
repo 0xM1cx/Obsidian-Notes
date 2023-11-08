@@ -3,8 +3,8 @@
 
 - [ ] November - Web Application Security
 - [ ] December - Digital Forensics, Steganography, OSINT
-- [ ] January - Reverse Engineering, Binary Exploitation
-- [ ] February - Cryptography, Network Security
+- [ ] January -  Cryptography, Network Security
+- [ ] February - Reverse Engineering, Binary Exploitation
 - [ ] March - Pwn(Own), Attacking Machines
 - [ ] April - Security Analyst, Security+
 - [ ] May - Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
@@ -26,6 +26,7 @@
 - [ ] How DHCP works
 - [ ] Bash Scripting
 - [ ] Powershell Scripting
+- [ ] PHP Programming
 
 
 ## Basic Skills to learn
@@ -67,6 +68,8 @@
 - [ ] Log Analysis
 - [ ] Disk Forensics
 - [ ] How to use Foremost
+
+
 
 ## Network Security
 - [ ] Learn about Secure Network Architecture

@@ -27,4 +27,14 @@
 - StegCracker - a tool that bruteforces passwords using steghide
 - Fcrackzip - sometimes the extracted data is  a password protected zip, this tool bruteforces zip archives.  
 			`fcrackzip -u -D -p wordlist.txt file.zip`: bruteforces the given zip file with the passwords from the given wordlist.
-		
+
+
+## Web Exploitation
+
+## Digital Forensics
+- [DFIR Tools That Are Commonly Used](https://github.com/mikeroyal/Digital-Forensics-Guide#digital-forensics-tools-libraries-and-frameworks)
+- 
+## Cryptography
+- [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
+
+## Pwning

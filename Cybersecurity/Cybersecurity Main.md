@@ -1,7 +1,7 @@
 Exam Objectives
 https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-security-sy0-601-exam-objectives-(2-0).pdf
 
-+ [[CTF Writups Main]]
+
 ## Comptia Security+
 [[Comptia Security+]]
 
@@ -29,6 +29,18 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 + [SOC Tool List](Cybersecurity/SOC_TOOLS)
 + [BurpSuite](Brupsuite.md)
 
-## Tryhackme Notes
+## Notes
 - [PrintNightmare_Vulnerability](PrintNightmare_Vulnerability.md)
 - [[HTTP_In_Detail]]
+- [[Authentication Vulnerabilities]]
+- [[Server-side request forgery]]
+
+
+## CTF Stuff
+- [[CTF_Tools_Used]]
+- [[CTF Writups Main]]
+- [PentestPlaybook](https://github.com/stnv/pentest-playbook)
+
+
+## Misc
+- [[Capstone Research and Projects]]
