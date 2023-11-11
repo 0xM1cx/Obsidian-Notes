@@ -33,5 +33,5 @@ The various reasons include:
 2. For disaster recovery purposes, the application might allow administrative access without logging in, to any user coming from the local machine. This provides a way for an administrator to recover the system if they lose their credentials. This assumes that only a fully trusted user would come directly from the server.
 3. The administrative interface might listen on a different port number to the main application, and might not be reachable directly by users.
 
-
-
+## SSRF Attack against other back-end systems
+In some cases, the application server is able to interact with back-end systems that are not directly reachable by users. These systems often have non-routable private IP addresses. The back-end system are normally protected by the network topology, so they often have a weaker security posture. In many cases, internal back-end systems contain sensitive functionality that can be accessed without authentication by anyone who is able interact with the system.
