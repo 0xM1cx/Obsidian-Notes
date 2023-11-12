@@ -35,3 +35,12 @@ The various reasons include:
 
 ## SSRF Attack against other back-end systems
 In some cases, the application server is able to interact with back-end systems that are not directly reachable by users. These systems often have non-routable private IP addresses. The back-end system are normally protected by the network topology, so they often have a weaker security posture. In many cases, internal back-end systems contain sensitive functionality that can be accessed without authentication by anyone who is able interact with the system.
+
+An example of an attack is when an attack can forge a request that is target to another server in the network. 
+```http
+`POST /product/stock HTTP/1.0 
+Content-Type: application/x-www-form-urlencoded 
+Content-Length: 118 
+
+stockApi=http://192.168.0.68/admin`
+```
