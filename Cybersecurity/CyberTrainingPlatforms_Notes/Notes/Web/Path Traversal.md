@@ -13,6 +13,13 @@ The `loadImage` URL takes a filename parameter and returns the contents of the s
 `/var/www/images/cat.jpg`
 
 This application implements no defenses against path traversal attacks. As a result, an attacker can request the following URL to retrieve the `/etc/passwd` file from the server's filesystem:
-```url
+```HTTP
 https://insecure-website.com/loadImage?filename=../../../etc/passwd
 ```
+
+## Common obstacles to exploiting path traversal vulnerabilities
+Many application that place user input into file paths implement defenses against path traversal attacks. These can often be bypassed.
+
+If an application strips or blocks directory traversal sequences from the user-supplied filename, it might be possible to bypass the defense using a variety of techniques. 
+
+You might be able to use an absolute path from the filesystem root, such as `filename=/etc/passwd`, to directly reference a file without any traversal sequences. 
