@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/File Upload Vulnerabilities.md",
+                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/OS Command Injection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,10 +110,11 @@
   },
   "active": "46d39214f4602555",
   "lastOpenFiles": [
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/File Upload Vulnerabilities.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/OS Command Injection.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Path Traversal.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFour.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/File Upload Vulnerabilities.md",
     "Pictures/Pasted image 20231113155922.png",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Server-side request forgery.md",
     "Cybersecurity/Cybersecurity Main.md",
@@ -140,7 +141,6 @@
     "EVSU/2nd-Year/1st-Sem/OOP/Intro-to-OOP.md",
     "EVSU/2nd-Year/1st-Sem/OOP/OOP-Main.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Platform-Tech Main.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/1-Assignment.md",
     "Pictures/Pasted image 20230906092635.png",
     "Pictures/Pasted image 20230906092533.png",
     "Pictures/Pasted image 20230727183736.png",

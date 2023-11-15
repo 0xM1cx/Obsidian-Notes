@@ -1,3 +1,5 @@
+```toc
+```
 ## What are file upload vulnerabilities?
 File upload vulnerabilities are when a web server allows users to upload file to its filesystem without sufficiently validating things like their name, type, contents, or size. 
 
@@ -35,4 +37,28 @@ GET /example/exploit.php?command=id HTTP/1.1
 ```
 
 ## Exploiting flawed validation of file uploads
-When submitting HTML forms, the browser typically sends the provided data in the `POST` request with the content type `application/x-www-form-url-encoded`. This is fine for sending simple text like you name or address. However, it isn't suitable for sending large amounts of binary data, such as an entire image file or a PDF document. In this case, the content type `multipart/form-data` is preferred. 
+When submitting HTML forms, the browser typically sends the provided data in the `POST` request with the content type `application/x-www-form-url-encoded`. This is fine for sending simple text like your name or address. However, it isn't suitable for sending large amounts of binary data, such as an entire image file or a PDF document. In this case, the content type `multipart/form-data` is preferred. 
+
+Consider a form containing fields for uploading an image, providing a description of it, and entering your username. Submitting such a form might result in a request that looks something like this:
+```http
+POST /images HTTP/1.1 
+Host: normal-website.com 
+Content-Length: 12345 
+Content-Type: multipart/form-data; 
+boundary=---------------------------012345678901234567890123456 
+---------------------------012345678901234567890123456 
+Content-Disposition: form-data; name="image"; filename="example.jpg" 
+Content-Type: image/jpeg 
+[...binary content of example.jpg...] 
+---------------------------012345678901234567890123456 
+Content-Disposition: form-data; name="description" 
+This is an interesting description of my image. 
+---------------------------012345678901234567890123456 
+Content-Disposition: form-data; name="username" 
+wiener 
+---------------------------012345678901234567890123456--
+```
+The message body is split into separate parts for each oof the form's inputs. Each part contains a `Content-Disposition` header, which provides some basic information about the input field it relates to. These individual parts may also contain their own `Content-Type` header, which tells the server the MIME type of the data that was submitted using this input. 
+
+One way that website may attempt to validate file uploads is to check that this input-specific `Content-Type` header matches an expected MIME type. If the server is only expecting image files, for example, it may only allow types like `image/jpeg` and `image/png`. Problems can arise when the value of this header is implicitly trusted by the server. If no validation is performed to check whether the content of the file actually match the supposed MIME type, this defense can be easily bypassed using tools like Burp Repeater. 
+
