@@ -34,3 +34,5 @@ This script enables you to pass an arbitrary system command via a query paramete
 GET /example/exploit.php?command=id HTTP/1.1
 ```
 
+## Exploiting flawed validation of file uploads
+When submitting HTML forms, the browser typically sends the provided data in the `POST` request with the content type `application/x-www-form-url-encoded`. This is fine for sending simple text like you name or address. However, it isn't suitable for sending large amounts of binary data, such as an entire image file or a PDF document. In this case, the content type `multipart/form-data` is preferred. 

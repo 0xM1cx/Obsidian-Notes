@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Path Traversal.md",
+                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/File Upload Vulnerabilities.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,9 +110,9 @@
   },
   "active": "46d39214f4602555",
   "lastOpenFiles": [
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
-    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFour.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Path Traversal.md",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFour.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/File Upload Vulnerabilities.md",
     "Pictures/Pasted image 20231113155922.png",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Server-side request forgery.md",

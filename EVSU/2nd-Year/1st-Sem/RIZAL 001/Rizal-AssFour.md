@@ -17,4 +17,20 @@ My Caricature depicts Fr. Horacio De la Costa.
 ### Sociocultural
 - 
 
-
+## Lesson 3
+1. Was Rizal a Filipino? Explain your answer
+   - Yes, Jose Rizal was a Filipino, for the reason that he was born in the Philippines, specifically in Calamba Laguna. 
+2. How did the Rizal family get its surname?
+   - In 1849, the Narciso Claveria, the Governor-General, ordered all Filipinos to use Spanish family names to facilitate tax-census registry. So their family changed used "Mercado" as their surname. Then Jose Rizal used "Rizal" as his surname, which was the first in their family, to avoid any association with the executed Fr. Burgos who happened to have a connection with his older borther, Paciano Mercado 
+3. Give one important factor that could have contributed to Rizal's intellectual development.
+   - A better environment for learning, where he wouldn't be discriminated, teachers were more eager to teach no matter the status of the student and a more modern teaching methodologies. These kinds of environment could have propelled Jose Rizals Intellect to greater heights, he could have had people, other students, to help him in his struggles, instead of having to fight a lot of people, he could've collaborated with others to solve societal problems. 
+4. How did Rizal rise to prominence in the point of view of Leon Ma. Guerrero?
+5. How did Rizal rise to prominence in the point of view of Ante Radaic?
+6. What were the early manifestations of Rizal's outstanding intelligence, talent and skills.
+   - His mother was his first teacher, and she discovered his skills in poetry. He excelled in Spanish, Latin and other subjects in his youth. He graduated in Ateneo with the highest grades. His talents in Literature, and other Humanities and Social Science subjects during his youth were early manifestations of his intelligence.
+7. In what way the El Filibusterismo linked Rizal's childhood romantic experience?
+   - It had a connection in a way that he wasn't able be with the one he loved due to circumstances that was out of his reach. 
+8. Did Rizal write the poem, "Sa Aking mga Kabata"? Defend your answer
+   - No, unfortunately, contrary to popular belief; Our hero did not write the poem "Sa Aking mga Kabata" based on the evidences, which I believe to be truthful, presented by Virigilio Almario like the words "malaya" or "kalayaan" was discovered by Rizal in 1882, Rizal had a bit of trouble translating word to tagalog, and the letter did not use letter K which our hero expressed his advocacy for a new spelling in Tagalog. 
+9. Do you agree with Rizal's decision to leave for Europe? Why?
+   - Yes, As I mentioned on the question number 3, the learning environment in Europe was better that in UST. He believed that in Europe he could learn more than in UST. And I also agree with his decision. 
