@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/OS Command Injection.md",
+                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,15 +110,17 @@
   },
   "active": "46d39214f4602555",
   "lastOpenFiles": [
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/File Upload Vulnerabilities.md",
+    "Cybersecurity/Learning Curriculum.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/OS Command Injection.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Path Traversal.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Standard Files on Websites.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/File Upload Vulnerabilities.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFour.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
     "Pictures/Pasted image 20231113155922.png",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Server-side request forgery.md",
     "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Brupsuite.md",
@@ -139,8 +141,6 @@
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssOne.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/2-Assignment.md",
     "EVSU/2nd-Year/1st-Sem/OOP/Intro-to-OOP.md",
-    "EVSU/2nd-Year/1st-Sem/OOP/OOP-Main.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/Platform-Tech Main.md",
     "Pictures/Pasted image 20230906092635.png",
     "Pictures/Pasted image 20230906092533.png",
     "Pictures/Pasted image 20230727183736.png",
