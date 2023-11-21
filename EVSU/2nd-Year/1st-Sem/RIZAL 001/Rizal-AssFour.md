@@ -11,12 +11,23 @@ My Caricature depicts Fr. Horacio De la Costa.
 
 ## Synthesis 2
 ### Economic
-- 
+- The Global Trade in Manila, improvements in the areas of agriculture all played a role in bringing the emergence of the Mestizos upper class, which our hero is a descended of. This shaped his idea that the Philippines has the capacity to support itself. With prosperity also comes corruption. This made our hero realize the corrupt nature of the Spanish local authority and the desire for all Filipinos to be free. 
 ### Political
-- During the 19th century the Cadiz Constitution was created. It was a landmark event that some of the Philippine delegates who came from the Philippines participated. This constitution embraced the principles of freethinking and equality of all citizens. Liberalism in Europe, the intense struggle between the liberals and conservatives inspired the natives and creoles to claim equality with the Spaniards. 
+- During the 19th century the Cadiz Constitution was created. It was a landmark event that some of the Philippine delegates who came from the Philippines participated. This constitution embraced the principles of freethinking and equality of all citizens. Liberalism in Europe, the intense struggle between the liberals and conservatives inspired the natives and creoles to claim equality with the Spaniards. The opening of the Suez Canal, the corrupt practices of the Spanish officials made the Indos and Mestizos realize that it was no longer worthwhile to continue under the Spanish rule.
 ### Sociocultural
-- 
+- The propagation of liberal idea and enlightenment philosophy and the expose of European and other Asian cultures, instilled in Rizal a perspective of the issues in his homeland.  In this time, the middle class mestizos, became a significant element in society giving lasting influence to the Filipino people. Another important factor is the emergence of national consciousness.
 
+---
+## Synthesis 3
+At 16 he graduated with the highest grades in all subjects, including philosophy, physics, biology, chemistry, and language. 
+
+### Task A
+- The discrimination and bullying at Ateneo. He became more serious in academia, prompting him to have this stoic personality where his only target was to achieve his goal. 
+- The discrimination faced at UST.  This fueled his drive to seek better education abroad and advocate for equality and Justice
+- The loss of people he cares. The death of his compatriots deepened his resolve to seek justice and reform in the island territory. 
+- The two broken hearts
+- Witnessing Injustice
+- Family Pressure
 ### Task C and D
 - Rizal was a very academic person. He viewed learning as a hobby and a stress reliever. He sees the values and the impact of gaining knowledge and would take what ever measure necessary, even going across the world, to get the right education that he needs. 
 - This could be a double edge sword. As I see it, this has a benefit for the Filipino youth to learn a new language that will get them more job opportunities in other countries, improving their livelihood. But as we see in modern society, the new generation are more influenced by foreign countries, this could cause future generations to neglect their status as a Filipino, and put the sacrifices our ancestors have made to vain. If in my school, other languages are offered, I would take that opportunity to learn a new language, but I would also be using my native language outside and on the internet. 

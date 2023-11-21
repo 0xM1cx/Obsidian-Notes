@@ -55,6 +55,23 @@ It is highly likely that a brute-force attack will involve many failed guesses b
 ## How to secure your authentication mechanisms
 Authentication is a complex topic, outlining ever possible measure you can take to protect your own websites is clearly not possible. However, there are several general principles that you should always follow. 
 
+#### 2 common ways of preventing brute-force attacks
+- Locking the account that the remote user is trying to access if they make too many failed login attempts
+- Blocking the remote user's IP address if they make too many login attempts in a quick succession. 
+
+Both have varying degrees of protection, but neither is invulnerable, especially if the implementation used flawed logic. 
+
+For example, you might find that your IP is blocked if you fail to log in  too many times. In some implementations, the counter for the number of failed attempts resets if the IP owner logs in successfully. This means that an attacker would simply have to login to their own account every few attempts to prevent this limit from ever being reached.  Merely including your own credentials at regular intervals throughout the wordlist is enough to render this defense virtually useless. 
+
+### Account locking
+One way to prevent brute-forcing on sites is to lock the account if certain suspicious criteria is met, usually a set of number of failed login attempts. Just as with normal login errors, responses from the server indicating that an account is locked can also help an attacker to enumerate usernames. But this fails to prevent brute-forcing in which the attacker is just trying to gain access to any random account they can. 
+
+#### The following method can be used to work around this kind of protection
+1. Establish a list of usernames that can be valid. Either through username enumeration or simply based on a list of common usernames. 
+2. Decide on a very small shortlist of passwords that you think at lease on user likely uses. Crucially, the number of passwords you select must not exceed the number of login attempts allowed. E.g. if you have worked out that the limit is 3 attempts, you need to pick a maximum of 3 password guesses. The proceed to the next username.
+3. 
+
+---
 ### Take care with user credentials
 Even the most robust authentication mechanisms are ineffective if you unwittingly disclose a valid set of login credentials to an attacker. It should go without saying that you should **never send any login data over unencrypted connections**. Although you may have implemented HTTPS for your login requests, make sure that you enforce this by **redirecting any attempted HTTP requests to HTTPS** as well.
 
