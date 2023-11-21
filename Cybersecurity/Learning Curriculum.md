@@ -49,7 +49,7 @@ My Focus Areas: **Web Exploitation**, **Digital Forensics**, **Stego**, **Crypto
 - [x] How does a web session work
 - [ ] Cross-Site Scripting (XSS) Lecture
 - [ ] How to and Do some Cross-Site Scripting (XSS) Challenges
-- [ ] SQL Injection Lecture
+- [x] SQL Injection Lecture
 - [ ] How to and Do some SQL Injection Challenges
 - [x] How does Command Injection Work and Do some challenges
 - [ ] How does Cross-Site Request Forgery(CSRF) work and do some challenges
@@ -62,10 +62,18 @@ My Focus Areas: **Web Exploitation**, **Digital Forensics**, **Stego**, **Crypto
 - [ ] What is XML external entity (XXE) injection
 - [ ] What is HTTP request Smuggling
 - [x] Content discovery, How to discover hidden/private content in a webserver
-- [ ] How does Insecure Direct Object Reference(IDOR)
+- [x] How does Insecure Direct Object Reference(IDOR)
 - [ ] Research about OWASP Top 10 vulnerabilities
 #### Learning Resources
 - [ ] https://www.hacksplaining.com/lessons
+#### Notes
+- [[SQL Injection]]
+- [[Authentication Vulnerabilities]]
+- [[OS Command Injection]]
+- [[Standard Files on Websites]]
+- [[File Upload Vulnerabilities]]
+- [[Path Traversal]]
+- [[Server-side request forgery]]
 #### Tools to learn
 - [ ] Dirbuster
 - [ ] Apache2
