@@ -1,10 +1,10 @@
 # Monthly Topic Focus
 > The Goal of this sections is to organize what topics to focus for each month, to learn as much TTPs and Tools for each month. This doesn't mean that I won't be learning another stuff, it only indicates that I will focus on a specific topic as a goal per day and if I have time, learn some other stuff as well. This is in preparation for next year's Hack4Gov Capture the Flag
 
-My Focus Areas: **Web Exploitation**, **Digital Forensics**, **Stego**, **Cryptography**, **Pwning**
+CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, **Pwning**, **Binary Exploitation and Reverse Engineering**
 
 - [ ] November - Web Application Security
-- [ ] December - Digital Forensics, Steganography, OSINT
+- [ ] December - Digital Forensics w/ (Steganography OSINT)
 - [ ] January -  Cryptography, Network Security
 - [ ] February - Reverse Engineering, Binary Exploitation
 - [ ] March - Pwn(Own), Attacking Machines
@@ -20,14 +20,14 @@ My Focus Areas: **Web Exploitation**, **Digital Forensics**, **Stego**, **Crypto
 - [x] Network Fundamentals
 - [ ] Windows Filesystem
 - [ ] Linux File system
-- [ ] How TCP Handshake works
+- [x] How TCP Handshake works
 - [ ] How Domain Name System works
 - [x] How HTTP works
 - [x] How cookies work
 - [ ] How does Symmetric 
 - [ ] Asymmetric Cryptography work
 - [x] How does Hashing and Hashin+Salt work
-- [ ] How DHCP works
+- [x] How DHCP works
 - [ ] Bash Scripting
 - [ ] Powershell Scripting
 - [ ] PHP Programming
@@ -60,7 +60,8 @@ My Focus Areas: **Web Exploitation**, **Digital Forensics**, **Stego**, **Crypto
 - [x] Server-Side Request Forgery(SSRF) how it works
 - [ ] What is Cross-Origin Resource Sharing and how does it work
 - [ ] What is XML external entity (XXE) injection
-- [ ] What is HTTP request Smuggling
+- [ ] What is HTTP request Smuggling 
+- [ ] What is HTTP Basic Authentication
 - [x] Content discovery, How to discover hidden/private content in a webserver
 - [x] How does Insecure Direct Object Reference(IDOR)
 - [ ] Research about OWASP Top 10 vulnerabilities
