@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
+                "file": "Cybersecurity/Learning Curriculum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -110,23 +109,25 @@
   },
   "active": "46d39214f4602555",
   "lastOpenFiles": [
-    "Networking/DNS_Enumeration.md",
+    "Cybersecurity/SOC_TOOLS.md",
+    "Cybersecurity/Capstone Research and Projects.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Cross-site Scripting.md",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFive.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Standard Files on Websites.md",
     "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
+    "Networking/DNS_Enumeration.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFour.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/OS Command Injection.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Path Traversal.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Standard Files on Websites.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/File Upload Vulnerabilities.md",
     "Pictures/Pasted image 20231113155922.png",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Server-side request forgery.md",
     "Cybersecurity/Cybersecurity Main.md",
-    "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Brupsuite.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/OSINT-TOOLS.md",
-    "Cybersecurity/Capstone Research and Projects.md",
     "Cybersecurity/Cybersecurity_Model&Frameworks.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/HTTP_In_Detail.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/PrintNightmare_Vulnerability.md",
@@ -139,8 +140,6 @@
     "General-I.T/Anonymous Confession Web App(EVSU).md",
     "EVSU/INTEL Stuff.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssTwo.md",
-    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssOne.md",
-    "EVSU/2nd-Year/1st-Sem/Platform-Tech/2-Assignment.md",
     "Pictures/Pasted image 20230906092635.png",
     "Pictures/Pasted image 20230906092533.png",
     "Pictures/Pasted image 20230727183736.png",

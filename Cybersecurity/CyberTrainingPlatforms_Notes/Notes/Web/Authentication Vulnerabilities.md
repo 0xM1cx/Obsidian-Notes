@@ -152,6 +152,34 @@ As with passwords, websites need to take steps to prevent brute-forcing of the 2
 Some websites attempt to prevent this by automatically logging a user out if they enter a certain number of incorrect verification codes. This is ineffective in practice because an advanced attacker can even automate this multi-step process by creating macros for Burp Intruder. The Turbo extension can also be used for this purpose. 
 
 ---
+## Vulnerabilities in other authentication mechanisms
+Most websites provide additional functionality to allow users to manage their account. For example, users can typically change their passwords or reset their password when they forget it. These mechanisms can also introduce vulnerabilities that can be exploited by an attacker. 
+
+### Keep users logged in
+A common feature is the option to stay logged in even after closing a browser session. This is usually a simple checkbox labeled something like "Remember me" or "Keep me logged in".
+
+This feature is typically achieved by creating a "remember me" token stored in a persistent cookie. As this cookie grants direct access, it's crucial for it to be difficult to guess. Unfortunately, some sites construct this cookie predictably, using static values like the username and timestamp, or even including the password. If attackers can create their own account, they may study their cookie, deduce its generation, and attempt to brute-force other users' cookies to gain unauthorized access. 
+
+Some websites wrongly assume that encrypting cookies, even with static values, guarantees security. However, simply using basic two-way encoding like Base64 provides no protection. Even with proper encryption using a one-way hash function, there are vulnerabilities. If the hashing algorithm is easily identifiable and no salt is used, attackers can potentially brute-force the cookie by hashing wordlists, bypassing login attempt limits if not applied to cookie guesses.
+
+#### Stealing remember me cookie using XSS vulnerability
+Even without creating their own account, an attacker could exploit the vulnerability by using common techniques like XSS. They might steal a user's "remember me" cookie, deducing its construction. If the website is built on an open-source framework, crucial cookie details may be publicly documented.
+
+#### Offline password cracking using cleartext obtained in a cookie
+In rare instances, a user's actual password in cleartext can be obtained from a cookie, even if hashed. Online availability of hashed versions of common passwords makes hash decryption straightforward if the password is in such lists. This underscores the importance of using salt for effective encryption.
+
+
+### Resetting user passwords
+Websites allow users to reset their passwords. For this reason, the password reset functionality is inherently dangerous and needs to be implemented securely. 
+
+#### Sending passwords by email
+Sending users their current password should never be possible if a website handles passwords securely. Some sites opt for generating a new password and sending it via email. However, transmitting persistent passwords over insecure channels is generally discouraged. **The security depends on the generated password expiring quickly or the user promptly changing it.** Otherwise, the method is vulnerable to man-in-the-middle attacks. Email, often used for this purpose, is not considered secure due to persistent inboxes and potential syncing across insecure channels on multiple devices.
+
+#### Resetting passwords using a URL
+A more robust method of resetting a password is to send a unique URL to users that takes them to a password reset page. Less secure implementations of this method use a URL with an easily guessable parameter to identify which account is being reset. E.g.
+`http://vulnerable-website.com/reset-password?user=victim-user`
+
+---
 ### Take care with user credentials
 Even the most robust authentication mechanisms are ineffective if you unwittingly disclose a valid set of login credentials to an attacker. It should go without saying that you should **never send any login data over unencrypted connections**. Although you may have implemented HTTPS for your login requests, make sure that you enforce this by **redirecting any attempted HTTP requests to HTTPS** as well.
 
