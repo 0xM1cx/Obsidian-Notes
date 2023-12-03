@@ -85,21 +85,34 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 ---
 ## Digital Forensics
-- [ ] How to collect artifacts on Disk
-- [ ] Artifact Acquisition on systems(network, file, memory, etc)
+### Windows Forensics
 - [ ] File & Disk Analysis
+- [ ] Learn file systems(FAT, exFAT, NTFS)
+- [ ] Windows File System
+- [ ] How to use Foremost
+### Network Forensics
+- [ ] System & Network Forensics
+- [ ] Packet Analysis
+
+### Memory Analysis
 - [ ] How to collect artifacts on Memory
 - [ ] Memory Forensics
-- [ ] Packet Analysis
+
+### Other DFIR skills
+- [ ] Linux File System
+- [ ] How to collect artifacts on Disk
+- [ ] Artifact Acquisition on systems(network, file, memory, etc)
 - [ ] Log Analysis, Timelines and Reporting
-- [ ] System & Network Forensics
-- [ ] How to use Foremost
+
 
 #### Tools to learn
 - [ ] xxd
 - [ ] Binwalk
 - [ ] Steghide
 - [ ] fcrackzip
+
+#### Resources
+- [Stego Checklist](https://stegonline.georgeom.net/checklist)
 
 ---
 ## Network Security
@@ -168,11 +181,12 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 ## Incident Response
 
-## Threat Intelligence & Hunting
+## Threat Intelligence, Management & Hunting
 - [ ] How to Collect logs from End Devices and the Network
 - [ ] 
 
-
+#### Resrouces
+- [Go to the 1.0 Threat Management Section](https://www.comptia.jp/pdf/comptia-cybersecurity-analyst-(cs0-001).pdf)
 
 ## Practice Sites
 - Cyberdefenders.org
