@@ -96,9 +96,14 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] How to use Foremost
 - [ ] Understanding Windows Process Structure
 - [ ] Windows Security Models
+
 ### Network Forensics
 - [ ] System & Network Forensics
 - [ ] Packet Analysis
+- [ ] Packet headers
+- [ ] How to use Wireshark
+- [ ] How to make a packet using scappy
+
 
 ### Memory Analysis
 - [ ] User and Kernel Modes

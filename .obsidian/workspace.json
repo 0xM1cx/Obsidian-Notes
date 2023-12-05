@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/DFIR/Windows Architecture.md",
+                "file": "Writeups/Web Strike.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -109,13 +110,15 @@
   },
   "active": "beefc0b2c34105c1",
   "lastOpenFiles": [
-    "Cybersecurity/Learning Curriculum.md",
-    "Cybersecurity/DFIR/Windows Architecture.md",
-    "Writeups/FAT, exFAT, NTFS. What are those.md",
+    "Writeups/Web Strike.md",
     "Writeups/CTF Writups Main.md",
-    "Writeups/PicoCTFs.md",
+    "Writeups/FAT, exFAT, NTFS. What are those.md",
     "Writeups/Freelance Stuff.md",
     "Writeups/How to write an Effective Blog.md",
+    "Cybersecurity/Learning Curriculum.md",
+    "Cybersecurity/DFIR/Windows File System.md",
+    "Cybersecurity/DFIR/Windows Architecture.md",
+    "Writeups/PicoCTFs.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network/NMAP.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue/Threat Intelligence Tools.md",
@@ -124,7 +127,6 @@
     "Cybersecurity/DFIR/Working with VHD.md",
     "Cybersecurity/DFIR/WF1.md",
     "Pasted image 20220427140248.png.md",
-    "Cybersecurity/DFIR/Windows File System.md",
     "Cybersecurity/DFIR/Intro_To_EvidenceAcquisition.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Standard Files on Websites.md",
     "Cybersecurity/SOC_TOOLS.md",
@@ -134,7 +136,6 @@
     "Networking/DNS_Enumeration.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFour.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/OS Command Injection.md",
     "Pictures/Pasted image 20231113155922.png",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
