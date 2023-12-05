@@ -86,15 +86,24 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ---
 ## Digital Forensics
 ### Windows Forensics
+- [ ] Registry Structure and Function
+- [ ] Event logs and Auditing 
+- [ ] Windows Kernel Architecture
+- [ ] Windows Architecture
 - [ ] File & Disk Analysis
 - [ ] Learn file systems(FAT, exFAT, NTFS)
 - [ ] Windows File System
 - [ ] How to use Foremost
+- [ ] Understanding Windows Process Structure
+- [ ] Windows Security Models
 ### Network Forensics
 - [ ] System & Network Forensics
 - [ ] Packet Analysis
 
 ### Memory Analysis
+- [ ] User and Kernel Modes
+- [ ] Processes, Threads and services
+- [ ] System Calls
 - [ ] How to collect artifacts on Memory
 - [ ] Memory Forensics
 
@@ -104,12 +113,18 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Artifact Acquisition on systems(network, file, memory, etc)
 - [ ] Log Analysis, Timelines and Reporting
 
+#### Notes:
+- [[Windows Architecture]]
 
 #### Tools to learn
 - [ ] xxd
 - [ ] Binwalk
 - [ ] Steghide
 - [ ] fcrackzip
+- [ ] FTK
+- [ ] Autopsy
+- [ ] Volitility
+- [ ] EnCase
 
 #### Resources
 - [Stego Checklist](https://stegonline.georgeom.net/checklist)

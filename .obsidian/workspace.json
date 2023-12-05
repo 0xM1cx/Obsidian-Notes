@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Cybersecurity/DFIR/Windows Architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,12 +109,13 @@
   },
   "active": "beefc0b2c34105c1",
   "lastOpenFiles": [
+    "Cybersecurity/Learning Curriculum.md",
+    "Cybersecurity/DFIR/Windows Architecture.md",
     "Writeups/FAT, exFAT, NTFS. What are those.md",
     "Writeups/CTF Writups Main.md",
     "Writeups/PicoCTFs.md",
     "Writeups/Freelance Stuff.md",
     "Writeups/How to write an Effective Blog.md",
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network/NMAP.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue/Threat Intelligence Tools.md",
@@ -134,7 +135,6 @@
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFour.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/OS Command Injection.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Path Traversal.md",
     "Pictures/Pasted image 20231113155922.png",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
