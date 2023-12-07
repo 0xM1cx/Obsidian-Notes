@@ -33,6 +33,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Bash Scripting
 - [ ] Powershell Scripting
 - [ ] PHP Programming
+- [ ] What are YARA Rules? How to Create and User them
 
 ---
 ## Basic Skills to learn
@@ -86,7 +87,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ---
 ## Digital Forensics
 ### Windows Forensics
-- [ ] Registry Structure and Function
+- [ ] Registry Structure and Function, and Analyze Registry Hives
 - [ ] Event logs and Auditing 
 - [ ] Windows Kernel Architecture
 - [ ] Windows Architecture
@@ -96,6 +97,15 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] How to use Foremost
 - [ ] Understanding Windows Process Structure
 - [ ] Windows Security Models
+- [ ] User Account Management
+
+### Linux Forensics
+- [ ] File System(Ext4, XFS, ZFS)
+- [ ] Log Files(Syslog, authlogs) and analysis and interpretation of those files
+- [ ] User Account management(User Accounts, groups, permissions)
+- [ ] Pluggable Authentication Module(PAM)
+- [ ] Bash Scripting
+
 
 ### Network Forensics
 - [ ] System & Network Forensics
@@ -111,6 +121,18 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] System Calls
 - [ ] How to collect artifacts on Memory
 - [ ] Memory Forensics
+- [ ] Pagefile analysis
+- [ ] Process and Kernel Memory
+- [ ] How to create memory dumps for analysis
+- [ ] Identifying running processes
+- [ ] Extracting information about the loaded modules
+- [ ] Examining network connections in memory
+- [ ] Analyzing process memory
+- [ ] Identifying threads and their states
+- [ ] Identifying open file handles
+- [ ] Analyzing loaded DLLs and shared libraries
+- [ ] Extracting information from the registry in memory
+- [ ] Analyzing file system structure in memory
 
 ### Other DFIR skills
 - [ ] Linux File System

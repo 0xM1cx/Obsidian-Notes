@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Web Strike.md",
+                "file": "Cybersecurity/Learning Curriculum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,6 +110,10 @@
   },
   "active": "beefc0b2c34105c1",
   "lastOpenFiles": [
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSix.md",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFive.md",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal Main.md",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssTwo.md",
     "Writeups/Web Strike.md",
     "Writeups/CTF Writups Main.md",
     "Writeups/FAT, exFAT, NTFS. What are those.md",
@@ -131,11 +135,7 @@
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Standard Files on Websites.md",
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Cross-site Scripting.md",
-    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFive.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
-    "Networking/DNS_Enumeration.md",
-    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFour.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
     "Pictures/Pasted image 20231113155922.png",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
