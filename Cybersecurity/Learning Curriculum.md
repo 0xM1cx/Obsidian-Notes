@@ -4,6 +4,7 @@
 > The Goal of this sections is to organize what topics to focus for each month, to learn as much TTPs and Tools for each month. This doesn't mean that I won't be learning another stuff, it only indicates that I will focus on a specific topic as a goal per day and if I have time, learn some other stuff as well. This is in preparation for next year's Hack4Gov Capture the Flag
 
 CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, **Pwning**, **Binary Exploitation and Reverse Engineering**
+[Use this as a Guide for any Blue Team Training](https://d2y9h8w1ydnujs.cloudfront.net/BTL1Syllabus.pdf)
 
 - [x] November - Web Application Security
 - [ ] December - Digital Forensics w/ (Steganography OSINT)

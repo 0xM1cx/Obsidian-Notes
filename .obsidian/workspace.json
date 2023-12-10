@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSeven.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -110,16 +109,17 @@
   },
   "active": "beefc0b2c34105c1",
   "lastOpenFiles": [
+    "Cybersecurity/Learning Curriculum.md",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSeven.md",
+    "Writeups/Web Strike.md",
+    "Writeups/CTF Writups Main.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSix.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFive.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal Main.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssTwo.md",
-    "Writeups/Web Strike.md",
-    "Writeups/CTF Writups Main.md",
     "Writeups/FAT, exFAT, NTFS. What are those.md",
     "Writeups/Freelance Stuff.md",
     "Writeups/How to write an Effective Blog.md",
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/DFIR/Windows File System.md",
     "Cybersecurity/DFIR/Windows Architecture.md",
     "Writeups/PicoCTFs.md",
@@ -135,7 +135,6 @@
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Standard Files on Websites.md",
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Cross-site Scripting.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
     "Pictures/Pasted image 20231113155922.png",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
