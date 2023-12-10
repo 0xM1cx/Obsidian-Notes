@@ -34,3 +34,4 @@ They shared similarities not only in their attitudes towards problems but also i
 Both Himmel and Dr. Jose Rizal placed immense value on the people around them. Himmel's profound love for his teammates was evident through his unwavering dedication, mirroring Dr. Rizal's deep affection and commitment to his family.
 
 Moreover, their shared commitment to self-improvement manifested in their constant pursuit of challenges. Both individuals sought to enhance their capabilities by willingly taking on tasks that others might have found difficult. This common thread in their character emphasized their resilience and determination to grow both personally and professionally.
+
