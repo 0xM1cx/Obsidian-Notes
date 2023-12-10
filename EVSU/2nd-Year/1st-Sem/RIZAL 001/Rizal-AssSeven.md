@@ -17,4 +17,20 @@ Shawn Michael A. Sudaria
 
 
 ## Thought paper on Rizal's early life and education
-		 
+
+## Culminating Activity 2
+Handwritten Explanation Here:
+
+Similarities to Rizal
+
+In the story, this character holds the title of “hero”. He wasn’t always the hero; this title was granted to him for the heroic acts and sacrifices he has made for his race.
+
+At the story's beginning, his identity is unknown to most. However, he possessed a clear desire to help people, much like Rizal. Similar to our hero, he didn't hesitate to offer assistance, showing fearlessness even in the face of death. His courage stemmed from the belief that his actions would improve people's lives. This dedication to altruism mirrors Rizal's noble aspirations.
+
+Both Rizal and Himmel exhibited unwavering motivation and determination in their pursuit of goals. In the narrative, Rizal devoted an impressive 10 years to fulfilling his mission, demonstrating a consistent and unyielding work ethic throughout this period. Day after day, without exception, he toiled tirelessly towards his objectives.
+
+They shared similarities not only in their attitudes towards problems but also in the way they faced daunting tasks head-on, displaying a fearless and stoic demeanor.
+
+Both Himmel and Dr. Jose Rizal placed immense value on the people around them. Himmel's profound love for his teammates was evident through his unwavering dedication, mirroring Dr. Rizal's deep affection and commitment to his family.
+
+Moreover, their shared commitment to self-improvement manifested in their constant pursuit of challenges. Both individuals sought to enhance their capabilities by willingly taking on tasks that others might have found difficult. This common thread in their character emphasized their resilience and determination to grow both personally and professionally.
