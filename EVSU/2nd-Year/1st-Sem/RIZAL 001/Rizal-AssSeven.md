@@ -35,3 +35,39 @@ Both Himmel and Dr. Jose Rizal placed immense value on the people around them. H
 
 Moreover, their shared commitment to self-improvement manifested in their constant pursuit of challenges. Both individuals sought to enhance their capabilities by willingly taking on tasks that others might have found difficult. This common thread in their character emphasized their resilience and determination to grow both personally and professionally.
 
+
+## Test Your Understanding 1
+Introduction: 
+	The Philippines experienced enormous economic transformations and the emergence of diverse business societies during the nineteenth century. Among these communities, Chinese entrepreneurs played a critical role in establishing the archipelago's economic landscape. Even in today's world, as China has a large economy, it remains a major commercial partner for the Philippines as well as an influence due to its close proximity to our country. 
+
+Body: 
+	The Chinese are well known for their remarkable business talents, as evidenced by the fact that the majority of wealthy companies are controlled by Chinese or persons of Chinese heritage; for example, Sy Siblings, Gokongwei and Siblings, Alfred Yao, and so on. Their success can be traced back to how they were reared and the morals they were taught. The ability to adapt to changing circumstances, a hallmark of 19th-century Chinese entrepreneurs, remains relevant in the face of contemporary economic challenges. Certainly, the success of Chinese enterprises in our country benefits our economy by bringing in new job opportunities, government income, and so on. This can be seen with companies such as SM, BDO and other establishments own by the Sy family. 
+	The future impact of Chinese entrepreneurs on our economy is poised to be transformative. As China continues to ascend as a global economic powerhouse, the ripple effects of its entrepreneurial activities will be felt across borders. This encompasses the company I will work for. Although the company I aspire to work for in the future doesn't necessarily have to be managed by Chinese businessmen, as mentioned earlier, their impact on our economy is immense. In my case, this impact will be evident in terms of the investments companies attract, which will determine my salary, and also in the job roles I will undertake. Lastly, they also influence how I live, as their significant contributions to our economy lead to improvements in infrastructure. Consequently, my housing, the products I purchase, and the overall infrastructure of the surrounding areas will directly or indirectly result from companies owned by individuals of Chinese descent.
+
+Conclusion:
+	In conclusion, the enduring impact of 19th-century Chinese entrepreneurs resonates in the present and shapes the future of the Philippine economy. The success of Chinese owned companies remains pivotal. Looking forward, Chinese entrepreneurs will continue to determine job opportunities, investments, and infrastructure development, significantly influencing career paths, salaries, and living environments in the Philippines. Recognizing the significance of their achievements, comprehending their entrepreneurial mindset, and preparing for the changing global scene will be critical in managing the opportunities and difficulties that lie ahead.
+
+
+## Test Your Understanding 2
+Rizal's European Travel
+
+Introduction:
+	Dr. Jose Rizal's European travels, which lasted from 1882 to 1887, were a watershed moment in the life of the Philippine national hero. His experiences in Europe had a significant impact on his thinking, writings, and, eventually, the course of the Philippine war for independence. This brief dissertation delves into the essential components of Rizal's European vacation, including the impact on his intellectual, political, and cultural development.
+	
+Body: 
+	Dr. Jose Rizal's travel to Europe for additional studies in medicine and philosophy, motivated by a passion for knowledge, exposed him to Enlightenment principles and liberal thought. Rizal actively participated in political discourse, joining reformist movements and absorbing European political concepts, supporting Philippine autonomy and justice. His pen became a lethal weapon, with works such as "Noli Me Tangere" and "El Filibusterismo" functioning as forceful critiques of Spanish colonial rule. Rizal's observations of European society were insightful, and his legacy lives on as a visionary leader and intellectual luminary whose exposure to enlightenment, political activism, and cultural diversity shaped the foundation for Philippine nationalism and the ongoing pursuit of freedom and justice.
+
+Conclusion:
+	Dr. Jose Rizal's European travels were a furnace that formed his identity as a scholar, patriot, and change agent. The lessons he gained, the connections he formed, and the values he adopted during his time in Europe would resonate across Philippine history, sparking a movement that would eventually lead to the nation's desire for independence. Rizal's European trip exemplifies the transformational power of education, activity, and a firm devotion to the ideas of justice and freedom.
+## Warm Up Activity
+Reflection on Poem |  "To the Filipino Youth"
+
+
+
+
+## Synthesis 8
+Write a response letter or paper to one of the three poems of Rizal | "To the Filipino Youth"
+
+
+
+## Test your Understanding 3
