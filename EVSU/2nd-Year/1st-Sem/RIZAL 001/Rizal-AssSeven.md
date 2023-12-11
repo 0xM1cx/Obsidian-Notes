@@ -71,3 +71,12 @@ Write a response letter or paper to one of the three poems of Rizal | "To the Fi
 
 
 ## Test your Understanding 3
+
+
+## Culminating Activity 2
+Rizal is a book
+
+Rizal is a book because he absorbs and maintains the things that he learn. A book has a lot of pages for which it can store a plethora of knowledge just like Rizal who is very knowledgeable and has many kiss from literature, music, arts and science. A book can contain a stories same as Rizal who's life was filled with diverse experiences. from his early life to his travels in Europe up until his death. 
+
+
+Rizal is a book because he absorbs and retains what he learns. A book contains many pages on which to store a wealth of knowledge, much like Rizal, who is well-versed in literature, music, the arts, and science. A book can contain stories, much like Rizal's life was full of various events. from his childhood to his European trips until his death. 
