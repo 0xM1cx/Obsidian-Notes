@@ -62,6 +62,7 @@ Conclusion:
 ## Warm Up Activity
 Reflection on Poem |  "To the Filipino Youth"
 
+"To the Filipino Youth" by Jose Rizal is a compelling call for the young people of the Philippines to embrace their talents and contribute to the nation's progress. It gives meaning to what Rizal said wherein the children are our nations hope. The poem encourages the youth to unfold their potential like a flower and soar with noble thoughts. It emphasizes the importance of breaking societal chains that hinder their genius and envisions a harmonious exchange of knowledge between the Philippines and Spain. Rizal celebrates the diverse talents of the youth, from poetic and musical abilities to artistic prowess. The poem is a timeless reminder of the transformative power of Filipino talent in shaping the nation's future.
 
 
 
@@ -71,9 +72,19 @@ Write a response letter or paper to one of the three poems of Rizal | "To the Fi
 
 
 ## Test your Understanding 3
+Write a reflection paper recalling a challenging experience in your life and identify what moral thought uplifted your spirit, which made you overcome the circumstance.
 
+In my 19 years in this world. The most challenging experience that I went thought was starting collage. My family was originally from Cebu then moved to Baybay city when I was 5 then at age 12 moved again to Calbayog city, from time to time every year we travel to places so I would have expected that moving to Tacloban for college was not of a big deal as I have experienced being away from my parents multiple times, even going to Cebu once on my own to attend a cybersecurity competition. Nonetheless, when I came here the feeling was not what I expected, the memories that I made during my 1st year and now were life changing. Now on my own for a long period of time, having bigger responsibilities made me a more responsible person. 
 
-## Culminating Activity 2
+The sense of responsibility,  independence, courage and optimism made me overcome every struggle life had given me, from being home sick, tough times, academic work load and so on. It gave me a sense of purpose, look at the bigger picture and made me remember the reason why I took this degree and what I want to become. It allowed me to be fearless, experience new things, meet new people and gave my college life a memorable journey. The experience of being on my own and facing significant responsibilities became a catalyst for personal growth, making me a more responsible individual
+
+### Version 2
+In my 19 years on this Earth, the most challenging experience I underwent was starting college. Originally from Cebu, my family moved to Baybay City when I was 5, and at age 12, we relocated again to Calbayog City. We traveled to various places every year, so moving to Tacloban for college wasn't expected to be a significant challenge, given my previous experiences of being away from my parents multiple times, even going on a  a solo trip to Cebu for a cybersecurity competition for a week, which was the longest I've been without them. However, the reality was different from my expectations, and the memories created during my first year and now have been truly life-changing. Being on my own for an extended period and facing more substantial responsibilities made me a more responsible person.
+
+The sense of responsibility, independence, courage, and optimism helped me overcome every life struggle, from homesickness to challenging times and academic workloads. These values provided me with a sense of purpose, enabled me to see the bigger picture, and reminded me of the reasons behind pursuing this degree and my aspirations for the future. Embracing these values allowed me to be fearless, explore new things, meet new people, and turn my college life into a memorable journey. The experience of being on my own and handling significant responsibilities acted as a catalyst for personal growth, shaping me into a more responsible individual.
+
+- Media Manipulation
+## Culminating Activity 2 
 Rizal is a book
 
 Rizal is a book because he absorbs and maintains the things that he learn. A book has a lot of pages for which it can store a plethora of knowledge just like Rizal who is very knowledgeable and has many kiss from literature, music, arts and science. A book can contain a stories same as Rizal who's life was filled with diverse experiences. from his early life to his travels in Europe up until his death. 

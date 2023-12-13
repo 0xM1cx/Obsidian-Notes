@@ -49,7 +49,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ---
 ## Web Application Security
 - [x] Introduction to Web Security
-- [ ] Intro to the HTTP protocol
+- [x] Intro to the HTTP protocol
 - [x] How does a web session work
 - [ ] Cross-Site Scripting (XSS) Lecture
 - [ ] How to and Do some Cross-Site Scripting (XSS) Challenges
