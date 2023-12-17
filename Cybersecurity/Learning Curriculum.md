@@ -240,7 +240,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Analyzing proprietary protocols
 - [ ] Creating protocol specification
 
-### Module 7: Hardware Reverse Engineering
+
 
 
 
