@@ -95,3 +95,6 @@ Rizal is a book because he absorbs and retains what he learns. A book contains m
 Rizal is a orangutan because he maintains this stoic attitude at most times and prefers to make peace rather than fight. An Orangutan is a wise animal who is curious about a lot of things just like Rizal who's curiosity on various subject enabled him to be multi-talented in various subjects. An Orangutan is a peaceful animal who you never see get into a fight with other animals unless it  has no choice, much like Rizal, who prefers peaceful reforms rather than a bloody revolution. 
 
 Rizal is an orangutan because he keeps a stern demeanor most of the time and prefers to negotiate rather than fight. An orangutan is a knowledgeable animal who is curious about many things, just like Rizal, whose curiosity about many subjects enabled him to be multi-talented in many areas. An orangutan is a gentle species that will never attack another animal unless forced to, much like Rizal, who prefers peaceful reforms over a bloody revolution. 
+
+
+Sysn

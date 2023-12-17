@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSeven.md",
+                "file": "Cybersecurity/Learning Curriculum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -109,10 +110,10 @@
   },
   "active": "beefc0b2c34105c1",
   "lastOpenFiles": [
-    "Cybersecurity/Learning Curriculum.md",
-    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSeven.md",
     "Writeups/Web Strike.md",
     "Writeups/CTF Writups Main.md",
+    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSeven.md",
+    "Cybersecurity/Learning Curriculum.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSix.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFive.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal Main.md",

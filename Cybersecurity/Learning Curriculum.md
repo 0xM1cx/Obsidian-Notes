@@ -210,6 +210,40 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Learn some basics in Binary Exploitation
 - [ ] Learn about shellcode and how to create them
 
+### Module 1: Binary Analysis and Tools
+- [ ] Common Binary file formats (PE, ELF)
+- [ ] Ghidra and other disassembly tools
+- [ ] converting machine code to higher-level languages
+- [ ] Dynamic Analysis using debuggers (GDB, WinDbg)
+- [ ] Breakpoints, watchpoints, dynamic analysis tools
+
+### Module 2: Assembly Language Basics
+- [ ] Introduction to CPU architectures(x86 and ARM)
+- [ ] Registers, instructions, and other addressing modes
+- [ ] Control flow analysis
+
+### Module 3: Malware Analysis
+- [ ] Dynamic Malware Analysis
+	- [ ] Behavior analysis using sandboxing
+	- [ ] API hooking and monitoring
+- [ ] Static Malware Analysis
+	- [ ] Signature-based detection
+	- [ ] Code and data analysis
+### Module 5: Software Reverse Engineering
+- [ ] Analyzing compiles software
+- [ ] Recovering high-level design information
+- [ ] Binary patching techniques
+- [ ] Understanding and modifying application behavior
+
+### Module 6: Network Protocol Analysis
+- [ ] Identifying protocols and understanding data flow
+- [ ] Analyzing proprietary protocols
+- [ ] Creating protocol specification
+
+### Module 7: Hardware Reverse Engineering
+
+
+
 #### Do These Challenges before moving on to assembly
 - [C Assignments](https://github.com/h0mbre/Learning-C/tree/master/Assignment-22)
 ### Learning Resources
@@ -220,7 +254,50 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ---
 ## Security Analyst, Security+
 
-
+## Hardware Security
+### Module 1: Introduction to Embedded Systems
+- [ ] Definition and characteristics of embedded Systems
+- [ ] Examples of embedded systems in real-world applications
+- [ ] Microcontrollers vs Microprocessors
+- [ ] Memory Hierarchy(RAM, ROM, Flash)
+- [ ] I/O devices and interfaces
+- [ ] Embedded System Development Process
+	- [ ] Requirement Analysis
+	- [ ] System Design
+	- [ ] Hardware and software development
+	- [ ] Testing and validation
+### Module 2: Microcontroller Architecture and Programming
+- [ ] Introduction to microcontroller and their components
+- [ ] Different types of microcontrollers (EVR, ARM, PIC)
+- [ ] Assembly Programming
+- [ ] C Programming for microcontrollers
+- [ ] C Pointers and memory management in embedded systems
+### Module 3: Embedded System Development Tools
+- [ ] Overview of cross-compilation
+- [ ] Setting up a cross-compilation environment
+- [ ] Debugging Techniques
+	- [ ] Emulators and simulators
+	- [ ] In-circuit debugging tools
+	- [ ] Real-time debugging techniques
+### Module 4: Real-time Operating Systems
+- [ ] Introduction and characteristics of real-time OS
+- [ ] Types of RTOS
+- [ ] Task Scheduling algorithms
+- [ ] Inter-process communication and synchronization
+- [ ] RTOS Application Development
+	- [ ] Creating and managing tasks
+	- [ ] Handling interrupts and exceptions
+### Module 5: Peripheral Interfacing
+- [ ] Digital and Analog I/O
+	- [ ] GPIO(General Purpose Input/Output)
+	- [ ] Analog-to-digital and digital-to-analog conversion
+- [ ] Serial Communication Protocols
+	- [ ] UART, SPI, I2C
+	- [ ] Implementing communication protocols in embedded systems
+### Module 6: Embedded System Networking
+- [ ] Wireless Communication Protocols (Bluetooth, WiFi)
+- [ ] Connecting embedded systems to the internet
+- [ ] IoT protocols and frameworks
 
 ## Incident Response
 
