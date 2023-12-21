@@ -268,6 +268,9 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 	- [ ] Testing and validation
 ### Module 2: Microcontroller Architecture and Programming
 - [ ] Introduction to microcontroller and their components
+- [ ] Central Processing Unit
+	- [ ] Instruction set architecture
+	- [ ] Pipelining and parallelism
 - [ ] Different types of microcontrollers (EVR, ARM, PIC)
 - [ ] Assembly Programming
 - [ ] C Programming for microcontrollers
@@ -294,6 +297,9 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Serial Communication Protocols
 	- [ ] UART, SPI, I2C
 	- [ ] Implementing communication protocols in embedded systems
+- [ ] Sensors and Actuators
+	- [ ] Sensor types and principles
+	- [ ] Control of actuators
 ### Module 6: Embedded System Networking
 - [ ] Wireless Communication Protocols (Bluetooth, WiFi)
 - [ ] Connecting embedded systems to the internet
@@ -315,4 +321,3 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - picoctf
 - rootme.org
 - overthewire.org
-- 
