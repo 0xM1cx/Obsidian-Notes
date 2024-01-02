@@ -11,7 +11,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] January -  Cryptography, Network Security
 - [ ] February - Reverse Engineering, Binary Exploitation
 - [ ] March - Pwn(Own), Attacking Machines
-- [ ] April - Security Analyst, Security+
+- [ ] April - Security Analyst, Security+, DFIR
 - [ ] May - Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
 - [ ] June - Cyberdefenders, Blueteamlabs, pentester lab, tryhackme, hackthebox practice
 ---
@@ -246,13 +246,121 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 #### Do These Challenges before moving on to assembly
 - [C Assignments](https://github.com/h0mbre/Learning-C/tree/master/Assignment-22)
+- [Blue Team Labs Online Reverse Engineering Challenges](https://blueteamlabs.online/home/challenges)
 ### Learning Resources
 - [x86-64 Assembly Crash Course](https://pwn.college/cse365-f2023/assembly-crash-course)
 - [Basics of GDB](https://github.com/hoppersroppers/nightmare/blob/master/modules/02-intro_tooling/gdb-gef/readme.md)
 - https://exploit.education/
+- [Open Security: Introduction to GDB](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1012_GDB_1+2021_v1/courseware/769676b3dc9a4af8838261090e69fa8c/553a2d118bb243ee9c1f39492bdc458e/?child=first)
+- [LetsDefend Malware Analysis and RE](https://app.letsdefend.io/training)
 
 ---
 ## Security Analyst, Security+
+### Module 1: Introduction to Cybersecurity
+
+- [ ] Overview of Cybersecurity
+- [ ] Importance of Cybersecurity
+- [ ] Common Cyber Threats
+- [ ] Cybersecurity Frameworks (NIST, ISO/IEC 27001)
+
+### Module 2: Networking Fundamentals
+
+- [ ] OSI Model
+- [ ] TCP/IP Protocol Suite
+- [ ] Network Devices and Security
+- [ ] Subnetting and IP Addressing
+
+### Module 3: Operating System Security
+
+- [ ] Windows Security
+- [ ] Linux Security
+- [ ] macOS Security
+
+### Module 4: Cyber Threats and Attack Vectors
+
+- [ ] Malware (Types, Detection, Prevention)
+- [ ] Social Engineering Attacks
+- [ ] Phishing and Email Security
+- [ ] Man-in-the-Middle Attacks
+- [ ] Denial of Service (DoS) and Distributed Denial of Service (DDoS) Attacks
+
+### Module 5: Web Application Security
+
+- [ ] OWASP Top Ten
+- [ ] Common Web Application Vulnerabilities
+- [ ] Secure Coding Practices
+- [ ] Web Application Firewalls (WAF)
+
+### Module 6: Cryptography
+
+- [ ] Encryption Algorithms
+- [ ] Hash Functions
+- [ ] Public Key Infrastructure (PKI)
+- [ ] Digital Signatures
+- [ ] Certificate Authorities
+
+### Module 7: Security Assessment and Penetration Testing
+
+- [ ] Vulnerability Assessment
+- [ ] Penetration Testing Methodologies
+- [ ] Tools (Nmap, Metasploit, Burp Suite)
+- [ ] Reporting and Remediation
+
+### Module 8: Incident Response and Forensics
+
+- [ ] Incident Response Lifecycle
+- [ ] Forensic Analysis Techniques
+- [ ] Chain of Custody
+- [ ] Evidence Handling and Preservation
+
+### Module 9: Security Policies and Compliance
+
+- [ ] Developing Security Policies
+- [ ] Regulatory Compliance (GDPR, HIPAA, PCI DSS)
+- [ ] Security Awareness Training
+- [ ] Risk Management
+
+### Module 10: Network Security
+
+- [ ] Firewalls and Intrusion Detection/Prevention Systems (IDS/IPS)
+- [ ] VPNs and Secure Network Design
+- [ ] Wireless Network Security
+
+### Module 11: Cloud Security
+
+- [ ] Cloud Computing Overview
+- [ ] Cloud Security Architecture
+- [ ] Identity and Access Management (IAM)
+- [ ] Data Security in the Cloud
+
+### Module 12: Security Monitoring and SIEM
+
+- [ ] Security Information and Event Management (SIEM)
+- [ ] Log Management
+- [ ] Security Incident Monitoring
+- [ ] Threat Intelligence
+
+### Module 13: Endpoint Security
+
+- [ ] Antivirus and Anti-malware Solutions
+- [ ] Endpoint Detection and Response (EDR)
+- [ ] Mobile Device Security
+
+### Module 14: Legal and Ethical Considerations
+
+- [ ] Cybersecurity Laws and Regulations
+- [ ] Ethical Hacking and Responsible Disclosure
+- [ ] Privacy and Data Protection
+
+### Module 15: Professional Development and Certifications
+
+- [ ] Industry-recognized Certifications (e.g., CISSP, CompTIA Security+, CEH)
+- [ ] Continuous Learning and Professional Growth
+
+### Learning Resources
+- [Letsdefend Learn](https://app.letsdefend.io/training)
+- [Letsdefend Practice Scenario of Being a analyst](https://app.letsdefend.io/monitoring)
+- [Letsdefend Challenges and Blue Team CTF](https://app.letsdefend.io/challenge)
 
 ## Hardware Security
 ### Module 1: Introduction to Embedded Systems
@@ -311,6 +419,9 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] How to Collect logs from End Devices and the Network
 - [ ] 
 
+## Windows Malware Development 
+- [Windows Kernel Internals](https://www.codemachine.com/trainings/kerint.html)
+- [Windows Kernel Rootkit](https://www.codemachine.com/trainings/kerrkt.html)
 #### Resrouces
 - [Go to the 1.0 Threat Management Section](https://www.comptia.jp/pdf/comptia-cybersecurity-analyst-(cs0-001).pdf)
 
@@ -321,3 +432,6 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - picoctf
 - rootme.org
 - overthewire.org
+- letsdefend
+
+

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "148b1bfd3f803018",
+        "id": "feb389e65f173695",
         "type": "tabs",
         "children": [
           {
-            "id": "beefc0b2c34105c1",
+            "id": "9e5dc13380508f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -87,7 +86,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -108,8 +109,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "beefc0b2c34105c1",
+  "active": "9e5dc13380508f50",
   "lastOpenFiles": [
+    "Writeups/LetsDefend.md",
+    "Pictures/Pasted image 20240102213549.png",
+    "Pictures/Pasted image 20240102212923.png",
+    "Writeups/FAT, exFAT, NTFS. What are those.md",
+    "Writeups/How to write an Effective Blog.md",
+    "Pasted image 20220427140248.png.md",
+    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/DFIR/DFIR Syllabus.md",
     "Cybersecurity/Windows_Malware_Dev.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSeven.md",
@@ -120,22 +128,16 @@
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssTwo.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssThree.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSix.md",
-    "Cybersecurity/Learning Curriculum.md",
     "EVSU/2nd-Year/1st-Sem/Platform-Tech/Workbook Compilation.md",
     "Writeups/Web Strike.md",
     "Writeups/CTF Writups Main.md",
-    "Writeups/FAT, exFAT, NTFS. What are those.md",
     "Writeups/Freelance Stuff.md",
-    "Writeups/How to write an Effective Blog.md",
     "Cybersecurity/DFIR/Windows File System.md",
     "Cybersecurity/DFIR/Windows Architecture.md",
     "Writeups/PicoCTFs.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network/NMAP.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue/Threat Intelligence Tools.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
-    "Cybersecurity/Capstone Research and Projects.md",
-    "Cybersecurity/DFIR/Working with VHD.md",
     "Pictures/Pasted image 20231113155922.png",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
@@ -147,8 +149,6 @@
     "Pictures/Pasted image 20230727183734.png",
     "Pictures/Pasted image 20230727183036.png",
     "Pictures/Pasted image 20230727183032.png",
-    "Pictures/Pasted image 20230726170204.png",
-    "Pictures/Pasted image 20230726170137.png",
     "To do.canvas",
     "Untitled.canvas",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001",
