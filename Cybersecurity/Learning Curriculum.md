@@ -7,7 +7,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 [Use this as a Guide for any Blue Team Training](https://d2y9h8w1ydnujs.cloudfront.net/BTL1Syllabus.pdf)
 
 - [x] November - Web Application Security
-- [ ] December - Digital Forensics w/ (Steganography OSINT)
+- [x] December - Digital Forensics w/ (Steganography OSINT)
 - [ ] January -  Cryptography, Network Security
 - [ ] February - Reverse Engineering, Binary Exploitation
 - [ ] March - Pwn(Own), Attacking Machines
@@ -187,6 +187,62 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ## Cryptography
 - [ ] Common Encryption Algorithms 
 - [ ] How to use Hashcat
+- [ ] What is Public Key Encryption?
+### Module 1: Introduction to Cryptography
+
+- **Week 1-2: Basics of Cryptography**
+    - [ ] Historical context and evolution of cryptography
+    - [ ] Fundamental concepts: confidentiality, integrity, availability
+    - [ ] Types of cryptography: symmetric vs. asymmetric
+    - [ ] Substitution ciphers
+    - [ ] transposition ciphers
+    - [ ] Break classical ciphers
+- **Week 3-4: Cryptographic Building Blocks**
+    - [ ] Hash functions and their applications
+    - [ ] Symmetric key encryption algorithms
+	    - [ ] DES
+	    - [ ] AES
+	    - [ ] Hash Functions(MD5, SHA-2, SHA-3)
+	    - [ ] Block vs stream ciphers
+	    - [ ] Modes of operation
+	    - [ ] Cryptographic hash functions vs. non-cryptographic hash functions
+    - [ ] Asymmetric key encryption algorithms
+	    - [ ] RSA Algorithm
+	    - [ ] ElGamal encryption
+	    - [ ] Digital Signatures and their application
+	    - [ ] Basics of elliptic curves
+	    - [ ] ECC vs RSA
+
+### Module 2: Cryptographic Protocols and Applications
+
+- **Week 5-6: Secure Communication Protocols**
+    - [ ] SSL/TLS protocols
+    - [ ] VPNs and their cryptographic foundations
+    - [ ] Email encryption (PGP/GPG)
+- **Week 7-8: Public Key Infrastructure (PKI)**
+    - [ ] Certificate authorities
+    - [ ] X.509 certificates
+    - [ ] Digital signatures and their verification
+
+### Module 3: Cryptanalysis and Attack Techniques
+
+- **Week 9-10: Cryptanalysis Techniques**
+    
+    - [ ] Brute-force attacks
+    - [ ] Frequency analysis
+    - [ ] Differential and linear cryptanalysis
+- **Week 11: Side-Channel Attacks**
+    
+    - [ ] Timing attacks
+    - [ ] Power analysis
+    - [ ] Fault injection attacks
+
+### Module 4: Cryptography in Malware Analysis and CTFs
+
+- **Week 12: Application of Cryptography in Security and CTFs**
+    - [ ] Cryptography in malware communication
+    - [ ] Solving cryptographic challenges in CTFs
+    - [ ] Real-world case studies and practical exercises
 #### Do These Challenges after learning the basics of Cryptography
 - [Cryptography Programming Challenges](https://cryptopals.com/)
 ### Learning Resources
