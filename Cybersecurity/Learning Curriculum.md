@@ -245,11 +245,12 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
     - [ ] Real-world case studies and practical exercises
 #### Do These Challenges after learning the basics of Cryptography
 - [Cryptography Programming Challenges](https://cryptopals.com/)
+- [Krypton Cryptography Wargames](https://overthewire.org/wargames/krypton/)
 ### Learning Resources
 - https://cryptohack.org/ - awesome hands-on introduction to cryptography.
 - https://cryptohack.org/courses/
 ---
-## Reverse Engineering && Exploitation
+## Reverse Engineering Binary Exploitation
 - [ ] Learn about the fetch, decode and execute cycle
 - [ ] What are Registers
 - [ ] How to use ldd
@@ -298,11 +299,11 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 
 
-
-
 #### Do These Challenges before moving on to assembly
 - [C Assignments](https://github.com/h0mbre/Learning-C/tree/master/Assignment-22)
 - [Blue Team Labs Online Reverse Engineering Challenges](https://blueteamlabs.online/home/challenges)
+- [Basic Exploitation](https://overthewire.org/wargames/narnia/)
+- [Unix Stuff](https://overthewire.org/wargames/leviathan/)
 ### Learning Resources
 - [x86-64 Assembly Crash Course](https://pwn.college/cse365-f2023/assembly-crash-course)
 - [Basics of GDB](https://github.com/hoppersroppers/nightmare/blob/master/modules/02-intro_tooling/gdb-gef/readme.md)
@@ -480,6 +481,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [Windows Kernel Rootkit](https://www.codemachine.com/trainings/kerrkt.html)
 #### Resrouces
 - [Go to the 1.0 Threat Management Section](https://www.comptia.jp/pdf/comptia-cybersecurity-analyst-(cs0-001).pdf)
+
+
 
 ## Practice Sites
 - Cyberdefenders.org
