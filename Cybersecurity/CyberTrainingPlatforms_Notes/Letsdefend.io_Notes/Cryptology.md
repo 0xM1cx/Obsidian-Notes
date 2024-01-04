@@ -7,6 +7,25 @@
 ## Cryptanalysis
 “**Cryptanalysis**” is a branch of cryptology that examines the security of crypto algorithms in order to decrypt the encrypted data and tries to find their weaknesses. “Cryptanalysis” tries to detect mathematical vulnerabilities in the crypto algorithm in order to convert ciphertext to plaintext. In other words, it aims to break cryptographic algorithms.
 
+
+## Objectives of Cryptography
+Cryptography serves some purposes, as in every branch of science. Cryptography has tasks to meet the needs that arise over time. 4 principles, which are among the principles of information security, are also valid for cryptography:  
+  
+- [[#Confidentiality]]
+- [[#Integrity]]
+- [[#Authentication]]
+- [[#Non-repudiation]]
+
+### Confidentiality
+Data/information sent over communication devices should not be understood by unauthorized people. Malicious people should not be able to make sense of the data, even if they obtain information that should remain between the parties.
+### Integrity
+The “Integrity” principle, one of the information security principles, tells us that in such a case we have to verify that the data is not cryptographically compromised. While designing algorithms in cryptography, algorithm design should be done by considering data integrity.
+### Non-repudiation
+
+
+### Authentication
+
+
 ## What is Encoding/Decoding?
 
 “**Encoding**” is often confused with encryption as a concept. In fact, the two terms are used for very different purposes. *Encoding* is the process of converting data into a specific character set form. Unlike encryption algorithms, it is a conversion algorithm that is used without using key values ​​and without security concerns. There is also the opposite of the encoding process. For example, one of the most frequently used encoding algorithms is the "base64" algorithm. “Decoding” is the opposite of encoding algorithms. The encoded data with the decoding process will turn into previous data.

@@ -13,4 +13,7 @@
 ## S.M.A.R.T Objectives
 
 ## Titles
-1. **Precise Monitoring System for Soil Disinfection using Internet of Things**
+	1. **Precise Monitoring System for Soil Disinfection using Internet of Things**
+1. **Design a tool for detecting fraudulent financial transactions.**
+2. **Create a financial fraud prediction model using machine learning.**
+3. **Design a biometric authentication system for smart homes.**
