@@ -161,6 +161,25 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ## Network Security
 - [ ] DNS Hierarchy
 - [ ] How to analyze a packet
+- [ ] Types of attackers and their motivations
+- [ ] What are digital signatures
+- [ ] Public Key Infrastructure
+- [ ] DES, AES, RSA, ECC
+- [ ] Key management and exchange
+- [ ] Defense-in-depth strategy
+- [ ] Packet filtering vs. stateful inspection
+- [ ] Intrusion Detection Systems and Intrusion Prevention Systems
+- [ ] Single Sign-On (SSO)
+- [ ] S/MIME, PGP
+- [ ] Role-based access control (RBAC) and Access Control
+- [ ] IPSec, SSL/TLS
+- [ ] VPN types: Site-to-Site, Remote Access
+- [ ] WEP, WPA, WPA2, WPA3
+- [ ] 802.1X and EAP
+- [ ] Configuring ACLs
+- [ ] VLAN security
+- [ ] Web proxies
+- [ ] Content filtering techniques
 - [ ] How to analyze a Network
 - [ ] Learn about Secure Network Architecture
 - [ ] What is and how to use NMAP
