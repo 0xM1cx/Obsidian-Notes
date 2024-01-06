@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Writeups/Digital Signatures & Digital Certificates.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,10 +112,12 @@
   },
   "active": "5257037489108b75",
   "lastOpenFiles": [
+    "Cybersecurity/Learning Curriculum.md",
+    "Writeups/Digital Signatures & Digital Certificates.md",
+    "Writeups/FAT, exFAT, NTFS. What are those.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/SOC.md",
     "I.T. Projects/Research.md",
-    "Cybersecurity/Learning Curriculum.md",
     "Finance/Shopping List.md",
     "I.T Resources.md",
     "Writeups/Freelance Stuff.md",
@@ -131,7 +133,6 @@
     "Writeups/LetsDefend.md",
     "Pictures/Pasted image 20240102213549.png",
     "Pictures/Pasted image 20240102212923.png",
-    "Writeups/FAT, exFAT, NTFS. What are those.md",
     "Writeups/How to write an Effective Blog.md",
     "Pasted image 20220427140248.png.md",
     "Cybersecurity/DFIR/DFIR Syllabus.md",
@@ -142,7 +143,6 @@
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssFive.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal Main.md",
     "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssTwo.md",
-    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssThree.md",
     "Pictures/Pasted image 20231113155922.png",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",

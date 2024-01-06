@@ -162,7 +162,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] DNS Hierarchy
 - [ ] How to analyze a packet
 - [ ] Types of attackers and their motivations
-- [ ] What are digital signatures
+- [x] What are digital signatures
 - [ ] Public Key Infrastructure
 - [ ] DES, AES, RSA, ECC
 - [ ] Key management and exchange
@@ -206,14 +206,14 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ## Cryptography
 - [ ] Common Encryption Algorithms 
 - [ ] How to use Hashcat
-- [ ] What is Public Key Encryption?
+- [x] What is Public Key Encryption?
 ### Module 1: Introduction to Cryptography
 
 - **Week 1-2: Basics of Cryptography**
-    - [ ] Historical context and evolution of cryptography
-    - [ ] Fundamental concepts: confidentiality, integrity, availability
-    - [ ] Types of cryptography: symmetric vs. asymmetric
-    - [ ] Substitution ciphers
+    - [x] Historical context and evolution of cryptography
+    - [x] Fundamental concepts: confidentiality, integrity, availability
+    - [x] Types of cryptography: symmetric vs. asymmetric
+    - [x] Substitution ciphers
     - [ ] transposition ciphers
     - [ ] Break classical ciphers
 - **Week 3-4: Cryptographic Building Blocks**
@@ -440,11 +440,11 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 ## Hardware Security
 ### Module 1: Introduction to Embedded Systems
-- [ ] Definition and characteristics of embedded Systems
-- [ ] Examples of embedded systems in real-world applications
+- [x] Definition and characteristics of embedded Systems
+- [x] Examples of embedded systems in real-world applications
 - [ ] Microcontrollers vs Microprocessors
-- [ ] Memory Hierarchy(RAM, ROM, Flash)
-- [ ] I/O devices and interfaces
+- [x] Memory Hierarchy(RAM, ROM, Flash)
+- [x] I/O devices and interfaces
 - [ ] Embedded System Development Process
 	- [ ] Requirement Analysis
 	- [ ] System Design
