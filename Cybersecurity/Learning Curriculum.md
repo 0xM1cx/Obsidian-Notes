@@ -214,7 +214,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
     - [x] Fundamental concepts: confidentiality, integrity, availability
     - [x] Types of cryptography: symmetric vs. asymmetric
     - [x] Substitution ciphers
-    - [ ] transposition ciphers
+    - [x] transposition ciphers
     - [ ] Break classical ciphers
 - **Week 3-4: Cryptographic Building Blocks**
     - [ ] Hash functions and their applications

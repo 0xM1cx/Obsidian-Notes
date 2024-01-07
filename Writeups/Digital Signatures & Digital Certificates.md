@@ -16,3 +16,4 @@ A digital signature is cryptographic technique that provides a way to verify the
 
 
 ## What are Digital Certificate
+A Digital Certificate is a cryptographic security mechanism used to verify the authenticity of digital messages or documents. It serves as a way to confirm the identity of the sender or the owner of a particular public key, and it also ensures that the associated public key has not been tampered with during transmission.

@@ -9,11 +9,13 @@
 ## Problems OR Goals
 1. Soil Disinfection
 2. Create a tool for recovering data.
+3. Precise Monitoring System for Soil Disinfection using Internet of Things
+4. Design a tool for detecting fraudulent financial transactions.
+5. Create a financial fraud prediction model using machine learning.
+6. Design a biometric authentication system for smart homes.
 ## Reworded
 ## S.M.A.R.T Objectives
 
 ## Titles
-	1. **Precise Monitoring System for Soil Disinfection using Internet of Things**
-1. **Design a tool for detecting fraudulent financial transactions.**
-2. **Create a financial fraud prediction model using machine learning.**
-3. **Design a biometric authentication system for smart homes.**
+1. "Smart Greenhouses: Integrating IoT for Enhanced Botanical Science Solutions"
+2. 
