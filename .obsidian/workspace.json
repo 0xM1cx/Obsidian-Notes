@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -111,10 +112,10 @@
   },
   "active": "5257037489108b75",
   "lastOpenFiles": [
+    "Cybersecurity/Learning Curriculum.md",
     "I.T. Projects/Research.md",
     "I.T. Projects/Basic Network Scanner.md",
     "Writeups/Digital Signatures & Digital Certificates.md",
-    "Cybersecurity/Learning Curriculum.md",
     "Writeups/FAT, exFAT, NTFS. What are those.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/SOC.md",

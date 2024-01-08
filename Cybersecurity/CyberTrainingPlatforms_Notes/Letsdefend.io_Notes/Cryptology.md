@@ -62,3 +62,30 @@ An entirely different type of cryptosystem was introduced in 1976 by *Whitfield 
 - Post-Quantum Cryptography algorithms (e.g., code-based, hash-based, lattice-based, multivariate polynomial, etc.)
 ### Protocols
 Cryptographic protocols deal with the implementation of cryptographic algorithms. Symmetric and asymmetric crypto algorithms are used in the security infrastructure of many software. An example of the protocols in which these algorithms are applied is the "Transport Layer Security (TLS)" protocol. In this type of cryptographic protocol, symmetric and asymmetric crypto algorithms are generally used together. This is called “Hybrid Schemes”. The reason for using both types of algorithms is that each has its strengths and weaknesses.
+
+
+
+## Random Number Generator
+In cryptography, there are many criteria for the algorithm to be secure. One of these criteria is related to the randomness of key generation. For a crypto algorithm to be strong in cryptography, it is important that the key is long enough and random.
+
+Three types of Random Number Generator:
+- [[#True Random Number Generators(TRNG)]]
+- [[#Pseudorandom Number Generators(PRNG)]]
+- [[#Cryptographically Secure Pseudorandom Number Generators(CSPRNG)]]
+### True Random Number Generators(TRNG)
+- This is a method that generates random numbers based on real physical operations. An example of this type of random number generation is a coin flip or a dice toss. 
+- Although it is an effective method in terms of randomness, it is not a preferred method in terms of applicability and speed. 
+### Pseudorandom Number Generators(PRNG)
+- This method needs an initial random value to ensure randomness. This value is called **Seed**. This value can come from the TRNG method. It generates random numbers step by step according to some mathematical calculations over this first value. By applying the same mathematical calculations recursively, a number is generated at each step.
+- Compared to the TRNG method, its application in practice is much easier and faster. But it is not secure and unpredictable enough for use in cryptography. Because if the first value is determined, it is not possible to talk about completely random values, since the value calculated in each step will be the same every time.
+### Cryptographically Secure Pseudorandom Number Generators(CSPRNG)
+- This is an unpredictable variant of PRNG. As in this method, it is not possible to predict and calculate the next value(0 or 1 bit) to be produced mathematically. 
+- This method frequently used in software testing, but CSPRNG is a cryptography specific method.
+
+## Base64 Encoding/Decoding
+“Base32” and “Base64” are methods of representing binary data with a specific character set based on “ASCII”. In other words, it is a data representation method.
+
+**ASCII (American Standard Code for Information Interchange):** ASCII format is a table that emerged in the name of digital systems having a common numerical value between characters. In this way, the binary equivalent of a character is the same in all electronic systems.
+
+> Attackers use the "Base32" encoding method for data exfiltration with the DNS protocol. It often indicates an abnormal situation when SOC analysts see data transmitted in "Base32" format, especially in queries related to DNS requests.
+
