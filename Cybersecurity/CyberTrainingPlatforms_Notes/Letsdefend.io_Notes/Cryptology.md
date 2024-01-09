@@ -89,3 +89,7 @@ Three types of Random Number Generator:
 
 > Attackers use the "Base32" encoding method for data exfiltration with the DNS protocol. It often indicates an abnormal situation when SOC analysts see data transmitted in "Base32" format, especially in queries related to DNS requests.
 
+## Uses and Features
+**Base32** and **Base64** is an encoding method that allows sending text-based data to systems that process binary data type. In this encoding method, all data can be kept without data loss. It is an effective method to avoid some characters that may cause problems in the target system.
+
+The numbers 32 and 64 indicate the total number of characters in the character set. For example, the character set in the base64 encoding method includes both lowercase and uppercase letters and numbers. The character set of base32 encoding method does not include lowercase letters and some numbers. 
