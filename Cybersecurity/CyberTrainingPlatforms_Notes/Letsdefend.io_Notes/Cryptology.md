@@ -1,4 +1,7 @@
+```toc
+```
 **Cryptology** is the science of secure communication, it is the science for researching and designing cryptographic algorithms to ensure security in the digital space. It is based on encryption and decryption. . Cryptology science is a very broad science and is divided into 2 itself: "Cryptography" and "Cryptanalysis".
+
 
 ## Cryptography
 “**Cryptography**” is the whole of the techniques used to transform the transmitted information into a form that cannot be understood by unauthorized people. Cryptography includes mathematical methods that try to provide the basic objectives of information security such as confidentiality, integrity, authentication, and non-repudiation.
@@ -100,23 +103,23 @@ The numbers 32 and 64 indicate the total number of characters in the character s
 
 ### Base64 Encoding Logic
 Below is the step-by-step base64 encoding, explained in detail with an example:  
-## Step 1
+#### Step 1
 
 First, the data to be given to the base64 encoding algorithm is selected. A text has been chosen for clarity: “base64”  
 
-## Step 2
+#### Step 2
 Since bit-based operations will be done, "base64" text is converted to binary:  
 **Binary:** 01100010 01100001 01110011 01100101 00110110 00110100  
 
 The following address can be used for this process:  
 **Online Converter:** https://www.asciitohex.com/  
 
-## Step 3
+#### Step 3
 
 Data converted to binary format is divided into 6-bits, respectively:  
 
 ![](https://letsdefend.io/images/training/cryptography/8.Base64%20EncodingDecoding/base3.png)
-## Step 4
+#### Step 4
 
 Each bit sequence separated as 6-bit is found in the base64 encoding table, and the characters are ordered consecutively:  
 
@@ -163,8 +166,24 @@ The browser uses its own list of certificate authorities to verify certificates.
 1. The user send a request to the server
 2. The server sends it public key to the user along with its own SSL/TLS certificate.
 3. The user's browser checks and verifies whether the sent certificate is valid.
-4. The user's browser generates a randomly generated symmetric key and encrypts this symmetric key with the public key send by the server and sends it to the server.
+4. The user's browser generates a randomly generated symmetric key and encrypts this symmetric key with the public key sent by the server and sends it to the server.
 5. The server decrypts the encrypted symmetric key with the private key and the symmetric key is sent to the server in a secure manner.
 6. From this stage onwards, the server encrypts every data to be sent to the user's browser using this symmetric key.
 7. Since the user has this symmetric key, he decrypts the incoming encrypted data with the symmetric key and displays the page securely. 
 ![[ssl7.png]]
+
+## Cryptographic Attacks
+Cryptanalysis is a branch of science that falls under cryptology. Those interested in this branch of science test the reliability of crypto algorithms designed by cryptography experts.
+
+By discovering attack methods specific to the Crypto algorithm, the weakness in the algorithm is exploited and the reliability of the crypto algorithm is tested in this way. Cryptanalysis is basically examined under 3 headings:  
+- [[#Classical Cryptanalysis]]
+- [[#Implementation Attacks]]
+- [[#Social Engineering]]
+![[attack1.png]]
+
+### Classical Cryptanalysis
+Classical cryptanalysis tries to obtain the plaintext from the ciphertext or to obtain the key from the ciphertext. Simple methods are used when finding the weakness of the crypto algorithm. Structural weaknesses of the Crypto algorithm can be used or all possibilities can be tried with brute-force techniques. 
+#### Brute-force attacks
+
+### Implementation Attacks
+### Social Engineering

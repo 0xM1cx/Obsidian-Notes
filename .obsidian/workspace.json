@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,13 +112,14 @@
   },
   "active": "5257037489108b75",
   "lastOpenFiles": [
+    "Pictures/attack1.png",
+    "Cybersecurity/Learning Curriculum.md",
     "desktop.ini",
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
     "Pictures/ssl7.png",
     "Pictures/ssl6.png",
     "Pictures/ssl2.png",
-    "Cybersecurity/Learning Curriculum.md",
     "Pictures/Pasted image 20240112102728.png",
     "Pictures/hash6.png",
     "Pictures/Pasted image 20240112093017.png",
@@ -158,7 +159,6 @@
     "DSA",
     "Finance",
     "EVSU/2nd-Year/1st-Sem/DSA",
-    "EVSU/2nd-Year/1st-Sem/Intro-Net",
-    "EVSU/2nd-Year/1st-Sem/Web-Sys"
+    "EVSU/2nd-Year/1st-Sem/Intro-Net"
   ]
 }
