@@ -51,13 +51,13 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] Introduction to Web Security
 - [x] Intro to the HTTP protocol
 - [x] How does a web session work
-- [ ] Cross-Site Scripting (XSS) Lecture
+- [x] Cross-Site Scripting (XSS) Lecture
 - [ ] How to and Do some Cross-Site Scripting (XSS) Challenges
 - [x] SQL Injection Lecture
 - [ ] How to and Do some SQL Injection Challenges
 - [x] How does Command Injection Work and Do some challenges
 - [ ] How does Cross-Site Request Forgery(CSRF) work and do some challenges
-- [ ] How does Session Hijacking Work
+- [x] How does Session Hijacking Work
 - [ ] JSON Web Tokens
 - [x] Cookie Based Authentication
 - [x] File Inclusion Vulnerabilities
@@ -68,7 +68,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] What is HTTP Basic Authentication
 - [x] Content discovery, How to discover hidden/private content in a webserver
 - [x] How does Insecure Direct Object Reference(IDOR)
-- [ ] Research about OWASP Top 10 vulnerabilities
+- [x] Research about OWASP Top 10 vulnerabilities
 #### Learning Resources
 - [ ] https://www.hacksplaining.com/lessons
 #### Notes
@@ -156,11 +156,13 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 #### Resources
 - [Stego Checklist](https://stegonline.georgeom.net/checklist)
+- [Windows Forensics handbook via gitbook](https://psmths.gitbook.io/windows-forensics/)
 
 ---
 ## Network Security
 - [ ] DNS Hierarchy
-- [ ] How to analyze a packet
+- [ ] Intrusion Detection System & Intrusion prevention system
+- [x] How to analyze a packet
 - [ ] Types of attackers and their motivations
 - [x] What are digital signatures
 - [ ] Public Key Infrastructure
@@ -437,6 +439,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [Letsdefend Learn](https://app.letsdefend.io/training)
 - [Letsdefend Practice Scenario of Being a analyst](https://app.letsdefend.io/monitoring)
 - [Letsdefend Challenges and Blue Team CTF](https://app.letsdefend.io/challenge)
+- [Checklist of things to learn](https://d2y9h8w1ydnujs.cloudfront.net/BTL1Syllabus.pdf)
 
 ## Hardware Security
 ### Module 1: Introduction to Embedded Systems
