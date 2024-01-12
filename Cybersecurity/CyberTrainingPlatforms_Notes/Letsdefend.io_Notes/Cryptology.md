@@ -3,7 +3,7 @@
 ## Cryptography
 “**Cryptography**” is the whole of the techniques used to transform the transmitted information into a form that cannot be understood by unauthorized people. Cryptography includes mathematical methods that try to provide the basic objectives of information security such as confidentiality, integrity, authentication, and non-repudiation.
 ![[basics3.png]]
-
+		
 ## Cryptanalysis
 “**Cryptanalysis**” is a branch of cryptology that examines the security of crypto algorithms in order to decrypt the encrypted data and tries to find their weaknesses. “Cryptanalysis” tries to detect mathematical vulnerabilities in the crypto algorithm in order to convert ciphertext to plaintext. In other words, it aims to break cryptographic algorithms.
 
@@ -93,3 +93,78 @@ Three types of Random Number Generator:
 **Base32** and **Base64** is an encoding method that allows sending text-based data to systems that process binary data type. In this encoding method, all data can be kept without data loss. It is an effective method to avoid some characters that may cause problems in the target system.
 
 The numbers 32 and 64 indicate the total number of characters in the character set. For example, the character set in the base64 encoding method includes both lowercase and uppercase letters and numbers. The character set of base32 encoding method does not include lowercase letters and some numbers. 
+
+- **Base64 character set:** 26 lowercase + 26 uppercase + 10 digits + “/” sign + “+” sign = 64 characters 
+- **Base32 character set:** 26 uppercase letters + 6 digits = 32 characters
+![[Pasted image 20240109225446.png]]![[Pasted image 20240109225505.png]]
+
+### Base64 Encoding Logic
+Below is the step-by-step base64 encoding, explained in detail with an example:  
+## Step 1
+
+First, the data to be given to the base64 encoding algorithm is selected. A text has been chosen for clarity: “base64”  
+
+## Step 2
+Since bit-based operations will be done, "base64" text is converted to binary:  
+**Binary:** 01100010 01100001 01110011 01100101 00110110 00110100  
+
+The following address can be used for this process:  
+**Online Converter:** https://www.asciitohex.com/  
+
+## Step 3
+
+Data converted to binary format is divided into 6-bits, respectively:  
+
+![](https://letsdefend.io/images/training/cryptography/8.Base64%20EncodingDecoding/base3.png)
+## Step 4
+
+Each bit sequence separated as 6-bit is found in the base64 encoding table, and the characters are ordered consecutively:  
+
+![](https://letsdefend.io/images/training/cryptography/8.Base64%20EncodingDecoding/base4.png)
+![](https://letsdefend.io/images/training/cryptography/8.Base64%20EncodingDecoding/base5.png) 
+**Encoded Data** = YMFzZTY0
+
+## Hash Functions
+- Hash functions are a special type of function that performs certain operations mathematically and in computer science, which operates on bits. Hash functions are not encryption/decryption algorithms. Therefore, the hash function does not need a key to perform operations.
+- The length of the input can be variable while the length of the hash is fixed length
+- The reliability of the hash function depends on producing different hashes for different inputs. For example, if two different inputs cause the same hash, as in the image below, the hash function loses its reliability. The situation where two different inputs produce the same hash is called "**collision**".
+![[Pasted image 20240112093017.png]]
+
+### Purpose of using hash
+- The hash produced as a result of the hash function can be used as the digital identity of the data. For example, hash values are used to distinguish malware. You get information about malware when you query the hash of the malware in known large-scale malware archive 
+- Hash function can be used for integrity check. If a problem has occurred in the transmission of the data or file and there has been a change in the bits of the file/data, hashes are used to understand this. 
+- Passwords are kept in the form of hashes on windows and linux systems. Hash functions are unidirectional. Being one-way means that the input given to the hash function cannot be obtained over the hash. I.e, you cannot decode the hash
+
+## Digital Signatures
+A digital signature is a cryptographic feature that allows verifying who sent and signed data in the digital environment. The requirements of the "Non-repudiation" principle included in the previous topics in the training are fulfilled with a digital signature.
+
+In the Windows operating system, files with the extension "exe" have a digital signature. Thanks to this signature, it is possible to see which company or who signed the file and verify it.
+
+In digital signing algorithms, 2 different keys are used for signing and signature verification: “public key” and “private key”. A private key is a personal key used in signing. The reason why this key is used in the signing process and kept secret is that it can be signed on behalf of the owner of the key. The public key, on the other hand, is used to verify signatures that are shared publicly and signed with a private key.
+
+![[Pasted image 20240112102728.png]]
+
+## SSL/TLS Protocol
+The SSL/TLS protocol is a protocol designed for secure two-party communication in computer networks. SSL/TLS protocol is a protocol that is frequently used in e-mail, instant messaging, web applications and VoIP applications. It ensures that the communication between the parties remains confidential. The SSL/TLS protocol has 3 main purposes:  
+  
+- **Encryption:** It allows to hide data from parties other than the 2 communicating parties.
+- **Authentication:** It allows to verify that both parties that want to provide secure communication are the correct parties.
+- **Integrity:** It ensures that the outgoing data has not been changed between the 2 parties with which secure communication is provided.
+![[ssl2.png]]
+
+The SSL/TLS protocol uses certificates. Certificates are important to ensure secure communication. It is actually SSL/TLS certificates that enable encrypted traffic to occur by using HTTPS instead of HTTP on the browser.
+
+SSL/TLS certificate is a data file on the server. The client uses the server's certificate to verify the identity of the server and to get the public key from the server to be used in communication with the server.
+
+The browser uses its own list of certificate authorities to verify certificates. If the certificate of the connected server does not belong to a trusted certificate authority, the browser considers it insecure and warns the user.
+![[ssl6.png]]
+
+### How does SSL/TLS Principle Work?
+1. The user send a request to the server
+2. The server sends it public key to the user along with its own SSL/TLS certificate.
+3. The user's browser checks and verifies whether the sent certificate is valid.
+4. The user's browser generates a randomly generated symmetric key and encrypts this symmetric key with the public key send by the server and sends it to the server.
+5. The server decrypts the encrypted symmetric key with the private key and the symmetric key is sent to the server in a secure manner.
+6. From this stage onwards, the server encrypts every data to be sent to the user's browser using this symmetric key.
+7. Since the user has this symmetric key, he decrypts the incoming encrypted data with the symmetric key and displays the page securely. 
+![[ssl7.png]]

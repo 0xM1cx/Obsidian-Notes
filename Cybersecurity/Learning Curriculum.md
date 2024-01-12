@@ -204,7 +204,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 ---
 ## Cryptography
-- [ ] Common Encryption Algorithms 
+- [x] Common Encryption Algorithms 
 - [ ] How to use Hashcat
 - [x] What is Public Key Encryption?
 ### Module 1: Introduction to Cryptography
@@ -217,11 +217,11 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
     - [x] transposition ciphers
     - [ ] Break classical ciphers
 - **Week 3-4: Cryptographic Building Blocks**
-    - [ ] Hash functions and their applications
+    - [x] Hash functions and their applications
     - [ ] Symmetric key encryption algorithms
 	    - [ ] DES
 	    - [ ] AES
-	    - [ ] Hash Functions(MD5, SHA-2, SHA-3)
+	    - [x] Hash Functions(MD5, SHA-2, SHA-3)
 	    - [ ] Block vs stream ciphers
 	    - [ ] Modes of operation
 	    - [ ] Cryptographic hash functions vs. non-cryptographic hash functions
@@ -239,7 +239,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
     - [ ] VPNs and their cryptographic foundations
     - [ ] Email encryption (PGP/GPG)
 - **Week 7-8: Public Key Infrastructure (PKI)**
-    - [ ] Certificate authorities
+    - [x] Certificate authorities
     - [ ] X.509 certificates
     - [ ] Digital signatures and their verification
 

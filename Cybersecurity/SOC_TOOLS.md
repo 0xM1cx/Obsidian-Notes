@@ -36,4 +36,7 @@
 ## OSINT TOOLS
 - [Getting Info From Phone Numbers](https://medium.com/system-weakness/track-anyone-with-just-a-phone-number-osint-investigation-a7f50f5f660d)
 - [Google Hacking](https://pentest-tools.com/information-gathering/google-hacking?utm_medium=tools&utm_content=education&utm_source=website&utm_campaign=resourcekits)
-- 
+
+
+## DFIR TOOLS
+- https://unlocktool.net/
