@@ -184,6 +184,14 @@ By discovering attack methods specific to the Crypto algorithm, the weakness in 
 ### Classical Cryptanalysis
 Classical cryptanalysis tries to obtain the plaintext from the ciphertext or to obtain the key from the ciphertext. Simple methods are used when finding the weakness of the crypto algorithm. Structural weaknesses of the Crypto algorithm can be used or all possibilities can be tried with brute-force techniques. 
 #### Brute-force attacks
+The attacker tries to determine the correct key value by trying all possible key possibilities on encrypted data he has captured. By checking whether the data obtained as a result of each key attempt is meaningful, he can understand whether he has obtained the key.
+
+If the length of the key is not long enough and the attacker has the processing power to do this attack, it may be possible to obtain the key in a short time. In order to prevent such attacks cryptographically, the length of the key value of the crypto algorithm should be such that it cannot be found by brute-force techniques.
+
+#### Letter Frequency Analysis
 
 ### Implementation Attacks
+Implementation attacks are an advanced type of attack that requires technical knowledge to implement. For example, obtaining the secret key according to the measurement of the electrical power consumption of the processor using the secret key is such an attack. 
+
+In such an attack, it may be possible to obtain the secret key with signal processing techniques by following the power. In other words, such attacks are called **"Side Channel Attacks"** - is any attack based on extra information that can be gathered because of the fundamental way a [computer protocol](https://en.wikipedia.org/wiki/Computer_protocol "Computer protocol") or [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") is [implemented](https://en.wikipedia.org/wiki/Implementation#Computer_science "Implementation"), rather than flaws in the design of the protocol or algorithm itself.
 ### Social Engineering

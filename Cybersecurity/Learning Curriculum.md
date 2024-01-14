@@ -199,6 +199,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Social Engineering (Host & Network Penetration Testing)
 #### Do these challenges
 - https://www.vulnhub.com/
+- [List of things to learn for eJPT](https://medium.com/@polygonben/ejpt-a-guide-on-how-to-pass-first-time-f8cec3f79a73)
 #### Tools to learn
 - [ ] Zeek
 - [ ] Wireshark
