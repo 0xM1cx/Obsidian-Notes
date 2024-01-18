@@ -18,3 +18,16 @@
 - Searchcode
 - SpiderFoot
 - Babel X
+
+### Passive Recon tools
+- [Hunter.io](https://hunter.io/)
+- [Checkusernames](https://checkusernames.com/)
+- [WhatsMyName](https://whatsmyname.app/)
+- [Namecheckup](https://namecheckup.com/)
+#### Sub domains
+- [sublister](https://github.com/aboul3la/Sublist3r)
+- [nm mapper](https://www.nmmapper.com/)
+- [DNS Dumpster](https://dnsdumpster.com/)
+- [fullhunt](https://fullhunt.io/)
+- [netlas](https://netlas.io/)
+- 
