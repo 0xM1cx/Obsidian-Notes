@@ -332,6 +332,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - https://exploit.education/
 - [Open Security: Introduction to GDB](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1012_GDB_1+2021_v1/courseware/769676b3dc9a4af8838261090e69fa8c/553a2d118bb243ee9c1f39492bdc458e/?child=first)
 - [LetsDefend Malware Analysis and RE](https://app.letsdefend.io/training)
+- [Intro Malware Analysis Part 1 | Blog](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/?fbclid=IwAR3PWi_zFkuETgn0nc6kj9vZN6UAkF9WTdm8hxkBzbmA2UHWFBkepluec1I)
+- [Intro to Malware Analysis Part 2 | Blog](https://intezer.com/blog/incident-response/malware-reverse-engineering-for-beginners-part-2/?fbclid=IwAR3QYD20wCg-tHbr9EmJACRkHm4O6pP0t-qhhiP4SZfXH44IRfcgKVTE_XA)
 
 ---
 ## Security Analyst, Security+
