@@ -145,9 +145,9 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [[Windows Architecture]]
 
 #### Tools to learn
-- [ ] xxd
-- [ ] Binwalk
-- [ ] Steghide
+- [x] xxd
+- [x] Binwalk
+- [x] Steghide
 - [ ] fcrackzip
 - [ ] FTK
 - [ ] Autopsy
@@ -202,7 +202,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [List of things to learn for eJPT](https://medium.com/@polygonben/ejpt-a-guide-on-how-to-pass-first-time-f8cec3f79a73)
 #### Tools to learn
 - [ ] Zeek
-- [ ] Wireshark
+- [x] Wireshark
 - [ ] Brim Security
 
 ---
@@ -324,8 +324,10 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 #### Do These Challenges before moving on to assembly
 - [C Assignments](https://github.com/h0mbre/Learning-C/tree/master/Assignment-22)
 - [Blue Team Labs Online Reverse Engineering Challenges](https://blueteamlabs.online/home/challenges)
+- [Learn DSA, use C for practice](https://www.educative.io/courses/visual-introduction-to-algorithms/what-is-an-algorithm-and-why-should-you-care)
 - [Basic Exploitation](https://overthewire.org/wargames/narnia/)
 - [Unix Stuff](https://overthewire.org/wargames/leviathan/)
+- [Complete this master C programiz interactive course](https://app.programiz.pro/course-content/learn-c-programming)
 ### Learning Resources
 - [x86-64 Assembly Crash Course](https://pwn.college/cse365-f2023/assembly-crash-course)
 - [Basics of GDB](https://github.com/hoppersroppers/nightmare/blob/master/modules/02-intro_tooling/gdb-gef/readme.md)

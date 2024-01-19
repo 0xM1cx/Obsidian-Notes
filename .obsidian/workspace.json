@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/IT Security Basis.md",
+                "file": "Writeups/Digital Signatures & Digital Certificates.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9674d7db295dce36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Learning Curriculum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,10 +124,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5257037489108b75",
+  "active": "9674d7db295dce36",
   "lastOpenFiles": [
-    "Cybersecurity/Learning Curriculum.md",
+    "Writeups/Digital Signatures & Digital Certificates.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/IT Security Basis.md",
+    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/OSINT-TOOLS.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "Cybersecurity/SOC_TOOLS.md",
@@ -130,7 +145,6 @@
     "Pictures/Pasted image 20240109225446.png",
     "I.T. Projects/Research.md",
     "I.T. Projects/Basic Network Scanner.md",
-    "Writeups/Digital Signatures & Digital Certificates.md",
     "Writeups/FAT, exFAT, NTFS. What are those.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/SOC.md",
     "Finance/Shopping List.md",
