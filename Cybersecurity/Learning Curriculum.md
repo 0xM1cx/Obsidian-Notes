@@ -39,7 +39,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ---
 ## Basic Skills to learn
 - [x] How to use the Strings tool in Linux
-- [ ] How to use NMAP for mapping a network
+- [x] How to use NMAP for mapping a network
 - [x] How to use ssh
 - [x] How to use wget
 - [x] How to use Burpsuit
@@ -112,8 +112,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] System & Network Forensics
 - [ ] Packet Analysis
 - [ ] Packet headers
-- [ ] How to use Wireshark
-- [ ] How to make a packet using scappy
+- [x] How to use Wireshark
+- [x] How to make a packet using scappy
 
 
 ### Memory Analysis
@@ -238,7 +238,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ### Module 2: Cryptographic Protocols and Applications
 
 - **Week 5-6: Secure Communication Protocols**
-    - [ ] SSL/TLS protocols
+    - [x] SSL/TLS protocols
     - [ ] VPNs and their cryptographic foundations
     - [ ] Email encryption (PGP/GPG)
 - **Week 7-8: Public Key Infrastructure (PKI)**
@@ -250,8 +250,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 - **Week 9-10: Cryptanalysis Techniques**
     
-    - [ ] Brute-force attacks
-    - [ ] Frequency analysis
+    - [x] Brute-force attacks
+    - [x] Frequency analysis
     - [ ] Differential and linear cryptanalysis
 - **Week 11: Side-Channel Attacks**
     
@@ -341,17 +341,17 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ## Security Analyst, Security+
 ### Module 1: Introduction to Cybersecurity
 
-- [ ] Overview of Cybersecurity
-- [ ] Importance of Cybersecurity
+- [x] Overview of Cybersecurity
+- [x] Importance of Cybersecurity
 - [ ] Common Cyber Threats
 - [ ] Cybersecurity Frameworks (NIST, ISO/IEC 27001)
 
 ### Module 2: Networking Fundamentals
 
-- [ ] OSI Model
-- [ ] TCP/IP Protocol Suite
-- [ ] Network Devices and Security
-- [ ] Subnetting and IP Addressing
+- [x] OSI Model
+- [x] TCP/IP Protocol Suite
+- [x] Network Devices and Security
+- [x] Subnetting and IP Addressing
 
 ### Module 3: Operating System Security
 
@@ -377,10 +377,10 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ### Module 6: Cryptography
 
 - [ ] Encryption Algorithms
-- [ ] Hash Functions
+- [x] Hash Functions
 - [ ] Public Key Infrastructure (PKI)
-- [ ] Digital Signatures
-- [ ] Certificate Authorities
+- [x] Digital Signatures
+- [x] Certificate Authorities
 
 ### Module 7: Security Assessment and Penetration Testing
 

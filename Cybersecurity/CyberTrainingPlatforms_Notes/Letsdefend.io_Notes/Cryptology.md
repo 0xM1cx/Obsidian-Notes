@@ -190,6 +190,7 @@ If the length of the key is not long enough and the attacker has the processing 
 
 #### Letter Frequency Analysis
 
+
 ### Implementation Attacks
 Implementation attacks are an advanced type of attack that requires technical knowledge to implement. For example, obtaining the secret key according to the measurement of the electrical power consumption of the processor using the secret key is such an attack. 
 

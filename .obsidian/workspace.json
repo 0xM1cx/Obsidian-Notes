@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,15 +126,15 @@
   },
   "active": "9674d7db295dce36",
   "lastOpenFiles": [
+    "desktop.ini",
+    "Cybersecurity/Learning Curriculum.md",
     "Writeups/Digital Signatures & Digital Certificates.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/IT Security Basis.md",
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/OSINT-TOOLS.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
     "Pictures/attack1.png",
-    "desktop.ini",
     "Pictures/ssl7.png",
     "Pictures/ssl6.png",
     "Pictures/ssl2.png",
@@ -162,7 +162,6 @@
     "Pasted image 20220427140248.png.md",
     "Cybersecurity/DFIR/DFIR Syllabus.md",
     "Cybersecurity/Windows_Malware_Dev.md",
-    "EVSU/2nd-Year/1st-Sem/RIZAL 001/Rizal-AssSeven.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web",
