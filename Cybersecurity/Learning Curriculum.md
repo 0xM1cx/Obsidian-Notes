@@ -21,7 +21,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] Basic Linux Commands
 - [x] Basic Linux Tools Used for CTF
 - [x] Network Fundamentals
-- [ ] Windows Filesystem
+- [x] Windows Filesystem
 - [ ] Linux File system
 - [x] How TCP Handshake works
 - [ ] How Domain Name System works
@@ -94,7 +94,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Windows Architecture
 - [ ] File & Disk Analysis
 - [ ] Learn file systems(FAT, exFAT, NTFS)
-- [ ] Windows File System
+- [x] Windows File System
 - [ ] How to use Foremost
 - [ ] Understanding Windows Process Structure
 - [ ] Windows Security Models
@@ -165,26 +165,26 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] How to analyze a packet
 - [ ] Types of attackers and their motivations
 - [x] What are digital signatures
-- [ ] Public Key Infrastructure
+- [x] Public Key Infrastructure
 - [ ] DES, AES, RSA, ECC
 - [ ] Key management and exchange
-- [ ] Defense-in-depth strategy
+- [x] Defense-in-depth strategy
 - [ ] Packet filtering vs. stateful inspection
 - [ ] Intrusion Detection Systems and Intrusion Prevention Systems
 - [ ] Single Sign-On (SSO)
 - [ ] S/MIME, PGP
 - [ ] Role-based access control (RBAC) and Access Control
 - [ ] IPSec, SSL/TLS
-- [ ] VPN types: Site-to-Site, Remote Access
+- [x] VPN types: Site-to-Site, Remote Access
 - [ ] WEP, WPA, WPA2, WPA3
 - [ ] 802.1X and EAP
 - [ ] Configuring ACLs
 - [ ] VLAN security
 - [ ] Web proxies
 - [ ] Content filtering techniques
-- [ ] How to analyze a Network
+- [x] How to analyze a Network
 - [ ] Learn about Secure Network Architecture
-- [ ] What is and how to use NMAP
+- [x] What is and how to use NMAP
 - [ ] Learn In-dept about the structure of the Packet
 - [ ] GPS Spoofing
 - [ ] Information Gathering (Assessment Methodologies)
@@ -218,7 +218,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
     - [x] Types of cryptography: symmetric vs. asymmetric
     - [x] Substitution ciphers
     - [x] transposition ciphers
-    - [ ] Break classical ciphers
+    - [x] Break classical ciphers
 - **Week 3-4: Cryptographic Building Blocks**
     - [x] Hash functions and their applications
     - [ ] Symmetric key encryption algorithms
@@ -272,7 +272,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - https://cryptohack.org/ - awesome hands-on introduction to cryptography.
 - https://cryptohack.org/courses/
 ---
-## Reverse Engineering Binary Exploitation
+## Reverse Engineering & Binary Exploitation
 - [ ] Learn about the fetch, decode and execute cycle
 - [ ] What are Registers
 - [ ] How to use ldd
@@ -322,7 +322,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 
 #### Do These Challenges before moving on to assembly
-- [C Assignments](https://github.com/h0mbre/Learning-C/tree/master/Assignment-22)
+- [C Assignments](https://github.com/h0mbre/Learning-C/tree/master/Assignment-22)i
+- [Basic DSA in C](https://olympus.mygreatlearning.com/courses/14560/pages/linked-list?module_item_id=647846)
 - [Blue Team Labs Online Reverse Engineering Challenges](https://blueteamlabs.online/home/challenges)
 - [Learn DSA, use C for practice](https://www.educative.io/courses/visual-introduction-to-algorithms/what-is-an-algorithm-and-why-should-you-care)
 - [Basic Exploitation](https://overthewire.org/wargames/narnia/)

@@ -189,6 +189,7 @@ The attacker tries to determine the correct key value by trying all possible key
 If the length of the key is not long enough and the attacker has the processing power to do this attack, it may be possible to obtain the key in a short time. In order to prevent such attacks cryptographically, the length of the key value of the crypto algorithm should be such that it cannot be found by brute-force techniques.
 
 #### Letter Frequency Analysis
+If an encryption method is used as a substitution cipher instead of a Caesar cipher in the form of a different letter for each letter, an attack method that is more effective than a brute-force attack can be used: “Letter Frequency Analysis”. This analytical method makes it possible to obtain the plaintext using the weaknesses of the crypto algorithm. In the substitution cipher, each letter corresponds to a fixed letter. This reveals an analytical weakness. For example, one of the most used letters in English is statistically the letter "E" (about 13%). The second most used letter is the letter "T" (about 9%). If a letter analysis is made in the encrypted text, which is in the hands of the attacker, it can be easily seen how much each letter is.
 
 
 ### Implementation Attacks
@@ -196,3 +197,6 @@ Implementation attacks are an advanced type of attack that requires technical kn
 
 In such an attack, it may be possible to obtain the secret key with signal processing techniques by following the power. In other words, such attacks are called **"Side Channel Attacks"** - is any attack based on extra information that can be gathered because of the fundamental way a [computer protocol](https://en.wikipedia.org/wiki/Computer_protocol "Computer protocol") or [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") is [implemented](https://en.wikipedia.org/wiki/Implementation#Computer_science "Implementation"), rather than flaws in the design of the protocol or algorithm itself.
 ### Social Engineering
+This methods can be used to obtain the secret key necessary to obtain an encrypted text. Bribery, blackmail, and classical espionage methods can be given as examples. Using force to learn the secret key is also included in these methods. One of the frequently used methods is to persuade the person over the phone. Around a scenario, the attacker can achieve the goal based on a logical reason. For example, an attacker who says he is from the IT department may ask the person for their secret key or direct password for software updates. In order for the attacker to be successful in this attack, it is usually sufficient to convince the other party.
+
+

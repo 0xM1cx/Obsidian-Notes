@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Digital Signatures & Digital Certificates.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9674d7db295dce36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
+                "file": "Cybersecurity/Learning Curriculum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,16 +110,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9674d7db295dce36",
+  "active": "5257037489108b75",
   "lastOpenFiles": [
-    "desktop.ini",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "Cybersecurity/Learning Curriculum.md",
     "Writeups/Digital Signatures & Digital Certificates.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
+    "desktop.ini",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/IT Security Basis.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/OSINT-TOOLS.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "Cybersecurity/SOC_TOOLS.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
     "Pictures/attack1.png",
     "Pictures/ssl7.png",
     "Pictures/ssl6.png",
