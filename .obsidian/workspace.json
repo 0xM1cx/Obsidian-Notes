@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Finance/Terms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -112,8 +111,10 @@
   },
   "active": "5257037489108b75",
   "lastOpenFiles": [
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
+    "Finance/Understanding Financial Statements.md",
+    "Finance/Learning Curriculum - Finance.md",
     "Cybersecurity/Learning Curriculum.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "Writeups/Digital Signatures & Digital Certificates.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
     "desktop.ini",
@@ -147,7 +148,6 @@
     "Writeups/How to write an Effective Blog.md",
     "Pasted image 20220427140248.png.md",
     "Cybersecurity/DFIR/DFIR Syllabus.md",
-    "Cybersecurity/Windows_Malware_Dev.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web",

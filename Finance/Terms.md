@@ -8,3 +8,7 @@
 - **Appreciation** - It means that the value of a financial asset increases over time. 
 - **Comparative Advantage** - is an economy's ability to produce a particular good or service at a lower opportunity cost that it's trading partners. In International Trade, this refers to the products that a country can produce more cheaply or easily than other countries. 
 - **Standard and Poor's(S&P)** - is a company, a leading index provider, and data source of independent credit ratings.
+- **Liquidity** - refers to the ease with which an asset or security can be quickly bought or sold in the market without causing a significant change in its price. It is a measure of how easily an asset can be converted into cash or cash equivalents without incurring a substantial loss in value.
+- **Balance Sheets** - A balance sheet is a financial statement that provides a snapshot of a company's financial position at a specific point in time.
+- **Income Statement** -
+- **Cash Flow Statement** - 
