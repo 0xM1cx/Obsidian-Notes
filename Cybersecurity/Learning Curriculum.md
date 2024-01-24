@@ -160,7 +160,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 ---
 ## Network Security
-- [ ] DNS Hierarchy
+- [x] DNS Hierarchy
 - [ ] Intrusion Detection System & Intrusion prevention system
 - [x] How to analyze a packet
 - [ ] Types of attackers and their motivations
@@ -171,12 +171,12 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] Defense-in-depth strategy
 - [ ] Packet filtering vs. stateful inspection
 - [ ] Intrusion Detection Systems and Intrusion Prevention Systems
-- [ ] Single Sign-On (SSO)
+- [x] Single Sign-On (SSO)
 - [ ] S/MIME, PGP
-- [ ] Role-based access control (RBAC) and Access Control
-- [ ] IPSec, SSL/TLS
+- [x] Role-based access control (RBAC) and Access Control
+- [x] IPSec, SSL/TLS
 - [x] VPN types: Site-to-Site, Remote Access
-- [ ] WEP, WPA, WPA2, WPA3
+- [x] WEP, WPA, WPA2, WPA3
 - [ ] 802.1X and EAP
 - [ ] Configuring ACLs
 - [ ] VLAN security
@@ -204,6 +204,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Zeek
 - [x] Wireshark
 - [ ] Brim Security
+- [ ] Suricata
+- [ ] TCPdump
 
 ---
 ## Cryptography
