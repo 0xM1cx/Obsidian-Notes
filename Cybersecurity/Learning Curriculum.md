@@ -24,7 +24,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] Windows Filesystem
 - [ ] Linux File system
 - [x] How TCP Handshake works
-- [ ] How Domain Name System works
+- [x] How Domain Name System works
 - [x] How HTTP works
 - [x] How cookies work
 - [x] How does Symmetric work
@@ -43,7 +43,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] How to use ssh
 - [x] How to use wget
 - [x] How to use Burpsuit
-- [ ] How to use Regular Expression
+- [x] How to use Regular Expression
 - [ ] How to use John the Ripper
 - [ ] The Metasploit Framework (Host & Network Penetration Testing)
 ---

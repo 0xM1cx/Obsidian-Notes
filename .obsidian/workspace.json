@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Network Log Analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,11 +111,13 @@
   },
   "active": "5257037489108b75",
   "lastOpenFiles": [
+    "Writeups/The problems with Filipinos.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Network Log Analysis.md",
+    "Cybersecurity/Learning Curriculum.md",
     "General-I.T/Operating-Systems/Linux File System.md",
     "Finance/Terms.md",
     "Finance/Understanding Financial Statements.md",
     "Finance/Learning Curriculum - Finance.md",
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "Writeups/Digital Signatures & Digital Certificates.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
@@ -146,8 +148,6 @@
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/OS Command Injection.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Path Traversal.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Server-side request forgery.md",
-    "Writeups/LetsDefend.md",
-    "Writeups/How to write an Effective Blog.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web",
