@@ -340,6 +340,11 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [Intro Malware Analysis Part 1 | Blog](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/?fbclid=IwAR3PWi_zFkuETgn0nc6kj9vZN6UAkF9WTdm8hxkBzbmA2UHWFBkepluec1I)
 - [Intro to Malware Analysis Part 2 | Blog](https://intezer.com/blog/incident-response/malware-reverse-engineering-for-beginners-part-2/?fbclid=IwAR3QYD20wCg-tHbr9EmJACRkHm4O6pP0t-qhhiP4SZfXH44IRfcgKVTE_XA)
 
+### Tools to Learn
+- gdb
+- pwntools
+- [For more tools look at this playbook](https://fareedfauzi.gitbook.io/ctf-playbook/reverse-engineering)
+
 ---
 ## Security Analyst, Security+
 ### Module 1: Introduction to Cybersecurity

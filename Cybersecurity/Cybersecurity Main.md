@@ -44,3 +44,13 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 
 ## Misc
 - [[Capstone Research and Projects]]
+
+
+## CTF Platforms
+- letsdefend.io
+- cyberdefenders.org
+- picoctf
+- overthewire.org
+- blueteamlabs.online
+- [Labs from web, windows, linux pentesting, wifi pentesting, forensics, reversen engineering, IoT security, offensive python, malware, and much more](https://attackdefense.com/challengedetails?cid=1801)
+![[Pasted image 20240128005754.png]]

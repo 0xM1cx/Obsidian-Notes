@@ -44,3 +44,4 @@
 
 ## COMPLETE LIST:
 - [CTF TOOL LIST](https://github.com/zardus/ctf-tools)
+- https://fareedfauzi.gitbook.io/ctf-playbook/
