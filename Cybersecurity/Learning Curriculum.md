@@ -448,11 +448,15 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Industry-recognized Certifications (e.g., CISSP, CompTIA Security+, CEH)
 - [ ] Continuous Learning and Professional Growth
 
-### Learning Resources
+#### Learning Resources
 - [Letsdefend Learn](https://app.letsdefend.io/training)
 - [Letsdefend Practice Scenario of Being a analyst](https://app.letsdefend.io/monitoring)
 - [Letsdefend Challenges and Blue Team CTF](https://app.letsdefend.io/challenge)
 - [Checklist of things to learn](https://d2y9h8w1ydnujs.cloudfront.net/BTL1Syllabus.pdf)
+
+#### Tools to learn
+- CFF explorer
+- 
 
 ## Hardware Security
 ### Module 1: Introduction to Embedded Systems

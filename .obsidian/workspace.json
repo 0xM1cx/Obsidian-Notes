@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,8 +137,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "12d67b7bee5503a0",
+  "active": "15571688f8976af5",
   "lastOpenFiles": [
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
     "Cybersecurity/DFIR/Windows File System.md",
     "Cybersecurity/DFIR/Windows Architecture.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
@@ -175,7 +176,6 @@
     "Writeups/Freelance Stuff.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Standard Files on Websites.md",
     "!Symmetric.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web",
