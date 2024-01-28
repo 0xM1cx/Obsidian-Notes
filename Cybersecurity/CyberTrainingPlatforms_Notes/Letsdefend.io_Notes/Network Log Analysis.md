@@ -47,3 +47,7 @@ Firewall logs are one of the most important resource for the SOC Analyst to refe
 
 ## VPN Log Analysis
 
+VPN is the technology that allows you to connect to a local network that you are not physically connected to. Generally, organizations prefer this technology to access their internal systems remotely. Today, it is known as a technology to access sites that are not accessible. 
+
+
+VPNs are generally used over the organization's existing firewall(firewall that supports VPN). In addition, it is possible to see products that provide dedicated services only for VPNs in some networks. VPN logs may be obtained from Firewall devices as well as other devices that provide VPN service. 
