@@ -39,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
+                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,11 +137,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5257037489108b75",
+  "active": "12d67b7bee5503a0",
   "lastOpenFiles": [
+    "Cybersecurity/DFIR/Windows File System.md",
+    "Cybersecurity/DFIR/Windows Architecture.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Network Log Analysis.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "Cybersecurity/Cybersecurity Main.md",
     "Pictures/Pasted image 20240128005754.png",
     "Pictures/generic-1.png",
@@ -173,8 +176,6 @@
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Standard Files on Websites.md",
     "!Symmetric.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/OS Command Injection.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Path Traversal.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web",
