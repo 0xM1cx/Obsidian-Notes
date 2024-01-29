@@ -83,4 +83,4 @@ Today, although IDS/IPS technology is provided  by many firewall manufacturers a
 - Intrusion Prevention System - Detects and prevents the suspicious activities
 - Intrusion Detection System - Only detects the suspicious activities
 
-Both have signature database. A signature is a set  of rules designed to detect known attacks. The structure that presents this set of rules centrally is called the **signature databse**
+Both have signature database. A signature is a set  of rules designed to detect known attacks. The structure that presents this set of rules centrally is called the **signature database**
