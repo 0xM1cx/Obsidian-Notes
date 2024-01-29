@@ -110,8 +110,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 ### Network Forensics
 - [ ] System & Network Forensics
-- [ ] Packet Analysis
-- [ ] Packet headers
+- [x] Packet Analysis
+- [x] Packet headers
 - [x] How to use Wireshark
 - [x] How to make a packet using scappy
 
@@ -119,7 +119,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ### Memory Analysis
 - [ ] User and Kernel Modes
 - [ ] Processes, Threads and services
-- [ ] System Calls
+- [x] System Calls
 - [ ] How to collect artifacts on Memory
 - [ ] Memory Forensics
 - [ ] Pagefile analysis
@@ -265,7 +265,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 - **Week 12: Application of Cryptography in Security and CTFs**
     - [ ] Cryptography in malware communication
-    - [ ] Solving cryptographic challenges in CTFs
+    - [x] Solving cryptographic challenges in CTFs
     - [ ] Real-world case studies and practical exercises
 #### Do These Challenges after learning the basics of Cryptography
 - [Cryptography Programming Challenges](https://cryptopals.com/)

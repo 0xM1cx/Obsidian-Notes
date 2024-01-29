@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,10 +137,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5257037489108b75",
+  "active": "15571688f8976af5",
   "lastOpenFiles": [
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Network Log Analysis.md",
+    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
     "Cybersecurity/DFIR/Windows File System.md",
     "Cybersecurity/DFIR/Windows Architecture.md",
