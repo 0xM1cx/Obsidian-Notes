@@ -51,3 +51,36 @@ VPN is the technology that allows you to connect to a local network that you are
 
 
 VPNs are generally used over the organization's existing firewall(firewall that supports VPN). In addition, it is possible to see products that provide dedicated services only for VPNs in some networks. VPN logs may be obtained from Firewall devices as well as other devices that provide VPN service. 
+
+- The most important information to review in the VPN log is the IPI address that makes the connection, which user it connects to , and the result of this access request(success-failure status). 
+- After a successful VPN connection, an IP is assigned to you for your access through the VPN system. 
+- The log of the assigned IP information may be sent either in the same log record or in a different log. 
+
+
+## Proxy Log Analysis
+Proxy acts as a bridge between the endpoint and the internet. Organizations usually use proxy tech for purposes such as internet speed, centralized control and increasing level of security. Request made by the client reach the Proxy Server first and then the Internet. Proxies can basically work in 2 different types:
+- **Transparent Proxy** - Target server that we access can see the real source IP address.
+- **Anonymous Proxy** - Target server that we access cannot see the real source IP address. It sees the IP address of the proxy ad the source IP address. Thus, it cannot obtain any information about the system that actually made the request in background. 
+
+Proxy logs are one of the most important log types when a SOC analyst needs to check which domain/URL a system(server, client, etc.) is making a request to our internal system and whether it was able to establish a successful connection. 
+
+It is also important to be able to determine if the domain/URL is a risky category and if they were able to establish any successful connections before. 
+
+We can detect the following suspicious activities through reviewing the proxy logs:
+- Connections to/from suspicious URLs
+- Infected system detection
+- Detection of tunneling activities
+
+
+## IDS/IPS Log Analysis
+The IDS/IPS concept and solution are technologies developed at the point where only rule-based access controls of firewall devices are not sufficient in the security world.
+
+Roughly, while the firewall works on a rule basis so that red apples shall and yellow not, IDS/IPS solutions can check whether there are worms in the apple or not. In other words, it has a decision-making mechanism by inspecting the packet content. In this way, it can prevent suspicious/malicious packets/request from reaching the target and prevents systems from being affected by this attack. 
+
+Today, although IDS/IPS technology is provided  by many firewall manufacturers as an additional module/slices on firewall devices, it is only available in devices with IDS/IPS as core functions
+
+### IDS vs IPS
+- Intrusion Prevention System - Detects and prevents the suspicious activities
+- Intrusion Detection System - Only detects the suspicious activities
+
+Both have signature database. A signature is a set  of rules designed to detect known attacks. The structure that presents this set of rules centrally is called the **signature databse**
