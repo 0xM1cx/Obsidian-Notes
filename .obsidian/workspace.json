@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Network Log Analysis.md",
+                "file": "Programming/SQL/Lesson 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Programming/SQL/Syllabus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,8 +136,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "15571688f8976af5",
+  "active": "5257037489108b75",
   "lastOpenFiles": [
+    "Programming/SQL/Syllabus.md",
+    "Programming/SQL/Lesson 1.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Network Log Analysis.md",
     "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
@@ -174,8 +175,6 @@
     "Finance/Shopping List.md",
     "I.T Resources.md",
     "Writeups/Freelance Stuff.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Standard Files on Websites.md",
-    "!Symmetric.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web",
