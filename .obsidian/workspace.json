@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5257037489108b75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/SQL/Lesson 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "15571688f8976af5",
             "type": "leaf",
             "state": {
@@ -136,10 +123,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5257037489108b75",
+  "active": "15571688f8976af5",
   "lastOpenFiles": [
-    "Programming/SQL/Syllabus.md",
+    "Networking/Frame Forwarding.md",
+    "autobackup/xyz.jmir.tachiyomi.mi_2024-01-30_16-38.tachibk",
+    "autobackup/xyz.jmir.tachiyomi.mi_2024-01-31_16-38.tachibk",
+    "app.mihon_2024-01-29_16-30.tachibk",
+    "autobackup/xyz.jmir.tachiyomi.mi_2024-01-30_04-17.tachibk",
+    "autobackup/xyz.jmir.tachiyomi.mi_2024-01-31_04-38.tachibk",
+    "autobackup/app.mihon_2024-01-29_16-02.tachibk",
+    "autobackup/app.mihon_2024-01-29_04-01.tachibk",
+    "fonts",
+    "localanime",
     "Programming/SQL/Lesson 1.md",
+    "Programming/SQL/Syllabus.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Network Log Analysis.md",
     "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
@@ -173,18 +170,7 @@
     "Writeups/FAT, exFAT, NTFS. What are those.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/SOC.md",
     "Finance/Shopping List.md",
-    "I.T Resources.md",
-    "Writeups/Freelance Stuff.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Blue",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web",
     "To do.canvas",
-    "Untitled.canvas",
-    "EVSU/2nd-Year/1st-Sem/RIZAL 001",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set",
-    "DSA",
-    "Finance",
-    "EVSU/2nd-Year/1st-Sem/DSA",
-    "EVSU/2nd-Year/1st-Sem/Intro-Net"
+    "Untitled.canvas"
   ]
 }
