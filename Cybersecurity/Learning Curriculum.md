@@ -58,7 +58,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] How does Command Injection Work and Do some challenges
 - [ ] How does Cross-Site Request Forgery(CSRF) work and do some challenges
 - [x] How does Session Hijacking Work
-- [ ] JSON Web Tokens
+- [x] JSON Web Tokens
 - [x] Cookie Based Authentication
 - [x] File Inclusion Vulnerabilities
 - [x] Server-Side Request Forgery(SSRF) how it works
