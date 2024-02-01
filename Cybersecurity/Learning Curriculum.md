@@ -8,7 +8,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 - [x] November - Web Application Security
 - [x] December - Digital Forensics w/ (Steganography OSINT)
-- [ ] January -  Cryptography, Network Security
+- [x] January -  Cryptography, Network Security
 - [ ] February - Reverse Engineering, Binary Exploitation
 - [ ] March - Pwn(Own), Attacking Machines
 - [ ] April - Security Analyst, Security+, DFIR
@@ -264,7 +264,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ### Module 4: Cryptography in Malware Analysis and CTFs
 
 - **Week 12: Application of Cryptography in Security and CTFs**
-    - [ ] Cryptography in malware communication
+    - [x] Cryptography in malware communication
     - [x] Solving cryptographic challenges in CTFs
     - [ ] Real-world case studies and practical exercises
 #### Do These Challenges after learning the basics of Cryptography
@@ -285,23 +285,28 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Parts of the CPU
 - [ ] Learn some x86 assemble
 - [ ] Learn to read malware code in C
-- [ ] Learn to read malware code in Python
+- [x] Learn to read malware code in Python
 - [ ] Learn to read malware code in Powershell
 - [ ] Learn to read malware code in Bash
 - [ ] Learn some basics in Binary Exploitation
 - [ ] Learn about shellcode and how to create them
-
+- [ ] 
 ### Module 1: Binary Analysis and Tools
 - [ ] Common Binary file formats (PE, ELF)
 - [ ] Ghidra and other disassembly tools
 - [ ] converting machine code to higher-level languages
 - [ ] Dynamic Analysis using debuggers (GDB, WinDbg)
 - [ ] Breakpoints, watchpoints, dynamic analysis tools
+- [ ] Types of RE
+	- [ ] Source Code Analysis
+	- [ ] Binary Analysis
+	- [ ] Protocol Analysis
 
 ### Module 2: Assembly Language Basics
 - [ ] Introduction to CPU architectures(x86 and ARM)
 - [ ] Registers, instructions, and other addressing modes
-- [ ] Control flow analysis
+- [ ] Control flow analysis, Control flow instructions
+- [ ] Stack operations
 
 ### Module 3: Malware Analysis
 - [ ] Dynamic Malware Analysis
@@ -321,6 +326,10 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Analyzing proprietary protocols
 - [ ] Creating protocol specification
 
+### Module 7: Exploitation Techniques
+- [ ] Stack-based overflow
+- [ ] Heap-based overflow
+
 
 
 #### Do These Challenges before moving on to assembly
@@ -339,7 +348,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [LetsDefend Malware Analysis and RE](https://app.letsdefend.io/training)
 - [Intro Malware Analysis Part 1 | Blog](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/?fbclid=IwAR3PWi_zFkuETgn0nc6kj9vZN6UAkF9WTdm8hxkBzbmA2UHWFBkepluec1I)
 - [Intro to Malware Analysis Part 2 | Blog](https://intezer.com/blog/incident-response/malware-reverse-engineering-for-beginners-part-2/?fbclid=IwAR3QYD20wCg-tHbr9EmJACRkHm4O6pP0t-qhhiP4SZfXH44IRfcgKVTE_XA)
-
+- [RE CTF Playbook](https://fareedfauzi.gitbook.io/ctf-playbook/reverse-engineering)
 ### Tools to Learn
 - gdb
 - pwntools
