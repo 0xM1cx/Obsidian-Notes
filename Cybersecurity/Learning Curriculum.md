@@ -276,10 +276,11 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ---
 ## Reverse Engineering & Binary Exploitation
 - [ ] Learn about the fetch, decode and execute cycle
-- [ ] What are Registers
-- [ ] How to use ldd
+- [x] What are Registers
+- [ ] What are the common registers
+- [x] How to use ldd
 - [ ] What is Executable and Linkable Format
-- [ ] How to use readelf
+- [x] How to use readelf
 - [ ] Learn how to use gdb
 - [ ] Learn some general and special purpose Registers
 - [ ] Parts of the CPU
@@ -290,7 +291,6 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Learn to read malware code in Bash
 - [ ] Learn some basics in Binary Exploitation
 - [ ] Learn about shellcode and how to create them
-- [ ] 
 ### Module 1: Binary Analysis and Tools
 - [ ] Common Binary file formats (PE, ELF)
 - [ ] Ghidra and other disassembly tools
