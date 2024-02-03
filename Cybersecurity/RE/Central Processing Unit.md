@@ -10,4 +10,8 @@ The **instruction cycle** is the cycle that the CPU follows from boot-up until t
 - **Memory** - Stores both data and instructions that the CPU uses during execution.
 
 
+## Registers
+
+### General Purpose Registers
+
 

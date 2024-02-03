@@ -279,7 +279,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] What are Registers
 - [ ] What are the common registers
 - [x] How to use ldd
-- [ ] What is Executable and Linkable Format
+- [x] What is Executable and Linkable Format
+- [ ] Register flags
 - [x] How to use readelf
 - [ ] Learn how to use gdb
 - [ ] Learn some general and special purpose Registers

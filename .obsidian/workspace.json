@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,10 +137,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5e0182a3ac872e88",
+  "active": "cc58968a2bd35b98",
   "lastOpenFiles": [
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/RE/Central Processing Unit.md",
+    "I.T Resources.md",
+    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/RE",
     "Programming/SQL/Syllabus.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
