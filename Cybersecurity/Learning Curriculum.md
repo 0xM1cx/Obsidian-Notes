@@ -207,6 +207,10 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Suricata
 - [ ] TCPdump
 
+#### Resources
+- Adam Doupe - Network security Videos
+- Udemy alan becker wireshark
+
 ---
 ## Cryptography
 - [x] Common Encryption Algorithms 
