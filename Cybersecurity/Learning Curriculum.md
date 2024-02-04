@@ -65,7 +65,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] What is Cross-Origin Resource Sharing and how does it work
 - [ ] What is XML external entity (XXE) injection
 - [ ] What is HTTP request Smuggling 
-- [ ] What is HTTP Basic Authentication
+- [x] What is HTTP Basic Authentication
 - [x] Content discovery, How to discover hidden/private content in a webserver
 - [x] How does Insecure Direct Object Reference(IDOR)
 - [x] Research about OWASP Top 10 vulnerabilities
@@ -117,8 +117,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 
 ### Memory Analysis
-- [ ] User and Kernel Modes
-- [ ] Processes, Threads and services
+- [x] User and Kernel Modes
+- [x] Processes, Threads and services
 - [x] System Calls
 - [ ] How to collect artifacts on Memory
 - [ ] Memory Forensics
@@ -236,9 +236,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 	    - [ ] Digital Signatures and their application
 	    - [ ] Basics of elliptic curves
 	    - [ ] ECC vs RSA
-
 ### Module 2: Cryptographic Protocols and Applications
-
 - **Week 5-6: Secure Communication Protocols**
     - [x] SSL/TLS protocols
     - [ ] VPNs and their cryptographic foundations
@@ -249,20 +247,16 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
     - [ ] Digital signatures and their verification
 
 ### Module 3: Cryptanalysis and Attack Techniques
-
 - **Week 9-10: Cryptanalysis Techniques**
-    
     - [x] Brute-force attacks
     - [x] Frequency analysis
     - [ ] Differential and linear cryptanalysis
 - **Week 11: Side-Channel Attacks**
-    
     - [ ] Timing attacks
     - [ ] Power analysis
     - [ ] Fault injection attacks
 
 ### Module 4: Cryptography in Malware Analysis and CTFs
-
 - **Week 12: Application of Cryptography in Security and CTFs**
     - [x] Cryptography in malware communication
     - [x] Solving cryptographic challenges in CTFs
@@ -524,15 +518,15 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ## Threat Intelligence, Management & Hunting
 - [ ] How to Collect logs from End Devices and the Network
 - [ ] 
-
 ## Windows Malware Development 
 - [Windows Kernel Internals](https://www.codemachine.com/trainings/kerint.html)
 - [Windows Kernel Rootkit](https://www.codemachine.com/trainings/kerrkt.html)
 #### Resrouces
 - [Go to the 1.0 Threat Management Section](https://www.comptia.jp/pdf/comptia-cybersecurity-analyst-(cs0-001).pdf)
 
-
-
+## Red Team Stuff
+### Resources
+- [Program Misuse](https://pwn.college/fundamentals/program-misuse)
 ## Practice Sites
 - Cyberdefenders.org
 - BlueTeamLabsOnline
