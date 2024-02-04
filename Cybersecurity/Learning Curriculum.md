@@ -275,7 +275,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - https://cryptohack.org/courses/
 ---
 ## Reverse Engineering & Binary Exploitation
-- [ ] Learn about the fetch, decode and execute cycle
+- [x] Learn about the fetch, decode and execute cycle
 - [x] What are Registers
 - [ ] What are the common registers
 - [x] How to use ldd

@@ -11,7 +11,7 @@ The **instruction cycle** is the cycle that the CPU follows from boot-up until t
 
 
 ## Registers
-
+- Registers are small memory storage areas built into the processor and are volitile
 ### General Purpose Registers
 
 
