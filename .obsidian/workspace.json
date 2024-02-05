@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Programming/SQL/ER-Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I.T Resources.md",
+                "file": "Cybersecurity/Learning Curriculum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,13 +137,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cc58968a2bd35b98",
+  "active": "5e0182a3ac872e88",
   "lastOpenFiles": [
     "Cybersecurity/RE/Central Processing Unit.md",
-    "Pictures/Pasted image 20240205210931.png",
-    "Pictures/Pasted image 20240205210832.png",
     "Cybersecurity/Learning Curriculum.md",
     "I.T Resources.md",
+    "Programming/SQL/ER-Model.md",
+    "Pictures/Pasted image 20240205210931.png",
+    "Pictures/Pasted image 20240205210832.png",
     "Cybersecurity/RE",
     "Programming/SQL/Syllabus.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",

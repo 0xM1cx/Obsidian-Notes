@@ -10,10 +10,11 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] December - Digital Forensics w/ (Steganography OSINT)
 - [x] January -  Cryptography, Network Security
 - [ ] February - Reverse Engineering, Binary Exploitation
-- [ ] March - Pwn(Own), Attacking Machines
-- [ ] April - Security Analyst, Security+, DFIR
-- [ ] May - Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
-- [ ] June - Cyberdefenders, Blueteamlabs, pentester lab, tryhackme, hackthebox practice
+- [ ] March - Digital Forensics(Network, Memory, Stego, Windows)
+- [ ] April - Pwning, Attacking Machines
+- [ ] May - Security Analyst, Security+, DFIR
+- [ ] June - Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
+- [ ] July - Cyberdefenders, Blueteamlabs, pentester lab, tryhackme, hackthebox practice
 ---
 ## Foundational Topics
 - [x] What are Capture the Flags?
@@ -349,6 +350,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [Intro to Malware Analysis Part 2 | Blog](https://intezer.com/blog/incident-response/malware-reverse-engineering-for-beginners-part-2/?fbclid=IwAR3QYD20wCg-tHbr9EmJACRkHm4O6pP0t-qhhiP4SZfXH44IRfcgKVTE_XA)
 - [RE CTF Playbook](https://fareedfauzi.gitbook.io/ctf-playbook/reverse-engineering)
 - [Structured Assembly Lessons](https://asmtutor.com/)
+- [ebook on reverse engineering x86](https://0xinfection.github.io/reversing/)
 ### Tools to Learn
 - gdb
 - pwntools
