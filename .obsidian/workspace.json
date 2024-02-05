@@ -105,11 +105,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42ba68791558790a",
+        "id": "79c2a339b92c1d16",
         "type": "tabs",
         "children": [
           {
-            "id": "528b988944ce31a2",
+            "id": "04f37a01056d330b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -140,6 +140,8 @@
   "active": "cc58968a2bd35b98",
   "lastOpenFiles": [
     "Cybersecurity/RE/Central Processing Unit.md",
+    "Pictures/Pasted image 20240205210931.png",
+    "Pictures/Pasted image 20240205210832.png",
     "Cybersecurity/Learning Curriculum.md",
     "I.T Resources.md",
     "Cybersecurity/RE",
@@ -179,12 +181,9 @@
     "Pictures/ssl2.png",
     "Pictures/Pasted image 20240112102728.png",
     "Pictures/hash6.png",
-    "Pictures/Pasted image 20240112093017.png",
-    "Pictures/Pasted image 20240109225505.png",
     "I.T. Projects/Research.md",
     "I.T. Projects/Basic Network Scanner.md",
     "Writeups/FAT, exFAT, NTFS. What are those.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/SOC.md",
     "To do.canvas",
     "Untitled.canvas"
   ]
