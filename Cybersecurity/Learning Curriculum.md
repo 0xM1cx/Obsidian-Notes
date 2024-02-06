@@ -23,7 +23,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] Basic Linux Tools Used for CTF
 - [x] Network Fundamentals
 - [x] Windows Filesystem
-- [ ] Linux File system
+- [x] Linux File system
 - [x] How TCP Handshake works
 - [x] How Domain Name System works
 - [x] How HTTP works
