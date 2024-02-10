@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Writeups/0xl4ugh.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,12 +137,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cc58968a2bd35b98",
+  "active": "5e0182a3ac872e88",
   "lastOpenFiles": [
     "Cybersecurity/Learning Curriculum.md",
+    "Writeups/0xl4ugh.md",
     "Cybersecurity/RE/Central Processing Unit.md",
-    "I.T Resources.md",
     "Programming/SQL/ER-Model.md",
+    "I.T Resources.md",
     "Pictures/Pasted image 20240205210931.png",
     "Pictures/Pasted image 20240205210832.png",
     "Cybersecurity/RE",
@@ -184,7 +185,6 @@
     "Pictures/hash6.png",
     "I.T. Projects/Research.md",
     "I.T. Projects/Basic Network Scanner.md",
-    "Writeups/FAT, exFAT, NTFS. What are those.md",
     "To do.canvas",
     "Untitled.canvas"
   ]
