@@ -6,6 +6,8 @@
 
 ## Useful links
 - [S.M.A.R.T Objectives](https://www.ohsu.edu/sites/default/files/2018-12/S-M-A-R-T-101-final.pdf)
+- [Best research templates for each chapter](https://gradcoach.com/templates/)
+- [How to write a strong research question](https://www.youtube.com/watch?v=71-GucBaM8U&list=PLjBMY3HggCpAjmtPByI_MkFI6lrguHatL)
 ## Problems OR Goals
 1. Soil Disinfection
 2. Create a tool for recovering data.

@@ -15,7 +15,7 @@
 Research design is the method that researchers select to organize their research project or study. 
 #### Quantitative Designs
 - Descriptive & Correlational Designs - Aim to measure variables and describe relational between them. 
-	- Descriptive - Focuses on systematically measuring variables. This is to describe a research topic, so this type of research is useful when you need more information about your topic. 
+	- Descriptive - Focuses on systematically measuring variables. This is to describe a research topic, so this type of research is useful when you need more information about your topic. It focuses on describing existing conditions, behavior or characteristics. 
 	- Correlational Design - Tests whether variables are related to each other. You measure variables but do not alter them. 
 	- Experimental Design - Is useful when you want to test how different factors affect a situation, making this design type very versatile. This design uses the scientific method, which includes elements like:
 		- **Hypothesis**: Is a statement that describes what you predict your research to reveal
