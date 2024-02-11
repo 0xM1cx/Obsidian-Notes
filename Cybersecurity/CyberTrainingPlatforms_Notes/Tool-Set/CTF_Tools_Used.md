@@ -45,3 +45,6 @@
 ## COMPLETE LIST:
 - [CTF TOOL LIST](https://github.com/zardus/ctf-tools)
 - https://fareedfauzi.gitbook.io/ctf-playbook/
+
+
+- [Cisco password cracker](https://www.ifm.net.nz/cookbooks/passwordcracker.html?source=post_page-----3b4beb890a76--------------------------------)
