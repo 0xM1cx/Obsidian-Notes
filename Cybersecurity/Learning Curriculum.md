@@ -276,16 +276,16 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ## Reverse Engineering & Binary Exploitation
 - [x] Learn about the fetch, decode and execute cycle
 - [x] What are Registers
-- [ ] What are the common registers
+- [x] What are the common registers
 - [x] How to use ldd
 - [x] What is Executable and Linkable Format
 - [ ] Register flags
 - [x] How to use readelf
 - [ ] Learn how to use gdb
 - [ ] Learn some general and special purpose Registers
-- [ ] Parts of the CPU
-- [ ] Learn some x86 assemble
-- [ ] Learn to read malware code in C
+- [x] Parts of the CPU
+- [ ] Learn some x64 assembly
+- [x] Learn to read malware code in C
 - [x] Learn to read malware code in Python
 - [ ] Learn to read malware code in Powershell
 - [ ] Learn to read malware code in Bash
@@ -303,8 +303,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 	- [ ] Protocol Analysis
 
 ### Module 2: Assembly Language Basics
-- [ ] Introduction to CPU architectures(x86 and ARM)
-- [ ] Registers, instructions, and other addressing modes
+- [x] Introduction to CPU architectures(x64 and ARM)
+- [x] Registers, instructions, and other addressing modes
 - [ ] Control flow analysis, Control flow instructions
 - [ ] Stack operations
 
@@ -351,6 +351,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [RE CTF Playbook](https://fareedfauzi.gitbook.io/ctf-playbook/reverse-engineering)
 - [Structured Assembly Lessons](https://asmtutor.com/)
 - [ebook on reverse engineering x86](https://0xinfection.github.io/reversing/)
+- [x64 Syscall CheatSheet](https://x64.syscall.sh/)
 ### Tools to Learn
 - gdb
 - pwntools
@@ -469,7 +470,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - CFF explorer
 - 
 
-## Hardware Security
+## IoT Security
 ### Module 1: Introduction to Embedded Systems
 - [x] Definition and characteristics of embedded Systems
 - [x] Examples of embedded systems in real-world applications
@@ -519,6 +520,9 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] Wireless Communication Protocols (Bluetooth, WiFi)
 - [ ] Connecting embedded systems to the internet
 - [ ] IoT protocols and frameworks
+
+#### Resources
+- [IoTSecurity101]([0xM1cx/IoTSecurity101: A Curated list of IoT Security Resources (github.com)](https://github.com/0xM1cx/IoTSecurity101))
 
 ## Incident Response
 

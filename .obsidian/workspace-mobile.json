@@ -10,14 +10,16 @@
           {
             "id": "a4f373cf576faf7a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "EVSU/2nd-Year/2nd-Sem/QM-Reading Ass1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,6 +95,10 @@
   },
   "active": "a4f373cf576faf7a",
   "lastOpenFiles": [
+    "Writeups/0xl4ugh.md",
+    "Programming/SQL/ER-Model.md",
+    "Pictures/Pasted image 20240205210832.png",
+    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Cryptology.md",
     "Writeups/Digital Signatures & Digital Certificates.md",
     "EVSU/Purposive Communication/Lesson_3.md",
