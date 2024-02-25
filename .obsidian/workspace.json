@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "51b046566428ebbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Learning Curriculum.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "72184dfa43a6e454",
             "type": "leaf",
             "state": {
@@ -46,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,10 +150,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9d00e240e4d5b92e",
+  "active": "51b046566428ebbe",
   "lastOpenFiles": [
-    "I.T. Projects/Research.md",
     "EVSU/2nd-Year/2nd-Sem/ArtAppAss-1.md",
+    "I.T. Projects/Research.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "EVSU/2nd-Year/2nd-Sem/QM-Reading Ass1.md",
     "Cybersecurity/Learning Curriculum.md",

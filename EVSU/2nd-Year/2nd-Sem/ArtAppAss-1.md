@@ -6,8 +6,6 @@ AndroidJones created a digital artwork called "Blue Wave". It was featured at th
 It made me think that in today's world, artificial intelligence can create a similar artwork in seconds, but they were able to do so because of us, not just because humans created AI, but also because the data used to train it were human works. In other words, AI-generated artwork was inspired by humans.  
 
 The variety of colors and patterns employed in the psychedelic artwork reminded me of PCB boards, which have an apparently random appearance but are connected to the entire system, like a cog in a machine. I believe that because I work and study technology on a regular basis, this piece served as a reminder to myself. Much like how technology has become an extension of a person, looking at the humanized form made me think about how all of us now are much like cyborgs, constantly using various technologies as if they were part of us, unable to let go of them and needing them as if they were to die if they were removed, just like any other organ in our bodies. 
-
-
 ## Activity 4
 1. Why is it necessary to be creative when making art?
    - Being innovative with an artwork is what sets it apart from others. It gives your artwork a unique quality. Imagination is essential for developing ideas and inspiration for a masterpiece, but creativity allows the masterpiece to come to life; it helps the artist to think beyond the box and accomplish things that are unusual. 
@@ -17,9 +15,9 @@ The variety of colors and patterns employed in the psychedelic artwork reminded 
    - Art is a vehicle for communicating an artist's ideas, expressions, and emotions. It reflects the maker's originality and inventiveness. The convergence of numerous messages demonstrates the limitations of oral language. 
 4. What art field are you interested to explore and why?
    - Blogging helps me to express my thoughts, share my experiences, and collaborate with others or myself in a creative way. It helps me to communicate with the audience in a conversational tone. I've always been impressed by how you can share your thoughts and ideas without having to physically engage with others.
-  
 #### Reflection
 1. What topic/s do you find difficult to understand? why?
+   - For this lesson, 
 2. What topics do you find interesting or relatable
 
 ## Lesson 3 - Warm Up Activity
