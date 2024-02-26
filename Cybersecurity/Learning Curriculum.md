@@ -249,7 +249,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - **Week 7-8: Public Key Infrastructure (PKI)**
     - [x] Certificate authorities
     - [ ] X.509 certificates
-    - [ ] Digital signatures and their verification
+    - [x] Digital signatures and their verification
 
 ### Module 3: Cryptanalysis and Attack Techniques
 - **Week 9-10: Cryptanalysis Techniques**
@@ -265,7 +265,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - **Week 12: Application of Cryptography in Security and CTFs**
     - [x] Cryptography in malware communication
     - [x] Solving cryptographic challenges in CTFs
-    - [ ] Real-world case studies and practical exercises
+    - [x] Real-world case studies and practical exercises
 #### Do These Challenges after learning the basics of Cryptography
 - [Cryptography Programming Challenges](https://cryptopals.com/)
 - [Krypton Cryptography Wargames](https://overthewire.org/wargames/krypton/)
@@ -279,12 +279,12 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] What are the common registers
 - [x] How to use ldd
 - [x] What is Executable and Linkable Format
-- [ ] Register flags
+- [x] Register flags
 - [x] How to use readelf
-- [ ] Learn how to use gdb
-- [ ] Learn some general and special purpose Registers
+- [x] Learn how to use gdb
+- [x] Learn some general and special purpose Registers
 - [x] Parts of the CPU
-- [ ] Learn some x64 assembly
+- [x] Learn some x64 assembly
 - [x] Learn to read malware code in C
 - [x] Learn to read malware code in Python
 - [ ] Learn to read malware code in Powershell
@@ -294,9 +294,9 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ### Module 1: Binary Analysis and Tools
 - [ ] Common Binary file formats (PE, ELF)
 - [ ] Ghidra and other disassembly tools
-- [ ] converting machine code to higher-level languages
+- [x] converting machine code to higher-level languages
 - [ ] Dynamic Analysis using debuggers (GDB, WinDbg)
-- [ ] Breakpoints, watchpoints, dynamic analysis tools
+- [x] Breakpoints, watchpoints, dynamic analysis tools
 - [ ] Types of RE
 	- [ ] Source Code Analysis
 	- [ ] Binary Analysis
@@ -339,7 +339,6 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [Learn DSA, use C for practice](https://www.educative.io/courses/visual-introduction-to-algorithms/what-is-an-algorithm-and-why-should-you-care)
 - [Basic Exploitation](https://overthewire.org/wargames/narnia/)
 - [Unix Stuff](https://overthewire.org/wargames/leviathan/)
-- [Complete this master C programiz interactive course](https://app.programiz.pro/course-content/learn-c-programming)
 ### Learning Resources
 - [x86-64 Assembly Crash Course](https://pwn.college/cse365-f2023/assembly-crash-course)
 - [Basics of GDB](https://github.com/hoppersroppers/nightmare/blob/master/modules/02-intro_tooling/gdb-gef/readme.md)

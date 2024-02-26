@@ -17,8 +17,9 @@ The variety of colors and patterns employed in the psychedelic artwork reminded 
    - Blogging helps me to express my thoughts, share my experiences, and collaborate with others or myself in a creative way. It helps me to communicate with the audience in a conversational tone. I've always been impressed by how you can share your thoughts and ideas without having to physically engage with others.
 #### Reflection
 1. What topic/s do you find difficult to understand? why?
-   - For this lesson, 
+   - For this lesson, there were no topic that I found difficult, the three functions just made me realize how they fit together in making a masterpiece, at first it was a bit hard to see it, but looking at examples online made the definition much more intuitive. 
 2. What topics do you find interesting or relatable
+   - The function of imagination in the art making was a very interesting topic, I always thought of using imaginations as the driving force in making an artwork from everyday objects. An example would be from making old computer parts into a visual art form, in turn, reusing it rather than letting it go to waste.
 
 ## Lesson 3 - Warm Up Activity
 1. Carmelito defines art as something that allows a person to express himself, a physical embodiment of his feelings. Priscilla, on the other hand, sees art as aesthetically beautiful. I agree with Carmelito's definition; because art is a reflection of the artist's sentiments, viewers of the artwork might experience the same emotions. It's similar to conveying a message, which, no matter how unusual, is already valuable to me. 
