@@ -158,6 +158,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 #### Resources
 - [Stego Checklist](https://stegonline.georgeom.net/checklist)
 - [Windows Forensics handbook via gitbook](https://psmths.gitbook.io/windows-forensics/)
+- [Windows Forensic Analysis Tools and Resources](https://nasbench.medium.com/windows-forensics-analysis-tools-and-resources-b819c8b4b6b0)
 
 ---
 ## Network Security
