@@ -9,14 +9,14 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] November - Web Application Security
 - [x] December - Digital Forensics w/ (Steganography OSINT)
 - [x] January -  Cryptography, Network Security
-- [ ] February - Reverse Engineering, Binary Exploitation
+- [x] February - Reverse Engineering, Binary Exploitation
 - [ ] March - Digital Forensics(Network, Memory, Stego, Windows)
-- [ ] April - Pwning, Attacking Machines
+- [ ] April - Pwning, Attacking Machines, Jr Pentester
 - [ ] May - Security Analyst, Security+, DFIR
 - [ ] June - Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
 - [ ] July - Cyberdefenders, Blueteamlabs, pentester lab, tryhackme, hackthebox practice
 ---
-## Foundational Topics
+	## Foundational Topics
 - [x] What are Capture the Flags?
 - [x] Set up you Virtual Machine(Ubuntu, Kali Linux, or other) in VirtualBox
 - [x] Basic Linux Commands
@@ -287,6 +287,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [x] Learn some x64 assembly
 - [x] Learn to read malware code in C
 - [x] Learn to read malware code in Python
+- [x] Process Stack
+- [x] Process Heap
 - [ ] Learn to read malware code in Powershell
 - [ ] Learn to read malware code in Bash
 - [ ] Learn some basics in Binary Exploitation
@@ -531,10 +533,11 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 ## Windows Malware Development 
 - [Windows Kernel Internals](https://www.codemachine.com/trainings/kerint.html)
 - [Windows Kernel Rootkit](https://www.codemachine.com/trainings/kerrkt.html)
-#### Resrouces
+#### Resources 
 - [Go to the 1.0 Threat Management Section](https://www.comptia.jp/pdf/comptia-cybersecurity-analyst-(cs0-001).pdf)
 
 ## Red Team Stuff
+- For this, follow the format of the tryhackme Jr Penetration Tester and do some labs there
 ### Resources
 - [Program Misuse](https://pwn.college/fundamentals/program-misuse)
 ## Practice Sites

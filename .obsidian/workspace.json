@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "51b046566428ebbe",
+            "id": "57d00b5b392e63a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cybersecurity/Learning Curriculum.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51b046566428ebbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVSU/2nd-Year/2nd-Sem/STS Lesson 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,19 +53,6 @@
               "type": "markdown",
               "state": {
                 "file": "I.T. Projects/Research.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ab37f1bb41bc4ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -150,16 +150,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "51b046566428ebbe",
+  "active": "57d00b5b392e63a7",
   "lastOpenFiles": [
-    "EVSU/2nd-Year/2nd-Sem/ArtAppAss-1.md",
-    "I.T. Projects/Research.md",
+    "EVSU/2nd-Year/2nd-Sem/STS Lesson 3.md",
     "Cybersecurity/Learning Curriculum.md",
+    "EVSU/2nd-Year/2nd-Sem/ArtAppAss-1.md",
+    "EVSU/2nd-Year/2nd-Sem/STS Lesson1.md",
+    "EVSU/2nd-Year/2nd-Sem/STS Lesson 2.md",
+    "I.T. Projects/Research.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
     "EVSU/2nd-Year/2nd-Sem/QM-Reading Ass1.md",
     "Cybersecurity/SOC_TOOLS.md",
-    "EVSU/2nd-Year/2nd-Sem/STS Lesson 2.md",
-    "EVSU/2nd-Year/2nd-Sem/STS Lesson1.md",
     "Programming/SQL/ER-Model.md",
     "downloads/Mangakakalot (EN)/The Guild Official With The Out-Of-The-Way Skill “Shadowy” Is, In Fact, The Legendary Assassin/chapmanganato.to_Chapter 26_ An Encounter With A Battle-Ready Rookie (Part 1).cbz",
     "downloads/Mangairo (EN)/TAKAMORI-KUN WO DAMARASETAI!!/chap.mangairo.com_Chapter 2.cbz",
@@ -191,7 +192,6 @@
     "Finance/Terms.md",
     "Finance/Understanding Financial Statements.md",
     "Finance/Learning Curriculum - Finance.md",
-    "Writeups/Digital Signatures & Digital Certificates.md",
     "Pictures/attack1.png",
     "Pictures/ssl7.png",
     "Pictures/ssl6.png",
