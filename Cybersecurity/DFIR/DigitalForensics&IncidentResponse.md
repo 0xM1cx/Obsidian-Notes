@@ -2,7 +2,7 @@ https://sroberts.io/posts/introduction-to-dfir/https://sroberts.io/posts/introdu
 + [[Basics of Digital Forensics]]
 + [[Windows File System]]
 + [Memory Forensics](MemoryForensics.md)
-+ [Windows Forensics 1](WF1.md)
++ [Windows Forensics 1](Windows%207%20Common%20Processes.md)
 + [Working with Virtual Hard Disk](Cybersecurity/Working with VHD)
 + [Introduction to Evidence Acquisition](Intro_To_EvidenceAcquisition.md)
 
