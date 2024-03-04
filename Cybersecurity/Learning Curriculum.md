@@ -15,8 +15,9 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [ ] May - Security Analyst, Security+, DFIR
 - [ ] June - Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
 - [ ] July - Cyberdefenders, Blueteamlabs, pentester lab, tryhackme, hackthebox practice
+- [ ] August - Networking 
 ---
-	## Foundational Topics
+## Foundational Topics
 - [x] What are Capture the Flags?
 - [x] Set up you Virtual Machine(Ubuntu, Kali Linux, or other) in VirtualBox
 - [x] Basic Linux Commands
