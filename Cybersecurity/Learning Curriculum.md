@@ -3,7 +3,7 @@
 # Monthly Topic Focus
 > The Goal of this sections is to organize what topics to focus for each month, to learn as much TTPs and Tools for each month. This doesn't mean that I won't be learning another stuff, it only indicates that I will focus on a specific topic as a goal per day and if I have time, learn some other stuff as well. This is in preparation for next year's Hack4Gov Capture the Flag
 
-CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, **Pwning**, **Binary Exploitation and Reverse Engineering**
+CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Exploitation**
 [Use this as a Guide for any Blue Team Training](https://d2y9h8w1ydnujs.cloudfront.net/BTL1Syllabus.pdf)
 
 - [x] November - Web Application Security
@@ -468,6 +468,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 - [Letsdefend Practice Scenario of Being a analyst](https://app.letsdefend.io/monitoring)
 - [Letsdefend Challenges and Blue Team CTF](https://app.letsdefend.io/challenge)
 - [Checklist of things to learn](https://d2y9h8w1ydnujs.cloudfront.net/BTL1Syllabus.pdf)
+- [Linux Stuff | Linux Journey](https://linuxjourney.com)
 
 #### Tools to learn
 - CFF explorer
@@ -526,6 +527,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **Cryptography**, 
 
 #### Resources
 - [IoTSecurity101]([0xM1cx/IoTSecurity101: A Curated list of IoT Security Resources (github.com)](https://github.com/0xM1cx/IoTSecurity101))
+- [Linux Stuff | Linux Journey](https://linuxjourney.com)
 
 ## Incident Response
 

@@ -8,72 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d00e240e4d5b92e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/2nd-Year/2nd-Sem/ArtAppAss-1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "57d00b5b392e63a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/DFIR/Windows Forensics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51b046566428ebbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/2nd-Year/2nd-Sem/STS Lesson 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72184dfa43a6e454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVSU/2nd-Year/2nd-Sem/QM-Reading Ass1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e8160538a938d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network/NMAP.md",
+                "file": "Writeups/CTF Writups Main.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -163,18 +109,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5e8160538a938d7e",
+  "active": "57d00b5b392e63a7",
   "lastOpenFiles": [
     "Cybersecurity/Learning Curriculum.md",
+    "Cybersecurity/DFIR/MemoryForensics.md",
+    "Cybersecurity/DFIR/DFIR Syllabus.md",
+    "Cybersecurity/DFIR/Windows Forensics.md",
+    "EVSU/2nd-Year/2nd-Sem/ArtAppAss-1.md",
     "EVSU/2nd-Year/2nd-Sem/QM-Reading Ass1.md",
+    "EVSU/2nd-Year/2nd-Sem/STS Lesson 3.md",
+    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network/NMAP.md",
     "Cybersecurity/Capstone Research and Projects.md",
     "I.T. Projects/Research.md",
-    "Cybersecurity/DFIR/Windows Forensics.md",
     "Cybersecurity/DFIR/Windows File System.md",
     "Cybersecurity/DFIR/Working with VHD.md",
     "Cybersecurity/DFIR/Windows 7 Common Processes.md",
-    "EVSU/2nd-Year/2nd-Sem/STS Lesson 3.md",
-    "EVSU/2nd-Year/2nd-Sem/ArtAppAss-1.md",
     "EVSU/2nd-Year/2nd-Sem/STS Lesson1.md",
     "EVSU/2nd-Year/2nd-Sem/STS Lesson 2.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Tool-Set/CTF_Tools_Used.md",
@@ -200,11 +149,8 @@
     "Networking/Frame Forwarding.md",
     "Programming/SQL/Lesson 1.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Network Log Analysis.md",
-    "Cybersecurity/DFIR/Windows Architecture.md",
-    "Cybersecurity/Cybersecurity Main.md",
     "Pictures/Pasted image 20240128005754.png",
     "Pictures/generic-1.png",
-    "Writeups/The problems with Filipinos.md",
     "Pictures/attack1.png",
     "Pictures/ssl7.png",
     "Pictures/ssl6.png",
