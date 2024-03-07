@@ -14,8 +14,8 @@ STS Offhand Notes 03/06/24
 	1. *Growth* 
 	2. *Action* 
 	3. *Creative* 
-		1. *Mutual* 
-	4. *Decision* 
+	4. *Mutual* 
+	5. *Decision* 
 - Acquired/Developmental 
 - Assertions/Claims 
 - To validate is to cross reference 
