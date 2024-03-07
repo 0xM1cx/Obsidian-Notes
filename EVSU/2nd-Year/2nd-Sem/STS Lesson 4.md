@@ -1,21 +1,21 @@
 STS Offhand Notes 03/06/24 
-- Hypothesis is a tentative explanation for natural phenomena 
-- Hypo means beneath 
-- Thesis means solution 
+- **Hypothesis** is a tentative explanation for natural phenomena 
+- Hypo means *beneath* 
+- Thesis means *solution* 
 - Types of Love: 
-	1. Ludic - excitement and happiness 
-	2. Storge - developed over time 
-	3. Pragma - compatibility and practical 
-	4. Manic - obsessive 
-	5. Eros - based on characteristics and attributes 
-	6. Filial - fondness and appreciation 
-	7. Agape - holistic 
+	1. *Ludic -* excitement and happiness 
+	2. *Storge* - developed over time 
+	3. *Pragma* - compatibility and practical 
+	4. *Manic* - obsessive 
+	5. *Eros* - based on characteristics and attributes 
+	6. *Filial* - fondness and appreciation 
+	7. *Agape* - holistic 
 - Characteristics of Love: 
-	1. Growth 
-	2. Action 
-	3. Creative 
-	4. Mutual 
-	5. Decision 
+	1. *Growth* 
+	2. *Action* 
+	3. *Creative* 
+		1. *Mutual* 
+	4. *Decision* 
 - Acquired/Developmental 
 - Assertions/Claims 
 - To validate is to cross reference 
