@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/CTF Writups Main.md",
+                "file": "EVSU/2nd-Year/2nd-Sem/STS Lesson 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,6 +111,9 @@
   },
   "active": "57d00b5b392e63a7",
   "lastOpenFiles": [
+    "EVSU/GEN Ed 002/Lesson1.md",
+    "EVSU/2nd-Year/2nd-Sem/STS Lesson 4.md",
+    "Writeups/CTF Writups Main.md",
     "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/DFIR/MemoryForensics.md",
     "Cybersecurity/DFIR/DFIR Syllabus.md",
@@ -146,9 +149,6 @@
     "Pictures/Pasted image 20240205210832.png",
     "Programming/SQL/Syllabus.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
-    "Networking/Frame Forwarding.md",
-    "Programming/SQL/Lesson 1.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Letsdefend.io_Notes/Network Log Analysis.md",
     "Pictures/Pasted image 20240128005754.png",
     "Pictures/generic-1.png",
     "Pictures/attack1.png",
