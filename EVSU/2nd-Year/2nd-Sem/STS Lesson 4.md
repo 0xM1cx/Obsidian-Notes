@@ -10,7 +10,7 @@ STS Offhand Notes 03/06/24
 	5. *Eros* - based on characteristics and attributes 
 	6. *Filial* - fondness and appreciation 
 	7. *Agape* - holistic 
-- Characteristics of Love: 
+- *Characteristics of Love: 
 	1. *Growth* 
 	2. *Action* 
 	3. *Creative* 

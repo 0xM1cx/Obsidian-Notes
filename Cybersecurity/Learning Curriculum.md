@@ -111,7 +111,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 
 
 ### Network Forensics
-- [ ] System & Network Forensics
+- [x] System & Network Forensics
 - [x] Packet Analysis
 - [x] Packet headers
 - [x] How to use Wireshark
