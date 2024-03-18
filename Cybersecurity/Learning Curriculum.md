@@ -65,7 +65,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] File Inclusion Vulnerabilities
 - [x] Server-Side Request Forgery(SSRF) how it works
 - [ ] What is Cross-Origin Resource Sharing and how does it work
-- [ ] What is XML external entity (XXE) injection
+- [x] What is XML external entity (XXE) injection
 - [ ] What is HTTP request Smuggling 
 - [x] What is HTTP Basic Authentication
 - [x] Content discovery, How to discover hidden/private content in a webserver
@@ -138,7 +138,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [ ] Analyzing file system structure in memory
 
 ### Other DFIR skills
-- [ ] Linux File System
+- [x] Linux File System
 - [ ] How to collect artifacts on Disk
 - [ ] Artifact Acquisition on systems(network, file, memory, etc)
 - [ ] Log Analysis, Timelines and Reporting
@@ -153,7 +153,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [ ] fcrackzip
 - [ ] FTK
 - [ ] Autopsy
-- [ ] Volitility
+- [x] Volitility
 - [ ] EnCase
 
 #### Resources

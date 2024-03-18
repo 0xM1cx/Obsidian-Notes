@@ -18,4 +18,4 @@
 1. "Smart Greenhouses: Integrating IoT for Enhanced Botanical Science Solutions"
 2. "Utilizing IoT for Monitoring and Controlling Abiotic Factors in Herbaceous Plant Growth"
 3. Smart Sensing Solutions for Optimizing Environmental Conditions in Herbaceous Plant Cultivation
-4. Real-Time Monitoring of Soil Moisture and Nutrient Levels for Enhanced Herbaceous Plant Growth
+4. Real-Time Monitoring of Soil Moisture and Nutrient Levels for Enhanced Herbaceous Plant Cultivation

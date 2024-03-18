@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Learning Curriculum.md",
+                "file": "Networking/DNS_Enumeration.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -111,11 +112,15 @@
   },
   "active": "57d00b5b392e63a7",
   "lastOpenFiles": [
+    "I.T. Projects/Research.md",
+    "Writeups/WolvCTF.md",
+    "Pictures/Pasted image 20240316225747.png",
+    "Pictures/Pasted image 20240316213434.png",
+    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/SOC_TOOLS.md",
     "EVSU/2nd-Year/2nd-Sem/STS Lesson 4.md",
     "EVSU/GEN Ed 002/Lesson1.md",
     "Writeups/CTF Writups Main.md",
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/DFIR/MemoryForensics.md",
     "Cybersecurity/DFIR/DFIR Syllabus.md",
     "Cybersecurity/DFIR/Windows Forensics.md",
@@ -124,7 +129,6 @@
     "EVSU/2nd-Year/2nd-Sem/STS Lesson 3.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network/NMAP.md",
     "Cybersecurity/Capstone Research and Projects.md",
-    "I.T. Projects/Research.md",
     "Cybersecurity/DFIR/Windows File System.md",
     "Cybersecurity/DFIR/Working with VHD.md",
     "Cybersecurity/DFIR/Windows 7 Common Processes.md",
@@ -147,16 +151,12 @@
     "I.T Resources.md",
     "Pictures/Pasted image 20240205210931.png",
     "Pictures/Pasted image 20240205210832.png",
-    "Programming/SQL/Syllabus.md",
-    "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/SQL Injection.md",
     "Pictures/Pasted image 20240128005754.png",
     "Pictures/generic-1.png",
     "Pictures/attack1.png",
     "Pictures/ssl7.png",
     "Pictures/ssl6.png",
     "Pictures/ssl2.png",
-    "Pictures/Pasted image 20240112102728.png",
-    "Pictures/hash6.png",
     "To do.canvas",
     "Untitled.canvas"
   ]
