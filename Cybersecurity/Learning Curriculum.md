@@ -11,11 +11,11 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] January -  Cryptography, Network Security
 - [x] February - Reverse Engineering, Binary Exploitation
 - [ ] March - Digital Forensics(Network, Memory, Stego, Windows)
-- [ ] April - Pwning, Attacking Machines, Jr Pentester
-- [ ] May - Security Analyst, Security+, DFIR
-- [ ] June - Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
-- [ ] July - Cyberdefenders, Blueteamlabs, pentester lab, tryhackme, hackthebox practice
-- [ ] August - Networking 
+- [ ] April - Web Exploitation & Digital Forensics
+- [ ] May - Pwning, Attacking Machines, Jr Pentester, Reversing
+- [ ] June -  Security Analyst, Security+, DFIR 
+- [ ] July -  Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
+- [ ] August - Cyberdefenders, Blueteamlabs, pentester lab, tryhackme, hackthebox practice
 	---
 ## Foundational Topics
 - [x] What are Capture the Flags?

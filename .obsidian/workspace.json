@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/DNS_Enumeration.md",
+                "file": "EVSU/2nd-Year/2nd-Sem/STS-Learning-Act1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "right": {
     "id": "09b27e4e3242d603",
@@ -113,10 +112,13 @@
   "active": "57d00b5b392e63a7",
   "lastOpenFiles": [
     "I.T. Projects/Research.md",
+    "EVSU/2nd-Year/2nd-Sem/STS-Learning-Act1.md",
+    "EVSU/2nd-Year/2nd-Sem/QM-Reading Ass1.md",
+    "Cybersecurity/Learning Curriculum.md",
+    "Networking/DNS_Enumeration.md",
     "Writeups/WolvCTF.md",
     "Pictures/Pasted image 20240316225747.png",
     "Pictures/Pasted image 20240316213434.png",
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/SOC_TOOLS.md",
     "EVSU/2nd-Year/2nd-Sem/STS Lesson 4.md",
     "EVSU/GEN Ed 002/Lesson1.md",
@@ -125,7 +127,6 @@
     "Cybersecurity/DFIR/DFIR Syllabus.md",
     "Cybersecurity/DFIR/Windows Forensics.md",
     "EVSU/2nd-Year/2nd-Sem/ArtAppAss-1.md",
-    "EVSU/2nd-Year/2nd-Sem/QM-Reading Ass1.md",
     "EVSU/2nd-Year/2nd-Sem/STS Lesson 3.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network/NMAP.md",
     "Cybersecurity/Capstone Research and Projects.md",
@@ -148,7 +149,6 @@
     "downloads/Mangakakalot (EN)/Moto Ansatsusha, Tensei Shita Kizoku No Reijou Ni Narimashita",
     "Cybersecurity/RE/Central Processing Unit.md",
     "Writeups/0xl4ugh.md",
-    "I.T Resources.md",
     "Pictures/Pasted image 20240205210931.png",
     "Pictures/Pasted image 20240205210832.png",
     "Pictures/Pasted image 20240128005754.png",
