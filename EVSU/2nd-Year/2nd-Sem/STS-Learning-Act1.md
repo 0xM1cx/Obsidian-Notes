@@ -47,3 +47,7 @@ This technology can help with various emergencies such as the following:
 - http://www.ajupress.com/view/20161229153658716
 - https://www.koreaherald.com/view.php?ud=20160720000724
 - https://www.koreatimes.co.kr/www/tech/2024/03/129_209510.html
+- https://www.researchgate.net/publication/357748826_WOMEN_SAFETY_DEVICE_USING_IOT
+- https://ieeexplore.ieee.org/abstract/document/9557450
+- https://www.researchgate.net/publication/374225253_Location_Optimization_of_Emergency_Bell_Based_on_Coverage_Analysis_for_Crime_Prevention
+- https://www.researchgate.net/publication/220664154_Zikimi_A_Case_Study_in_Micro_Kernel_Design_for_Multimedia_Applications
