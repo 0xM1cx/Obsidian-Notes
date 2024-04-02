@@ -10,7 +10,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] December - Digital Forensics w/ (Steganography OSINT)
 - [x] January -  Cryptography, Network Security
 - [x] February - Reverse Engineering, Binary Exploitation
-- [ ] March - Digital Forensics(Network, Memory, Stego, Windows)
+- [x] March - Digital Forensics(Network, Memory, Stego, Windows)
 - [ ] April - Web Exploitation & Digital Forensics
 - [ ] May - Pwning, Attacking Machines, Jr Pentester, Reversing
 - [ ] June -  Security Analyst, Security+, DFIR 
