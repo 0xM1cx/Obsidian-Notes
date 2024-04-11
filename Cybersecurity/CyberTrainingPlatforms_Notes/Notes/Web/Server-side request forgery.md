@@ -38,9 +38,9 @@ In some cases, the application server is able to interact with back-end systems 
 
 An example of an attack is when an attack can forge a request that is target to another server in the network. 
 ```http
-`POST /product/stock HTTP/1.0 
+POST /product/stock HTTP/1.0 
 Content-Type: application/x-www-form-urlencoded 
 Content-Length: 118 
 
-stockApi=http://192.168.0.68/admin`
+stockApi=http://192.168.0.68/admin
 ```
