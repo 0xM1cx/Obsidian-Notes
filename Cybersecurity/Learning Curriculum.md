@@ -123,8 +123,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] User and Kernel Modes
 - [x] Processes, Threads and services
 - [x] System Calls
-- [ ] How to collect artifacts on Memory
-- [ ] Memory Forensics
+- [x] How to collect artifacts on Memory
+- [x] Memory Forensics
 - [ ] Pagefile analysis
 - [ ] Process and Kernel Memory
 - [ ] How to create memory dumps for analysis
