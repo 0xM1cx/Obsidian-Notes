@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General-I.T/TOPCIT.md",
+                "file": "Writeups/Writeups To Find and Read.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,9 +112,11 @@
   },
   "active": "57d00b5b392e63a7",
   "lastOpenFiles": [
-    "Cybersecurity/Learning Curriculum.md",
-    "General-I.T/TOPCIT.md",
     "EVSU/2nd-Year/2nd-Sem/STS Group Research.md",
+    "Writeups/Writeups To Find and Read.md",
+    "Writeups/ToDo.md",
+    "General-I.T/TOPCIT.md",
+    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Server-side request forgery.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Access_Controls.md",
@@ -138,8 +140,6 @@
     "EVSU/2nd-Year/2nd-Sem/STS Lesson 3.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Network/NMAP.md",
     "Cybersecurity/Capstone Research and Projects.md",
-    "Cybersecurity/DFIR/Windows File System.md",
-    "Cybersecurity/DFIR/Working with VHD.md",
     "downloads/Mangakakalot (EN)/The Guild Official With The Out-Of-The-Way Skill “Shadowy” Is, In Fact, The Legendary Assassin/chapmanganato.to_Chapter 26_ An Encounter With A Battle-Ready Rookie (Part 1).cbz",
     "downloads/Mangairo (EN)/TAKAMORI-KUN WO DAMARASETAI!!/chap.mangairo.com_Chapter 2.cbz",
     "autobackup/xyz.jmir.tachiyomi.mi_2024-02-09_13-13.tachibk",

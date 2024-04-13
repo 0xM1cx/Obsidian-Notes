@@ -26,3 +26,12 @@
 	- Smart Alert System for Traffic Accidents: Machine Learning-Powered CCTV Detection with Emergency SOS and Vehicle Owner Notification
 - Jodelyn Quilat
 	- Ultrasound Imaging, GPS, Smart Grid
+
+
+## STS Assignment
+1. What is Filippinovation? 
+	1. This phrase may be interpreted as both a government initiative to encourage scientific and technical innovation in the nation and as a personality trait or attitude among the Filipino people.
+2. What is digitalization? 
+	1. It is the integration of digital technology into daily life, including a range of areas such as communication, business, education, and health. Digitalization may speed up procedures, increase productivity, enhance the quality of goods and services, and lower long-term costs. 
+3. Why is President Ferdinand R. Marcos Jr. urging Filipinos to develop this culture of innovation?
+	1. This is due to the fact that a society that fosters innovation in some way at its core may become rich. Tinkering, thinking creatively, and coming up with answers to society issues would attract people in. Additionally, an innovative culture fosters healthy competition, which propels societal advancement. 

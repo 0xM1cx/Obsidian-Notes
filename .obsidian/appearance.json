@@ -5,5 +5,8 @@
   "translucency": false,
   "textFontFamily": "Arial",
   "baseFontSizeAction": false,
-  "accentColor": "#1f4bf9"
+  "accentColor": "#1f4bf9",
+  "enabledCssSnippets": [
+    "list"
+  ]
 }
