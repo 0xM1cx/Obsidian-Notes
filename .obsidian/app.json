@@ -4,11 +4,11 @@
   "promptDelete": false,
   "attachmentFolderPath": "Pictures",
   "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "Letter",
+    "includeName": false,
+    "pageSize": "Legal",
     "landscape": false,
-    "margin": "2",
-    "downscalePercent": 85
+    "margin": "0",
+    "downscalePercent": 78
   },
   "readableLineLength": true,
   "showIndentGuide": false,
