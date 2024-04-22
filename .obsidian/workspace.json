@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVSU/2nd-Year/2nd-Sem/IM ASSingment.md",
+                "file": "EVSU/2nd-Year/2nd-Sem/Tech-Writing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,11 +78,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79c2a339b92c1d16",
+        "id": "9b6c97e59786e6a3",
         "type": "tabs",
         "children": [
           {
-            "id": "04f37a01056d330b",
+            "id": "a67b6044ba13db28",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -113,14 +113,14 @@
   "active": "57d00b5b392e63a7",
   "lastOpenFiles": [
     "EVSU/2nd-Year/2nd-Sem/IM ASSingment.md",
+    "EVSU/2nd-Year/2nd-Sem/Tech-Writing.md",
+    "Cybersecurity/Learning Curriculum.md",
     "I.T. Projects/Research.md",
-    "EVSU/2nd-Year/2nd-Sem/Untitled.md",
     "EVSU/2nd-Year/2nd-Sem/QM-Reading Ass1.md",
     "Writeups/Writeups To Find and Read.md",
     "EVSU/2nd-Year/2nd-Sem/STS Group Research.md",
     "Writeups/ToDo.md",
     "General-I.T/TOPCIT.md",
-    "Cybersecurity/Learning Curriculum.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Server-side request forgery.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Access_Controls.md",

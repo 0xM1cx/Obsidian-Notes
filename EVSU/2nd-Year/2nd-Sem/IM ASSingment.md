@@ -64,6 +64,7 @@ SHAWN MICHAEL SUDARIA - BSIT 2B
 | L007    | Ord005   | Prod006    | 2        | $88   |
 
 
+
 ## Activity 3
 The objective is to mitigate/reduce the redundancy of the head of the family. One head for the entire family.
 
@@ -74,7 +75,6 @@ DSWDForm(
 	FH_ID
 );
 ```
-
 ```
 FamilyHead(
 	FH_ID, 
@@ -92,7 +92,6 @@ FamilyHead(
 	Others
 ); 
 ```
-
 ```
 FamInfo(
 	FamMem_ID, 
@@ -107,10 +106,8 @@ FamInfo(
 	Remarks
 );
 ```
-
 ```mysql
 PersonalDetails(
-	PD_ID,
 	FH_ID,		
 	Age,
 	CardNumber,
@@ -122,7 +119,6 @@ PersonalDetails(
 	Birthplace
 );
 ```
-
 ```
 LocationAffectedFam(
 	LAF_ID, 
@@ -134,7 +130,6 @@ LocationAffectedFam(
 	EvacCenter
 );
 ```
-
 ```
 Receiver(
 	RID,
