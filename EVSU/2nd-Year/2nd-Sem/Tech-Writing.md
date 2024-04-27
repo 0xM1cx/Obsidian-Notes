@@ -1,6 +1,6 @@
 Please note the following instructions in relation to the task I mentioned earlier. Attached to this message is a PowerPoint presentation in PDF format, which covers the special techniques in technical writing and reporting. Please review it carefully before completing the following tasks: 
 - Provide five examples of informal definitions. 
-	- Algorithm - set of instructions for solving a problem
+	- Algorithm - set of step-by-step instructions for solving a problem
 	- Hypothesis - an educated guess about the outcome of an experiment or observation
 	- DNA - genetic material that contains instructions for the development, functioning, and reproduction of living organisms
 	- Photosynthesis - the process by which plants use sunlight, water, and carbon dioxide to produce energy

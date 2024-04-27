@@ -74,8 +74,8 @@ DSWDForm(
 	FormType
 	FH_ID
 );
-```
-```
+
+
 FamilyHead(
 	FH_ID, 
 	LAF_ID, 
@@ -91,8 +91,6 @@ FamilyHead(
 	NumPWD,
 	Others
 ); 
-```
-```
 FamInfo(
 	FamMem_ID, 
 	FH_ID, 
@@ -105,8 +103,7 @@ FamInfo(
 	Occupation, 
 	Remarks
 );
-```
-```mysql
+
 PersonalDetails(
 	FH_ID,		
 	Age,
@@ -117,9 +114,11 @@ PersonalDetails(
 	Occupation,
 	Adderss,
 	Birthplace
+	HouseOwnership,
+	HouseCondition
 );
-```
-```
+
+
 LocationAffectedFam(
 	LAF_ID, 
 	Region, 
@@ -129,8 +128,8 @@ LocationAffectedFam(
 	City, 
 	EvacCenter
 );
-```
-```
+
+
 Receiver(
 	RID,
 	FamMem_ID,
