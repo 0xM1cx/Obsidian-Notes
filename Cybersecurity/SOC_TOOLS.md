@@ -43,3 +43,4 @@
 
 ## DFIR TOOLS
 - https://unlocktool.net/
+- https://shellsharks.com/infosec-tools#network-tools-ip-dns-whois
