@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/SOC_TOOLS.md",
+                "file": "Cybersecurity/Learning Curriculum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,6 +112,7 @@
   },
   "active": "57d00b5b392e63a7",
   "lastOpenFiles": [
+    "Cybersecurity/SOC_TOOLS.md",
     "Cybersecurity/Learning Curriculum.md",
     "EVSU/2nd-Year/2nd-Sem/QM-Reading Ass1.md",
     "EVSU/2nd-Year/2nd-Sem/IM ASSingment.md",
@@ -131,7 +132,6 @@
     "Writeups/WolvCTF.md",
     "Pictures/Pasted image 20240316225747.png",
     "Pictures/Pasted image 20240316213434.png",
-    "Cybersecurity/SOC_TOOLS.md",
     "EVSU/2nd-Year/2nd-Sem/STS Lesson 4.md",
     "EVSU/GEN Ed 002/Lesson1.md",
     "Writeups/CTF Writups Main.md",

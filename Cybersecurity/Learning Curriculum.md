@@ -74,6 +74,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] Research about OWASP Top 10 vulnerabilities
 #### Learning Resources
 - [ ] https://www.hacksplaining.com/lessons
+- [ ] https://webhacking.kr/
 #### Notes
 - [[SQL Injection]]
 - [[Authentication Vulnerabilities]]
