@@ -11,11 +11,13 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] January -  Cryptography, Network Security
 - [x] February - Reverse Engineering, Binary Exploitation
 - [x] March - Digital Forensics(Network, Memory, Stego, Windows)
-- [ ] April - Web Exploitation & Digital Forensics
-- [ ] May -  Attacking Machines, Reversing
-- [ ] June -  Security Analyst, Security+, DFIR 
-- [ ] July -  Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
+- [x] April - Web Exploitation & Digital Forensics
+- [ ] May -  Attacking Machines
+- [ ] June -  Security Analyst, Security+, DFIR, Cryptography, Reversing
+- [ ] July - Pentesting 
 - [ ] August - Cyberdefenders, Blueteamlabs, pentester lab, tryhackme, hackthebox practice
+- [ ] September -  Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
+- [ ] October - Pentesting
 	
 	---
 ## Foundational Topics
@@ -75,6 +77,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 #### Learning Resources
 - [ ] https://www.hacksplaining.com/lessons
 - [ ] https://webhacking.kr/
+- [ ] https://los.rubiya.kr/gate.php  This is sql injection stuff
 #### Notes
 - [[SQL Injection]]
 - [[Authentication Vulnerabilities]]
@@ -84,7 +87,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [[Path Traversal]]
 - [[Server-side request forgery]]
 #### Tools to learn
-- [ ] Dirbuster
+- [x] Dirbuster
 - [ ] Apache2
 - [x] Burpsuit
 - [ ] Zap
@@ -168,7 +171,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] DNS Hierarchy
 - [ ] Intrusion Detection System & Intrusion prevention system
 - [x] How to analyze a packet
-- [ ] Types of attackers and their motivations
+- [x] Types of attackers and their motivations
 - [x] What are digital signatures
 - [x] Public Key Infrastructure
 - [ ] DES, AES, RSA, ECC
@@ -293,26 +296,26 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] Learn to read malware code in Python
 - [x] Process Stack
 - [x] Process Heap
-- [ ] Learn to read malware code in Powershell
+- [x] Learn to read malware code in Powershell
 - [ ] Learn to read malware code in Bash
 - [ ] Learn some basics in Binary Exploitation
 - [ ] Learn about shellcode and how to create them
 ### Module 1: Binary Analysis and Tools
-- [ ] Common Binary file formats (PE, ELF)
-- [ ] Ghidra and other disassembly tools
+- [x] Common Binary file formats (PE, ELF)
+- [x] Ghidra and other disassembly tools
 - [x] converting machine code to higher-level languages
 - [ ] Dynamic Analysis using debuggers (GDB, WinDbg)
 - [x] Breakpoints, watchpoints, dynamic analysis tools
 - [ ] Types of RE
-	- [ ] Source Code Analysis
-	- [ ] Binary Analysis
+	- [x] Source Code Analysis
+	- [x] Binary Analysis
 	- [ ] Protocol Analysis
 
 ### Module 2: Assembly Language Basics
 - [x] Introduction to CPU architectures(x64 and ARM)
 - [x] Registers, instructions, and other addressing modes
-- [ ] Control flow analysis, Control flow instructions
-- [ ] Stack operations
+- [x] Control flow analysis, Control flow instructions
+- [x] Stack operations
 
 ### Module 3: Malware Analysis
 - [ ] Dynamic Malware Analysis
@@ -474,7 +477,6 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 
 #### Tools to learn
 - CFF explorer
-- 
 
 ## IoT Security
 ### Module 1: Introduction to Embedded Systems
@@ -535,7 +537,6 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 
 ## Threat Intelligence, Management & Hunting
 - [ ] How to Collect logs from End Devices and the Network
-- [ ] 
 ## Windows Malware Development 
 - [Windows Kernel Internals](https://www.codemachine.com/trainings/kerint.html)
 - [Windows Kernel Rootkit](https://www.codemachine.com/trainings/kerrkt.html)
@@ -554,5 +555,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - rootme.org
 - overthewire.org
 - letsdefend
+- https://github.com/apsdehal/awesome-ctf
+- https://ctfsites.github.io/
 
 

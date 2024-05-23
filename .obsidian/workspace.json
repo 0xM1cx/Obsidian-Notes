@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de8c74904a4dc228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVSU/2nd-Year/2nd-Sem/STS Group Research.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -112,34 +125,34 @@
   },
   "active": "57d00b5b392e63a7",
   "lastOpenFiles": [
-    "Cybersecurity/SOC_TOOLS.md",
+    "EVSU/2nd-Year/2nd-Sem/STS Group Research.md",
+    "EVSU/2nd-Year/2nd-Sem/STS-Learning-Act1.md",
     "Cybersecurity/Learning Curriculum.md",
+    "EVSU/2nd-Year/2nd-Sem/STS Lesson 4.md",
+    "I.T Resources.md",
+    "Cybersecurity/SOC_TOOLS.md",
     "EVSU/2nd-Year/2nd-Sem/QM-Reading Ass1.md",
     "EVSU/2nd-Year/2nd-Sem/IM ASSingment.md",
     "EVSU/2nd-Year/2nd-Sem/Tech-Writing.md",
     "I.T. Projects/Research.md",
     "Writeups/Writeups To Find and Read.md",
-    "EVSU/2nd-Year/2nd-Sem/STS Group Research.md",
     "Writeups/ToDo.md",
     "General-I.T/TOPCIT.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Server-side request forgery.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Authentication Vulnerabilities.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/Access_Controls.md",
     "Cybersecurity/CyberTrainingPlatforms_Notes/Notes/Web/File Upload Vulnerabilities.md",
-    "EVSU/2nd-Year/2nd-Sem/STS-Learning-Act1.md",
     "General-I.T/DOST SEI JLSS Prep.md",
     "Networking/DNS_Enumeration.md",
     "Writeups/WolvCTF.md",
     "Pictures/Pasted image 20240316225747.png",
     "Pictures/Pasted image 20240316213434.png",
-    "EVSU/2nd-Year/2nd-Sem/STS Lesson 4.md",
     "EVSU/GEN Ed 002/Lesson1.md",
     "Writeups/CTF Writups Main.md",
     "Cybersecurity/DFIR/MemoryForensics.md",
     "Cybersecurity/DFIR/DFIR Syllabus.md",
     "Cybersecurity/DFIR/Windows Forensics.md",
     "EVSU/2nd-Year/2nd-Sem/ArtAppAss-1.md",
-    "EVSU/2nd-Year/2nd-Sem/STS Lesson 3.md",
     "downloads/Mangakakalot (EN)/The Guild Official With The Out-Of-The-Way Skill “Shadowy” Is, In Fact, The Legendary Assassin/chapmanganato.to_Chapter 26_ An Encounter With A Battle-Ready Rookie (Part 1).cbz",
     "downloads/Mangairo (EN)/TAKAMORI-KUN WO DAMARASETAI!!/chap.mangairo.com_Chapter 2.cbz",
     "autobackup/xyz.jmir.tachiyomi.mi_2024-02-09_13-13.tachibk",
