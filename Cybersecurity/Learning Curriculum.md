@@ -12,7 +12,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] February - Reverse Engineering, Binary Exploitation
 - [x] March - Digital Forensics(Network, Memory, Stego, Windows)
 - [x] April - Web Exploitation & Digital Forensics
-- [ ] May -  Attacking Machines
+- [x] May -  Attacking Machines
 - [ ] June -  Security Analyst, Security+, DFIR, Cryptography, Reversing
 - [ ] July - Pentesting 
 - [ ] August - Cyberdefenders, Blueteamlabs, pentester lab, tryhackme, hackthebox practice
@@ -364,6 +364,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - gdb
 - pwntools
 - [For more tools look at this playbook](https://fareedfauzi.gitbook.io/ctf-playbook/reverse-engineering)
+- [curated list of unix binaries that can be used to bypass local security and how](https://gtfobins.github.io/#find)
 
 ---
 ## Security Analyst, Security+
