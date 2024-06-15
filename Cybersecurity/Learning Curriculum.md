@@ -560,3 +560,15 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - https://ctfsites.github.io/
 
 
+## Freshmen Learning Path
+1. [How to use Tryhackme](https://tryhackme.com/r/room/howtousetryhackme)
+2. [Learning Cyber Security](https://tryhackme.com/r/room/beginnerpathintro)
+3. [OpenVPN setup](https://tryhackme.com/r/room/openvpn)
+4. [Javascript Basics](https://tryhackme.com/r/room/javascriptbasics)
+5. [Regular Expression](https://tryhackme.com/r/room/catregex)
+6. [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)
+7. [What is Networking?](https://tryhackme.com/r/room/introtonetworking)
+8. [HTTP in detail](https://tryhackme.com/r/room/httpindetail)
+9. [Cryptography for Dummies](https://tryhackme.com/r/room/cryptographyfordummies)
+10. [Introduction to Cryptography](https://tryhackme.com/r/room/cryptographyintro)
+11. 
