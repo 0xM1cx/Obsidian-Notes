@@ -15,6 +15,8 @@ The **instruction cycle** is the cycle that the CPU follows from boot-up until t
 ![[Pasted image 20240205210832.png]]
 ![[Pasted image 20240205210931.png]]
 ### General Purpose Registers
+- **AX** - used to store values in arithmetic and logic operations
+- **BX** - often used to hold the base address for memory operations 
 ## System Calls
 A **system call**, or **syscall**, is when a program requests a service from the kernel. System calls will differ by operating system because different operating systems use different kernels. 
 

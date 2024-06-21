@@ -571,4 +571,3 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 8. [HTTP in detail](https://tryhackme.com/r/room/httpindetail)
 9. [Cryptography for Dummies](https://tryhackme.com/r/room/cryptographyfordummies)
 10. [Introduction to Cryptography](https://tryhackme.com/r/room/cryptographyintro)
-11. 
