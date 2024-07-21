@@ -13,8 +13,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] March - Digital Forensics(Network, Memory, Stego, Windows)
 - [x] April - Web Exploitation & Digital Forensics
 - [x] May -  Attacking Machines
-- [ ] June -  Security Analyst, Security+, DFIR, Cryptography, Reversing
-- [ ] July - Pentesting 
+- [x] June -  Security Analyst, Security+, DFIR, Cryptography, Reversing
+- [x] July - Pentesting 
 - [ ] August - Cyberdefenders, Blueteamlabs, pentester lab, tryhackme, hackthebox practice
 - [ ] September -  Blue Team Operations, Incident Handling, Threat Intelligence & Hunting
 - [ ] October - Pentesting
@@ -36,10 +36,10 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] Asymmetric Cryptography work
 - [x] How does Hashing and Hashin+Salt work
 - [x] How DHCP works
-- [ ] Bash Scripting
+- [x] Bash Scripting
 - [ ] Powershell Scripting
-- [ ] PHP Programming
-- [ ] What are YARA Rules? How to Create and User them
+- [x] PHP Programming
+- [x] What are YARA Rules? How to Create and User them
 
 ---
 ## Basic Skills to learn
@@ -57,7 +57,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] Intro to the HTTP protocol
 - [x] How does a web session work
 - [x] Cross-Site Scripting (XSS) Lecture
-- [ ] How to and Do some Cross-Site Scripting (XSS) Challenges
+- [x] How to and Do some Cross-Site Scripting (XSS) Challenges
 - [x] SQL Injection Lecture
 - [ ] How to and Do some SQL Injection Challenges
 - [x] How does Command Injection Work and Do some challenges
@@ -69,13 +69,13 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] Server-Side Request Forgery(SSRF) how it works
 - [ ] What is Cross-Origin Resource Sharing and how does it work
 - [x] What is XML external entity (XXE) injection
-- [ ] What is HTTP request Smuggling 
+- [x] What is HTTP request Smuggling 
 - [x] What is HTTP Basic Authentication
 - [x] Content discovery, How to discover hidden/private content in a webserver
 - [x] How does Insecure Direct Object Reference(IDOR)
 - [x] Research about OWASP Top 10 vulnerabilities
 #### Learning Resources
-- [ ] https://www.hacksplaining.com/lessons
+- [x] https://www.hacksplaining.com/lessons
 - [ ] https://webhacking.kr/
 - [ ] https://los.rubiya.kr/gate.php  This is sql injection stuff
 #### Notes
@@ -88,31 +88,31 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [[Server-side request forgery]]
 #### Tools to learn
 - [x] Dirbuster
-- [ ] Apache2
+- [x] Apache2
 - [x] Burpsuit
-- [ ] Zap
+- [x] Zap
 
 ---
 ## Digital Forensics
 ### Windows Forensics
 - [ ] Registry Structure and Function, and Analyze Registry Hives
-- [ ] Event logs and Auditing 
+- [x] Event logs and Auditing 
 - [ ] Windows Kernel Architecture
 - [ ] Windows Architecture
 - [ ] File & Disk Analysis
 - [ ] Learn file systems(FAT, exFAT, NTFS)
 - [x] Windows File System
-- [ ] How to use Foremost
-- [ ] Understanding Windows Process Structure
-- [ ] Windows Security Models
+- [x] How to use Foremost
+- [x] Understanding Windows Process Structure
+- [x] Windows Security Models
 - [ ] User Account Management
 
 ### Linux Forensics
-- [ ] File System(Ext4, XFS, ZFS)
+- [x] File System(Ext4, XFS, ZFS)
 - [ ] Log Files(Syslog, authlogs) and analysis and interpretation of those files
 - [ ] User Account management(User Accounts, groups, permissions)
 - [ ] Pluggable Authentication Module(PAM)
-- [ ] Bash Scripting
+- [x] Bash Scripting
 
 
 ### Network Forensics
@@ -155,9 +155,9 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] xxd
 - [x] Binwalk
 - [x] Steghide
-- [ ] fcrackzip
-- [ ] FTK
-- [ ] Autopsy
+- [x] fcrackzip
+- [x] FTK
+- [x] Autopsy
 - [x] Volitility
 - [ ] EnCase
 
@@ -187,7 +187,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] WEP, WPA, WPA2, WPA3
 - [ ] 802.1X and EAP
 - [ ] Configuring ACLs
-- [ ] VLAN security
+- [x] VLAN security
 - [ ] Web proxies
 - [ ] Content filtering techniques
 - [x] How to analyze a Network
@@ -195,23 +195,23 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] What is and how to use NMAP
 - [ ] Learn In-dept about the structure of the Packet
 - [ ] GPS Spoofing
-- [ ] Information Gathering (Assessment Methodologies)
-- [ ] Footprinting & Scanning (Assessment Methodologies)
-- [ ] Enumeration (Assessment Methodologies)
-- [ ] Vulnerability Assessment (Assessment Methodologies)
+- [x] Information Gathering (Assessment Methodologies)
+- [x] Footprinting & Scanning (Assessment Methodologies)
+- [x] Enumeration (Assessment Methodologies)
+- [x] Vulnerability Assessment (Assessment Methodologies)
 - [ ] Auditing Fundamentals (Assessment Methodologies)
 - [ ] System/Host Based Attacks (Host & Network Penetration Testing)
-- [ ] Network-Based Attacks (Host & Network Penetration Testing)
-- [ ] Exploitation (Host & Network Penetration Testing)
-- [ ] Post-Exploitation (Host & Network Penetration Testing)
-- [ ] Social Engineering (Host & Network Penetration Testing)
+- [x] Network-Based Attacks (Host & Network Penetration Testing)
+- [x] Exploitation (Host & Network Penetration Testing)
+- [x] Post-Exploitation (Host & Network Penetration Testing)
+- [x] Social Engineering (Host & Network Penetration Testing)
 #### Do these challenges
 - https://www.vulnhub.com/
 - [List of things to learn for eJPT](https://medium.com/@polygonben/ejpt-a-guide-on-how-to-pass-first-time-f8cec3f79a73)
 #### Tools to learn
 - [ ] Zeek
 - [x] Wireshark
-- [ ] Brim Security
+- [x] Brim Security
 - [ ] Suricata
 - [ ] TCPdump
 
@@ -222,7 +222,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 ---
 ## Cryptography
 - [x] Common Encryption Algorithms 
-- [ ] How to use Hashcat
+- [x] How to use Hashcat
 - [x] What is Public Key Encryption?
 ### Module 1: Introduction to Cryptography
 
@@ -243,7 +243,7 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 	    - [ ] Modes of operation
 	    - [ ] Cryptographic hash functions vs. non-cryptographic hash functions
     - [ ] Asymmetric key encryption algorithms
-	    - [ ] RSA Algorithm
+	    - [x] RSA Algorithm
 	    - [ ] ElGamal encryption
 	    - [ ] Digital Signatures and their application
 	    - [ ] Basics of elliptic curves
@@ -297,14 +297,14 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [x] Process Stack
 - [x] Process Heap
 - [x] Learn to read malware code in Powershell
-- [ ] Learn to read malware code in Bash
-- [ ] Learn some basics in Binary Exploitation
-- [ ] Learn about shellcode and how to create them
+- [x] Learn to read malware code in Bash
+- [x] Learn some basics in Binary Exploitation
+- [x] Learn about shellcode and how to create them
 ### Module 1: Binary Analysis and Tools
 - [x] Common Binary file formats (PE, ELF)
 - [x] Ghidra and other disassembly tools
 - [x] converting machine code to higher-level languages
-- [ ] Dynamic Analysis using debuggers (GDB, WinDbg)
+- [x] Dynamic Analysis using debuggers (GDB, WinDbg)
 - [x] Breakpoints, watchpoints, dynamic analysis tools
 - [ ] Types of RE
 	- [x] Source Code Analysis
@@ -319,11 +319,11 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 
 ### Module 3: Malware Analysis
 - [ ] Dynamic Malware Analysis
-	- [ ] Behavior analysis using sandboxing
+	- [x] Behavior analysis using sandboxing
 	- [ ] API hooking and monitoring
-- [ ] Static Malware Analysis
-	- [ ] Signature-based detection
-	- [ ] Code and data analysis
+- [x] Static Malware Analysis
+	- [x] Signature-based detection
+	- [x] Code and data analysis
 ### Module 5: Software Reverse Engineering
 - [ ] Analyzing compiles software
 - [ ] Recovering high-level design information
@@ -336,8 +336,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 - [ ] Creating protocol specification
 
 ### Module 7: Exploitation Techniques
-- [ ] Stack-based overflow
-- [ ] Heap-based overflow
+- [x] Stack-based overflow
+- [x] Heap-based overflow
 
 
 
@@ -372,8 +372,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 
 - [x] Overview of Cybersecurity
 - [x] Importance of Cybersecurity
-- [ ] Common Cyber Threats
-- [ ] Cybersecurity Frameworks (NIST, ISO/IEC 27001)
+- [x] Common Cyber Threats
+- [x] Cybersecurity Frameworks (NIST, ISO/IEC 27001)
 
 ### Module 2: Networking Fundamentals
 
@@ -390,22 +390,22 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 
 ### Module 4: Cyber Threats and Attack Vectors
 
-- [ ] Malware (Types, Detection, Prevention)
-- [ ] Social Engineering Attacks
-- [ ] Phishing and Email Security
-- [ ] Man-in-the-Middle Attacks
-- [ ] Denial of Service (DoS) and Distributed Denial of Service (DDoS) Attacks
+- [x] Malware (Types, Detection, Prevention)
+- [x] Social Engineering Attacks
+- [x] Phishing and Email Security
+- [x] Man-in-the-Middle Attacks
+- [x] Denial of Service (DoS) and Distributed Denial of Service (DDoS) Attacks
 
 ### Module 5: Web Application Security
 
-- [ ] OWASP Top Ten
-- [ ] Common Web Application Vulnerabilities
+- [x] OWASP Top Ten
+- [x] Common Web Application Vulnerabilities
 - [ ] Secure Coding Practices
 - [ ] Web Application Firewalls (WAF)
 
 ### Module 6: Cryptography
 
-- [ ] Encryption Algorithms
+- [x] Encryption Algorithms
 - [x] Hash Functions
 - [ ] Public Key Infrastructure (PKI)
 - [x] Digital Signatures
@@ -414,8 +414,8 @@ CTF Focus Areas: **Web Exploitation**, **Digital Forensics**, **RE & Binary Expl
 ### Module 7: Security Assessment and Penetration Testing
 
 - [ ] Vulnerability Assessment
-- [ ] Penetration Testing Methodologies
-- [ ] Tools (Nmap, Metasploit, Burp Suite)
+- [x] Penetration Testing Methodologies
+- [x] Tools (Nmap, Metasploit, Burp Suite)
 - [ ] Reporting and Remediation
 
 ### Module 8: Incident Response and Forensics
